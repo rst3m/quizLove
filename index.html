@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Picker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card: #0b253d;
+      --accent: #38bdf8;
+      --accent-2: #a855f7;
+      --text: #e2e8f0;
+      --muted: #94a3b8;
+      --border: #1f2a3d;
+      --correct: #22c55e;
+      --wrong: #ef4444;
+    }
+    * { box-sizing: border-box; }
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      background: radial-gradient(circle at 20% 20%, #0ea5e9 0, transparent 20%), 
+                  radial-gradient(circle at 80% 0%, #a855f7 0, transparent 18%), 
+                  radial-gradient(circle at 50% 100%, #22c55e 0, transparent 22%),
+                  var(--bg);
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+    .app {
+      width: min(1100px, 100%);
+      background: linear-gradient(135deg, rgba(15, 23, 42, 0.95), rgba(10, 33, 57, 0.95));
+      border: 1px solid var(--border);
+      box-shadow: 0 30px 80px rgba(0, 0, 0, 0.45);
+      border-radius: 20px;
+      padding: 28px;
+      display: grid;
+      grid-template-columns: 1fr 1.1fr;
+      gap: 24px;
+    }
+    @media (max-width: 900px) {
+      .app { grid-template-columns: 1fr; }
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 28px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 10px;
+      background: rgba(56, 189, 248, 0.1);
+      border: 1px solid rgba(56, 189, 248, 0.3);
+      color: var(--accent);
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 18px;
+    }
+    .section-title {
+      font-size: 14px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+    label {
+      font-size: 14px;
+      color: var(--muted);
+      display: block;
+      margin-bottom: 6px;
+    }
+    select, input[type="number"], input[type="text"] {
+      width: 100%;
+      padding: 12px 14px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      background: #0f2034;
+      color: var(--text);
+      font-size: 15px;
+      transition: border-color 0.15s ease, box-shadow 0.15s ease;
+      outline: none;
+    }
+    select:focus, input:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.15);
+    }
+    .row {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+    }
+    .btn {
+      background: linear-gradient(135deg, #38bdf8, #6366f1);
+      border: none;
+      color: #0f172a;
+      font-weight: 700;
+      font-size: 15px;
+      padding: 12px 16px;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: transform 0.12s ease, box-shadow 0.15s ease, filter 0.12s ease;
+    }
+    .btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      filter: grayscale(0.5);
+    }
+    .btn:hover:not(:disabled) { transform: translateY(-1px); }
+    .btn:active:not(:disabled) { transform: translateY(0); }
+    .ghost {
+      background: transparent;
+      color: var(--text);
+      border: 1px solid var(--border);
+      transition: border-color 0.12s ease, color 0.12s ease;
+    }
+    .ghost:hover:not(:disabled) {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    .status {
+      margin-top: 10px;
+      font-size: 14px;
+      color: var(--muted);
+      min-height: 20px;
+    }
+    .status.success { color: var(--correct); }
+    .status.error { color: var(--wrong); }
+    .meta {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 10px;
+    }
+    .meta .badge {
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: rgba(148, 163, 184, 0.12);
+      color: var(--text);
+      font-size: 13px;
+      border: 1px solid var(--border);
+    }
+    .quiz-panel {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .question-box {
+      padding: 16px;
+      border-radius: 12px;
+      background: #0d1f33;
+      border: 1px solid var(--border);
+      min-height: 110px;
+      white-space: pre-line;
+      line-height: 1.4;
+    }
+    .options {
+      display: grid;
+      gap: 10px;
+    }
+    .option {
+      padding: 14px 16px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      background: #0f2034;
+      color: var(--text);
+      cursor: pointer;
+      text-align: left;
+      transition: transform 0.1s ease, border-color 0.12s ease, background 0.15s ease;
+    }
+    .option:hover { transform: translateY(-1px); border-color: rgba(56, 189, 248, 0.4); }
+    .option.correct { background: rgba(34, 197, 94, 0.18); border-color: rgba(34, 197, 94, 0.6); color: #bbf7d0; }
+    .option.wrong { background: rgba(239, 68, 68, 0.14); border-color: rgba(239, 68, 68, 0.6); color: #fecdd3; }
+    .progress {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+    .progress-bar {
+      position: relative;
+      width: 100%;
+      height: 10px;
+      background: #0d1f33;
+      border-radius: 999px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+    }
+    .progress-bar span {
+      position: absolute;
+      top: 0; left: 0; bottom: 0;
+      background: linear-gradient(135deg, #38bdf8, #22c55e);
+      width: 0%;
+      transition: width 0.25s ease;
+    }
+    .stats {
+      display: flex;
+      gap: 10px;
+    }
+    .stat {
+      background: rgba(15, 23, 42, 0.7);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 12px;
+      font-weight: 700;
+      font-size: 14px;
+      color: var(--muted);
+    }
+    .stat strong { color: var(--text); }
+    .flex-between { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+    .file-hint { font-size: 13px; color: var(--muted); margin-top: 6px; }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <div>
+      <h1>Quiz Builder <span class="pill">JSON driven</span></h1>
+      <p style="color: var(--muted); margin-bottom: 14px;">Add JSON files, pick the subject, set the slice, choose how many questions, then launch the quiz — all in one page.</p>
+
+      <div class="card" style="margin-bottom: 14px;">
+        <div class="section-title">Dataset</div>
+        <label for="dataset">Choose subject</label>
+        <select id="dataset"></select>
+        <div class="file-hint">Add more files next to this page and register them in the list below.</div>
+        <button class="btn" id="load-btn" style="margin-top: 10px;">Load selected dataset</button>
+        <div class="file-hint" style="margin-top: 6px;">
+          Or pick a local JSON file (keeps data in your browser only):
+        </div>
+        <input type="file" id="upload" accept=".json,application/json">
+        <div class="status" id="status"></div>
+        <div class="meta" id="meta"></div>
+      </div>
+
+      <div class="card">
+        <div class="section-title">Question range</div>
+        <div class="row">
+          <div>
+            <label for="from">From (1-based)</label>
+            <input type="number" id="from" min="1" value="1">
+          </div>
+          <div>
+            <label for="to">To (inclusive)</label>
+            <input type="number" id="to" min="1" value="1">
+          </div>
+        </div>
+        <div style="margin-top: 12px;">
+          <label for="count">How many questions?</label>
+          <input type="number" id="count" min="1" value="5">
+        </div>
+        <div class="flex-between" style="margin-top: 14px;">
+          <button class="btn" id="start-btn" disabled>Start quiz</button>
+          <button class="btn ghost" id="reset-btn" disabled>Reset</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="card quiz-panel">
+      <div class="flex-between">
+        <div class="stats">
+          <div class="stat">Q <strong id="q-index">0</strong>/<span id="q-total">0</span></div>
+          <div class="stat">✅ <strong id="q-correct">0</strong></div>
+          <div class="stat">❌ <strong id="q-wrong">0</strong></div>
+        </div>
+        <div class="progress-bar"><span id="progress"></span></div>
+      </div>
+      <div class="question-box" id="question-box">Load a dataset and press Start.</div>
+      <div class="options" id="options"></div>
+      <div class="flex-between">
+        <div style="color: var(--muted); font-size: 14px;" id="dataset-name"></div>
+        <button class="btn ghost" id="next-btn" disabled>Next</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Register datasets that live alongside this file. Add new JSON files here.
+    const DATASETS = [
+      { id: 'sample', label: 'Sample', file: 'ques_sample.json' }
+    ];
+
+    const datasetSelect = document.getElementById('dataset');
+    const loadBtn = document.getElementById('load-btn');
+    const statusEl = document.getElementById('status');
+    const metaEl = document.getElementById('meta');
+    const uploadInput = document.getElementById('upload');
+
+    const fromInput = document.getElementById('from');
+    const toInput = document.getElementById('to');
+    const countInput = document.getElementById('count');
+    const startBtn = document.getElementById('start-btn');
+    const resetBtn = document.getElementById('reset-btn');
+
+    const qIndexEl = document.getElementById('q-index');
+    const qTotalEl = document.getElementById('q-total');
+    const qCorrectEl = document.getElementById('q-correct');
+    const qWrongEl = document.getElementById('q-wrong');
+    const progressEl = document.getElementById('progress');
+    const questionBox = document.getElementById('question-box');
+    const optionsEl = document.getElementById('options');
+    const datasetNameEl = document.getElementById('dataset-name');
+    const nextBtn = document.getElementById('next-btn');
+
+    let allQuestions = [];
+    let quizQueue = [];
+    let currentIndex = 0;
+    let score = { correct: 0, wrong: 0 };
+    let loadedLabel = '';
+
+    function populateDatasets() {
+      datasetSelect.innerHTML = '';
+      DATASETS.forEach(ds => {
+        const opt = document.createElement('option');
+        opt.value = ds.file;
+        opt.textContent = ds.label;
+        datasetSelect.appendChild(opt);
+      });
+    }
+
+    function setStatus(msg, type = '') {
+      statusEl.textContent = msg || '';
+      statusEl.className = 'status' + (type ? ' ' + type : '');
+    }
+
+    function renderMeta(len) {
+      metaEl.innerHTML = '';
+      if (!len) return;
+      const badges = [
+        `Total: ${len}`,
+        `Example range: 1 - ${len}`,
+        `Pick count ≤ range size`
+      ];
+      badges.forEach(text => {
+        const span = document.createElement('span');
+        span.className = 'badge';
+        span.textContent = text;
+        metaEl.appendChild(span);
+      });
+    }
+
+    async function fetchQuestions(path) {
+      const res = await fetch(path);
+      if (!res.ok) throw new Error('Fetch failed');
+      return res.json();
+    }
+
+    function loadFromArray(data, label = 'Uploaded file') {
+      if (!Array.isArray(data) || !data.length) throw new Error('JSON must be a non-empty array');
+      allQuestions = data;
+      loadedLabel = label;
+      const len = data.length;
+      fromInput.value = 1;
+      toInput.value = len;
+      countInput.value = Math.min(10, len);
+      startBtn.disabled = false;
+      resetBtn.disabled = false;
+      renderMeta(len);
+      setStatus(`Loaded ${len} questions from ${label}.`, 'success');
+      datasetNameEl.textContent = label;
+    }
+
+    loadBtn.addEventListener('click', async () => {
+      const file = datasetSelect.value;
+      const label = datasetSelect.options[datasetSelect.selectedIndex]?.textContent || 'Dataset';
+      setStatus('Loading...');
+      try {
+        const data = await fetchQuestions(file);
+        loadFromArray(data, label);
+      } catch (err) {
+        console.error(err);
+        setStatus('Could not load the selected JSON. Make sure the file exists next to this page.', 'error');
+      }
+    });
+
+    uploadInput.addEventListener('change', (e) => {
+      const file = e.target.files?.[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = (evt) => {
+        try {
+          const parsed = JSON.parse(evt.target.result);
+          loadFromArray(parsed, file.name);
+        } catch (err) {
+          console.error(err);
+          setStatus('Invalid JSON file.', 'error');
+        }
+      };
+      reader.readAsText(file);
+    });
+
+    function validateRange() {
+      const len = allQuestions.length;
+      const from = Number(fromInput.value);
+      const to = Number(toInput.value);
+      const count = Number(countInput.value);
+      if (!Number.isInteger(from) || !Number.isInteger(to) || !Number.isInteger(count)) {
+        throw new Error('All numbers must be integers.');
+      }
+      if (from < 1 || to < 1 || from > len || to > len || from > to) {
+        throw new Error('Range must be within 1 and total, and "from" ≤ "to".');
+      }
+      const available = to - from + 1;
+      if (count < 1 || count > available) {
+        throw new Error(`Count must be between 1 and ${available}.`);
+      }
+      return { from, to, count };
+    }
+
+    function shuffle(arr) {
+      const clone = [...arr];
+      for (let i = clone.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [clone[i], clone[j]] = [clone[j], clone[i]];
+      }
+      return clone;
+    }
+
+    function buildQuiz({ from, to, count }) {
+      const pool = allQuestions.slice(from - 1, to);
+      quizQueue = shuffle(pool).slice(0, count);
+      currentIndex = 0;
+      score = { correct: 0, wrong: 0 };
+      qTotalEl.textContent = quizQueue.length;
+      renderQuestion();
+    }
+
+    function renderQuestion() {
+      const q = quizQueue[currentIndex];
+      qIndexEl.textContent = currentIndex + 1;
+      qCorrectEl.textContent = score.correct;
+      qWrongEl.textContent = score.wrong;
+      const pct = (currentIndex / quizQueue.length) * 100;
+      progressEl.style.width = `${pct}%`;
+      questionBox.textContent = q.question?.trim() || 'No question text';
+
+      optionsEl.innerHTML = '';
+      const opts = shuffle([q['true-answer'], ...(q['wrong-answers'] || [])]);
+      opts.forEach(opt => {
+        const btn = document.createElement('button');
+        btn.className = 'option';
+        btn.type = 'button';
+        btn.textContent = opt;
+        btn.dataset.correct = opt === q['true-answer'];
+        btn.addEventListener('click', () => handleAnswer(btn));
+        optionsEl.appendChild(btn);
+      });
+      datasetNameEl.textContent = loadedLabel ? `${loadedLabel} • Question ${qIndexEl.textContent}` : '';
+      optionsEl.dataset.locked = 'false';
+      nextBtn.textContent = currentIndex === quizQueue.length - 1 ? 'Finish' : 'Next';
+      nextBtn.disabled = true;
+    }
+
+    function handleAnswer(btn) {
+      if (optionsEl.dataset.locked === 'true') return;
+      const correct = btn.dataset.correct === 'true';
+      optionsEl.dataset.locked = 'true';
+
+      btn.classList.add(correct ? 'correct' : 'wrong');
+      if (!correct) {
+        [...optionsEl.children].forEach(el => {
+          if (el.dataset.correct === 'true') el.classList.add('correct');
+        });
+      }
+      score[correct ? 'correct' : 'wrong'] += 1;
+      qCorrectEl.textContent = score.correct;
+      qWrongEl.textContent = score.wrong;
+      progressEl.style.width = `${((currentIndex + 1) / quizQueue.length) * 100}%`;
+      nextBtn.disabled = false;
+    }
+
+    function goNext() {
+      if (currentIndex >= quizQueue.length - 1) return finishQuiz();
+      currentIndex += 1;
+      renderQuestion();
+    }
+
+    function finishQuiz() {
+      const total = quizQueue.length;
+      const msg = `You answered ${score.correct} of ${total} correctly.`;
+      setStatus(msg, 'success');
+      questionBox.textContent = msg + ' Reload or adjust the range to play again.';
+      optionsEl.innerHTML = '';
+      nextBtn.disabled = true;
+      optionsEl.dataset.locked = 'false';
+    }
+
+    startBtn.addEventListener('click', () => {
+      try {
+        const settings = validateRange();
+        buildQuiz(settings);
+        setStatus('');
+        nextBtn.textContent = quizQueue.length === 1 ? 'Finish' : 'Next';
+        nextBtn.disabled = quizQueue.length === 1;
+      } catch (err) {
+        setStatus(err.message, 'error');
+      }
+    });
+
+    nextBtn.addEventListener('click', () => {
+      optionsEl.dataset.locked = 'false';
+      goNext();
+    });
+
+    resetBtn.addEventListener('click', () => {
+      allQuestions = [];
+      quizQueue = [];
+      questionBox.textContent = 'Load a dataset and press Start.';
+      optionsEl.innerHTML = '';
+      startBtn.disabled = true;
+      resetBtn.disabled = true;
+      nextBtn.disabled = true;
+      qIndexEl.textContent = '0';
+      qTotalEl.textContent = '0';
+      qCorrectEl.textContent = '0';
+      qWrongEl.textContent = '0';
+      progressEl.style.width = '0%';
+      datasetNameEl.textContent = '';
+      renderMeta(0);
+      setStatus('Cleared selection.');
+    });
+
+    populateDatasets();
+  </script>
+</body>
+</html>

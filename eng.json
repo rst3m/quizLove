@@ -1,0 +1,3582 @@
+[
+    {
+        "question": "1.  Match the verbs with the definitions.\n\n> 1) make a) a lesson\n>\n> 2) do b) funny\n>\n> 3) have c) the shopping\n>\n> 4) look d) a friend\n>\n> A) 1 c, 2 b, 3 a, 4 d\n>\n> B) 1 b, 2 c, 3 a, 4 d\n>\n> C) 1 a, 2 d, 3 b, 4 c\n>\n> D) 1 b, 2 a, 3 d, 4 c",
+        "true-answer": "E) 1 d, 2 c, 3 a, 4 b",
+        "wrong-answers": [
+            "A) 1 c, 2 b, 3 a, 4 d",
+            "B) 1 b, 2 c, 3 a, 4 d",
+            "C) 1 a, 2 d, 3 b, 4 c",
+            "D) 1 b, 2 a, 3 d, 4 c"
+        ]
+    },
+    {
+        "question": "2.  Choose the correct variant.\n\n> My little sister ... hard at school.",
+        "true-answer": "B) studies",
+        "wrong-answers": [
+            "A) go",
+            "C) stays",
+            "D) likes",
+            "E) want"
+        ]
+    },
+    {
+        "question": "3.  Make up a sentence.\n\n> 1-my, 2- work, 3-in London, 4-parents",
+        "true-answer": "A) 1, 4, 2, 3",
+        "wrong-answers": [
+            "B) 1, 3, 4, 2",
+            "C) 2, 4, 1, 3",
+            "D) 3, 4, 2, 1",
+            "E) 4, 3, 1, 2"
+        ]
+    },
+    {
+        "question": "4.  Which word doesn't go with the given one?\n\n> to look ... .",
+        "true-answer": "C) ready for",
+        "wrong-answers": [
+            "A) after",
+            "B) funny",
+            "D) worried",
+            "E) upset"
+        ]
+    },
+    {
+        "question": "5.  Choose the incorrect variant.",
+        "true-answer": "E) to make after",
+        "wrong-answers": [
+            "A) to make noise",
+            "B) to look pale",
+            "C) to have dinner",
+            "D) to do homework"
+        ]
+    },
+    {
+        "question": "6.  Choose the correct variant.\n\n> What is the first meal of the day?",
+        "true-answer": "D) breakfast",
+        "wrong-answers": [
+            "A) supper",
+            "B) snack",
+            "C) lunch",
+            "E) dinner"
+        ]
+    },
+    {
+        "question": "7.  Choose the correct variant.\n\n> What is the opposite of interesting?",
+        "true-answer": "C) boring",
+        "wrong-answers": [
+            "A) lively",
+            "B) quiet",
+            "D) noisy",
+            "E) nice"
+        ]
+    },
+    {
+        "question": "8.  Make up a sentence\n\n> 1-lives, 2- my friend's aunt, 3-New York, 4- in",
+        "true-answer": "B) 2, 1, 4, 3",
+        "wrong-answers": [
+            "A) 1, 2, 3, 4",
+            "C) 4, 2, 3, 1",
+            "D) 2, 1, 3, 4",
+            "E) 3, 2, 1, 4"
+        ]
+    },
+    {
+        "question": "9.  Choose the correct ending.\n\n> My grandfather is my ... .",
+        "true-answer": "A) mother's father",
+        "wrong-answers": [
+            "B) brother's mother",
+            "C) daughter's son",
+            "D) father's mother",
+            "E) uncle's brother"
+        ]
+    },
+    {
+        "question": "10. Choose the correct variant.\n\n> to look ... .",
+        "true-answer": "E) worried",
+        "wrong-answers": [
+            "A) very",
+            "B) a talk",
+            "C) advice",
+            "D) for a walk"
+        ]
+    },
+    {
+        "question": "11. Choose the correct variant.\n\n> Mary ... television every day",
+        "true-answer": "B) watches",
+        "wrong-answers": [
+            "A) plays",
+            "C) write",
+            "D) like",
+            "E) speaks"
+        ]
+    },
+    {
+        "question": "12. Choose the correct question word.\n\n> ...... books do you like?",
+        "true-answer": "e) what",
+        "wrong-answers": [
+            "a) when",
+            "b) does",
+            "c) who",
+            "d) where"
+        ]
+    },
+    {
+        "question": "13. Choose the correct question word.\n\n> ... do you live with?",
+        "true-answer": "b) who",
+        "wrong-answers": [
+            "a) when",
+            "c) where",
+            "d) what",
+            "e) did"
+        ]
+    },
+    {
+        "question": "14. Choose the correct opposite defend",
+        "true-answer": "a) attack",
+        "wrong-answers": [
+            "b) break",
+            "c) safe",
+            "d) run",
+            "e) war"
+        ]
+    },
+    {
+        "question": "15. Choose the correct word\n\n> Do you ..... time with your family ?",
+        "true-answer": "d) spend",
+        "wrong-answers": [
+            "a) go",
+            "b) play",
+            "c) make",
+            "e) do"
+        ]
+    },
+    {
+        "question": "16. Choose the correct word.\n\n> She ...... all her dresses",
+        "true-answer": "e) makes",
+        "wrong-answers": [
+            "a) cut",
+            "b) do",
+            "c) have",
+            "d) make"
+        ]
+    },
+    {
+        "question": "17. Choose the correct word\n\n> ...... you go snowbording?",
+        "true-answer": "b) do",
+        "wrong-answers": [
+            "a) does",
+            "c) shall",
+            "d) have",
+            "e) has"
+        ]
+    },
+    {
+        "question": "18. Complete the sentence\n\n> People who play .... are usually very tall.",
+        "true-answer": "d) basketball",
+        "wrong-answers": [
+            "a) football",
+            "b) rugby",
+            "c) tennis",
+            "e) game"
+        ]
+    },
+    {
+        "question": "19. Choose the correct variant\n\n> I need to get a new tennis ......",
+        "true-answer": "a) racket",
+        "wrong-answers": [
+            "b) rugby",
+            "c) rink",
+            "d) volleyball",
+            "e) puck"
+        ]
+    },
+    {
+        "question": "20. Choose the correct variant.\n\n> What was the football ......",
+        "true-answer": "b) score",
+        "wrong-answers": [
+            "a) set",
+            "c) point",
+            "d) court",
+            "e) ball"
+        ]
+    },
+    {
+        "question": "21. Choose the correct variant\n\n> Sticks and rackets are ......",
+        "true-answer": "a) equipment",
+        "wrong-answers": [
+            "b) pitch",
+            "c) rink",
+            "d) toys",
+            "e) puck"
+        ]
+    },
+    {
+        "question": "22. Choose the correct variant.\n\n> You can..... music from the internet.",
+        "true-answer": "b) download",
+        "wrong-answers": [
+            "a) give",
+            "c) take",
+            "d) load",
+            "e) do"
+        ]
+    },
+    {
+        "question": "23. A CD with one song on its a ....",
+        "true-answer": "c) single",
+        "wrong-answers": [
+            "a) album",
+            "b) single chart",
+            "d) group",
+            "e) band"
+        ]
+    },
+    {
+        "question": "24. Choose the correct word\n\n> ......... basketball and get fit",
+        "true-answer": "a) play",
+        "wrong-answers": [
+            "b) stay",
+            "c) don't play",
+            "d) get",
+            "e) plays"
+        ]
+    },
+    {
+        "question": "25. Choose the correct variant\n\n> My grandson is my .......",
+        "true-answer": "a) daughter's son",
+        "wrong-answers": [
+            "b) son's daughter",
+            "c) uncle's son",
+            "d) niece",
+            "e) my son"
+        ]
+    },
+    {
+        "question": "26. Choose the correct variant\n\n1. Do you have to come before 11 o'clock at the weekend ?\n2. Does you has to walk to school?\n3. Do you have to wear a school uniform?\n4. Do you has to get up before 8 o'clock?",
+        "true-answer": "a) 1,3",
+        "wrong-answers": [
+            "b) 2,3",
+            "c) 3,4",
+            "d) 2,4",
+            "e) 1,2"
+        ]
+    },
+    {
+        "question": "27. We _____ use computers at school?",
+        "true-answer": "c) don't have to",
+        "wrong-answers": [
+            "a) does",
+            "b) have",
+            "d) has to",
+            "e) doesn't have to"
+        ]
+    },
+    {
+        "question": "28. _____ John _____ work at school?",
+        "true-answer": "b) Does....have to",
+        "wrong-answers": [
+            "a) Is....have to",
+            "c) Do....has to",
+            "d) Don't....have to",
+            "e) Does....has to"
+        ]
+    },
+    {
+        "question": "29. Choose the correct meanning of \"prepare\"",
+        "true-answer": "e) to get ready",
+        "wrong-answers": [
+            "a) to talk in a friendly way",
+            "b) to happen",
+            "c) very big",
+            "d) happening once a year"
+        ]
+    },
+    {
+        "question": "30. Choose the correct meanning of \"enormous\"",
+        "true-answer": "c) very big",
+        "wrong-answers": [
+            "a) to talk in a friendly way",
+            "b) to happen",
+            "d) happening once a year",
+            "e) to get ready"
+        ]
+    },
+    {
+        "question": "31. Choose the correct variant\n\nThe teachers at the school of the air _____ lessons and send them to the students by _____ or email.",
+        "true-answer": "b) prepare, post",
+        "wrong-answers": [
+            "a) borrow, library",
+            "c) post, borrow",
+            "d) prepare, library",
+            "e) borrow, post"
+        ]
+    },
+    {
+        "question": "32. Choose the correct definition\n\nto talk in a relaxed, friendly way",
+        "true-answer": "b) chat",
+        "wrong-answers": [
+            "a) discuss",
+            "c) lonely",
+            "d) post",
+            "e) speak"
+        ]
+    },
+    {
+        "question": "33. Complete the sentence\n\nMy teachers are very friendly and I _____ to them quite often.",
+        "true-answer": "c) chat",
+        "wrong-answers": [
+            "a) annual",
+            "b) travel",
+            "d) isolated",
+            "e) subject"
+        ]
+    },
+    {
+        "question": "34. Match with the definitions\n\n1.to talk very quietly to someone, so that other people can't hear\n2.to ask someone a list of questions",
+        "true-answer": "a) 1.whisper, 2.interview",
+        "wrong-answers": [
+            "b) 1.whisper, 2.argue",
+            "c) 1.interview, 2.gossip",
+            "d) 1.whisper, 2.shout",
+            "e) 1.whisper, 2.gossip"
+        ]
+    },
+    {
+        "question": "35. Complete the sentences with the correct form of there is/there are\n\n1._____some students.\n2._____ some trees.\n3._____ a TV.",
+        "true-answer": "d) There are, there are, there is",
+        "wrong-answers": [
+            "a) There are, there is, there is",
+            "b) There is, there is, there is",
+            "c) There is, there are, there is",
+            "e) There are, there are, there are"
+        ]
+    },
+    {
+        "question": "36. Add another word to make a longer word or phrase\n\npencil_______ notice________ piece of_________",
+        "true-answer": "b) sharpener, board, paper",
+        "wrong-answers": [
+            "a) player, sharpener, paper",
+            "c) pen, sharpener, player",
+            "d) player, board, paper",
+            "e) sharpener, player, board"
+        ]
+    },
+    {
+        "question": "37. Complete the sentence\n\nJohn lives in an ______ village in the country. He hasn't got ant brothers or sisters, so he spends a lot of time ______.",
+        "true-answer": "d) isolated, on his own",
+        "wrong-answers": [
+            "a) annual, discuss",
+            "b) enourmous, annual",
+            "c) lonely, enourmous",
+            "e) isolated, enourmous"
+        ]
+    },
+    {
+        "question": "38. Complete the sentences with the correct form of there is/there are\n\n_____ a cafe near here.\n_____ any milk in the fridge?\n_____ any restaurants near the hotel.",
+        "true-answer": "a) There is, Is there, there aren't",
+        "wrong-answers": [
+            "b) There is, there are, there is",
+            "c) There is, there is, there isn't",
+            "d) There are, there are, there aren't",
+            "e) There are, is there, there aren't"
+        ]
+    },
+    {
+        "question": "39. We _____ buy the food-it's all free.",
+        "true-answer": "d) don't have to",
+        "wrong-answers": [
+            "a) has to",
+            "b) does have to",
+            "c) hasn't to",
+            "e) have to"
+        ]
+    },
+    {
+        "question": "40. We _____ be quiet in the library-we can sit and talk with friends.",
+        "true-answer": "a) don't have to",
+        "wrong-answers": [
+            "b) has to",
+            "c) don't has to",
+            "d) doesn't have to",
+            "e) doesn't has to"
+        ]
+    },
+    {
+        "question": "41. We _____ wear uniform-we can wear what we like.",
+        "true-answer": "c) don't have to",
+        "wrong-answers": [
+            "a) have to",
+            "b) does has to",
+            "d) doesn't have to",
+            "e) has to"
+        ]
+    },
+    {
+        "question": "42. We _____ take exams every term-only at the end of the year.",
+        "true-answer": "c) don't have to",
+        "wrong-answers": [
+            "a) has to",
+            "b) doesn't has to",
+            "d) have to",
+            "e) doesn't have to"
+        ]
+    },
+    {
+        "question": "43. Choose the correct definition\n\nA school where students study, live and sleep",
+        "true-answer": "c) boarding school",
+        "wrong-answers": [
+            "a) field",
+            "b) public school",
+            "d) university",
+            "e) college"
+        ]
+    },
+    {
+        "question": "44. Choose the correct definition\n\nThe period when students have classes at school",
+        "true-answer": "b) term",
+        "wrong-answers": [
+            "a) college",
+            "c) boarding school",
+            "d) university",
+            "e) field"
+        ]
+    },
+    {
+        "question": "45. Choose the correct definition.\n\n> The people at a party or celebration.",
+        "true-answer": "a) guests",
+        "wrong-answers": [
+            "b) abroad",
+            "c) fast",
+            "d) book",
+            "e) island"
+        ]
+    },
+    {
+        "question": "46. Which adjective means to be in another country?",
+        "true-answer": "b) abroad",
+        "wrong-answers": [
+            "a) foreign",
+            "c) different",
+            "d) boring",
+            "e) outside"
+        ]
+    },
+    {
+        "question": "47. Choose the correct variant.\n\n> When you go camping you sleep in a ... .",
+        "true-answer": "b) tend",
+        "wrong-answers": [
+            "a) castle",
+            "c) cars",
+            "d) outside",
+            "e) room"
+        ]
+    },
+    {
+        "question": "48. Choose the correct adjective.\n\n> They want to have a ... wedding with no guests.",
+        "true-answer": "a) quiet",
+        "wrong-answers": [
+            "b) unusual",
+            "c) crowded",
+            "d) terrible",
+            "e) amazing"
+        ]
+    },
+    {
+        "question": "49. Choose the correct word.\n\n> If you have somebody on your mind, you ... him/ her.",
+        "true-answer": "a) remember",
+        "wrong-answers": [
+            "b) look after",
+            "c) defend",
+            "d) married",
+            "e) look like"
+        ]
+    },
+    {
+        "question": "50. Which word means to move quickly.",
+        "true-answer": "a) fast",
+        "wrong-answers": [
+            "b) hot",
+            "c) enormous",
+            "d) interesting",
+            "e) boring"
+        ]
+    },
+    {
+        "question": "51. Choose the correct opposite \"expensive\".",
+        "true-answer": "a) cheap",
+        "wrong-answers": [
+            "b) well",
+            "c) early",
+            "d) easy",
+            "e) good"
+        ]
+    },
+    {
+        "question": "52. Choose the correct opposite \"slow\".",
+        "true-answer": "a) fast",
+        "wrong-answers": [
+            "b) loud",
+            "c) late",
+            "d) old",
+            "e) quiet"
+        ]
+    },
+    {
+        "question": "53. Choose the correct definition.\n\n> There's water all around this place.",
+        "true-answer": "b) island",
+        "wrong-answers": [
+            "a) tent",
+            "c) abroud",
+            "d) castle",
+            "e) beach"
+        ]
+    },
+    {
+        "question": "54. Choose the correct adverb.\n\n> The lesson starts at 08:50 a.m. Don't arrive ... .",
+        "true-answer": "b) late",
+        "wrong-answers": [
+            "a) early",
+            "c) slowly",
+            "d) fluntly",
+            "e) hard"
+        ]
+    },
+    {
+        "question": "55. Choose the correct noun.\n\n> Trousers made from denim are called.",
+        "true-answer": "c) jeans",
+        "wrong-answers": [
+            "a) shorts",
+            "b) top",
+            "d) jumper",
+            "e) skirt"
+        ]
+    },
+    {
+        "question": "56. Choose the correct word.\n\n> Be careful! Don't drive to ... .",
+        "true-answer": "b) fast",
+        "wrong-answers": [
+            "a) quick",
+            "c) hard",
+            "d) ugly",
+            "e) good"
+        ]
+    },
+    {
+        "question": "57. Complete the sentence.\n\n> Emily is 1 year old. She can walk but she can't ... .",
+        "true-answer": "d) talk",
+        "wrong-answers": [
+            "a) swim",
+            "b) count",
+            "c) drive",
+            "e) play"
+        ]
+    },
+    {
+        "question": "58. Choose the correct variant.\n\n> What is the \"annoying\"",
+        "true-answer": "c) it makes you a bit angry",
+        "wrong-answers": [
+            "a) easy to understand",
+            "b) there is no other way",
+            "d) useful",
+            "e) helpful"
+        ]
+    },
+    {
+        "question": "59. Complete the sentence.\n\n> All jellyfish have painful sting, but not all of them can ... humans.",
+        "true-answer": "d) kill",
+        "wrong-answers": [
+            "a) hit",
+            "b) bite",
+            "c) destroy",
+            "e) kick"
+        ]
+    },
+    {
+        "question": "60. Find the description with the animals.\n\n> It is very heavy, it's gray and it's got four legs and large ears.",
+        "true-answer": "d) elephant",
+        "wrong-answers": [
+            "a) whale",
+            "b) snake",
+            "c) mosquito",
+            "e) tiger"
+        ]
+    },
+    {
+        "question": "61. Find the description with the animals.\n\n> It's a large bird. It usually lives in the mountains.",
+        "true-answer": "c) eagle",
+        "wrong-answers": [
+            "a) tiger",
+            "b) lion",
+            "d) hippo",
+            "e) snake"
+        ]
+    },
+    {
+        "question": "62. Choose the correct synonym of the word.\n\n> \"crazy\"",
+        "true-answer": "b) mad",
+        "wrong-answers": [
+            "a) sad",
+            "c) happy",
+            "d) odd",
+            "e) strange"
+        ]
+    },
+    {
+        "question": "63. Choose the correct opposite of the word.\n\n> \"common\"",
+        "true-answer": "c) unusual",
+        "wrong-answers": [
+            "a) usual",
+            "b) use",
+            "d) usually",
+            "e) useful"
+        ]
+    },
+    {
+        "question": "64. Choose the correct opposite of the word.\n\n> \"narrow\"",
+        "true-answer": "b) wide",
+        "wrong-answers": [
+            "a) weak",
+            "c) poor",
+            "d) alive",
+            "e) huge"
+        ]
+    },
+    {
+        "question": "65. Choose the correct variant.\n\n> \"clear\"",
+        "true-answer": "b) easy to understand",
+        "wrong-answers": [
+            "a) giving help",
+            "c) not possible",
+            "d) not normal",
+            "e) covered with an unclean substance"
+        ]
+    },
+    {
+        "question": "66. Complete the sentence.\n\n> The square is a nice ... to sit and watch people.",
+        "true-answer": "d) place",
+        "wrong-answers": [
+            "a) palace",
+            "b) temple",
+            "c) museum",
+            "e) bridge"
+        ]
+    },
+    {
+        "question": "67. Choose the correct variant.\n\n> A city where a country has its government.",
+        "true-answer": "a) capital",
+        "wrong-answers": [
+            "b) country",
+            "c) town",
+            "d) countryside",
+            "e) city"
+        ]
+    },
+    {
+        "question": "68. Choose the logically correct variant.\n\n> The carrots are ... .",
+        "true-answer": "b) fresh",
+        "wrong-answers": [
+            "a) bitter",
+            "c) dirty",
+            "d) sour",
+            "e) enormous"
+        ]
+    },
+    {
+        "question": "69. Choose the correct variant.\n\n> This animal is very large and lives in the sea.",
+        "true-answer": "c) whale",
+        "wrong-answers": [
+            "a) mosquitoes",
+            "b) jellyfish",
+            "d) eagle",
+            "e) frog"
+        ]
+    },
+    {
+        "question": "70. Choose the correct variant.\n\n> Someone or something that lots of people know.",
+        "true-answer": "d) well-known",
+        "wrong-answers": [
+            "a) helpful",
+            "b) lively",
+            "c) good-looking",
+            "e) friendly"
+        ]
+    },
+    {
+        "question": "71. Choose the correct variant.\n\n> Kate is taller ... Susan",
+        "true-answer": "a) than",
+        "wrong-answers": [
+            "b) that",
+            "c) this",
+            "d) those",
+            "e) these"
+        ]
+    },
+    {
+        "question": "72. Choose the correct variant.\n\n> The opposite of \"dead\"",
+        "true-answer": "c) alive",
+        "wrong-answers": [
+            "a) lively",
+            "b) awake",
+            "d) die",
+            "e) ill"
+        ]
+    },
+    {
+        "question": "73. Match the noun with the correct preposition.\n\n> -my own",
+        "true-answer": "d) on",
+        "wrong-answers": [
+            "a) at",
+            "b) in",
+            "c) to",
+            "e) with"
+        ]
+    },
+    {
+        "question": "74. Complete the sentence with the correct preposition\n\n> Our lives were _____ danger!",
+        "true-answer": "b) in",
+        "wrong-answers": [
+            "a) by",
+            "c) for",
+            "d) on",
+            "e) to"
+        ]
+    },
+    {
+        "question": "75. Complete the sentence with the correct preposition\n\n> Let's go _____ a walk in the park after lunch.",
+        "true-answer": "b) for",
+        "wrong-answers": [
+            "a) by",
+            "c) in",
+            "d) on",
+            "e) to"
+        ]
+    },
+    {
+        "question": "76. Match the sentence with expression with time\n\n> He doesn't do any work.",
+        "true-answer": "c) Waste time",
+        "wrong-answers": [
+            "a) Run out of time",
+            "b) On time",
+            "d) Take your time",
+            "e) Time flies"
+        ]
+    },
+    {
+        "question": "77. Write the past simple form of \"be\".\n\n> Helen _____ in Manchester on Monday.",
+        "true-answer": "e) Was",
+        "wrong-answers": [
+            "a) Are",
+            "b) Is",
+            "c) Will",
+            "d) Were"
+        ]
+    },
+    {
+        "question": "78. Complete the sentence.\n\n> You can catch a train at the _____ .",
+        "true-answer": "a) Railway station",
+        "wrong-answers": [
+            "b) Car park",
+            "c) At gallery",
+            "d) Post office",
+            "e) Gallery"
+        ]
+    },
+    {
+        "question": "79. We _____ a great film on TV last night. (watch)",
+        "true-answer": "c) Watched",
+        "wrong-answers": [
+            "a) watching",
+            "b) Watches",
+            "d) Had been watched",
+            "e) Had watch"
+        ]
+    },
+    {
+        "question": "80. Used the past simple and the time expression.\n\n> I (play) basketball last weekend.",
+        "true-answer": "b) I played basketball last weekend.",
+        "wrong-answers": [
+            "a) I play basketball last weekend.",
+            "c) I was played basketball at weekends.",
+            "d) I didn't played basketball at weekends.",
+            "e) I played basketball this weekend."
+        ]
+    },
+    {
+        "question": "81. Take the second turning _____ the left.",
+        "true-answer": "d) On",
+        "wrong-answers": [
+            "a) to",
+            "b) In",
+            "c) At",
+            "e) Into"
+        ]
+    },
+    {
+        "question": "82. Make a sentence.\n\n> 1.everithing 2.here 3.week 4.this 5.cheaper 6.is ?",
+        "true-answer": "d) 6,1,5,2,4,3",
+        "wrong-answers": [
+            "a) 6,4,1,5,3,2",
+            "b) 1,6,5,2,4,3",
+            "c) 4,3,1,6,5,2",
+            "e) 4,1,5,6,2,3"
+        ]
+    },
+    {
+        "question": "83. Choose the same answer.\n\n> I'm sorry, she isn't in.",
+        "true-answer": "c) She isn't out",
+        "wrong-answers": [
+            "a) He isn't out",
+            "b) She's in",
+            "d) She isn't indoor",
+            "e) He's outdoor"
+        ]
+    },
+    {
+        "question": "84. Complete this sentence.\n\n> You _____ phone him _____ his mobile.",
+        "true-answer": "d) can, on",
+        "wrong-answers": [
+            "a) must, in",
+            "b) on, on",
+            "c) can, at",
+            "e) have to, to"
+        ]
+    },
+    {
+        "question": "85. Complete this sentence.\n\n> Uncle Jack phoned _____ the police station.",
+        "true-answer": "e) from",
+        "wrong-answers": [
+            "a) under",
+            "b) into",
+            "c) up",
+            "d) too"
+        ]
+    },
+    {
+        "question": "86. Chose the correct answer using the place.\n\n> Where can I buy stamps?",
+        "true-answer": "c) Post office",
+        "wrong-answers": [
+            "a) Bus station",
+            "b) Library",
+            "d) Cinema",
+            "e) Railway station"
+        ]
+    },
+    {
+        "question": "87. Choose the line of irregular verb.",
+        "true-answer": "d) got, came, spent, won",
+        "wrong-answers": [
+            "a) get, took, have, do",
+            "b) be, begin, draw, felt",
+            "c) drank, forgot, feel, go",
+            "e) brought, teach, has"
+        ]
+    },
+    {
+        "question": "88. Complete the sentence.\n\n> ... works in a court.",
+        "true-answer": "d) a judge",
+        "wrong-answers": [
+            "a) an artist",
+            "b) a doctor",
+            "c) a surgery",
+            "e) a scientist"
+        ]
+    },
+    {
+        "question": "89. Complete the sentence.\n\n> ... works in a surgery.",
+        "true-answer": "a) a doctor",
+        "wrong-answers": [
+            "b) a scientist",
+            "c) a surgery",
+            "d) an artist",
+            "e) a judge"
+        ]
+    },
+    {
+        "question": "90. Write the past simple form of the verb\n\n> Bring-",
+        "true-answer": "c) brought",
+        "wrong-answers": [
+            "a) brang",
+            "b) bright",
+            "d) bringin",
+            "e) beginning"
+        ]
+    },
+    {
+        "question": "91. Write the past simple form of the verb\n\n> Think-",
+        "true-answer": "d) thought",
+        "wrong-answers": [
+            "a) thunk",
+            "b) thank",
+            "c) thanks",
+            "e) thinking"
+        ]
+    },
+    {
+        "question": "92. Choose the correct answer.\n\n> He _____ in Buenos Aires in 1985.",
+        "true-answer": "d) died",
+        "wrong-answers": [
+            "a) die",
+            "b) live",
+            "c) works",
+            "e) get up"
+        ]
+    },
+    {
+        "question": "93. Choose the correct variant.\n\n> Not feeling well and needing to see a doctor",
+        "true-answer": "b) ill",
+        "wrong-answers": [
+            "a) weak",
+            "c) well",
+            "d) awake",
+            "e) strong"
+        ]
+    },
+    {
+        "question": "94. Choose the correct definition.\n\n> Lecturer-",
+        "true-answer": "c) a teacher at a university",
+        "wrong-answers": [
+            "a) a university qualification",
+            "b) a class at a university",
+            "d) a university teacher",
+            "e) a note from the book"
+        ]
+    },
+    {
+        "question": "95. Choose the correct definition.\n\n> Degree-",
+        "true-answer": "a) a university qualification",
+        "wrong-answers": [
+            "b) a university teacher",
+            "c) a class at a university",
+            "d) a teacher at a university",
+            "e) a note"
+        ]
+    },
+    {
+        "question": "96. Choose the correct time expression.\n\n> He did some housework ... .",
+        "true-answer": "e) last week",
+        "wrong-answers": [
+            "a) this week",
+            "b) tomorrow",
+            "c) today",
+            "d) next week"
+        ]
+    },
+    {
+        "question": "97. Choose the correct answer.\n\n> What do you put on an envelop?",
+        "true-answer": "e) a stamp",
+        "wrong-answers": [
+            "a) photo",
+            "b) money",
+            "c) a parcel",
+            "d) a postcard"
+        ]
+    },
+    {
+        "question": "98. Choose the correct tense form.\n\n> I _____ home late last night. (come)",
+        "true-answer": "c) came",
+        "wrong-answers": [
+            "a) coming",
+            "b) comes",
+            "d) was come",
+            "e) were come"
+        ]
+    },
+    {
+        "question": "99. Complete the activity with the verb.\n\n> _____ to bed early",
+        "true-answer": "d) go",
+        "wrong-answers": [
+            "a) do",
+            "b) come",
+            "c) play",
+            "e) did"
+        ]
+    },
+    {
+        "question": "100. Choose the best answer.\n\nTo eat no food for a period of time ..........",
+        "true-answer": "C) fast",
+        "wrong-answers": [
+            "A) boiled",
+            "B) vegetable",
+            "D) fruit",
+            "E) protein"
+        ]
+    },
+    {
+        "question": "101. Choose the correct variant.\n\nWhen Dean ran 48km on his 30th birthday, .........",
+        "true-answer": "A) he loved it",
+        "wrong-answers": [
+            "B) he hated it",
+            "C) he ran all day",
+            "D) he run every day",
+            "E) he run at weekends"
+        ]
+    },
+    {
+        "question": "102. Choose the correct variant.\n\nWe say people who like to eat have a good ...........",
+        "true-answer": "C) appetite",
+        "wrong-answers": [
+            "A) natural",
+            "B) pasta",
+            "D) tradition",
+            "E) mind"
+        ]
+    },
+    {
+        "question": "103. Complete the sentence.\n\nSonya is thin because ..........",
+        "true-answer": "A) she usually eats healthy food",
+        "wrong-answers": [
+            "B) she doesn't like fat or sugar",
+            "C) she takes part in eating competitions",
+            "D) she always eats meat",
+            "E) she likes drink"
+        ]
+    },
+    {
+        "question": "104. Complete the sentences with some or any.\n\n1. There is ..... money on the table.\n2. Have we got ......... homework this weekend?\n3. He never does ....... housework.",
+        "true-answer": "a) some, any, any",
+        "wrong-answers": [
+            "b) any, any, any",
+            "c) some, some, some",
+            "d) some, any, any",
+            "e) any, some, any"
+        ]
+    },
+    {
+        "question": "105. Complete the sentence.\n\nWhen I ....... I want to win.",
+        "true-answer": "C) compete",
+        "wrong-answers": [
+            "A) competition",
+            "B) competitive",
+            "D) competely",
+            "E) competitively"
+        ]
+    },
+    {
+        "question": "106. Choose the correct synonym of the word.\n\n\"take part\"",
+        "true-answer": "B) participate",
+        "wrong-answers": [
+            "A) not join",
+            "C) bore",
+            "D) prepare",
+            "E) differ"
+        ]
+    },
+    {
+        "question": "107. Choose the correct definition\n\nTraditions-",
+        "true-answer": "b) Something that people started in the past and continue to do now",
+        "wrong-answers": [
+            "a) The part of our body that thinks, remembers and knows things",
+            "c) Food cooked in a hot oven",
+            "d) A name your friends or family give you that isn't your real name",
+            "e) Not made for people"
+        ]
+    },
+    {
+        "question": "108. Choose the correct variant.\n\nHe drinks half a ....... of milk for breakfast.",
+        "true-answer": "B) liter",
+        "wrong-answers": [
+            "A) kilo",
+            "C) grams",
+            "D) packet",
+            "E) jar"
+        ]
+    },
+    {
+        "question": "109. Choose the correct variant.\n\nThere aren't .......... carrots.",
+        "true-answer": "C) any",
+        "wrong-answers": [
+            "A) Some",
+            "B) many",
+            "D) little",
+            "E) much"
+        ]
+    },
+    {
+        "question": "110. Complete the sentences with How many or How much?\n\n1) _______ tomatoes are there?\n2) _______ onions are there?\n3) _______ pasta have we got?",
+        "true-answer": "c) 1how many, 2how many, 3how much",
+        "wrong-answers": [
+            "a) 1how much, 2how much, 3how much",
+            "b) 1how many, 2how much, 3how many",
+            "d) 1how much, 2how many, 3how much",
+            "e) 1how much, 2how many, 3how many"
+        ]
+    },
+    {
+        "question": "111. Complete the sentences with some or any.\n\n1. There aren't ........ books in my bag.\n2. Is there ....... sugar in this coffee?\n3. I have ...... magazines for you.",
+        "true-answer": "b) 1any 2any 3some",
+        "wrong-answers": [
+            "a) 1some 2any 3some",
+            "c) 1some 2any 3any",
+            "d) 1any 2some 3any",
+            "e) 1some 2some 3some"
+        ]
+    },
+    {
+        "question": "112. Choose the correct variant.\n\n> Is there ........ cream?",
+        "true-answer": "E) any",
+        "wrong-answers": [
+            "A) some",
+            "B) many",
+            "C) a lot of",
+            "D) lot"
+        ]
+    },
+    {
+        "question": "113. Complete the sentence.\n\nWe have got ........ good films to watch this weekend.",
+        "true-answer": "A) some",
+        "wrong-answers": [
+            "B) little",
+            "C) any",
+            "D) many",
+            "E) much"
+        ]
+    },
+    {
+        "question": "114. Complete the sentence.\n\nIn Britain people boil water for tea in a ..........",
+        "true-answer": "C) kettle",
+        "wrong-answers": [
+            "A) frying pan",
+            "B) oven",
+            "D) toaster",
+            "E) saucepan"
+        ]
+    },
+    {
+        "question": "115. Choose the correct variant.\n\nI am baking some bread in the ......",
+        "true-answer": "B) oven",
+        "wrong-answers": [
+            "A) frying pan",
+            "C) saucepan",
+            "D) kettle",
+            "E) fridge"
+        ]
+    },
+    {
+        "question": "116. Complete the sentence.\n\nWhich verb means not to eat at certain times?",
+        "true-answer": "D) fast",
+        "wrong-answers": [
+            "A) appetite",
+            "B) natural",
+            "C) baked",
+            "E) pasta"
+        ]
+    },
+    {
+        "question": "117. Complete the sentence.\n\nI didn't do my English homework,but I ....... all the maths exercises.",
+        "true-answer": "C) completed",
+        "wrong-answers": [
+            "A) returned",
+            "B) discovered",
+            "D) stop",
+            "E) participate"
+        ]
+    },
+    {
+        "question": "118. Choose the correct variant\n\nA chair with big wheels that someone who can't walk uses",
+        "true-answer": "c) wheelchair",
+        "wrong-answers": [
+            "a) chair",
+            "b) desk",
+            "d) tube",
+            "e) boat"
+        ]
+    },
+    {
+        "question": "119. Choose the correct definition of \"exhausted\"",
+        "true-answer": "c) extremely tired",
+        "wrong-answers": [
+            "a) on illness",
+            "b) finished",
+            "d) the arms and legs of person",
+            "e) a wheelchair"
+        ]
+    },
+    {
+        "question": "120. Choose the correct variant\n\n> I'm not feeling very well. I....six cups of coffee (drink)",
+        "true-answer": "B) have drunk",
+        "wrong-answers": [
+            "A) had drink",
+            "C) has drink",
+            "D) drink",
+            "E) had drank"
+        ]
+    },
+    {
+        "question": "121. Choose the definition - \"chilly\"",
+        "true-answer": "B) quite cold weather",
+        "wrong-answers": [
+            "A) hot and wet weather",
+            "C) very bad weather",
+            "D) warm and pleasant weather",
+            "E) weather with frequent short periods of rain"
+        ]
+    },
+    {
+        "question": "122. Choose the correct variant\n\n> They say we are going to have....weather this weekend. They're are expecting very strong winds.",
+        "true-answer": "A) severe",
+        "wrong-answers": [
+            "B) chilly",
+            "C) showery",
+            "D) mild",
+            "E) humid"
+        ]
+    },
+    {
+        "question": "123. Rewrite the sentence,replacing the underlined word with a suitable word\n\n> Many people die every year from the \"illness\" malaria.",
+        "true-answer": "E) disease",
+        "wrong-answers": [
+            "A) spread",
+            "B) confident",
+            "C) suck",
+            "D) dream"
+        ]
+    },
+    {
+        "question": "124. Choose the correct variant.\n\n> I heard about your accident.(speak)\n> Really? Who....to?",
+        "true-answer": "A) have spoken",
+        "wrong-answers": [
+            "B) has speak",
+            "C) did speak",
+            "D) spoken",
+            "E) are speaking"
+        ]
+    },
+    {
+        "question": "125. A wheelchair is for people who can't....",
+        "true-answer": "B) walk",
+        "wrong-answers": [
+            "A) talk",
+            "C) see",
+            "D) hear",
+            "E) write"
+        ]
+    },
+    {
+        "question": "126. Which phrasal verb means to start an activity?",
+        "true-answer": "A) take up",
+        "wrong-answers": [
+            "B) take in",
+            "C) take down",
+            "D) take a look",
+            "E) take turn"
+        ]
+    },
+    {
+        "question": "127. Complete the sentence with weather adjective\n\n> It's very sunny here, but everything's wet. It's really....in the amazon rainforest.",
+        "true-answer": "D) humid",
+        "wrong-answers": [
+            "A) chilly",
+            "B) showery",
+            "C) mild",
+            "E) severe"
+        ]
+    },
+    {
+        "question": "128. Complete the sentence.\n\nHow much was the train ....... ?",
+        "true-answer": "B) fare",
+        "wrong-answers": [
+            "A) waited",
+            "C) carriage",
+            "D) missed",
+            "E) station"
+        ]
+    },
+    {
+        "question": "129. Answer the question.\n\nWhat's the opposite of \"miss a train\".",
+        "true-answer": "D) catch a train",
+        "wrong-answers": [
+            "A) a slow train",
+            "B) get off the train",
+            "C) take a train",
+            "E) carriage"
+        ]
+    },
+    {
+        "question": "130. Choose the correct variant.\n\n> Go straight ........",
+        "true-answer": "A) on",
+        "wrong-answers": [
+            "B) of",
+            "C) at",
+            "D) with",
+            "E) in"
+        ]
+    },
+    {
+        "question": "131. Choose the best answer.\n\n> The third turning .......",
+        "true-answer": "D) on the right",
+        "wrong-answers": [
+            "A) in the right",
+            "B) at the right",
+            "C) of the right",
+            "E) off the right"
+        ]
+    },
+    {
+        "question": "132. Choose the correct variant\n\n> We had the ... to work together.",
+        "true-answer": "a) chance",
+        "wrong-answers": [
+            "b) excellent",
+            "c) hard",
+            "d) demanding",
+            "e) voluntary"
+        ]
+    },
+    {
+        "question": "133. Complete the sentence.\n\n> My sister is going to ... the children tonight.",
+        "true-answer": "b) take care of",
+        "wrong-answers": [
+            "A) come",
+            "c) look",
+            "d) take",
+            "e) turn"
+        ]
+    },
+    {
+        "question": "134. Choose the correct variant.\n\n> ... works in a hospital.",
+        "true-answer": "c) nurse",
+        "wrong-answers": [
+            "A) builder",
+            "b) hairdresser",
+            "d) pilot",
+            "e) businesswoman"
+        ]
+    },
+    {
+        "question": "135. Choose the correct variant.\n\n> They are doing ... work with young people.",
+        "true-answer": "c) voluntary",
+        "wrong-answers": [
+            "1) oppotunity",
+            "b) visa",
+            "d) coach",
+            "e) task"
+        ]
+    },
+    {
+        "question": "136. Choose the correct synonym of the word \"opportunity\".",
+        "true-answer": "a) chance",
+        "wrong-answers": [
+            "B) ideal",
+            "C) difficult",
+            "D) boring",
+            "E) interesting"
+        ]
+    },
+    {
+        "question": "137. Match the verbs with the definitions.\n\n1) like a) time\n2) spend b) about other cultures\n3) make c) abroad\n4) learn d) friends",
+        "true-answer": "b) 1c, 2a, 3d, 4b",
+        "wrong-answers": [
+            "a) 1a, 2d, 3b, 4c",
+            "c) 1b, 2a, 3d, 4c",
+            "d) 1c, 2b, 3d, 4a",
+            "e) 1d, 2b, 3a, 4c"
+        ]
+    },
+    {
+        "question": "138. Choose the correct variant.\n\n> You need a passport and a ... to go to China.",
+        "true-answer": "D) visa",
+        "wrong-answers": [
+            "A) journal",
+            "B) music",
+            "C) office",
+            "E) letter"
+        ]
+    },
+    {
+        "question": "139. Choose the correct variant\n\n> She walks to school. She goes to school on ....",
+        "true-answer": "e) foot",
+        "wrong-answers": [
+            "a) car",
+            "b) boat",
+            "c) train",
+            "d) drive"
+        ]
+    },
+    {
+        "question": "140. Choose the correct variant\n\n> She sailed across the atlantic. She crossed the atlantic by ....",
+        "true-answer": "e) boat",
+        "wrong-answers": [
+            "a) train",
+            "b) bicycle",
+            "c) car",
+            "d) bus"
+        ]
+    },
+    {
+        "question": "141. Choose the correct interrogative variant\n\n> I've bought a ticket",
+        "true-answer": "a) I have not bought a ticket",
+        "wrong-answers": [
+            "b) I have buy a ticket",
+            "c) I didn't have bought a ticket",
+            "d) I had not bought a ticket",
+            "e) I bought not a ticket"
+        ]
+    },
+    {
+        "question": "142. Choose the correct variant\n\n> Will it ... a lot of passengers?",
+        "true-answer": "a) carry",
+        "wrong-answers": [
+            "b) take",
+            "c) get",
+            "d) fly",
+            "e) make"
+        ]
+    },
+    {
+        "question": "143. Write the oppossite earn",
+        "true-answer": "b) spend",
+        "wrong-answers": [
+            "a) salary",
+            "c) work",
+            "d) early",
+            "e) car"
+        ]
+    },
+    {
+        "question": "144. Choose the correct variant.\n\n> I ... news programmes, but Jenny ... them.",
+        "true-answer": "B) like, hates",
+        "wrong-answers": [
+            "a) hate, live",
+            "C) stays, walk",
+            "D) live, stays",
+            "E) say, walks"
+        ]
+    },
+    {
+        "question": "145. Choose the correct variant.\n\n> In summer, the ... on the ... are green.",
+        "true-answer": "B) leaves, tress",
+        "wrong-answers": [
+            "A) sandwiches, trees",
+            "C) trees, cars",
+            "D) photo, story",
+            "E) wall, flower"
+        ]
+    },
+    {
+        "question": "146. Match the verbs with the definitions\n\n1) do a) a talk\n2) have b) a noise\n3) make c) housework\n4) look d) pale",
+        "true-answer": "a) 1 c, 2 a, 3 b, 4 d",
+        "wrong-answers": [
+            "b) 1 a, 2 c, 3 b, 4 d",
+            "c) 1 d, 2 a, 3 b, 4 c",
+            "d) 1 b, 2 a, 3 d, 4 c",
+            "e) 1 d, 2 c, 3 b, 4 a"
+        ]
+    },
+    {
+        "question": "147. Make up a sentence;\n\n1. games 2. Like 3. Computer 4. Don't 5. We",
+        "true-answer": "B) 5, 4, 2, 3, 1",
+        "wrong-answers": [
+            "A) 2, 3, 1, 5, 4",
+            "C) 4, 5, 2, 1, 3",
+            "D) 5, 4, 3, 1, 2",
+            "E) 3, 1, 5, 2, 4"
+        ]
+    },
+    {
+        "question": "148. Choose the sentence in the Present simple negative form.\n\n> Ben plays tennis.",
+        "true-answer": "D) Ben doesn't play tennis.",
+        "wrong-answers": [
+            "A) Ben don't play tennis.",
+            "B) Ben didn't play tennis.",
+            "C) Ben played tennis.",
+            "E) Ben is playing tennis."
+        ]
+    },
+    {
+        "question": "149. Complete the sentence.\n\n> His sister is ... than him.",
+        "true-answer": "C) younger",
+        "wrong-answers": [
+            "A) old",
+            "B) young",
+            "D) tall",
+            "E) the youngest"
+        ]
+    },
+    {
+        "question": "150. Match ( 1-4 ) with ( a-d )\n\n1) my nephew (14) a) a baby\n2) my brother (47) b) middle-aged\n3) my son (6 months) c) teenager\n4) my father (79) d) elderly",
+        "true-answer": "D) 1 c, 2 b, 3 a, 4 d",
+        "wrong-answers": [
+            "A) 1 d, 2 a, 3 b, 4 c",
+            "B) 1 b, 2 c, 3 d, 4 a",
+            "D) 1 c, 2 a, 3 b, 4 d",
+            "E) 1 a, 2 b, 3 d, 4 c"
+        ]
+    },
+    {
+        "question": "151. Make up a sentence\n\n1.my 2. Sport 3.favourite 4. Tennis 5. İs",
+        "true-answer": "E) 1, 3, 2, 5, 4",
+        "wrong-answers": [
+            "A) 2, 4, 3, 5, 1",
+            "B) 4, 2, 3, 1, 5",
+            "C) 3, 5, 4, 1, 2",
+            "D) 1, 3, 5, 2, 4"
+        ]
+    },
+    {
+        "question": "152. Choose the correct definition\n\n> usual, normal",
+        "true-answer": "b) typical",
+        "wrong-answers": [
+            "a) routine",
+            "c) rest",
+            "d) danger",
+            "e) jump"
+        ]
+    },
+    {
+        "question": "153. After a game of basketball, I'm usually tired and I want a .....",
+        "true-answer": "d) rest",
+        "wrong-answers": [
+            "a) timetable",
+            "b) appointment",
+            "c) interval",
+            "e) lesson"
+        ]
+    },
+    {
+        "question": "154. Choose the correct word\n\n> On a ..... day ,I drink three or four cups of tea .",
+        "true-answer": "a) typical",
+        "wrong-answers": [
+            "b) every day",
+            "c) today",
+            "d) never",
+            "e) that day"
+        ]
+    },
+    {
+        "question": "155. Choose the correct variant\n\n> You play football on a.....",
+        "true-answer": "b) pitch",
+        "wrong-answers": [
+            "a) court",
+            "c) home",
+            "d) rink",
+            "e) station"
+        ]
+    },
+    {
+        "question": "156. Choose the correct variant\n\n> She doesn't like .....",
+        "true-answer": "e) driving",
+        "wrong-answers": [
+            "a) drive",
+            "b) drives",
+            "c) drived",
+            "d) drove"
+        ]
+    },
+    {
+        "question": "157. Choose the correct variant.\n\n> Someone who plays the drums is the .....",
+        "true-answer": "a) drummer",
+        "wrong-answers": [
+            "b) singer",
+            "c) lead singer",
+            "d) pianiste",
+            "e) music"
+        ]
+    },
+    {
+        "question": "158. Choose the correct variant.\n\n> The most important is the .....singer",
+        "true-answer": "b) lead",
+        "wrong-answers": [
+            "a) main",
+            "c) group",
+            "d) first",
+            "e) loud"
+        ]
+    },
+    {
+        "question": "159. Choose the correct variant\n\n> A CD with about ten songs on it an.....",
+        "true-answer": "a) album",
+        "wrong-answers": [
+            "b) single",
+            "c) download music",
+            "d) band",
+            "e) group"
+        ]
+    },
+    {
+        "question": "160. Choose the correct variant\n\n> ......to a friend",
+        "true-answer": "a) wave",
+        "wrong-answers": [
+            "b) squeeze",
+            "c) shake",
+            "d) catch",
+            "e) what"
+        ]
+    },
+    {
+        "question": "161. Choose the correct word\n\n> ....... Often does he play?",
+        "true-answer": "a) how",
+        "wrong-answers": [
+            "b) when",
+            "c) what",
+            "d) why",
+            "e) do"
+        ]
+    },
+    {
+        "question": "162. Choose the correct variant\n\n1. _____ any chairs in this room. Where can we sit?\n2. _____ coffee. My sister drank it all\n3. How many days _____ in a year?",
+        "true-answer": "d) There aren't, there isn't, are there",
+        "wrong-answers": [
+            "a) There are, there is, there are",
+            "b) There are, there aren't, are there",
+            "c) There isn't, there is, there are",
+            "e) There is, there isn't, there are"
+        ]
+    },
+    {
+        "question": "163. Match (1-6) with (a-f)\n1 have a problems\n2 prepare b dinner\n3 stay c friends\n4 travel d to school\n5 discuss e for a night\n6 make f lessons",
+        "true-answer": "a) 1b, 2f, 3e, 4d, 5a, 6c",
+        "wrong-answers": [
+            "b) 1c, 2f, 3e, 4d, 5a, 6b",
+            "c) 1b, 2f, 3d, 4e, 5a, 6c",
+            "d) 1a, 2f, 3e, 4d, 5b, 6c",
+            "e) 1f, 2b, 3e, 4d, 5a, 6c"
+        ]
+    },
+    {
+        "question": "164. Write the names of the places you can find in a school\n\nWhere are you ....\n1...if there teachers and students walking up to their classrooms? _______\n2...if there is a school football match? _______\n3...if there are teachers sitting and talking and correcting homework_______",
+        "true-answer": "b) stairs, playing fields, staffroom",
+        "wrong-answers": [
+            "a) staffroom, playing fields, hall",
+            "c) corridor, stairs, canteen",
+            "d) stairs, canteen, hall",
+            "e) stairs, playing fields, hall"
+        ]
+    },
+    {
+        "question": "165. Choose the correct variant\n\n1. Please take those old trainers ... ! I don't want them in the kitchen.\n2. Who put a Manchester United poster on my bedroom wall?! Take it ... .",
+        "true-answer": "c) 1 away, 2 down",
+        "wrong-answers": [
+            "a) 1 off, 2 out",
+            "b) 1 away, 2 off",
+            "d) 1 off, 2 away",
+            "e) 1 out, 2 off"
+        ]
+    },
+    {
+        "question": "166. Choose the correct variant\n\n1. Take that dress ..., it's mine! Mum, Sara has got my dress again.\n2. Great! The dentist doesn't have to take ... my tooth.",
+        "true-answer": "d) 1 off, 2 out",
+        "wrong-answers": [
+            "a) 1 out, 2 off",
+            "b) 1 down, 2 in",
+            "c) 1 down, 2on",
+            "e) 1 in, 2 out"
+        ]
+    },
+    {
+        "question": "167. Choose the correct variant\n\n1 Think of a verb that means to talk with your friends and on the internet _______\n2 Which adjective means far from other people and towns or cities? _______",
+        "true-answer": "a) 1 to chat, 2 isolated",
+        "wrong-answers": [
+            "b) 1 to take place, 2 isolated",
+            "c) 1 to prepare, 2 to discuss",
+            "d) 1 to chat, 2 to prepare",
+            "e) 1 to travel, 2 to announce"
+        ]
+    },
+    {
+        "question": "168. Choose the correct sentences\n\n1. There are a desk in the bedroom.\n2. There are any posters on the wall.\n3. There is a bin under the desk.\n4. There is any students in the classroom.\n5. There isn't any shelves in the classroom.",
+        "true-answer": "e) 2,3",
+        "wrong-answers": [
+            "a) 2,6",
+            "b) 3,4",
+            "c) 1,5",
+            "d) 1,3"
+        ]
+    },
+    {
+        "question": "169. Choose the correct sentences\n\n1. Australia is a small country.\n2. They can borrow books from the school library.\n3. They send their work to the teachers one a week.\n4. The teachers at the School of the Air prepare lessons and send them to the students by post.",
+        "true-answer": "c) 2, 4",
+        "wrong-answers": [
+            "a) 2",
+            "b) 1, 4",
+            "d) 1",
+            "e) 3, 4"
+        ]
+    },
+    {
+        "question": "170. Choose the correct sentences\n\n1. You can do exercises and play basketball in the library.\n2. Before you go into the classroom, you sometimes have to wait outside in the playing fields.\n3. You walk up and down the stairs to get to another floor.\n4. You have lunch and snacks in the hall.\n5. When the teachers have break, they usually go to the staffroom.",
+        "true-answer": "b) 3,5",
+        "wrong-answers": [
+            "a) 2,5",
+            "c) 1,3",
+            "d) 2,4",
+            "e) 1,4"
+        ]
+    },
+    {
+        "question": "171. Choose the correct variant\n\n> You ... tell me your secret if you don't want to.",
+        "true-answer": "a) don't have to",
+        "wrong-answers": [
+            "b) not have to",
+            "c) are not have to",
+            "d) is not have to",
+            "e) don't has to"
+        ]
+    },
+    {
+        "question": "172. Choose the correct sentences\n\n1. She have a wonderful hair but she has to wash it every day.\n2. Oh, look at the time I has to run or I'll loose the train!\n3. We can share a taxi if you want to. You don't have to walk home.\n4. We have to wait for your sister she has the keys!",
+        "true-answer": "c) 3,4",
+        "wrong-answers": [
+            "a) 1,2",
+            "b) 2,3",
+            "d) 2,5",
+            "e) 1,4"
+        ]
+    },
+    {
+        "question": "173. Choose the correct variant\n\nDo you really _______________ (speak) so fast? I ________________ (write down) every single word!",
+        "true-answer": "a) have to speak, have to write down",
+        "wrong-answers": [
+            "b) has to speak, has to write down",
+            "c) have to speak, does have to write down",
+            "d) have to speak, has to write down",
+            "e) has to speak, have to write down"
+        ]
+    },
+    {
+        "question": "174. What does mean --\"to be good at something\"",
+        "true-answer": "b) İf you are good at something, you do it well",
+        "wrong-answers": [
+            "a) İf you are terrible at it, you do it very badly",
+            "c) İt mean not with other people",
+            "d) You can be happy or unhappy",
+            "e) A place with fields,woods"
+        ]
+    },
+    {
+        "question": "175. Choose the correct variant\n\n1. Place where you can study after you leave school a. do well\n2. Go to school for a period of time also continue at school b. college\n3. To be good at something and get better at it c.stay at school",
+        "true-answer": "a) 1b, 2c, 3a",
+        "wrong-answers": [
+            "b) 1b, 2a, 3c",
+            "c) 1c, 2b, 3a",
+            "d) 1a, 2c, 3b",
+            "e) 1c, 2a, 3b"
+        ]
+    },
+    {
+        "question": "176. Choose the correct definition of \"to last\"",
+        "true-answer": "b) It is to continue for a period of time",
+        "wrong-answers": [
+            "a) A place where you can read and borrow books",
+            "c) Study at university for three or four years",
+            "d) The place in a supermarket where you pay",
+            "e) Make something full"
+        ]
+    },
+    {
+        "question": "177. Choose the correct sentences\n\n1. I want to make a degree\n2. A term lasts about 7 weeks\n3. I study a lot in the library\n4. A graduate has a degree\n5. She did an English course",
+        "true-answer": "c) 3,4,5",
+        "wrong-answers": [
+            "a) 1,2,3",
+            "b) 2,3,4",
+            "d) 4,5,6",
+            "e) 1,4,5"
+        ]
+    },
+    {
+        "question": "178. Choose the correct definition of \"a backup copy\"",
+        "true-answer": "d) A copy of a document or folder that you can use if you lose the first one",
+        "wrong-answers": [
+            "a) Take something and put it in another place",
+            "b) The first part of something",
+            "c) To continue for a period of time",
+            "e) To put something in a place so that you know where it is"
+        ]
+    },
+    {
+        "question": "179. Choose the correct definition of \"move something\"",
+        "true-answer": "b) Take something and put it in another place",
+        "wrong-answers": [
+            "a) The first part of something",
+            "c) A copy of a document or folder that you can use if you lose the first one",
+            "d) To put something in a place so that you know where it is",
+            "e) To continue for a period of time"
+        ]
+    },
+    {
+        "question": "180. Choose the correct definition of \"do research\"",
+        "true-answer": "e) Study a subject for a long time to learn new information",
+        "wrong-answers": [
+            "a) A period of study, usually about ten weeks",
+            "b) Study at university for three or four years",
+            "c) A number of classes on a subject",
+            "d) Do a piece of writing on a subject"
+        ]
+    },
+    {
+        "question": "181. Use the correct forms of have to to make the affirmative sentence negative\n\nMy dad has to buy us some new jeans.",
+        "true-answer": "e) My dad doesn't have to buy us any new jeans",
+        "wrong-answers": [
+            "a) My dad don't have to buy us any new jeans",
+            "b) My dad doesn't has to buy us any new jeans",
+            "c) My dad doesn't to buy us any new jeans",
+            "d) My dad does have to buy us any new jeans"
+        ]
+    },
+    {
+        "question": "182. Use the correct forms of have to to make the affirmative sentence negative\n\nShe has to help her sister with her homework.",
+        "true-answer": "c) She doesn't have to help her sister with her homework",
+        "wrong-answers": [
+            "a) She don't have to help her sister with her homework",
+            "b) She doesn't has to help her sister with her homework",
+            "d) She doesn't have help her sister with her homework",
+            "e) She don't have to help her sister with her homework"
+        ]
+    },
+    {
+        "question": "183. Use the correct forms of have to to make the negative sentence affirmative\n\nYou don't have to go to the dentist.",
+        "true-answer": "d) You have to go to the dentist",
+        "wrong-answers": [
+            "a) You has to go to the dentist",
+            "b) You have go to the dentist",
+            "c) You do have go to the dentist",
+            "e) You do has to go to the dentist"
+        ]
+    },
+    {
+        "question": "184. Choose the correct definition.\n\n> Worth remembering.",
+        "true-answer": "a) memorable",
+        "wrong-answers": [
+            "b) fast",
+            "c) remember",
+            "d) extravagant",
+            "e) celebrate"
+        ]
+    },
+    {
+        "question": "185. Choose the correct adjective:\n\n> This book is ... . The writer can't write at all!",
+        "true-answer": "c) terrible",
+        "wrong-answers": [
+            "a) interesting",
+            "b) boring",
+            "d) incredible",
+            "e) fascinating"
+        ]
+    },
+    {
+        "question": "186. Choose the correct definition.\n\n> To plan or arrange an event.",
+        "true-answer": "b) organize",
+        "wrong-answers": [
+            "a) celebrate",
+            "c) book",
+            "d) remember",
+            "e) get ready"
+        ]
+    },
+    {
+        "question": "187. Choose the correct adjective.\n\n> There are hundreds of people in this hall.\n> It is ... .",
+        "true-answer": "e) crowded",
+        "wrong-answers": [
+            "a) amazing",
+            "b) unusual",
+            "c) terrible",
+            "d) boring"
+        ]
+    },
+    {
+        "question": "188. Choose the correct variant.\n\n> When you celebrate something you are ... about it.",
+        "true-answer": "c) happy",
+        "wrong-answers": [
+            "a) worried",
+            "b) unhappy",
+            "d) boring",
+            "e) unusual"
+        ]
+    },
+    {
+        "question": "189. Choose the correct adjectives.\n\n> She always wears .... clothes. I think there are very ... .",
+        "true-answer": "c) amazing, expensive",
+        "wrong-answers": [
+            "a) boring, enermous",
+            "b) unusual, expensive",
+            "d) beautiful,fascinating",
+            "e) terrible, awful"
+        ]
+    },
+    {
+        "question": "190. To show that you are happy about something.",
+        "true-answer": "b) celebrate",
+        "wrong-answers": [
+            "a) organize",
+            "c) book",
+            "d) arrange",
+            "e) reserve"
+        ]
+    },
+    {
+        "question": "191. Costing a lot of money.",
+        "true-answer": "c) extravagant",
+        "wrong-answers": [
+            "a) tent",
+            "b) memorable",
+            "d) amazing",
+            "e) boring"
+        ]
+    },
+    {
+        "question": "192. Choose the correct variant.\n\n> When you go camping you sleep in a .....\n> a) tent",
+        "true-answer": "a) tent",
+        "wrong-answers": [
+            "b) home",
+            "c) room",
+            "d) castle",
+            "e) mountain"
+        ]
+    },
+    {
+        "question": "193. Choose the correct word.\n\n> Before you go to a restaurant or hotel you usually ... a table or room.",
+        "true-answer": "b) book",
+        "wrong-answers": [
+            "a) buy",
+            "c) leave",
+            "d) organize",
+            "e) celebrate"
+        ]
+    },
+    {
+        "question": "194. Choose the correct definition.\n\n> The man who is getting married.",
+        "true-answer": "a) bridegroom",
+        "wrong-answers": [
+            "b) honeymoon",
+            "c) bride",
+            "d) reception",
+            "e) step-father"
+        ]
+    },
+    {
+        "question": "195. Choose the correct prefix of the word \"reliable\".",
+        "true-answer": "b) un",
+        "wrong-answers": [
+            "a) dis",
+            "c) ir",
+            "d) im",
+            "e) in"
+        ]
+    },
+    {
+        "question": "196. Choose the correct definition.\n\n> The woman who is getting married.",
+        "true-answer": "c) bride",
+        "wrong-answers": [
+            "a) honeymoon",
+            "b) reception",
+            "d) bridegroom",
+            "e) step-mother"
+        ]
+    },
+    {
+        "question": "197. Choose the correct variant.\n\n> A thing you wear on your head.",
+        "true-answer": "a) cap",
+        "wrong-answers": [
+            "b) boot",
+            "c) shoes",
+            "d) jumper",
+            "e) jacket"
+        ]
+    },
+    {
+        "question": "198. Choose the correct word.\n\n> Trousers you wear to play sport : shorts and ... .",
+        "true-answer": "d) tracksuitbottoms",
+        "wrong-answers": [
+            "a) skirt",
+            "b) jacket",
+            "c) jumper",
+            "e) cardigan"
+        ]
+    },
+    {
+        "question": "199. Choose the correct word.\n\n> I'm slow at writing but I can type very ....",
+        "true-answer": "a) quickly",
+        "wrong-answers": [
+            "b) fast",
+            "c) hard",
+            "d) early",
+            "e) easily"
+        ]
+    },
+    {
+        "question": "200. Choose the correct question word ... are your friends eat?",
+        "true-answer": "c) where",
+        "wrong-answers": [
+            "a) why",
+            "b) who",
+            "d) what",
+            "e) when"
+        ]
+    },
+    {
+        "question": "201. Complete the sentence.\n\n> There is very interesting documentary about animals on TV tonight. The newspaper says it's ... .",
+        "true-answer": "a) fascinating",
+        "wrong-answers": [
+            "b) terrible",
+            "c) unusual",
+            "d) crowded",
+            "e) incredible"
+        ]
+    },
+    {
+        "question": "202. Choose the correct variant.\n\n> I am wearing gloves because my ... are cold.",
+        "true-answer": "c) hands",
+        "wrong-answers": [
+            "a) back",
+            "b) head",
+            "d) shoulder",
+            "e) foot"
+        ]
+    },
+    {
+        "question": "203. Choose the correct word.\n\n> They're getting ... .",
+        "true-answer": "c) married",
+        "wrong-answers": [
+            "a) dressed",
+            "b) well",
+            "d) together",
+            "e) tired"
+        ]
+    },
+    {
+        "question": "204. Choose the correct variant.\n\n> She is getting ... .",
+        "true-answer": "a) tired",
+        "wrong-answers": [
+            "b) well",
+            "c) ready",
+            "d) dressed",
+            "e) married"
+        ]
+    },
+    {
+        "question": "205. Choose the correct definition.\n\n> This is tall, and its cold at the top.",
+        "true-answer": "c) mountain",
+        "wrong-answers": [
+            "a) forest",
+            "b) island",
+            "d) tent",
+            "e) outdoor"
+        ]
+    },
+    {
+        "question": "206. Choose the correct definition.\n\n> The people who go to some one's wedding are ... .",
+        "true-answer": "b) the guests",
+        "wrong-answers": [
+            "a) well known",
+            "c) married",
+            "d) happy",
+            "e) foreign"
+        ]
+    },
+    {
+        "question": "207. Choose the correct definition.\n\n> Which building protects people from attack?",
+        "true-answer": "c) castle",
+        "wrong-answers": [
+            "a) police station",
+            "b) museum",
+            "d) cars",
+            "e) tress"
+        ]
+    },
+    {
+        "question": "208. Complete the sentence with a compound adjective.\n\n> My brother is always angry. He is very...",
+        "true-answer": "e) bad-tempered",
+        "wrong-answers": [
+            "a) left-handed",
+            "b) well-known",
+            "c) good-looking",
+            "d) hard-working"
+        ]
+    },
+    {
+        "question": "209. Choose the best answer\n\n> There are mosquitoes.....",
+        "true-answer": "b) in every country",
+        "wrong-answers": [
+            "a) that eat people",
+            "c) that bite lions and snakes",
+            "d) can kill a shark",
+            "e) eat grass all day"
+        ]
+    },
+    {
+        "question": "210. Complete the sentence with a compound adjective.\n\n> This car isn't new. It is ... .",
+        "true-answer": "a) second-hand",
+        "wrong-answers": [
+            "b) left-handed",
+            "c) first-class",
+            "d) good-looking",
+            "e) hard-working"
+        ]
+    },
+    {
+        "question": "211. Complete the sentence with an adjective.\n\n> The children never stop playing. They are very ... .",
+        "true-answer": "b) lively",
+        "wrong-answers": [
+            "a) enjoyable",
+            "c) friendly",
+            "d) annoying",
+            "e) boring"
+        ]
+    },
+    {
+        "question": "212. Make the word into adjective by adding the correct suffix.\n\n> \"enjoy\"",
+        "true-answer": "d) -able",
+        "wrong-answers": [
+            "a) -y",
+            "b) -ful",
+            "c) -ly",
+            "e) -ion"
+        ]
+    },
+    {
+        "question": "213. Which adjective means to be in another country?",
+        "true-answer": "a) abroad",
+        "wrong-answers": [
+            "b) foreign",
+            "c) different",
+            "d) boring",
+            "e) travel"
+        ]
+    },
+    {
+        "question": "214. Complete the sentence with the superlative form of adjective.\n\n> June is usually ... month of the year.(hot)",
+        "true-answer": "c) the hottest",
+        "wrong-answers": [
+            "a) most hottest",
+            "b) hotter",
+            "d) more hotter",
+            "e) most hotter"
+        ]
+    },
+    {
+        "question": "215. Complete the sentence with the superlative form of adjective.\n\n> English is ... subject at school. (difficult)",
+        "true-answer": "d) the most difficult",
+        "wrong-answers": [
+            "a) difficultest",
+            "b) more difficult",
+            "c) most difficult",
+            "e) difficulter"
+        ]
+    },
+    {
+        "question": "216. Complete the sentence.\n\n> Which building protects people from attack?",
+        "true-answer": "e) castle",
+        "wrong-answers": [
+            "a) temple",
+            "b) museum",
+            "c) house",
+            "d) police station"
+        ]
+    },
+    {
+        "question": "217. Write the superlative form of adjective.\n\n> bad --",
+        "true-answer": "d) the worst",
+        "wrong-answers": [
+            "a) the baddest",
+            "b) worse",
+            "c) badder",
+            "e) the best"
+        ]
+    },
+    {
+        "question": "218. Write the correct form of the adjective in bracket.\n\n> I think fish is ... food in the world. (good)",
+        "true-answer": "a) the best",
+        "wrong-answers": [
+            "b) better",
+            "c) goodest",
+            "d) well",
+            "e) the better"
+        ]
+    },
+    {
+        "question": "219. Choose the correct definition of the word\n\n> \"the countryside\"",
+        "true-answer": "d) a place with fields, woods, farms",
+        "wrong-answers": [
+            "a) situated in a rural area",
+            "b) a large town",
+            "c) an urban area that has name, local government, defined boundaries",
+            "e) smaller than city"
+        ]
+    },
+    {
+        "question": "220. The comparative form of \"hot\" is --",
+        "true-answer": "b) hotter",
+        "wrong-answers": [
+            "a) more hot",
+            "c) the hottest",
+            "d) most hot",
+            "e) the most hotter"
+        ]
+    },
+    {
+        "question": "221. The superlative form of \"good\" is ...",
+        "true-answer": "c) the best",
+        "wrong-answers": [
+            "a) the gooddest",
+            "b) best",
+            "d) most good",
+            "e) the worst"
+        ]
+    },
+    {
+        "question": "222. Choose the correct definition.\n\n> Ready-",
+        "true-answer": "c) prepared to do something",
+        "wrong-answers": [
+            "a) a person who teaches a sport or activity",
+            "b) came down from the sky",
+            "d) something you can't do",
+            "e) the surface of the earth"
+        ]
+    },
+    {
+        "question": "223. What is a \"freefall",
+        "true-answer": "a) The part of a jump from a plane before the parachute is open",
+        "wrong-answers": [
+            "b) The moment when a skydiver finishes the jump",
+            "c) The part a jump from a plane when the parachute is open",
+            "d) A person who flies a plane",
+            "e) Something you can't do"
+        ]
+    },
+    {
+        "question": "224. Match the sentence with expression with time\n\n> We arrived at the start of the film",
+        "true-answer": "b) on time",
+        "wrong-answers": [
+            "a) out of time",
+            "c) time flies",
+            "d) at times",
+            "e) waste time"
+        ]
+    },
+    {
+        "question": "225. Complete the sentence.\n\n> They_____ at school, but they weren't in the classroom.",
+        "true-answer": "c) were",
+        "wrong-answers": [
+            "a) weren't",
+            "b) was",
+            "d) wasn't",
+            "e) are"
+        ]
+    },
+    {
+        "question": "226. Complete the sentence.\n\n> My grandparents _____ teachers. They were doctors.",
+        "true-answer": "a) weren't",
+        "wrong-answers": [
+            "b) was",
+            "c) aren't",
+            "d) were",
+            "e) wasn't"
+        ]
+    },
+    {
+        "question": "227. Used the past simple and the time expression.\n\n> He walks to school every morning. (ORTA)",
+        "true-answer": "c) He walked to school yesterday morning.",
+        "wrong-answers": [
+            "a) He walked to school every morning.",
+            "b) He was walked to school every morning.",
+            "d) He walks to school yesterday morning.",
+            "e) He walk to school yesterday morning."
+        ]
+    },
+    {
+        "question": "228. Complete the sentence.\n\n> You can buy a stamps at the_____",
+        "true-answer": "a) Post office",
+        "wrong-answers": [
+            "b) Department store",
+            "c) Museum",
+            "d) Library",
+            "e) Car park"
+        ]
+    },
+    {
+        "question": "229. Choose the correct answer.\n\n> Where is the nearest petrol _____ ?",
+        "true-answer": "e) station",
+        "wrong-answers": [
+            "a) garden",
+            "b) field",
+            "c) house",
+            "d) school"
+        ]
+    },
+    {
+        "question": "230. Write the word for the meaning.\n\n> It's a very _____ road in the rush hour.",
+        "true-answer": "a) Busy",
+        "wrong-answers": [
+            "b) Far",
+            "c) Quiet",
+            "d) Car",
+            "e) Bus"
+        ]
+    },
+    {
+        "question": "231. Find the correct answer.\n\n> Road-",
+        "true-answer": "d) sign",
+        "wrong-answers": [
+            "a) jam",
+            "b) main",
+            "c) speed",
+            "e) light"
+        ]
+    },
+    {
+        "question": "232. Choose the correct preposition.\n\n> Go straight _____ and turn right.",
+        "true-answer": "e) on",
+        "wrong-answers": [
+            "a) into",
+            "b) in",
+            "c) to",
+            "d) at"
+        ]
+    },
+    {
+        "question": "233. Make a sentence\n\n> 1.turn 2.and 3.go 4.right 5.here 6.along",
+        "true-answer": "a) 3,6,5,2,1,4",
+        "wrong-answers": [
+            "b) 1,6,5,2,3,4",
+            "c) 1,2,5,4,3,6",
+            "d) 5,1,2,3,4,6",
+            "e) 3,5,1,2,4,6"
+        ]
+    },
+    {
+        "question": "234. Complete the phrases.\n\n> Please ring for attention --",
+        "true-answer": "d) In a hotel reception",
+        "wrong-answers": [
+            "a) On a hotel room",
+            "b) In front of a garage",
+            "c) At the front door of a museum",
+            "e) At the back of a restaurant"
+        ]
+    },
+    {
+        "question": "235. Choose the correct sentence in the past simple.\n\n> She stays at home and watches TV.",
+        "true-answer": "a) She stayed at home and watched TV.",
+        "wrong-answers": [
+            "b) She stayed at home and watches TV.",
+            "c) She stayes at home and watched TV.",
+            "d) She stayed in home and watched TV.",
+            "e) She stayed at home, watches TV."
+        ]
+    },
+    {
+        "question": "236. The past simple form of \"study\" is.",
+        "true-answer": "b) studied",
+        "wrong-answers": [
+            "a) studies",
+            "c) was study",
+            "d) were study",
+            "e) did study"
+        ]
+    },
+    {
+        "question": "237. Choose the correct variant.\n\n> The part of something that is left.",
+        "true-answer": "a) rest",
+        "wrong-answers": [
+            "b) tomb",
+            "c) wealthy",
+            "d) remain",
+            "e) place"
+        ]
+    },
+    {
+        "question": "238. Choose the correct variant.\n\n> Not having enough money, food or clothes",
+        "true-answer": "a) needy",
+        "wrong-answers": [
+            "b) wealthy",
+            "c) rich",
+            "d) ill",
+            "e) money"
+        ]
+    },
+    {
+        "question": "239. Complete the sentence with the verbs do, give, go and take.\n\n> I always _____ lots of notes when I am in a lecture.",
+        "true-answer": "a) take",
+        "wrong-answers": [
+            "b) give",
+            "c) do",
+            "d) go",
+            "e) gave"
+        ]
+    },
+    {
+        "question": "240. Complete the sentence with the verbs do, give, go and take.\n\n> The careers office at school can _____ advice about jobs or further.",
+        "true-answer": "c) give",
+        "wrong-answers": [
+            "a) do",
+            "b) go",
+            "d) take",
+            "e) took"
+        ]
+    },
+    {
+        "question": "241. Choose the correct variant.\n\n> Found or learned something that people didn't know before.",
+        "true-answer": "a) discovered",
+        "wrong-answers": [
+            "b) laboratory",
+            "c) extremely",
+            "d) genius",
+            "e) governess"
+        ]
+    },
+    {
+        "question": "242. Choose the correct variant.\n\n> The people who make decisions about a country.",
+        "true-answer": "b) government",
+        "wrong-answers": [
+            "a) president",
+            "c) minister",
+            "d) politics",
+            "e) prime minister"
+        ]
+    },
+    {
+        "question": "243. Choose the correct translation\n\n> O 1881-ci ildə Şotlandiyada anadan olub.",
+        "true-answer": "a) He was born in Scotland in 1881.",
+        "wrong-answers": [
+            "b) He born in Scotland in 1881.",
+            "c) He is born in 1881 in Scotland",
+            "d) He were born in 1881 in Scotland",
+            "e) He was borned in Scotland in 1881"
+        ]
+    },
+    {
+        "question": "244. Choose the correct definition.\n\n> Earn-",
+        "true-answer": "d) get money for the work you do",
+        "wrong-answers": [
+            "a) get money in a game",
+            "b) pay money for something",
+            "c) give something to someone who pays you money for it.",
+            "e) give money for something"
+        ]
+    },
+    {
+        "question": "245. Choose the correct answer.\n\n> I want to _____ to the city when I go to university.",
+        "true-answer": "a) move",
+        "wrong-answers": [
+            "b) stand",
+            "c) went",
+            "d) stay",
+            "e) came"
+        ]
+    },
+    {
+        "question": "246. Choose the correct variant\n\n> Here are ...... cornflakes, but there isn't ..... milk.",
+        "true-answer": "d) some, any",
+        "wrong-answers": [
+            "a) any, some",
+            "b) any, any",
+            "c) some, some",
+            "e) any, -"
+        ]
+    },
+    {
+        "question": "247. Complete the sentence.\n\nWe didn't ......... in the last competition, but we want to play in the next.",
+        "true-answer": "A) participate",
+        "wrong-answers": [
+            "B) returned",
+            "C) collected",
+            "D) continued",
+            "E) back turned"
+        ]
+    },
+    {
+        "question": "248. Circle the correct words.\n\n1. They differ / difference / different in their opinions and they never agree.\n2. Our team's defend / defense / defensive is very strong.\n3. Most TV programs bore / boredom / boring me.",
+        "true-answer": "a) differ, defense, bore",
+        "wrong-answers": [
+            "b) difference, defend, boring",
+            "c) different, defense, boring",
+            "d) differ, defend, bore",
+            "e) different, defend, boredom"
+        ]
+    },
+    {
+        "question": "249. Choose the correct variant.\n\nI usually drink a glass of ....... in the morning.",
+        "true-answer": "A) tea",
+        "wrong-answers": [
+            "B) bread",
+            "C) cheese",
+            "D) bananas",
+            "E) olives"
+        ]
+    },
+    {
+        "question": "250. Complete the sentence.\n\nThere is some ...... on the table.",
+        "true-answer": "A) milk",
+        "wrong-answers": [
+            "B) apples",
+            "C) bananas",
+            "D) eggs",
+            "E) plates"
+        ]
+    },
+    {
+        "question": "251. Choose the best answer.\n\nWhich of the following can be ordered through room service?",
+        "true-answer": "E) all the above",
+        "wrong-answers": [
+            "A) orange juice",
+            "B) jam",
+            "C) cheese",
+            "D) water"
+        ]
+    },
+    {
+        "question": "252. Choose the correct variant.\n\nWhich of the following is an uncountable noun?",
+        "true-answer": "B) bread",
+        "wrong-answers": [
+            "A) apples",
+            "C) eggs",
+            "D) tomatoes",
+            "E) bananas"
+        ]
+    },
+    {
+        "question": "253. Choose the correct words.\n\nI think sailing is .........",
+        "true-answer": "D) exciting",
+        "wrong-answers": [
+            "A) excite",
+            "B) excitement",
+            "C) defense",
+            "E) boring"
+        ]
+    },
+    {
+        "question": "254. Complete the sentence.\n\n> An event that started a long time ago and is repeated every year is a .........",
+        "true-answer": "E) tradition",
+        "wrong-answers": [
+            "A) coverage",
+            "B) mind",
+            "C) appetite",
+            "D) fast"
+        ]
+    },
+    {
+        "question": "255. Choose the lines of uncountable nouns.\n\n1. hobby, journal, chalk\n2. progress, furniture, permission\n3. nail, plane, laptop\n4. milk, play, kettle\n5. health, kindness, music\n6. hope, dream, bottle",
+        "true-answer": "C) 2,5",
+        "wrong-answers": [
+            "A) 1, 3",
+            "B) 3,6",
+            "D) 5,6",
+            "E) 2,4"
+        ]
+    },
+    {
+        "question": "256. Choose the lines of countable nouns.\n\n1. plant, sheep, shelf\n2. planet, ball, air\n3. train, carpet, soup\n4. plum, boat, sand\n5. companion, family, team",
+        "true-answer": "D) 1, 5",
+        "wrong-answers": [
+            "A) 1, 2",
+            "B) 2, 4",
+            "C) 3, 5",
+            "E) 3, 4"
+        ]
+    },
+    {
+        "question": "257. Choose the correct variant.\n\n1. a slice of lemon\n2. a pieces of music\n3. some bottles of milk\n4. five advice\n5. a few sack of flour",
+        "true-answer": "C) 1, 3",
+        "wrong-answers": [
+            "A) 1, 2",
+            "B) 2, 4, 5",
+            "D) 2, 3, 4",
+            "E) 3, 5"
+        ]
+    },
+    {
+        "question": "258. Complete the sentence. Use the present perfect affirmative with just\n\nWould you like a sandwich?\nNo, thanks. I .... lunch (have)",
+        "true-answer": "a) have just had",
+        "wrong-answers": [
+            "b) has just have",
+            "c) have just have",
+            "d) had just had",
+            "e) has just had"
+        ]
+    },
+    {
+        "question": "259. Choose the correct definition.\n\n> \"Confident \"",
+        "true-answer": "b) to be certain that you can do something and not nervous about it",
+        "wrong-answers": [
+            "a) to deside how you will make something",
+            "c) to push out air from your mouth",
+            "d) starting doing something as a hobby",
+            "e) to gradually affects a bigger area"
+        ]
+    },
+    {
+        "question": "260. Choose the correct variant\n\n> Can l borrow that book?\n> No, I ....it yet",
+        "true-answer": "b) haven't finished",
+        "wrong-answers": [
+            "a) are not finish",
+            "c) has finished",
+            "d) don't finish",
+            "e) didn't finish"
+        ]
+    },
+    {
+        "question": "261. Complete the sentence.\n\nOur seats are in the second .........",
+        "true-answer": "E) carriage",
+        "wrong-answers": [
+            "A) take",
+            "B) timetable",
+            "C) journey",
+            "D) fare"
+        ]
+    },
+    {
+        "question": "262. Answer the question.\n\nWhat's another verb for \"get a train\"?",
+        "true-answer": "A) take a train",
+        "wrong-answers": [
+            "B) slow train",
+            "C) get off the train",
+            "D) the 7 o'clock train",
+            "E) last train"
+        ]
+    },
+    {
+        "question": "263. Complete the sentence.\n\nCan I reserve a ........?",
+        "true-answer": "C) seat",
+        "wrong-answers": [
+            "A) train",
+            "B) direct",
+            "D) office",
+            "E) return"
+        ]
+    },
+    {
+        "question": "264. Choose the correct word.\n\n> My parents have ........ all the coffee.",
+        "true-answer": "D) drunk",
+        "wrong-answers": [
+            "A) drink",
+            "B) drank",
+            "C) drinks",
+            "E) drinking"
+        ]
+    },
+    {
+        "question": "265. Choose the correct variant.\n\n> I have ....... done my homework.",
+        "true-answer": "A) already",
+        "wrong-answers": [
+            "B) always",
+            "C) yet",
+            "D) since",
+            "E) at present"
+        ]
+    },
+    {
+        "question": "266. Choose the best answer.\n\n> Sara has ....... to the shopping centre.",
+        "true-answer": "D) gone",
+        "wrong-answers": [
+            "A) go",
+            "B) going",
+            "C) goes",
+            "E) come"
+        ]
+    },
+    {
+        "question": "267. Choose the correct variant.",
+        "true-answer": "B) go on a tour, guide book",
+        "wrong-answers": [
+            "A) do sightseeing, guide tour",
+            "C) make photos, go a museum",
+            "D) go sightseeing, make a tour",
+            "E) guide book, gallery tour"
+        ]
+    },
+    {
+        "question": "268. Find the correct definition.\n\n> To apply for a job.",
+        "true-answer": "d) to ask to work for a company",
+        "wrong-answers": [
+            "a) to leave a company",
+            "b) to go on a training course",
+            "c) to work part- time",
+            "e) to have an interview"
+        ]
+    },
+    {
+        "question": "269. Match the words with their synonyms.\n\n1.ideal a) repair\n2.outdoors b) trainer\n3.coach c) perfect\n4.restore d) outside",
+        "true-answer": "a) 1c, 2d, 3b, 4a",
+        "wrong-answers": [
+            "b) 1c, 2b, 3d, 4a",
+            "c) 1b, 2a, 3d, 4c",
+            "d) 1a, 2c, 3d, 4b",
+            "e) 1d, 2c, 3b, 4a"
+        ]
+    },
+    {
+        "question": "270. Make up a sentence.\n\n1. she 2. a day 3. works 4. ten hours",
+        "true-answer": "C) 1,3,4,2",
+        "wrong-answers": [
+            "A) 3,1,2,4",
+            "B) 4,2,3,1",
+            "D) 2,4,3,1",
+            "E) 1,3,2,4"
+        ]
+    },
+    {
+        "question": "271. Match the words with the definitions.\n\n1) a chef a) look after people's teeth\n2) a dentist b) works in a kitchen\n3) a nurse c) works outdoors a lot\n4) a builder d) works in a hospital",
+        "true-answer": "e) 1b, 2a, 3d, 4c",
+        "wrong-answers": [
+            "a) 1c, 2a, 3b, 4d",
+            "b) 1d, 2b, 3c, 4a",
+            "c) 1b, 2d, 3a, 4c",
+            "d) 1d, 2b, 3a, 4c"
+        ]
+    },
+    {
+        "question": "272. Make up a sentence.\n\n1. she 2. Friends 3. isn't going 4. her 5. to see",
+        "true-answer": "E) 1, 3, 5, 4, 2",
+        "wrong-answers": [
+            "A) 2, 3, 4, 5, 1",
+            "B) 1, 2, 3, 5, 4",
+            "C) 5, 3, 2, 1, 4",
+            "D) 3, 5, 2, 4, 1"
+        ]
+    },
+    {
+        "question": "273. Choose the correct variant.\n\n> With no job, but wanting to work.",
+        "true-answer": "D) unemployed",
+        "wrong-answers": [
+            "A) retired",
+            "B) manager",
+            "C) farmer",
+            "E) boss"
+        ]
+    },
+    {
+        "question": "274. Complete the sentences.\n\n> I'm going to ... homework.\n> We are going to ... Italy.",
+        "true-answer": "c) do, visit",
+        "wrong-answers": [
+            "a) plan, translate",
+            "b) make, visit",
+            "d) get, read",
+            "e) turn, do"
+        ]
+    },
+    {
+        "question": "275. Complete the sentences.\n\n> I have ... of working in shops.\n> Helen is going to ... some books.",
+        "true-answer": "a) experience,read",
+        "wrong-answers": [
+            "b) agreement,wait",
+            "c) task, turn",
+            "d) interesting, visit",
+            "e) translate, work"
+        ]
+    },
+    {
+        "question": "276. Choose the correct variant\n\n> .... is a lawyer who works in the high courts",
+        "true-answer": "c) a barrister",
+        "wrong-answers": [
+            "a) an accountant",
+            "b) an architect",
+            "d) a vet",
+            "e) a plumber"
+        ]
+    },
+    {
+        "question": "277. Choose the correct variant\n\n> .... installs and repairs water pipes,kitchens,and bathrooms.",
+        "true-answer": "d) a plumber",
+        "wrong-answers": [
+            "a) an accountant",
+            "b) an architect",
+            "c) a vet",
+            "e) a bricklayer"
+        ]
+    },
+    {
+        "question": "278. Choose the correct variant\n\n> ..... looks after sick animals.",
+        "true-answer": "a) a vet",
+        "wrong-answers": [
+            "b) an accountant",
+            "c) an architect",
+            "d) a barrister",
+            "e) a bricklayer"
+        ]
+    },
+    {
+        "question": "279. Complete the sentence\n\n> My grandmother ... 80 on her next brithday .",
+        "true-answer": "a) will be",
+        "wrong-answers": [
+            "b) is",
+            "c) was",
+            "d) shall be",
+            "e) to be"
+        ]
+    },
+    {
+        "question": "280. Complete the sentence\n\n> She .... to have lunch in town",
+        "true-answer": "a) is going",
+        "wrong-answers": [
+            "b) be going",
+            "c) will be going",
+            "d) going",
+            "e) go"
+        ]
+    },
+    {
+        "question": "281. Write the correct definition earn",
+        "true-answer": "b) receive money for the work that you do",
+        "wrong-answers": [
+            "a) if you earn low wages,you earn less than is normal",
+            "c) to do something for a period of time",
+            "d) talk to or visit someone",
+            "e) start to be flatmates"
+        ]
+    },
+    {
+        "question": "282. Choose the correct definition salary",
+        "true-answer": "d) money you receive every month for the work you do",
+        "wrong-answers": [
+            "a) receive money for the work that you do",
+            "b) money you receive every week for the work that you do",
+            "c) if you earn low wages,you earn less than is normal",
+            "e) a full time"
+        ]
+    },
+    {
+        "question": "283. Complete the sentence\n\n> Always, usually, often, never, hardly ever, sometimes are .....\n> a)adverbs of frequency",
+        "true-answer": "a) adverbs of frequency",
+        "wrong-answers": [
+            "b) preposition",
+            "c) adjective",
+            "d) noun",
+            "e) pronoun"
+        ]
+    },
+    {
+        "question": "284. Choose the correct variant\n\n1.a chef a.Animals\n2.shop assistant b.Department store\n3.a farmer c.Kitchen",
+        "true-answer": "a) 1-c,2-b,3-a",
+        "wrong-answers": [
+            "b) 1-c,2-a,3b",
+            "c) 1-a,2-b,3-c",
+            "d) 1-b,2-a,3-c",
+            "e) 1-b,2-c,3-a"
+        ]
+    },
+    {
+        "question": "285. Choose the correct variant.\n\n> She will get her ... results.\n> I don't want to ... in an office.",
+        "true-answer": "d) exam, work",
+        "wrong-answers": [
+            "a) passport, visits",
+            "b) exam, use",
+            "c) information, went",
+            "e) interview, came"
+        ]
+    },
+    {
+        "question": "286. Complete the sentence.\n\n> My friend ... travelling.\n> She ... to school by bus.",
+        "true-answer": "D) likes, goes",
+        "wrong-answers": [
+            "A) go, likes",
+            "B) want, go",
+            "C) like, come",
+            "E) gets up, goes"
+        ]
+    },
+    {
+        "question": "287. Choose the correct synonym of the word.\n\n> \"odd\"",
+        "true-answer": "e) strange",
+        "wrong-answers": [
+            "a) strong",
+            "b) mad",
+            "c) clear",
+            "d) weak"
+        ]
+    },
+    {
+        "question": "288. Make complete sentences\n\n1) Please get a move a) on! The film starts in five minutes\n2) My sister drives b) hand when I do my homework\n3) My mum often gives me a c) me crazy! She always makes a lot of noise",
+        "true-answer": "E) 1 a, 2 c, 3 b",
+        "wrong-answers": [
+            "A) 1 c, 2 b, 3 a",
+            "B) 1 b, 2 c, 3 a",
+            "C) 1 c, 2 a, 3 b",
+            "D) 1 b, 2 a, 3 c"
+        ]
+    },
+    {
+        "question": "289. Choose the correct translation.\n\n> O, uşaqların qayğısına qalır və evləri təmizləyir.",
+        "true-answer": "C) She looks after the children and cleans the house.",
+        "wrong-answers": [
+            "A) She cleans the house and cooks dinner.",
+            "B) She looks after them.",
+            "D) She cooks dinner in the evening.",
+            "E) She drives the children to school."
+        ]
+    },
+    {
+        "question": "290. Complete the sentences.\n\n> Every day I ... about an hour on my computer.\n> Lisa is very ... and she studies hard.",
+        "true-answer": "A) spend, intelligent",
+        "wrong-answers": [
+            "B) goes, lazy",
+            "C) person, intelligent",
+            "D) turn, spend",
+            "E) hardworking, lazy"
+        ]
+    },
+    {
+        "question": "291. Choose the correct translation\n\n> Tələbələrin çantaları sinif otağındadır.",
+        "true-answer": "A) The students' bags are in the classroom",
+        "wrong-answers": [
+            "B) The student's are in the clasroom.",
+            "C) The bag is in the clasroom.",
+            "D) The student's bag is in the clasroom",
+            "E) The bags are in the clasroom."
+        ]
+    },
+    {
+        "question": "292. Choose the correct variant.\n\n> 1) The lessons over . ... your books ... .\n> 2) ... the television ... It s too loud.",
+        "true-answer": "D) put away, turn down",
+        "wrong-answers": [
+            "A) turn down, try on",
+            "B) take after, pick up",
+            "C) fill in, take off",
+            "E) pick up, try on"
+        ]
+    },
+    {
+        "question": "293. Choose the correct variant\n\n> What time is the next train? Let's look at the .....",
+        "true-answer": "d) timetable",
+        "wrong-answers": [
+            "a) train",
+            "b) clock",
+            "c) defend",
+            "e) table"
+        ]
+    },
+    {
+        "question": "294. Choose the correct variant\n\n> 1. A thriller is often......\n> 2. A comedy is.......",
+        "true-answer": "b) exciting, funny",
+        "wrong-answers": [
+            "a) funny, violent",
+            "c) exciting, romantic",
+            "d) funny, funny",
+            "e) romantic, funny"
+        ]
+    },
+    {
+        "question": "295. Match the given words with the definitions\n\n1.argue 2.gossip 3.announce\na.to have an angry conversation with someone\nb.to say something important to a large number of people\nc.to talk about other people's private lives",
+        "true-answer": "c) 1a, 2c, 3b",
+        "wrong-answers": [
+            "a) 1c, 2b, 3a",
+            "b) 1b, 2c, 3a",
+            "d) 1c, 2a, 3b",
+            "e) 1a, 2b, 3c"
+        ]
+    },
+    {
+        "question": "296. Complete the sentences with the given words\n\ndiscuss, prepare, library, borrow, subject, annual, take place\n\n> There's a geography exam next month. İ think geography is a difficult _____ . I have to _____ for the exam. I think it's a good idea to visit the _____, so I can _____ some books.",
+        "true-answer": "a) subject, prepare, library, borrow",
+        "wrong-answers": [
+            "b) discuss, library, prepare, borrow",
+            "c) subject, annual, borrow, library",
+            "d) subject, discuss, library, take place",
+            "e) discuss, prepare, borrow, subject"
+        ]
+    },
+    {
+        "question": "297. Complete the sentence with the verbs for different kind of talking\n\n1) They always _____ about the TV. He wants to watch football and she wants to watch films.\n2) They like to _____. They always talk about the people in their office.\n3) Be quite! I want to hear them _____ our plane.",
+        "true-answer": "b) 1.argue, 2.gossip, 3.announce",
+        "wrong-answers": [
+            "a) 1.announce, 2.prepare, 3.argue",
+            "c) 1.announce, 2.prepare, 3.be whisper",
+            "d) 1.argue, 2.prepare, 3.speak",
+            "e) 1.argue, 2.gossip, 3.whisper"
+        ]
+    },
+    {
+        "question": "298. Choose the correct variant\n\n1.Lillian_______extra lessons. (not / to attend)\n2.Nate________his son from the kindergarten. (not / to pick up)\n3.The dog _________the ball all the time. (not / to fetch)",
+        "true-answer": "c) 1.doesn't have to attend, 2.doesn't have to pick up, 3.doesn't have to fetch up",
+        "wrong-answers": [
+            "a) 1.doesn't has to attend, 2.doesn't have to pick up, 3.doesn't have to fetch up",
+            "b) 1.doesn't have to attend, 2.don't have to pick up, 3.have to fetch up",
+            "d) 1.have to attend, 2.doesn't has to pick up, 3.doesn't have to fetch up",
+            "e) 1.have to attend, 2.doesn't has to pick up, 3.doesn't has to fetch up"
+        ]
+    },
+    {
+        "question": "299. Choose the correct variant\n\n1. She______ a dress for the party. (not / to buy)\n2. The filmmakers ___________ this part of the episode again. (not / film)\n3. We___________the morning exercises. (not / to do)",
+        "true-answer": "b) 1 doesn't have to buy, 2 don't have to film, 3 don't have to do",
+        "wrong-answers": [
+            "a) 1 doesn't have to buy, 2 doesn't have to film, 3 don't have to do",
+            "c) 1 doesn't have to buy, 2 don't have to film, 3 doesn't have to do",
+            "d) 1 doesn't have to buy, 2 do have to film, 3 don't have to do",
+            "e) 1 don't have to buy, 2 doesn't have to film, 3 don't have to do"
+        ]
+    },
+    {
+        "question": "300. Choose the incorrect sentences\n\n1. I want to make a degree in math.\n2. A term lasts about ten weeks.\n3. I study a lot in the library.\n4. An undergraduate has a degree.\n5. You can do research after a degree.",
+        "true-answer": "b) 1,4,5",
+        "wrong-answers": [
+            "a) 2,4,5",
+            "c) 3,4,5",
+            "d) 1,3,4",
+            "e) 1,2,3"
+        ]
+    },
+    {
+        "question": "301. Look up the verbs and find the noun form. Complete the sentences.\n\n1. I have to revise for the exam tomorrow. İ have to do some___________.\n2. My two brothers often argue. They often have an___________.\n3. He has to pay this bill. He has to make a__________.",
+        "true-answer": "c) revision, argument, payment",
+        "wrong-answers": [
+            "a) reviser, argument, payment",
+            "b) revision, argumer, payment",
+            "d) revision, argument, paymentier",
+            "e) revision, argumental, payment"
+        ]
+    },
+    {
+        "question": "302. Choose the correct expression with \"get\".\n\n> He has shower and ... before breakfast.",
+        "true-answer": "d) gets dressed",
+        "wrong-answers": [
+            "a) gets well",
+            "b) gets together",
+            "c) gets tired",
+            "e) gets married"
+        ]
+    },
+    {
+        "question": "303. Choose the correct adjectives.\n\nThis is an ... correct. The singer is ... .",
+        "true-answer": "c) incredible, brilliant",
+        "wrong-answers": [
+            "a) crowded, unusual",
+            "b) amazing, boring",
+            "d) fascinating, bad",
+            "e) boring, terrible"
+        ]
+    },
+    {
+        "question": "304. Choose the correct verbs.\n\n> She's a good sportsperson. She can ... voleyball and she can ... gymnastics.\n> a) drive, type b) play, do c) count, swim d) talk, ride e) speak, ride",
+        "true-answer": "b) play, do",
+        "wrong-answers": [
+            "a) drive, type",
+            "c) count, swim",
+            "d) talk, ride",
+            "e) speak, ride"
+        ]
+    },
+    {
+        "question": "305. Choose the correct definition.\n\n> Sprinter-",
+        "true-answer": "d) a runner who takes part in short fast races",
+        "wrong-answers": [
+            "a) red liquid that is in a person's body",
+            "b) in a way that shows you feel unhappy",
+            "c) angry and ready to attack",
+            "e) becoming angry very easily"
+        ]
+    },
+    {
+        "question": "306. Complete the sentence with the comparative form of adjective.\n\n> Which animals are ..., hippos or dolphins? (dangerous)",
+        "true-answer": "c) more dangerous",
+        "wrong-answers": [
+            "a) most dangerous",
+            "b) dangerous",
+            "d) the dangerous",
+            "e) the most dangerous"
+        ]
+    },
+    {
+        "question": "307. Complete the sentence with the comparative form of adjective.\n\n> Which country is ... , Russia or canada?(big)",
+        "true-answer": "e) bigger",
+        "wrong-answers": [
+            "a) the biggest",
+            "b) the bigger",
+            "c) biggest",
+            "d) more bigger"
+        ]
+    },
+    {
+        "question": "308. Choose the correct translation.\n\n> Mosquitoes can fly for four hours continuously and they often travel 10 kilometres a night.",
+        "true-answer": "e) Ağcaqanadlar dörd saat fasiləsiz uça bilirlər və çox vaxt gecə 10 kilometr yol qət edirlər.",
+        "wrong-answers": [
+            "a) Ağcaqanadlar beş saat fasiləsiz uça bilirlər və çox vaxt gecələr kilometrlərlə yol qət edirlər.",
+            "b) Ağcaqanadlar beş saat fasiləsiz uça bilirlər və gecə kilometrlərlə yol qət edirlər.",
+            "c) Ağcaqanadlar fasiləsiz uça bilirlər və çox vaxt gecələr kilometrlərlə yol qət edirlər.",
+            "d) Ağcaqanadlar dörd saat fasiləsiz uça bilirlər və çox vaxt gecələr kilometrlərlə yol qət edirlər."
+        ]
+    },
+    {
+        "question": "309. Choose the correct translation.\n\n> Antarktika dünyanın ən rütubətli və ən quraq yeridir.",
+        "true-answer": "c) Antarctica is the wettest and the driest place in the world.",
+        "wrong-answers": [
+            "a) Antarctica is wettest and driest place in the world.",
+            "b) Antarctica is the wet and the dry place in the world.",
+            "d) Antarctica is the most wettest and the most driest place in the world.",
+            "e) Antarctica is the more wet and the most driest place in the world."
+        ]
+    },
+    {
+        "question": "310. Complete the sentence with the comparative form of adjective.\n\n> Which planet is ... from the sun, Jupiter or Saturn?",
+        "true-answer": "a) further",
+        "wrong-answers": [
+            "b) far",
+            "c) the furthest",
+            "d) more further",
+            "e) most further"
+        ]
+    },
+    {
+        "question": "311. Write the superlative form of adjective.\n\n> expensive --",
+        "true-answer": "a) the most expensive",
+        "wrong-answers": [
+            "b) expensive",
+            "c) more expensive",
+            "d) the expensive",
+            "e) the most expression"
+        ]
+    },
+    {
+        "question": "312. Complete the sentence with the comparative or superlative forms of adjective.\n\n> I think a holiday at the beach is ... than a holiday in the mountains.",
+        "true-answer": "a) better",
+        "wrong-answers": [
+            "b) the worst",
+            "c) interesting",
+            "d) nice",
+            "e) bad"
+        ]
+    },
+    {
+        "question": "313. Choose the correct translation.\n\n> Last Saturday my friend and I decided to go to the cinema.",
+        "true-answer": "a) Keçən şənbə mən və dostum kinoya getməyə qərara aldıq.",
+        "wrong-answers": [
+            "b) Keçən şənbə dostumgil kinoya getməyə qərara aldı.",
+            "c) Keçən şənbə mən dostlarımla kinoya getmək istədik.",
+            "d) Bazar günü mən və dostum kinoya getməyk istəyirik.",
+            "e) Keçən şənbə mən və dostum kinoya getməyk istədik."
+        ]
+    },
+    {
+        "question": "314. Choose the correct meaning \"sale\"",
+        "true-answer": "a) Period when a shop sells things at a lower price than normal.",
+        "wrong-answers": [
+            "b) Wait in a line here",
+            "c) This isn't working",
+            "d) Go in here",
+            "e) You have no tax to pay"
+        ]
+    },
+    {
+        "question": "315. Choose the correct answer.\n\n> There is a cinema_____ .",
+        "true-answer": "e) on the corner",
+        "wrong-answers": [
+            "a) into the corner",
+            "b) in the corner",
+            "c) in the corner",
+            "d) at the corner"
+        ]
+    },
+    {
+        "question": "316. Choose the correct meaning \"ring someone back\"",
+        "true-answer": "b) Phone someone again",
+        "wrong-answers": [
+            "a) Phone someone",
+            "c) You make a mistake with the number",
+            "d) Send someone a message",
+            "e) Give information to someone on the phone"
+        ]
+    },
+    {
+        "question": "317. Choose the correct past simple form of the verb.\n\n> I _____ around the park for an hour last night.",
+        "true-answer": "e) Jogged",
+        "wrong-answers": [
+            "a) Lived",
+            "b) Joged",
+            "c) Staied",
+            "d) Stayed"
+        ]
+    },
+    {
+        "question": "318. Rewrite the sentence in the past tense.\n\n> I wear jeans to school.",
+        "true-answer": "b) I wore jeans to school.",
+        "wrong-answers": [
+            "a) I was wore jeans to school.",
+            "c) I am wearing jeans to school.",
+            "d) I were wear jeans to school.",
+            "e) I am wore jeans to school."
+        ]
+    },
+    {
+        "question": "319. Choose the correct time expression.\n\n> Jane took an exam ... .",
+        "true-answer": "d) two days ago",
+        "wrong-answers": [
+            "a) next week",
+            "b) in the morning",
+            "c) today",
+            "e) in the evening"
+        ]
+    },
+    {
+        "question": "320. Choose the correct time expression.\n\n> I made a phone call ... .",
+        "true-answer": "a) yesterday evening",
+        "wrong-answers": [
+            "b) today",
+            "c) tomorrow",
+            "d) in the evening",
+            "e) this evening"
+        ]
+    },
+    {
+        "question": "321. Choose the correct variant.\n\nAn event that started a long time ago and is repeated every year is a _______",
+        "true-answer": "A) tradition",
+        "wrong-answers": [
+            "B) coverage",
+            "C) celebrity",
+            "D) natural",
+            "E) fast"
+        ]
+    },
+    {
+        "question": "322. Complete the sentence with the synonym for the word in bold.\n\nI can pick up the children on Friday but can you ......... them tomorrow?",
+        "true-answer": "D) collect",
+        "wrong-answers": [
+            "A) stretch",
+            "B) discover",
+            "C) return",
+            "E) stop"
+        ]
+    },
+    {
+        "question": "323. Choose the best answer.\n\nShe lived in London for five years, but then she ...... home to Canada.",
+        "true-answer": "E) returned",
+        "wrong-answers": [
+            "A) collected",
+            "B) continued",
+            "C) discovered",
+            "D) completed"
+        ]
+    },
+    {
+        "question": "324. Match the words with the definitions.\n\n1. I think pasta is bland a) with a lot of sugar\n2. She likes very sweet tea b) it is easy to cut\n3. This meat is very tender c) without fat\n4. He prefers lean meat d) it doesn't have a strong taste",
+        "true-answer": "C) 1d, 2a, 3b, 4c",
+        "wrong-answers": [
+            "A) 1c, 2b, 3a, 4d",
+            "B) 1b, 2c, 3a, 4d",
+            "D) 1b, 2a, 3d, 4c",
+            "E) 1d, 2c, 3a, 4b"
+        ]
+    },
+    {
+        "question": "325. Choose the correct translation.\n\nAll our meals are made with natural food.",
+        "true-answer": "D) Bütün yeməklərimiz təbii qidalarla hazırlanır.",
+        "wrong-answers": [
+            "A) Bizim yeməklər çox təbiidir.",
+            "B) Bütün yeməklərimiz ət ilə hazırlanır.",
+            "C) Bütün xörəklərimiz dadlıdır.",
+            "E) Yediyimiz bütün məhsullar təbiidir."
+        ]
+    },
+    {
+        "question": "326. Choose the uncountable nouns.\n\n1. bananas 4. orange juice\n2. eggs 5. milk\n3. coffee 6. postcards",
+        "true-answer": "E) 3, 4, 5",
+        "wrong-answers": [
+            "A) 1, 5, 6",
+            "B) 2, 3, 4",
+            "C) 2, 4, 5",
+            "D) 1, 3, 4"
+        ]
+    },
+    {
+        "question": "327. Translate into English.\n\nNənəm və babam həftə sonu gəldiyi üçün çölə çıxmadım.",
+        "true-answer": "C) I didn't go out because my grandparents came for the weekend.",
+        "wrong-answers": [
+            "A) We don't go out because my parents came for the weekend.",
+            "B) We don't go because my parents come for the weekend.",
+            "D) I don't go out because my grandparents come for the weekend.",
+            "E) I didn't go because my grandparents comes for the weekend."
+        ]
+    },
+    {
+        "question": "328. Complete the sentence with preposition.\n\nShe moved ...... Cario ...... her father ...... her mother's death.",
+        "true-answer": "E) to, with, after",
+        "wrong-answers": [
+            "A) in, on, at",
+            "B) to, for, with",
+            "C) in, at, with",
+            "D) at, off, after"
+        ]
+    },
+    {
+        "question": "329. Choose the correct variant.\n\nKing continued to fight for the rights of black Americans.",
+        "true-answer": "E) Kral qaradərili Amerikalıların hüquqları uğrunda mübarizəni davam etdirdi.",
+        "wrong-answers": [
+            "A) Kral Amerikalıları müdafiə edirdi.",
+            "B) Qaradərili Amerikalıların hüquqlarını müdafiə edirdi.",
+            "C) Kral qaradərililəri Amerikada müdafiə edirdi.",
+            "D) Amerikada qaradərililər öz hüquqlarını müdafiə edirdi."
+        ]
+    },
+    {
+        "question": "330. Complete the sentence.\n\nWe have bought ........... fish for lunch.",
+        "true-answer": "B) much",
+        "wrong-answers": [
+            "A) many",
+            "C) any",
+            "D) some",
+            "E) lot of"
+        ]
+    },
+    {
+        "question": "331. Translate into English.\n\nBiz keçən gecə yaxşı film gördük.",
+        "true-answer": "C) We saw a good film last night.",
+        "wrong-answers": [
+            "A) We see good film last evening.",
+            "B) We saw beautiful film last night.",
+            "D) You see a good theatre last night.",
+            "E) We saw an good film last night."
+        ]
+    },
+    {
+        "question": "332. Translate into English.\n\nŞənlik üçün bir neçə pizza hazırlamalıyıq.",
+        "true-answer": "C) We need to make some pizzas for the party.",
+        "wrong-answers": [
+            "A) We to make some pizza for the party.",
+            "B) We needsome to make pizza for the wedding.",
+            "D) We need to makes some pizza for the party.",
+            "E) We need some pizzas to make for the party."
+        ]
+    },
+    {
+        "question": "333. Choose the correct variant.\n\nThere weren't ......... emails for you.",
+        "true-answer": "A) any",
+        "wrong-answers": [
+            "B) many",
+            "C) some",
+            "D) much",
+            "E) lot"
+        ]
+    },
+    {
+        "question": "334. Match the highlighted words\n\na) disease 1) the arms and legs of a person\nb) limbs 2) an illness\nc) spread 3) to gradually affect a bigger area\nd) disabled 4) when you can't move your body or part of your body",
+        "true-answer": "A) 1b, 2a, 3c, 4d",
+        "wrong-answers": [
+            "B) 1a, 2c, 3b, 4d",
+            "C) 1c, 2d, 3a, 4b",
+            "D) 1b, 2c, 3d, 4a",
+            "E) 1d, 2a, 3b, 4c"
+        ]
+    },
+    {
+        "question": "335. Make sentences by matching the phrases\n\n1) My headache comes a) apart when I dropped it on the floor\n2) This dream came b) true when he won an Olympic medal\n3) My camera came c) and goes, I feel fine now",
+        "true-answer": "b) 1c, 2b, 3a",
+        "wrong-answers": [
+            "a) 1a, 2b, 3c",
+            "c) 1c, 2a, 3b",
+            "d) 1b, 2a, 3c",
+            "e) 1b, 2c, 3a"
+        ]
+    },
+    {
+        "question": "336. Complete the sentences\n\n1) It's very sunny here, but everything is wet. İt's really ..... in the amazon rainforest.\n2) It's nice during the day but it's ..... in the evening. You have to put on a jacket.",
+        "true-answer": "a) humid, chilly",
+        "wrong-answers": [
+            "b) showery, chilly",
+            "c) chilly, mild",
+            "d) severe, mild",
+            "e) humid, mild"
+        ]
+    },
+    {
+        "question": "337. Choose the correct sentenses\n\n1) Julie has work at Woodward since September last year.\n2) I've already graduated from University.\n3) Dana has not graduated from college yet.\n4) I've play the guitar ever since I was a teenager.\n5) She's gone to Paris for a week.",
+        "true-answer": "a) 2,3,5",
+        "wrong-answers": [
+            "b) 1,3,5",
+            "c) 2,3,4",
+            "d) 3,4,5",
+            "e) 1,4,5"
+        ]
+    },
+    {
+        "question": "338. Choose the correct definitions\n\n1) Thunder-a light, pleasant wind\n2) Breeze-warm, wet and uncomfortable\n3) Humid-the loud noise of a storm\n4) Shower-a short period of rain\n5) Freezing-very,very cold\n6) Damp-cold and a bit wet",
+        "true-answer": "d) 4,5,6",
+        "wrong-answers": [
+            "a) 3,4,6",
+            "b) 1,3,6",
+            "c) 2,4,6",
+            "e) 3,5,6"
+        ]
+    },
+    {
+        "question": "339. Choose the incorrect definitions\n\n1) Paralyzed-someone who can't move his/her body\n2) Dream-something that happens in your mind when you are sleeping\n3) Exhausted-to push out air from your mouth -\n4) Limbs- the arms and legs of a person\n5) Spread-to control the direction that a vehicle moves -",
+        "true-answer": "c) 3,5",
+        "wrong-answers": [
+            "a) 1,5",
+            "b) 2,4",
+            "d) 1,3",
+            "e) 2,3"
+        ]
+    },
+    {
+        "question": "340. A:  _______(clean) your room yet? \nB: No, sorry. I ________ (go) to the library after school.",
+        "true-answer": "A) have you cleaned/went",
+        "wrong-answers": [
+            "B) has you clean/go",
+            "C) have you clean/went",
+            "D) has you cleaned/went",
+            "E) have you cleaned/go"
+        ]
+    },
+    {
+        "question": "341. Yesterday Tom ________ (tell) me that he would be here today, but he isn't here. He ________ (be) away all day.",
+        "true-answer": "e) told/has been",
+        "wrong-answers": [
+            "a) told/have been",
+            "b) tell/has been",
+            "c) told/been",
+            "d) tell/have been"
+        ]
+    },
+    {
+        "question": "342. Write the words in the correct order to make question.\n\n1. school 2. me 3. bus 4. which 5. excuse 6. get 7. I 8. to 9. do 10.the ?",
+        "true-answer": "D) 5, 2, 4, 3, 9, 7, 6, 8, 10, 1",
+        "wrong-answers": [
+            "A) 5, 4, 3, 2, 9, 6, 7, 10, 8, 1",
+            "B) 4, 3, 2, 10, 1, 5, 9, 7, 6, 8",
+            "C) 9, 7, 6, 8, 10, 3, 1, 2, 5, 4",
+            "E) 4, 9, 7, 1, 3, 6, 2, 5, 8, 10"
+        ]
+    },
+    {
+        "question": "343. Choose the correct variant.\n\n> Dəmiryol stansiyasına neçə dayanacaq var?",
+        "true-answer": "B) How many stops is it to the railway station?",
+        "wrong-answers": [
+            "A) How much stop is it to the railway station?",
+            "C) How many is stops it to railway station?",
+            "D) How much is it stop to the railway station?",
+            "E) How many is stop to it the station railway?"
+        ]
+    },
+    {
+        "question": "344. Choose the Present Perfect negative.\n\n> Luke ...... any postcards.",
+        "true-answer": "A) hasn't sent",
+        "wrong-answers": [
+            "B) haven't sent",
+            "C) hasn't send",
+            "D) hasn't sended",
+            "E) haven't send"
+        ]
+    },
+    {
+        "question": "345. Write sentence. Use the Present Perfect affirmative.\n\n> We ........ our homework.",
+        "true-answer": "D) have finished",
+        "wrong-answers": [
+            "A) have finishing",
+            "B) has finish",
+            "C) had been finish",
+            "E) had finished"
+        ]
+    },
+    {
+        "question": "346. Complete the sentence.\n\n> You ....... go and look ..... the museums -- they are very interesting.",
+        "true-answer": "A) should, round",
+        "wrong-answers": [
+            "B) took, should",
+            "C) round, took",
+            "D) went, guide",
+            "E) should, art"
+        ]
+    },
+    {
+        "question": "347. Match the words with the definition.\n\n1) have a) time\n2) take b) a visitor around\n3) show c) friends\n4) make d) a break\n5) spend e) an interesting experience",
+        "true-answer": "b) 1 e, 2 d, 3 b, 4 c, 5 a",
+        "wrong-answers": [
+            "a) 1 a, 2 d, 3 b, 4 c, 5 e",
+            "c) 1 e, 2 b, 3 c, 4 a, 5 d",
+            "d) 1 d, 2 c, 3 b, 4 a, 5 e",
+            "e) 1 c, 2 a, 3 d, 4 b, 5 e"
+        ]
+    },
+    {
+        "question": "348. Choose the correct definition.\n\n> \"Resign from a job\".",
+        "true-answer": "d) to leave a company.",
+        "wrong-answers": [
+            "a) to go on a training.",
+            "b) to have an interview.",
+            "c) to ask to work for a company.",
+            "e) to have a position of responsibility"
+        ]
+    },
+    {
+        "question": "349. Choose the correct variant.\n\n> I'm going to help to .... an old castle in the west of France.\n> He .... 12 hours a day.",
+        "true-answer": "e) restore,works",
+        "wrong-answers": [
+            "a) need",
+            "b) prepare",
+            "c) take",
+            "d) continue"
+        ]
+    },
+    {
+        "question": "350. Choose the correct translation.\n\n> Mənim qardaşımın ofisdə yeni işi var.",
+        "true-answer": "b) My brother has got a new job in an office.",
+        "wrong-answers": [
+            "a) My brother has got a job",
+            "c) My brother have got a new job.",
+            "d) My brother get a new job.",
+            "e) My brother hasn't got a new job in an office."
+        ]
+    },
+    {
+        "question": "351. Choose the correct meaning.\n\n> \"Self-employed\"",
+        "true-answer": "c) Working for yourself, not for a company.",
+        "wrong-answers": [
+            "a) With no job, but wanting to work",
+            "b) Works in a hospital",
+            "d) Looks after people's teeth.",
+            "e) Works in a kitchen."
+        ]
+    },
+    {
+        "question": "352. Match the words with their definitions.\n\n1. factory worker a. hair salon\n2. shop assistant b. garage\n3. mechanic c. factory\n4. builder d. shop\n5. hairdresser e. building site",
+        "true-answer": "a) 1 c, 2 d, 3 b, 4 e, 5 a",
+        "wrong-answers": [
+            "b) 1 c, 2 b, 3 d, 4 e, 5 a",
+            "c) 1 b, 2 d, 3 a, 4 c, 5e",
+            "d) 1 e, 2 a, 3 d, 4 b, 5 c",
+            "e) 1 c, 2 d, 3 b, 4 a, 5 e"
+        ]
+    },
+    {
+        "question": "353. Complete the sentences.\n\n> She is going to ... the exam.\n> My friend is going to ... his parents.",
+        "true-answer": "b) take, phone",
+        "wrong-answers": [
+            "a) fail, phone",
+            "c) see, visit",
+            "d) let, come",
+            "e) meet, see"
+        ]
+    },
+    {
+        "question": "354. Choose the correct definition have to do something",
+        "true-answer": "a) must do something",
+        "wrong-answers": [
+            "b) talk about something",
+            "c) the money you have to pay for",
+            "d) get money in a game",
+            "e) price"
+        ]
+    },
+    {
+        "question": "355. Who is client?",
+        "true-answer": "d) a person who pays an architect,lawyer for his or her work and help .",
+        "wrong-answers": [
+            "a) a person who works with you",
+            "b) if you organize a meeting",
+            "c) talk about something",
+            "e) someone you have a romantic relationship with you"
+        ]
+    },
+    {
+        "question": "356. Choose the correct meaning give something up",
+        "true-answer": "c) stop doing something",
+        "wrong-answers": [
+            "a) increase",
+            "b) stop sleeping",
+            "d) continue with something",
+            "e) return to a place"
+        ]
+    },
+    {
+        "question": "357. Choose the correct meaning take off",
+        "true-answer": "c) leave the ground and start flying",
+        "wrong-answers": [
+            "a) change from a child to an adult",
+            "b) have a good relationship",
+            "d) return to a place",
+            "e) become more"
+        ]
+    },
+    {
+        "question": "358. Choose the correct variant\n\n> ... works in a surgery.",
+        "true-answer": "a) a doctor",
+        "wrong-answers": [
+            "b) a scientist",
+            "c) a surgery",
+            "d) an artist",
+            "e) a judge"
+        ]
+    }
+]
