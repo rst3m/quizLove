@@ -1,0 +1,1502 @@
+[
+  {
+    "question": "Azərbaycan iqtisadiyyatı fənninin əsas predmeti nədir?",
+    "true-answer": "a) Milli iqtisadiyyatın yaranması, iqtisadi inkişafı, qanunauyğunluqları",
+    "wrong-answers": [
+      "b) İqtisadi münasibətlərin formalaşdırılmasının prinsipləri",
+      "c) İqtisadi qanunlar və qanunauyğunluqların dərk edilməsi",
+      "d) Dünya iqtisadiyyatının yeni mərhələdə inkişaf dinamikası",
+      "e) Müəssisələrin maliyyə təsərrüfat fəaliyyəti"
+    ]
+  },
+  {
+    "question": "Müasir dövrdə Azərbaycan iqtisadiyyatının hansı problemi mühüm əhəmiyyət kəsb edir?",
+    "true-answer": "a) Dayanıqlılıq və artım problemləri",
+    "wrong-answers": [
+      "b) İstehsal güclərinin azlığı",
+      "c) Xarici borcun artması",
+      "d) İqtisadiyyatın diversifikasiyası",
+      "e) Dünya iqtisadiyyatına inteqrasiya"
+    ]
+  },
+  {
+    "question": "Müasir iqtisadi problemlərin öyrənilməsində hansı yanaşma vacibdir?",
+    "true-answer": "a) Metodoloji yanaşma",
+    "wrong-answers": [
+      "b) Müqayisəli yanaşma",
+      "c) Tarixi yanaşma",
+      "d) Qeyri-rəsmi yanaşma",
+      "e) Praktiki yanaşma"
+    ]
+  },
+  {
+    "question": "İqtisadi sistemin formalaşmasında hansı amillər rol oynayır?",
+    "true-answer": "a) Məhsuldar qüvvələr və iqtisadi münasibətlər",
+    "wrong-answers": [
+      "b) Xarici ticarət və daxili ticarət",
+      "c) İctimai əmək bölgüsü",
+      "d) İctimai münasibətlər və fərdi azadlıqlar",
+      "e) Şəxsi təcrübə və bacarıqlar"
+    ]
+  },
+  {
+    "question": "İqtisadi hadisələrin müşahidə edilməsi hansı məqsədlə həyata keçirilir?",
+    "true-answer": "a) Analiz və nəticə çıxarmaq üçün",
+    "wrong-answers": [
+      "b) Əyləncə məqsədilə",
+      "c) Təsadüfi səbəblərlə",
+      "d) Oxşar cəhətləri öyrənmək",
+      "e) İctimai istehsal üçün"
+    ]
+  },
+  {
+    "question": "Analiz və sintez metodları ilə nələr araşdırılır?",
+    "true-answer": "a) İqtisadi proseslərin tərkib hissələri və onların qarşılıqlı əlaqələri",
+    "wrong-answers": [
+      "b) İqtisadi hadisələrin yalnız müsbət cəhətləri və xüsusiyyətləri",
+      "c) Sadəcə iqtisadi böhranların səbəbləri və nəticələri",
+      "d) Yalnız beynəlxalq ticarət proseslərinin dinamikası",
+      "e) Yalnız tarixi faktların öyrənilməsi"
+    ]
+  },
+  {
+    "question": "Hansı metod zamanı tədqiq olunan hadisələr öz konkret, keçici və təsadüfi tərəflərindən təcrid olunur, onlara xas olan ümumi mühüm cəhət aşkara çıxarılır.",
+    "true-answer": "a) Elmi abstraksiya",
+    "wrong-answers": [
+      "b) Analiz və sintez",
+      "c) Tarixi və məntiqi",
+      "d) Müşahidə və təcrübə",
+      "e) Müqayisə"
+    ]
+  },
+  {
+    "question": "Müqayisə metodunun əsas məqsədi hansıdır?",
+    "true-answer": "a) İqtisadi proseslərin oxşar və fərqli xüsusiyyətlərini müəyyənləşdirmək",
+    "wrong-answers": [
+      "b) İqtisadi inkişafın yalnız mənfi tərəflərini öyrənmək",
+      "c) Tarixi məlumatları toplamaq və araşdırmaq",
+      "d) Yalnız nəzəri yanaşmaları inkişaf etdirmək",
+      "e) İqtisadiyyatın tarixi inkişafını izah etmək və nəticə çıxartmaq"
+    ]
+  },
+  {
+    "question": "Azərbaycan iqtisadiyyatında diversifikasiyanın məqsədi nədir?",
+    "true-answer": "a) İqtisadiyyatın strukturunun genişləndirilməsi",
+    "wrong-answers": [
+      "b) Xammal istehsalını artırmaq",
+      "c) İqtisadi resursların səmərəli istifadəsi",
+      "d) İxracın artırılması",
+      "e) Yoxsulluğun azaldılması"
+    ]
+  },
+  {
+    "question": "Yüksək texnologiyaların inkişafı hansı məqsədə xidmət edir?",
+    "true-answer": "a) İqtisadiyyatın dayanıqlı inkişafı",
+    "wrong-answers": [
+      "b) Sosial problemlərin həlli",
+      "c) İxracın azaldılması",
+      "d) Yoxsulluğun artırılması",
+      "e) Yalnız yeni məhsulların istehsalı"
+    ]
+  },
+  {
+    "question": "Azərbaycan iqtisadiyyatının uzunmüddətli inkişafı üçün hansı faktor vacibdir?",
+    "true-answer": "a) Rəqabət mühitinin yaradılması",
+    "wrong-answers": [
+      "b) Sosial-iqtisadi bərabərlik",
+      "c) Təbii sərvətlərin istifadəsi",
+      "d) Xarici mütəxəssislərin cəlbi",
+      "e) Sosial problemlərin həlli"
+    ]
+  },
+  {
+    "question": "Abstraksiya latınca 'abstractio' sözündən götürülüb nə deməkdir?",
+    "true-answer": "a) Ayırma, təcridetmə",
+    "wrong-answers": [
+      "b) Daxiletmə",
+      "c) Əsaslanma, əlavə",
+      "d) İsbatetmə",
+      "e) Təhliletmə, düşünmə"
+    ]
+  },
+  {
+    "question": "Hansı metod müəyyən etdiyi iqtisadi anlayışları, kateqoriyaları onların yarandığı tarixi ardıcıllıqla şərh edir.",
+    "true-answer": "a) Tarixi və məntiqi",
+    "wrong-answers": [
+      "b) Elmi və abstraksiya",
+      "c) Analiz və sintez",
+      "d) İnduksiya və deduksiya",
+      "e) Statistik qruplaşdırma"
+    ]
+  },
+  {
+    "question": "Ötən yüzillikdə və hazırki əsrin keçən iki onilliyində Azərbaycan iqtisadiyyatı neçə iqtisadi sistem şəraitində inkişaf etmişdir.",
+    "true-answer": "a) 3",
+    "wrong-answers": [
+      "b) 2",
+      "c) 4",
+      "d) 5",
+      "e) 6"
+    ]
+  },
+  {
+    "question": "Ötən yüzillikdə və XXI əsrin arxada qalan iki onilliyində Azərbaycan iqtisadiyyatı xeyli dərəcədə ziddiyyətli və əhəmiyyətli dərəcədə antoqonist olan hansı iqtisadi sistemlər şəraitində inkişaf etmişdir.",
+    "true-answer": "a) ADR-nın fəaliyyət dövrü, Azərbaycan SSR-nin fəaliyyət dövrü, Müstəqil Azərbaycan Respublikasının iqtisadiyyatı",
+    "wrong-answers": [
+      "b) Sovet Azərbaycanının fəaliyyət dövrü, Müstəqilliyin bərpasından sonra Azərbaycan Respublikasının fəaliyyət dövrü",
+      "c) Çar Rusiyasının dövründə Azərbaycan iqtisadiyyatı, SSRİ-dövründə Azərbaycan iqtisadiyyatı",
+      "d) Azərbaycan Xalq Cumhuriyyəti dövründə Azərbaycan iqtisadiyyatı, SSRİ-dövründə Azərbaycan iqtisadiyyatı",
+      "e) Dövlət müstəqilliyinin bərpasından sonrakı dövrdə Azərbaycan iqtisadiyyatı, müasir dövrdə Azərbaycan iqtisadiyyatı"
+    ]
+  },
+  {
+    "question": "'Hər şey insana, onun rifah və səadətinə xidmət etməlidir' ideyası uğrunda kim mübarizə aparmışdır.",
+    "true-answer": "a) İ. Nəsimi",
+    "wrong-answers": [
+      "b) M.Füzuli",
+      "c) A. Bakıxanov",
+      "d) N.Tusi",
+      "e) N.Gəncəvi"
+    ]
+  },
+  {
+    "question": "N.Tusi, cəmiyyətin iqtisadi həyatını, insanların iqtisadiyyatı öyrənməsini, onların davranış qaydalarını hansı elmin predmeti kimi qəbul edirdi.",
+    "true-answer": "a) İctimaiyyət",
+    "wrong-answers": [
+      "b) İqtisadiyyat",
+      "c) Fəlsəfə",
+      "d) Sosiologiya",
+      "e) Politologiya"
+    ]
+  },
+  {
+    "question": "'Salam verdim, rüşvət deyildir deyə almadılar' fikri Füzulinin hansı əsərinə aiddir.",
+    "true-answer": "a) 'Şikayətnamə'",
+    "wrong-answers": [
+      "b) 'Leyli və Məcnun'",
+      "c) 'Səhhət və Mərəz'",
+      "d) 'Rindü Zahid'",
+      "e) 'Söhbətül-əsmar'"
+    ]
+  },
+  {
+    "question": "Hər bir insanın halal əməklə, halal zəhmətlə məşğul olmalarını yüksək qiymətləndirərək, onun şərəfli işi hesab etmişdir.",
+    "true-answer": "a) N.Gəncəvi",
+    "wrong-answers": [
+      "b) İ.Nəsimi",
+      "c) A.Bakıxanov",
+      "d) M.Füzuli",
+      "e) N.Tusi"
+    ]
+  },
+  {
+    "question": "Ölkənin iqtisadi tərəqqisini kim əhalinin maariflənməsində görürdü.",
+    "true-answer": "a) A.Bakıxanov",
+    "wrong-answers": [
+      "b) M.F.Axundov",
+      "c) N.Zərdabi",
+      "d) M.Ə.Sabir",
+      "e) N.Vəzirov"
+    ]
+  },
+  {
+    "question": "XIX əsrin ikinci yarısı və XX əsrin əvvəlində Azərbaycanda iqtisadi fikrin formalaşmasında böyük təsiri olmuşdur",
+    "true-answer": "a) Sənayenin, xüsusilə neft sənayesinin",
+    "wrong-answers": [
+      "b) Aqrar sahənin, xüsusilə kənd təsərrüfatının",
+      "c) Metallurgiya sənayesinin",
+      "d) Maşınqayırma sənayesinin",
+      "e) Kömür sənayesi, dağ-mədən sənayesinin"
+    ]
+  },
+  {
+    "question": "N.Tusi cəmiyyətin iqtisadi quruluşu, iqtisadi münasibətlərə dair fikirlərini hansı əsərlərində ifadə etmişdir.",
+    "true-answer": "a) 'Əxlaqi-Nasiri', 'Dövlət maliyyəsi haqqında'",
+    "wrong-answers": [
+      "b) 'Gülüstani-İrəm', 'Nəsihətnamə'",
+      "c) 'Şikayətnamə', 'Siyasətnamə'",
+      "d) 'Kərpiçkəsən kişi dastanı'",
+      "e) 'Üç məktub', 'Rindü Zahid'"
+    ]
+  },
+  {
+    "question": "Avesta hansı dini təlimin müqəddəs kitabıdır?",
+    "true-answer": "a) Zərdüştlük",
+    "wrong-answers": [
+      "b) Xristianlıq",
+      "c) İslam",
+      "d) Buddizm",
+      "e) Hinduizm"
+    ]
+  },
+  {
+    "question": "Azərbaycanda iqtisadi fikrin inkişafında hansı sosial hərəkatlar mühüm rol oynamışdır?",
+    "true-answer": "a) Manihəçilik, Xürrəmilər, Məzdəkilər",
+    "wrong-answers": [
+      "b) Sufi hərəkatı, Manihəçilik",
+      "c) Manilər, feodallar, bəylər",
+      "d) Ancaq Xürrəmilər",
+      "e) Məzdəkilər və Xürrəmilər"
+    ]
+  },
+  {
+    "question": "İslamda mülkiyyət hüququna dair hansı prinsip əsasdır?",
+    "true-answer": "a) Şəxsi əmlak toxunulmazdır",
+    "wrong-answers": [
+      "b) Mülkiyyət hüququ kollektivdir",
+      "c) Mülkiyyət yalnız dövlətə aiddir",
+      "d) Mülkiyyətin bölünməsi mütləqdir",
+      "e) Mülkiyyət hüququ yalnız zənginlərə aiddir"
+    ]
+  },
+  {
+    "question": "Oğuz tayfalarının məşğuliyyəti:",
+    "true-answer": "a) əkinçilik, maldarlıq",
+    "wrong-answers": [
+      "b) toxuculuq",
+      "c) maldarlıq, toxuculuq",
+      "d) Dini inanclar",
+      "e) əkinçilik"
+    ]
+  },
+  {
+    "question": "Zərdüştlük hansı prinsiplərlə ifadə olunur.",
+    "true-answer": "a) Fikir, xeyirxah söz, xeyirxah əməl",
+    "wrong-answers": [
+      "b) İdeya, təklif, xalq məsəlləri",
+      "c) Fikirlər, bəd əməllər, sosial əlaqələr",
+      "d) düşüncə, özünə hörmət, mərhəmət",
+      "e) Azad fikir, qarşılıqlı hörmət, yaxşı əməl"
+    ]
+  },
+  {
+    "question": "Şəriət qanunlarına görə illik gəlirin 20%-i hansı vergi növünü bildirir.",
+    "true-answer": "a) Xüms",
+    "wrong-answers": [
+      "b) Zəkat",
+      "c) Cizyə",
+      "d) Xərac və üsr",
+      "e) Biyar"
+    ]
+  },
+  {
+    "question": "İslamda əmək, əmlak, mülkiyyət münasibətlərində hansı prinsip əsas yer tutur.",
+    "true-answer": "a) Halallıq",
+    "wrong-answers": [
+      "b) Bazar",
+      "c) Bərabərlik",
+      "d) Faydalılıq",
+      "e) Reallıq"
+    ]
+  },
+  {
+    "question": "Orta əsr Azərbaycan sosial-iqtisadi şəraitini səciyyələndirən yazılı mənbələr içərisində XI əsrin məşhur tarixi abidəsi olan hansı əsər mühüm yer tutur.",
+    "true-answer": "a) 'Siyasətnamə'",
+    "wrong-answers": [
+      "b) 'Şikayətnamə'",
+      "c) 'Əxlaqi-nasir'",
+      "d) 'Nəsihətnamə'",
+      "e) 'İsgəndərnamə'"
+    ]
+  },
+  {
+    "question": "Azərbaycan iqtisadiyyatının formalaşmasının əsas mərhələlərinə aid deyil.",
+    "true-answer": "a) Müstəqillikdən sonra dördüncü dövr",
+    "wrong-answers": [
+      "b) Müstəqillikdən sonra birinci dövr",
+      "c) Müstəqillikdən sonra ikinci dövr",
+      "d) Azərbaycan iqtisadiyyatının keçid dövrü",
+      "e) Müstəqillikdən sonra üçüncü dövr"
+    ]
+  },
+  {
+    "question": "Azərbaycan iqtisadiyyatının müstəqillikdən sonra ikinci dövrü hansı illəri əhatə edir.",
+    "true-answer": "a) 1995-2003",
+    "wrong-answers": [
+      "b) 1994-2000",
+      "c) 1996-2002",
+      "d) 1993-1998",
+      "e) 2000-2005"
+    ]
+  },
+  {
+    "question": "XIX-cu əsrin ikinci yarısı Rusiyada kapitalist istehsal münasibətlərinin genişlənməsi Azərbaycana necə təsir etdi.\n1. Ölkə iqtisadiyyatına böyük həcmdə xarici kapital axını baş verdi\n2. Ölkə iqtisadiyyatının sabitləşdirilməsi ilə nəticələndi\n3. Azərbaycan Rusiyanın dəmiryolu şəbəkəsinə qoşuldu\n4. Azərbaycan Rusiya bazarına çıxış imkanı qazandı\n5. Kiçik həcmdə xarici kapital axını baş verdi",
+    "true-answer": "a) 1,3,4",
+    "wrong-answers": [
+      "b) 1,2,3",
+      "c) 2,4,5",
+      "d) 1,3,5",
+      "e) 2,3,5"
+    ]
+  },
+  {
+    "question": "Rusiya imperiyasının işğalı altına düşdükdən sonra Azərbaycanda nə baş verdi.\n1. Çar Rusiyasının xammal bazasına çevrildi\n2. İqtisadi azadlıq əldə edildi\n3. İqtisadi və siyasi əlaqələr məhdudlaşdırıldı\n4. Tamamilə müstəmləkə prinsipləri ilə idarə olundu\n5. Azərbaycan iqtisadiyyatında ciddi irəliləyişlər baş verdi",
+    "true-answer": "a) 1,4",
+    "wrong-answers": [
+      "b) 2,4,5",
+      "c) 1,5",
+      "d) 2,3,5",
+      "e) 2,4"
+    ]
+  },
+  {
+    "question": "Rusiya imperiyasının tabeçiliyinə keçdikdən sonra Azərbaycandan Rusiya bazarına hansı məhsullar daşınmağa başladı.",
+    "true-answer": "a) Neft və neft məhsulları, pambıq, ipək və s.",
+    "wrong-answers": [
+      "b) Tikinti materialları, dərman vasitələri",
+      "c) Kimya məhsulları, şəkər və s.",
+      "d) Kənd təsərrüfatı məhsulları, mis",
+      "e) Meşə materialları, şərab və s."
+    ]
+  },
+  {
+    "question": "'Nobel Qardaşları' və 'Rotşild' şirkətləri Bakıda neft sektoruna böyük miqdarda vəsait qoydu.",
+    "true-answer": "a) 1872-ci ildən sonra",
+    "wrong-answers": [
+      "b) 1860-cı ildən sonra",
+      "c) 1861-ci ildən sonra",
+      "d) 1865-ci ildən sonra",
+      "e) 1869-cu ildən sonra"
+    ]
+  },
+  {
+    "question": "Birinci dünya müharibəsi ərəfəsində Bakıda fəaliyyət göstərən İngilis neft şirkətlərindən ibarət olan beynəlxalq qurum necə adlanırdı.",
+    "true-answer": "a) London neft sənaye və maliyyə korporasiyası",
+    "wrong-answers": [
+      "b) İngiltərə Sənaye və Maliyyə korporasiyası",
+      "c) İngilis neft korporasiyası",
+      "d) İngilis sənaye cəmiyyəti",
+      "e) London sənaye və maliyyə cəmiyyəti"
+    ]
+  },
+  {
+    "question": "Bakı-Batum neft boru xəttinin bərpa edilməsi, Bakı-Culfa dəmiryolu xəttinin qurulması hansı dönəmdə baş vermişdir.",
+    "true-answer": "a) Cümhuriyyət dönəmində",
+    "wrong-answers": [
+      "b) Çar Rusiyası dönəmində",
+      "c) Xanlıqlar dönəmində",
+      "d) SSRİ dönəmində",
+      "e) Postsovet dönəmində"
+    ]
+  },
+  {
+    "question": "Cümhuriyyət dönəmində təhsil siyasəti üzrə həyata keçirilən ilk tədbirlərdən biri hansıdır.",
+    "true-answer": "a) Azərbaycan dilinin dövlət dili elan edilməsi",
+    "wrong-answers": [
+      "b) Milli kadrların hazırlanması",
+      "c) Məktəblərin milliləşdirilməsi",
+      "d) Bakı Dövlət Universitetinin yaradılması",
+      "e) Qızların təhsilə cəlb edilməsi"
+    ]
+  },
+  {
+    "question": "Azərbaycanda 1970-1985-ci illər necə xarakterizə edilirdi.",
+    "true-answer": "a) Sosial-iqtisadi inkişafın sürətlənməsi",
+    "wrong-answers": [
+      "b) Sosial-iqtisadi vəziyyətin kəskinləşməsi",
+      "c) Sosial-iqtisadi inkişafın zəifləməsi",
+      "d) Elmi-texniki tərəqqinin sürətlənməsi",
+      "e) Cəmiyyətdə yenidənqurmanın həyata keçirilməsi"
+    ]
+  },
+  {
+    "question": "Müstəqillik qazandıqdan sonra dövlətin iqtisadi inkişaf yolu və vətəndaşlar qarşısında öhdəlikləri Azərbaycan Respublikası Konstitusiyasının aşağıdakı iki maddəsində təsbit edilmişdir.",
+    "true-answer": "a) Maddə 15,16",
+    "wrong-answers": [
+      "b) Maddə 13,14",
+      "c) Maddə 14,15",
+      "d) Maddə 16,17",
+      "e) Maddə 17,18"
+    ]
+  },
+  {
+    "question": "2015-ci ildə Azərbaycanda ÜDM istehsalının azalması nə ilə bağlı olmuşdur.",
+    "true-answer": "a) Dünya bazarında neft qiymətlərinin dəyişməsi",
+    "wrong-answers": [
+      "b) Qlobal maliyyə böhranı",
+      "c) Pandemiya şəraiti ilə əlaqədar",
+      "d) Bazar iqtisadiyyatına keçidlə əlaqədar",
+      "e) Struktur islahatların aparılmaması"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı dövlət təsərrüfat forması hesab edilir.",
+    "true-answer": "a) Sovxoz",
+    "wrong-answers": [
+      "b) Kooperasiya",
+      "c) Kooperativ",
+      "d) Kolxoz",
+      "e) Səhmdar cəmiyyəti"
+    ]
+  },
+  {
+    "question": "Azərbaycan Xalq Cümhuriyyətinin iqtisadi siyasətinin əsas məqsədi nə idi?",
+    "true-answer": "a) Milli maraqların qorunması və müasir iqtisadi inkişaf modelinin formalaşdırılması",
+    "wrong-answers": [
+      "b) Xarici borcun azaldılması və tədiyyə balansının optimallaşdırılması",
+      "c) Sosial ədalət və sosial inkişafa bütünlükdə nail olunması",
+      "d) Ticarət münasibətlərinin genişləndirilməsi",
+      "e) Tütün istehsalının, neft istehsalının əhəmiyyətli artırılması"
+    ]
+  },
+  {
+    "question": "Heydər Əliyevin hakimiyyəti dövründə (1970-1985) hansı sahələrdə istehsal həcmi artmışdır?",
+    "true-answer": "a) Qaz, elektrik enerjisi, kənd təsərrüfatı",
+    "wrong-answers": [
+      "b) Kənd təsərrüfatı və xidmət sektoru",
+      "c) Sənaye və turizm sektoru",
+      "d) Ticarət və müştəri xidmətləri",
+      "e) Nəqliyyat və İnformasiya texnologiyaları"
+    ]
+  },
+  {
+    "question": "Yeni yaradılmış dəyər olub, əmək haqqı, mənfəət, faiz və rentanın cəmindən ibarət olan göstərici.",
+    "true-answer": "a) Milli gəlir",
+    "wrong-answers": [
+      "b) Milli sərvət",
+      "c) Xalis gəlir",
+      "d) Ümumi daxili məhsul",
+      "e) Xalis milli məhsul"
+    ]
+  },
+  {
+    "question": "İstehsal olunan məhsulda iştirak edən bir təsərrüfat subyektinin payının müəyyən edilməsi prosesi nə adlanır.",
+    "true-answer": "a) Bölgü",
+    "wrong-answers": [
+      "b) Mübadilə",
+      "c) Hasilatın pay bölgüsü",
+      "d) Müqavilə",
+      "e) İstifadəetmə"
+    ]
+  },
+  {
+    "question": "Əhalinin həyat səviyyəsini müəyyən edən ən mühüm göstərici hansıdır.",
+    "true-answer": "a) Milli gəlir",
+    "wrong-answers": [
+      "b) Nominal gəlir",
+      "c) Real gəlir",
+      "d) Sərəncamda qalan gəlir",
+      "e) Natural gəlir"
+    ]
+  },
+  {
+    "question": "Adambaşına düşən ÜMG-i 1005 ABŞ dolları və daha az olan ölkələr hansı gəlir qrupuna aiddir.",
+    "true-answer": "a) Aşağı gəlirli ölkələr qrupu",
+    "wrong-answers": [
+      "b) Sabit gəlirli ölkələr qrupu",
+      "c) Zəif gəlirli ölkələr qrupu",
+      "d) Orta gəlirli ölkələr qrupu",
+      "e) Dəyişən gəlirli ölkələr qrupu"
+    ]
+  },
+  {
+    "question": "Adambaşına düşən ÜMG-i 1006 ABŞ dollarından 3975 ABŞ dollarına qədər olan ölkələr hansı qrupa aid edilir.",
+    "true-answer": "a) Aşağı orta gəlirli",
+    "wrong-answers": [
+      "b) Yuxarı orta gəlirli",
+      "c) Sabit orta gəlirli",
+      "d) Dəyişən orta gəlirli",
+      "e) Nisbi orta gəlirli"
+    ]
+  },
+  {
+    "question": "Adambaşına düşən ÜMG-i 3976-dan 12.275 ABŞ dollarına qədər olan ölkələr hansı qrupa aiddir.",
+    "true-answer": "a) Yuxarı orta gəlirli",
+    "wrong-answers": [
+      "b) Aşağı orta gəlirli",
+      "c) Dinamik orta gəlirli",
+      "d) Ümumi orta gəlirli",
+      "e) Artan orta gəlirli"
+    ]
+  },
+  {
+    "question": "Avropa Sosial Xartiyasına görə minimum əmək haqqı, ölkə üzrə orta aylıq əmək haqqının neçə faizindən az olmamalıdır.",
+    "true-answer": "a) 60 faizindən",
+    "wrong-answers": [
+      "b) 65 faizindən",
+      "c) 62 faizindən",
+      "d) 55 faizindən",
+      "e) 70 faizindən"
+    ]
+  },
+  {
+    "question": "Əhali gəlirlərinin o cümlədən əmək haqqının xüsusi çəkisinin bir sıra ölkələrə nisbətən Azərbaycanda aşağı olmağı hansı səbəblərlə əlaqədardır.\n1. Ölkəmizdə yaradılan ÜDM-in və MG-in mütləq həcminin aşağı olması\n2. Ölkəmizdə ümumi daxili məhsul istehsalının tədrici azalması\n3. Xalis milli məhsulun çox surətlə artması\n4. İqtisadi artıma təsir edən amillərin zəif rolu\n5. ÜDM-in və milli gəlirin ədalətli bölüşdürülməməsi",
+    "true-answer": "a) 1,5",
+    "wrong-answers": [
+      "b) 2,3,4",
+      "c) 1,3,5",
+      "d) 1,4",
+      "e) 2,5"
+    ]
+  },
+  {
+    "question": "Hansı ölkələrin ümumi daxili məhsulunda əmək ödənişləri payı 50-65 % arasında dəyişir.",
+    "true-answer": "a) İnkişaf etmiş Avropa və Asiya",
+    "wrong-answers": [
+      "b) Orta Asiya ölkələri",
+      "c) Şərqi Avropa ölkələri",
+      "d) MDB ölkələri",
+      "e) Latın Amerikası ölkələri"
+    ]
+  },
+  {
+    "question": "Gəlirin insanlar və ya ev təsərrüfatları arasında qeyri-bərabər paylanması dedikdə nə nəzərdə tutulur.",
+    "true-answer": "a) Gəlir bərabərsizliyi",
+    "wrong-answers": [
+      "b) Əmlak bərabərsizliyi",
+      "c) Sosial bərabərsizlik",
+      "d) Gender bərabərsizliyi",
+      "e) İmkanlar bərabərsizliyi"
+    ]
+  },
+  {
+    "question": "Tomas Pikettiyə görə gəlir bərabərsizliyi aşağıdakı qruplara bölünür.",
+    "true-answer": "a) Zəif, orta, güclü, ifrat",
+    "wrong-answers": [
+      "b) Sabit, orta, dəyişən, güclü",
+      "c) Artan, ifrat, azalan, orta",
+      "d) İfrat, zəif, xüsusi, güclü",
+      "e) Güclü, ifrat, orta, sabit"
+    ]
+  },
+  {
+    "question": "Gəlir bərabərsizliyi səviyyəsinin riyazi dəyərdə ifadəsi nə adlanır.",
+    "true-answer": "a) Cini əmsalı",
+    "wrong-answers": [
+      "b) Lorens əyrisi",
+      "c) Desil indeksi",
+      "d) Kvartil əmsalı",
+      "e) Kvintil əmsalı"
+    ]
+  },
+  {
+    "question": "Gəlir bərabərsizliyi iqtisadiyyatda aşağıdakı hansı problemlərin yaranmasına gətirib çıxara bilər.\n1. İqtisadi artımın azalması\n2. Sağlamlıq vəziyyətinin yaxşılaşması\n3. Cəmiyyətdə sosial gərginliyin artması\n4. Orta ömür müddətinin artması\n5. İnsan kapitalı və insan inkişafının zəifləməsi",
+    "true-answer": "a) 1,3,5",
+    "wrong-answers": [
+      "b) 2,4,5",
+      "c) 1,2,3",
+      "d) 4,5",
+      "e) 3,4,5"
+    ]
+  },
+  {
+    "question": "Mövcud ölkədə elmi cəhətdən əsaslandırılmış normalar üzrə minimum yaşayış vasitələri olmayan cəmiyyətin müəyyən hissəsinin iqtisadi vəziyyəti nə adlanır.",
+    "true-answer": "a) Yoxsulluq",
+    "wrong-answers": [
+      "b) Kasıblıq",
+      "c) Sosial bərabərsizlik",
+      "d) Həssas təbəqə",
+      "e) Miskinlik"
+    ]
+  },
+  {
+    "question": "Hansı konsepsiyaya görə, o insanlar yoxsul hesab edilir ki, onların gəlirləri mövcud cəmiyyətdə qəbul olunmuş və üstünlük təşkil edən istehlak standartları səviyyəsində yaşamağa imkan vermir.",
+    "true-answer": "a) Nisbi yoxsulluq həddi",
+    "wrong-answers": [
+      "b) Yoxsulluq həddi",
+      "c) Sosial Dövlət",
+      "d) Marjinalizm",
+      "e) Mütləq bərabərsizlik"
+    ]
+  },
+  {
+    "question": "Təlabatın ödənilməsi üçün təbii mühitdən əldə olunan vasitələr nə adlanır.",
+    "true-answer": "a) Resurs",
+    "wrong-answers": [
+      "b) Əmək vasitələri",
+      "c) İstehsal vasitələri",
+      "d) Əmək cismi",
+      "e) Qazıntı"
+    ]
+  },
+  {
+    "question": "Torpaqlar, meşələr, yerüstü və yerin təkində mövcud olan xammal, materiallar, mineral yataqlar, su hövzələri və s. hansı resurs növünə aiddir.",
+    "true-answer": "a) Təbii",
+    "wrong-answers": [
+      "b) Əmək",
+      "c) Kapital",
+      "d) Maddi",
+      "e) Maliyyə"
+    ]
+  },
+  {
+    "question": "Tükənən resurslar hansı resurslara ayrılır.",
+    "true-answer": "a) Bərpa olunmayan, nisbi bərpa olunan, bərpa olunan",
+    "wrong-answers": [
+      "b) Bərpa olunan, bərpa olunmayan",
+      "c) Artan resurslar, azalan resurslar",
+      "d) Enerji resursları, energetika resursları",
+      "e) Nisbi bərpa olunan, bərpa olunan"
+    ]
+  },
+  {
+    "question": "Hər bir ölkədə təbii resurslardan səmərəli istifadə hansı inkişafın təmin edilməsinin mühüm şərtlərindən biridir.",
+    "true-answer": "a) Davamlı və dayanıqlı",
+    "wrong-answers": [
+      "b) Sabit və dinamik",
+      "c) Sosial və iqtisadi",
+      "d) Ancaq dinamik",
+      "e) Sürətli"
+    ]
+  },
+  {
+    "question": "Təkcə insanın maddi tələbatını deyil, həm də müəyyən qədər mənəvi təlabatını ödəyən resurslar hansılardır.",
+    "true-answer": "a) Təbii resurslar",
+    "wrong-answers": [
+      "b) İqtisadi resurslar",
+      "c) Əmək resursları",
+      "d) Kapital resursları",
+      "e) Enerji resursları"
+    ]
+  },
+  {
+    "question": "Azərbaycanda özünün təsdiqlənmiş dəmir filizi ehtiyatlarının həcminə görə zəngin rayonu.",
+    "true-answer": "a) Daşkəsən",
+    "wrong-answers": [
+      "b) Gədəbəy",
+      "c) Zaqatala",
+      "d) Kəlbəcər",
+      "e) Laçın"
+    ]
+  },
+  {
+    "question": "Azərbaycanın Ağdərə rayonu ərazisində yerləşən ən böyük qızıl yatağı hansıdır.",
+    "true-answer": "a) Qızılbulaq",
+    "wrong-answers": [
+      "b) Vejnəli",
+      "c) Zod",
+      "d) Dəmirli",
+      "e) Püsyan"
+    ]
+  },
+  {
+    "question": "Azərbaycanda sement yataqları hansı rayonların ərazilərində yerləşmişdir.",
+    "true-answer": "a) Qaradağ, Qazax, Ağstafa",
+    "wrong-answers": [
+      "b) Laçın, Kəlbəcər, Zəngilan",
+      "c) Haçıqabul, Qaradağ, Şirvan",
+      "d) Şəmkir, Tovuz, Goranboy",
+      "e) Lerik, Yardımlı, Masallı"
+    ]
+  },
+  {
+    "question": "Azərbaycanda torpaqların neçə tipi və yarımtipi məlumdur.",
+    "true-answer": "a) 25 tip və 60 yarımtip",
+    "wrong-answers": [
+      "b) 30 tip və 55 yarımtip",
+      "c) 20 tip və 70 yarımtip",
+      "d) 22 tip və 50 yarımtip",
+      "e) 25 tip və 65 yarımtip"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı Azərbaycan Respublikasının torpaq kateqoriyalarına aid deyil.",
+    "true-answer": "a) Bataqlıq ərazisi torpaqları",
+    "wrong-answers": [
+      "b) Meşə fondu torpaqları",
+      "c) Su fondu torpaqları",
+      "d) Yaşayış məntəqələrinin torpaqları",
+      "e) Kənd təsərrüfatı təyinatlı torpaqlar"
+    ]
+  },
+  {
+    "question": "Ölkəmizdə kənd təsərrüfatına yararlı torpaq neçə hektar olmaqla torpaq fondunun neçə faizini təşkil edir.",
+    "true-answer": "a) 4,8 milyon hektar, torpaq fondunun 55,2%-ni",
+    "wrong-answers": [
+      "b) 4,6 milyon hektar, torpaq fondunun 53%-ni",
+      "c) 4,7 milyon hektar, torpaq fondunun 56%-ni",
+      "d) 4,5 milyon hektar, torpaq fondunun 55,8%-ni",
+      "e) 4,9 milyon hektar, torpaq fondunun 52,6%-ni"
+    ]
+  },
+  {
+    "question": "Meşə fondunun əsas göstəricilərinə aid deyil.",
+    "true-answer": "a) Ölkənin ümumi ərazisində su ərazi",
+    "wrong-answers": [
+      "b) Ölkənin ümumi ərazisi",
+      "c) Meşə ilə örtülü sahə",
+      "d) Ölkənin ümumi ərazisində quru ərazi",
+      "e) Ümumi ağac ehtiyatı"
+    ]
+  },
+  {
+    "question": "Azərbaycanda adambaşına təqribən neçə hektar meşə sahəsi düşür ki, bu da dünya üzrə orta göstəricidən neçə dəfə aşağıdır.",
+    "true-answer": "a) 0,12 hektar, 4 dəfə az",
+    "wrong-answers": [
+      "b) 0,15 hektar, 3,5 dəfə az",
+      "c) 0,15 hektar, 5 dəfə az",
+      "d) 0,10 hektar, 4,6 dəfə az",
+      "e) 0,14 hektar, 3,8 dəfə az"
+    ]
+  },
+  {
+    "question": "Respublikamızda həcminə görə ən böyük su anbarları hansılardır.",
+    "true-answer": "a) Mingəçevir, Şəmkir su anbarları",
+    "wrong-answers": [
+      "b) Araz, Sərsəng su anbarları",
+      "c) Yenikənd, Taxtakörpü su anbarları",
+      "d) Ceyranbatan, Xaçınçay su anbarları",
+      "e) Xudafərin, Suqovuşan su anbarları"
+    ]
+  },
+  {
+    "question": "Azərbaycan aşağıda verilmiş hansı ehtiyatlara görə əsasən qonşu ölkələrdən asılıdır.",
+    "true-answer": "a) Təbii su ehtiyatları",
+    "wrong-answers": [
+      "b) Neft və qaz ehtiyatları",
+      "c) Meşə ehtiyatları",
+      "d) Faydalı qazıntı ehtiyatları",
+      "e) Bioloji ehtiyatlar"
+    ]
+  },
+  {
+    "question": "Karbohidrogen ehtiyatları əsasən respublikamızın hansı ərazisində yerləşmişdir.",
+    "true-answer": "a) Abşeron yarmadası",
+    "wrong-answers": [
+      "b) Mərkəzi aran",
+      "c) Cənub-Şərq Şirvan",
+      "d) Quba-Xaçmaz",
+      "e) Gəncə-Daşkəsən"
+    ]
+  },
+  {
+    "question": "Neft ehtiyatının həcminə görə dünyada birinci yeri tutan ölkə",
+    "true-answer": "a) Venesuela",
+    "wrong-answers": [
+      "b) Səudiyyə Ərəbistanı",
+      "c) İran",
+      "d) İraq",
+      "e) Küveyt"
+    ]
+  },
+  {
+    "question": "Azərbaycanın neft ehtiyatları təxminən nə qədərdir.",
+    "true-answer": "a) 7 milyard barel",
+    "wrong-answers": [
+      "b) 8 milyard barel",
+      "c) 10 milyard barel",
+      "d) 12 milyard barel",
+      "e) 5 milyard barel"
+    ]
+  },
+  {
+    "question": "Hazırda Azərbaycanın təsdiq edilmiş təbii qaz ehtiyatlarının həcmi nə qədərdir.",
+    "true-answer": "a) 2,6 trilyon kubmetr",
+    "wrong-answers": [
+      "b) 2,5 trilyon kubmetr",
+      "c) 2,3 trilyon kubmetr",
+      "d) 2,7 trilyon kubmetr",
+      "e) 2,8 trilyon kubmetr"
+    ]
+  },
+  {
+    "question": "Azərbaycanın Xəzərdə ən böyük qaz yatağı hansıdır.",
+    "true-answer": "a) 'Şahdəniz'",
+    "wrong-answers": [
+      "b) 'Ümid'",
+      "c) 'Abşeron'",
+      "d) 'Dan ulduzu'",
+      "e) 'Darvin bankası'"
+    ]
+  },
+  {
+    "question": "2021-ci il yanvarın 21-də Azərbaycan və Türkmənistan hökumətləri arasında Xəzər dənizində yerləşən hansı yatağın karbohidrogen ehtiyyatlarının birgə kəşfiyyatı, işlənməsi və mənimsənilməsi haqqında Anlaşma Memorandumu imzalanıb.",
+    "true-answer": "a) 'Dostluq'",
+    "wrong-answers": [
+      "b) 'Qaradaş'",
+      "c) 'Gündüz'",
+      "d) 'Şərqi Aypara'",
+      "e) 'Şəfəq - Asiman'"
+    ]
+  },
+  {
+    "question": "MDB ölkələri içərisində ən çox neft ehtiyyatına malik olan hansıdır.",
+    "true-answer": "a) Rusiya",
+    "wrong-answers": [
+      "b) Qazaxıstan",
+      "c) Türkmənistan",
+      "d) Azərbaycan",
+      "e) Belarus"
+    ]
+  },
+  {
+    "question": "Ümumilikdə ölkə üzrə 2021-ci il 1 yanvar tarixinə olan məlumata görə neft-qaz yatağı mövcuddur və neçəsi dənizdə yerləşir.",
+    "true-answer": "a) 81-28-i dənizdə",
+    "wrong-answers": [
+      "b) 75-32-i dənizdə",
+      "c) 68-25-i dənizdə",
+      "d) 93-53-i dənizdə",
+      "e) 84-42-i dənizdə"
+    ]
+  },
+  {
+    "question": "Abşeron yarmadasında və Bakının Suraxanı, Balaxanı, Binəqədi qəsəbələrində kustar üsullarla neft çıxarılması barədə bilgilər hansı əsrlərdə məlum idi.",
+    "true-answer": "a) XVI-XVII-ci əsrlər",
+    "wrong-answers": [
+      "b) XV-XVI-cı əsrlər",
+      "c) XVII-XVIII-ci əsrlər",
+      "d) XIV-XVI-cı əsrlər",
+      "e) XIV-XV-ci əsrlər"
+    ]
+  },
+  {
+    "question": "Azərbaycanda neft sənayesinin inkişaf tarixi ümumilikdə neçə mərhələdən ibarətdir.",
+    "true-answer": "a) 4 mərhələ",
+    "wrong-answers": [
+      "b) 5 mərhələ",
+      "c) 3 mərhələ",
+      "d) 6 mərhələ",
+      "e) 2 mərhələ"
+    ]
+  },
+  {
+    "question": "Dünyada ilk dəfə açıq dənizdə neft çıxarılması nə zaman baş vermişdir.",
+    "true-answer": "a) 1949-cu il",
+    "wrong-answers": [
+      "b) 1945-ci il",
+      "c) 1950-ci il",
+      "d) 1947-ci il",
+      "e) 1948-ci il"
+    ]
+  },
+  {
+    "question": "'Əsrin müqaviləsi'ndə iştirak edən 11 beynəlxalq neft şirkəti hansı ölkələri təmsil edirdi.",
+    "true-answer": "a) Azərbaycan, ABŞ, B.Britaniya, Rusiya, Türkiyə, Norveç, Səudiyyə Ərəbistanı",
+    "wrong-answers": [
+      "b) Azərbaycan, ABŞ, B.Britaniya, Rusiya, İtaliya, Türkiyə, Norveç",
+      "c) ABŞ, Azərbaycan, Yunanıstan, Türkiyə, Norveç, B.Britaniya, Rusiya",
+      "d) Azərbaycan, Türkiyə, ABŞ, Fransa, B.Britaniya, Rusiya",
+      "e) Azərbaycan, ABŞ, B.Britaniya, Norveç, Səudiyyə Ərəbistanı, Rusiya, İtaliya"
+    ]
+  },
+  {
+    "question": "1941-ci ildə Azərbaycanda nə qədər neft hasil edilmişdir.",
+    "true-answer": "a) 23,6 milyon ton",
+    "wrong-answers": [
+      "b) 24,6 milyon ton",
+      "c) 26,3 milyon ton",
+      "d) 20,7 milyon ton",
+      "e) 25,6 milyon ton"
+    ]
+  },
+  {
+    "question": "TANAP və TAP nə zaman istifadəyə verilmişdir.",
+    "true-answer": "a) 2018-2020",
+    "wrong-answers": [
+      "b) 2019-2021",
+      "c) 2017-2018",
+      "d) 2020-2021",
+      "e) 2018-2019"
+    ]
+  },
+  {
+    "question": "'Yeni əsrin müqaviləsi'ndə mənfəət neftinin neçə faizinin Azərbaycana qalması nəzərdə tutulmuşdur.",
+    "true-answer": "a) 75%-nin",
+    "wrong-answers": [
+      "b) 80%-nin",
+      "c) 70%-nin",
+      "d) 72%-nin",
+      "e) 76%-nin"
+    ]
+  },
+  {
+    "question": "Dövlətin iqtisadi siyasəti birmənalı şəkildə hansı model ətrafında formalaşıb.",
+    "true-answer": "a) Sosialyönümlü",
+    "wrong-answers": [
+      "b) İnkişafyönümlü",
+      "c) İnsanyönümlü",
+      "d) İstehsalyönümlü",
+      "e) İqtisadi yönümlü"
+    ]
+  },
+  {
+    "question": "Milli iqtisadiyyatın inkişafında mövcud olan problemlər hansıdır.",
+    "true-answer": "a) Makroiqtisadi problemlər",
+    "wrong-answers": [
+      "b) Mikroiqtisadi problemlər",
+      "c) Mezoiqtisadi problemlər",
+      "d) Meqoiqtisadi problemlər",
+      "e) Hasilat problemləri"
+    ]
+  },
+  {
+    "question": "Diversifikasiya nədir.",
+    "true-answer": "a) Şaxələndirmə",
+    "wrong-answers": [
+      "b) Genişləndirmə",
+      "c) İstiqamətləndirmə",
+      "d) Sabitləşdirmə",
+      "e) Dəyişdirmə"
+    ]
+  },
+  {
+    "question": "Demoqrafiya sözünün mənası nə deməkdir.",
+    "true-answer": "a) Yunan sözü olub demos-xalq, qrapho-yazıram deməkdir",
+    "wrong-answers": [
+      "b) Yunan sözü olub demos-fərd, qrapho-çəkirəm deməkdir",
+      "c) Yunan sözü olub demos-insan, qrafiya-təsvir deməkdir",
+      "d) Yunan sözü olub demos-şəxs, qrafiya-öyrənirəm deməkdir",
+      "e) Yunan sözü olub demos-adam, qrapho-qeyd edirəm deməkdir"
+    ]
+  },
+  {
+    "question": "Əhali artımının qanunauyğunluqları, onun sosial iqtisadi, təbii amillərdən asılılığını, miqrasiyanı, əhali sıxlığını və onun paylanmasını öyrənən elm.",
+    "true-answer": "a) Demoqrafiya",
+    "wrong-answers": [
+      "b) Demokratiya",
+      "c) Delimitasiya",
+      "d) Denominasiya",
+      "e) Diskriminasiya"
+    ]
+  },
+  {
+    "question": "Nəsillərin normal təkrar istehsalının ardıcıl surətdə həyata keçirilməsinin təmin edilməsinə yönəlmiş iqtisadi, sosial və hüquqi tədbirlər sistemindən ibarət olan, əhalinin bütün sosial-demoqrafik təbəqələrinin köklü mənafelərinə toxunan siyasət nə adlanır.",
+    "true-answer": "a) Demoqrafik siyasət",
+    "wrong-answers": [
+      "b) Sosial siyasət",
+      "c) İqtisadi siyasət",
+      "d) Hüquqi siyasət",
+      "e) Demokratik siyasət"
+    ]
+  },
+  {
+    "question": "2023-cü ildə əhalinin neçə faizi şəhər yerlərində və neçə faizi kənd yerlərində yaşamışdır.",
+    "true-answer": "a) 54,5% şəhər, 45,5%-i kənd",
+    "wrong-answers": [
+      "b) 53,5% şəhər, 46,5%-i kənd",
+      "c) 54% şəhər, 46%-i kənd",
+      "d) 54,3% şəhər, 45,7%-i kənd",
+      "e) 52,6% şəhər, 47,4%-i kənd"
+    ]
+  },
+  {
+    "question": "Ölkə əhalisinin rifahı və onun həyat şəraitinin yaxşılaşdırılması; insan amili və ailə institutunun vacibliyi; gənclərin milli ruhda tərbiyə alması, sağlam həyat tərzi keçirməsi, cəmiyyətin inkişafında öz yerlərini tutması birlikdə nəyi ifadə edir.",
+    "true-answer": "a) Demoqrafik siyasətin xüsusiyyətləri",
+    "wrong-answers": [
+      "b) Demokratik siyasətin prinsipləri",
+      "c) Sosial siyasətin funksiyalarını",
+      "d) İqtisadi siyasətin əlamətlərini",
+      "e) Demoqrafik siyasətin göstəricilərini"
+    ]
+  },
+  {
+    "question": "2024-cü il əhalinin neçə faizini kişilər, neçə faizi qadınlar təşkil etmişdir.",
+    "true-answer": "a) 49,8%-ni kişilər, 50,2%-ni qadınlar",
+    "wrong-answers": [
+      "b) 48,9%-ni kişilər, 51,1%-ni qadınlar",
+      "c) 49%-ni kişilər, 51%-ni qadınlar",
+      "d) 47,5%-ni kişilər, 52,5%-ni qadınlar",
+      "e) 48,2%-ni kişilər, 51,8%-ni qadınlar"
+    ]
+  },
+  {
+    "question": "Müəyyən vaxt ərzində (çox vaxt bir ildə) doğulanların sayı ilə ölənlərin sayı arasındakı fərq nə adlanır.",
+    "true-answer": "a) Təbii artım",
+    "wrong-answers": [
+      "b) Əhali sayı",
+      "c) Təbii mühit",
+      "d) Əhali nisbəti",
+      "e) Təbii faktor"
+    ]
+  },
+  {
+    "question": "Əmək qanunvericiliyinə uyğun olaraq müqavilə əsasında haqqı ödənilməklə yerinə yetirilən əmək fəaliyyəti nə adlanır.",
+    "true-answer": "a) Müzdlu iş",
+    "wrong-answers": [
+      "b) Müddətli iş",
+      "c) Layiqli iş",
+      "d) Aktiv fəaliyyət",
+      "e) Muzdlu işçi"
+    ]
+  },
+  {
+    "question": "I və II qrup əlillər, sağlamlıq imkanları məhdud uşaqlar istisna olmaqla, 15 yaşdan 65 yaşa qədər olan insanlar dedikdə kimlər nəzərdə tutulur.",
+    "true-answer": "a) Əmək qabiliyyətli şəxslər",
+    "wrong-answers": [
+      "b) İqtisadi fəal əhali",
+      "c) Aktiv işləyənlər",
+      "d) İnsan resursları",
+      "e) Muzdlı iş"
+    ]
+  },
+  {
+    "question": "Azərbaycan Respublikasının vətəndaşları, əcnəbilər və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasının qanunvericiliyinə zidd olmayan və qazanc gətirən hər hansı fəaliyyəti nə adlanır.",
+    "true-answer": "a) Məşğulluq",
+    "wrong-answers": [
+      "b) İşgüzarlıq",
+      "c) Aktiv fəaliyyət",
+      "d) Rentabellik",
+      "e) Yaradıcılıq"
+    ]
+  },
+  {
+    "question": "İş və ya qazancı olmayan, işə başlamağa hazır olub, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi qurumda işsiz kimi qeydiyyata alınan, əmək qabiliyyətli yaşda olan əmək qabiliyyətli şəxs.",
+    "true-answer": "a) İşsiz şəxs",
+    "wrong-answers": [
+      "b) İşsizlik",
+      "c) Qeyri-müəyyən məşğulluq",
+      "d) Əmək qabiliyyətli əhali",
+      "e) İşçi qüvvəsi"
+    ]
+  },
+  {
+    "question": "Məşğulluq siyasətinin ekstensiv mərhələdən intensiv mərhələyə keçidini təmin etmək, əhalinin məşğulluq səviyyəsini artırmaq, tam məşğulluğu təmin etmək, layiqli əməyi dəstəkləmək və əmək məhsuldarlığını yüksəltmək birlikdə nəyi ifadə edir.",
+    "true-answer": "a) Strategiyanın məqsədini",
+    "wrong-answers": [
+      "b) Strategiyanın əsas istiqamətlərini",
+      "c) Özünü məşğulluq proqramının istiqamətlərini",
+      "d) Əmək bazarının tənzimlənməsini",
+      "e) Əmək siyasətinin hədəflərini"
+    ]
+  },
+  {
+    "question": "Siyasi quruluş olub, müəyyən sərhədlər daxilində yaşayan xalqın xüsusi sistemlə idarə olunmasını müəyyənləşdirir.",
+    "true-answer": "a) Dövlət",
+    "wrong-answers": [
+      "b) Cəmiyyət",
+      "c) Siyasi həyat",
+      "d) Politologiya",
+      "e) Hakimiyyət"
+    ]
+  },
+  {
+    "question": "Kim hesab edirdi ki, dövlətin vəzifəsi hamının rifahını və ölkədə ədaləti təmin etməkdir.",
+    "true-answer": "a) Demokrit",
+    "wrong-answers": [
+      "b) Platon",
+      "c) Aristotel",
+      "d) Siseron",
+      "e) Heraklit"
+    ]
+  },
+  {
+    "question": "İlk dəfə İtaliyada XVI əsrdə dövlət anlayışını ifadə etmək üçün hansı yeni bir termindən istifadə edilmişdir.",
+    "true-answer": "a) 'stato'",
+    "wrong-answers": [
+      "b) 'état'",
+      "c) 'state'",
+      "d) 'staat'",
+      "e) 'status'"
+    ]
+  },
+  {
+    "question": "Qədim Çin filosofu Konfutsi bildirirdi ki, dövlətin gücü üç zəmin üzərindədir:",
+    "true-answer": "a) Əhalinin rifahı, dövlətin hərbi qüdrəti və hökumətə etibar",
+    "wrong-answers": [
+      "b) Əhalinin sayı, dövlətin ərazisi və xalqın gücü",
+      "c) Dövlətin sosial siyasəti, hərbi güc və idarəetmə",
+      "d) Əhalinin sosial müdafiəsi, iqtisadi potensial və rifah",
+      "e) Zəruri idarəetmə, sosial müdafiə, sosial ədalət"
+    ]
+  },
+  {
+    "question": "Corc Ellinekin hansı nəzəriyyəsinə görə dövlət insan, torpaq və suverenlik elementlərinin bir araya gəlməsi ilə meydana çıxan varlıq kimi qeyd edilir.",
+    "true-answer": "a) 'Üç element'",
+    "wrong-answers": [
+      "b) 'Ümumi idarəçilik'",
+      "c) 'Dövlətçilik'",
+      "d) 'Nizamlı cəmiyyət'",
+      "e) 'Sosial dövlət'"
+    ]
+  },
+  {
+    "question": "'Dövlət xalqın malı, ümumi hüquq qaydasıdır' ifadəsi kimə məxsusdur?",
+    "true-answer": "a) Mark Tulli Siseron",
+    "wrong-answers": [
+      "b) Karl Marks",
+      "c) Fridrix Engels",
+      "d) Li Qou",
+      "e) Aristotel"
+    ]
+  },
+  {
+    "question": "Ümumilikdə iqtisadiyyatda hansı sektorlar fəaliyyət göstərir?",
+    "true-answer": "a) Dövlət sektoru, özəl sektor",
+    "wrong-answers": [
+      "b) Xüsusi sektor, özəl sektor",
+      "c) Ümumi sektor, qarışıq sektor",
+      "d) İctimai sektor, bələdiyyə sektoru",
+      "e) Publik sektor, maliyyə sektoru"
+    ]
+  },
+  {
+    "question": "Dövlət mülkiyyətində olan və dövlət büdcəsindən maliyyələşdirilən müəssisə və təşkilatların məcmusunu ifadə edir?",
+    "true-answer": "a) Dövlət sektoru",
+    "wrong-answers": [
+      "b) Xüsusi sektor",
+      "c) Bələdiyyə sektoru",
+      "d) Qarışıq sektor",
+      "e) Özəl sektor"
+    ]
+  },
+  {
+    "question": "Dövlətin mərkəzləşdirilmiş pul vəsaiti fondudur.",
+    "true-answer": "a) Dövlət büdcəsi",
+    "wrong-answers": [
+      "b) İcmal büdcə",
+      "c) Yerli büdcə",
+      "d) Büdcə sistemi",
+      "e) Büdcə gəlirləri"
+    ]
+  },
+  {
+    "question": "Büdcə (budget) ingilis mənşəli söz olub, hansı mənanı verir?",
+    "true-answer": "a) Çanta, torba",
+    "wrong-answers": [
+      "b) Pul kəsiri",
+      "c) Xəzinə",
+      "d) Sərvət",
+      "e) Vergi, rüsum"
+    ]
+  },
+  {
+    "question": "Milli məclisin tabeliyində və əsas işi büdcə xərclərinə nəzarət etməkdən ibarət olan orqan.",
+    "true-answer": "a) Hesablama Palatası",
+    "wrong-answers": [
+      "b) Vergi xidməti",
+      "c) Mərkəzi Bank",
+      "d) Dövlət Xəzinədarlığı",
+      "e) Auditor şirkəti"
+    ]
+  },
+  {
+    "question": "Azərbaycan Respublikası adından bağlanmış müqavilələrin öhdəlikləri üzrə ödənilməsi vacib olan borca nə deyilir?",
+    "true-answer": "a) Dövlət borcu",
+    "wrong-answers": [
+      "b) Dövlət öhdəliyi",
+      "c) Dövlət krediti",
+      "d) Daxili dövlət borcu",
+      "e) Beynəlxalq kredit"
+    ]
+  },
+  {
+    "question": "Azərbaycan Respublikasının adından Azərbaycan Respublikasının rezidentləri ilə bağlanmış müqavilələrin öhdəlikləri üzrə borc nə adlanır?",
+    "true-answer": "a) Daxili dövlət borcu",
+    "wrong-answers": [
+      "b) Dövlət borcu",
+      "c) Xarici dövlət borcu",
+      "d) Dövlət krediti",
+      "e) Kredit zəmanət fondu"
+    ]
+  },
+  {
+    "question": "Neft və qaz ehtiyatlarına dair sazişlərin həyata keçirilməsi ilə bağlı Azərbaycan Respublikasının əldə etdiyi gəlirlərin toplanmasını, səmərəli idarə edilməsini, gələcək nəsillər üçün saxlanmasını təmin edən xüsusi məqsədli dövlət qurumu hansıdır?",
+    "true-answer": "a) ARDNF",
+    "wrong-answers": [
+      "b) SOCAR",
+      "c) Sosial Müdafiə Fondu",
+      "d) Azərbaycan İnvestisiya Holdinqi",
+      "e) Azərbaycan Beynəlxalq Bankı"
+    ]
+  },
+  {
+    "question": "Təsərrüfat subyektləri üçün xüsusi mülkiyyət və sərbəst rəqabət prinsipləri əsasında bazar iqtisadiyyatı mühitinin yaradılması, təsərrüfat strukturunun bazar iqtisadiyyatının tələbinə uyğun olaraq yenidən qurulması, iqtisadi prosesə bütün növ istifadə olunmamış ehtiyatların cəlb edilməsi, milli iqtisadiyyata xarici investisiyaların cəlb edilməsi ümumilikdə nəyi ifadə edir?",
+    "true-answer": "a) Azərbaycanda özəlləşdirmənin başlıca məqsədlərini",
+    "wrong-answers": [
+      "b) Azərbaycanda özəlləşdirmənin əsas funksiyalarını",
+      "c) Azərbaycanda özəlləşdirmənin başlıca şərtlərini",
+      "d) Azərbaycanda özəlləşdirmənin əsas istiqamətlərini",
+      "e) Azərbaycanda dövlətsizləşdirmənin kriteriyalarını"
+    ]
+  },
+  {
+    "question": "Ümumi milli məhsulun və milli gəlirin bölgüsü və yenidən bölgüsünü təmin edən, pul vəsaitləri fondlarının yaradılması və onlar üzərində nəzarəti həyata keçirən iqtisadi münasibətlər sistemindən ibarət olan anlayış.",
+    "true-answer": "a) Maliyyə",
+    "wrong-answers": [
+      "b) Pul sistemi",
+      "c) Maliyyə münasibətləri",
+      "d) Mərkəzləşdirilmiş maliyyə",
+      "e) Bölgü münasibətləri"
+    ]
+  },
+  {
+    "question": "Qarşılıqlı əlaqə və qarşılıqlı fəaliyyət göstərən maliyyə münasibətlərinin ayrı-ayrı həlqələrinin məcmusu nə adlanir.",
+    "true-answer": "a) Maliyyə sistemi",
+    "wrong-answers": [
+      "b) Pul dövriyyəsi",
+      "c) Qeyri-mərkəzləşdirilmiş maliyyə",
+      "d) Vergi sistemi",
+      "e) Maliyyə normaları"
+    ]
+  },
+  {
+    "question": "Maliyyə sisteminin bölmələrinə aid deyil.",
+    "true-answer": "a) İctimai təşkilatların və birliklərin maliyyəsi",
+    "wrong-answers": [
+      "b) Dövlət maliyyəsi",
+      "c) Müəssisə və təşkilatların maliyyəsi",
+      "d) Kredit-bank sistemi",
+      "e) Dövlət maliyyə orqanları sistemi"
+    ]
+  },
+  {
+    "question": "Dövlətin maliyyə resurslarının toplanması, bölüşdürülməsi və istifadəsi ilə əlaqədar həyata keçirdiyi tədbirlərin məcmusu nə adlanır.",
+    "true-answer": "a) Maliyyə siyasəti",
+    "wrong-answers": [
+      "b) Maliyyə münasibətləri",
+      "c) Dövlət müəssisələrinin maliyyəsi",
+      "d) İqtisadi siyasət",
+      "e) Pul-kredit siyasəti"
+    ]
+  },
+  {
+    "question": "Kredit-hesablaşma münasibətlərinin, kreditləşmənin forma və metodlarının və kredit-maliyyə institutlarının məcmusuna nə deyilir.",
+    "true-answer": "a) Kredit sistemi",
+    "wrong-answers": [
+      "b) Bank sistemi",
+      "c) Pul sistemi",
+      "d) Dövlət krediti",
+      "e) Kommersiya krediti"
+    ]
+  },
+  {
+    "question": "Pul münasibətlərinin tərkib hissəsidir və imperativ xarakter daşıyır.",
+    "true-answer": "a) Maliyyə münasibətləri",
+    "wrong-answers": [
+      "b) Vergi münasibətləri",
+      "c) Maliyyə funksiyaları",
+      "d) Kredit münasibətləri",
+      "e) Ticarət münasibətləri"
+    ]
+  },
+  {
+    "question": "Maliyyə aktivlərinin yaradılması və onunla mübadilə üçün təşkil olunan institutsional struktur nə adlanır.",
+    "true-answer": "a) Maliyyə bazarı",
+    "wrong-answers": [
+      "b) Kapital bazarı",
+      "c) Maliyyə planlaşdırılması",
+      "d) Maliyyə nəzarəti",
+      "e) Tədiyyə balansı"
+    ]
+  },
+  {
+    "question": "Dövlət tərəfindən valyuta məzənnəsinin tənzimlənməsi məqsədilə həyata keçirilən hüquqi, iqtisadi, inzibati tədbirlər kompleksi nə adlanır.",
+    "true-answer": "a) Valyuta siyasəti",
+    "wrong-answers": [
+      "b) Diskont siyasəti",
+      "c) Valyuta müdaxiləsi",
+      "d) Valyuta məhdudiyyətləri",
+      "e) Valyuta münasibətləri"
+    ]
+  },
+  {
+    "question": "İqtisadi kateqoriya kimi kreditin əsasını nə təşkil edir.",
+    "true-answer": "a) Geri qaytarılma",
+    "wrong-answers": [
+      "b) Diferensiallıq",
+      "c) Təminatlılıq",
+      "d) Planlılıq",
+      "e) Etibarlılıq"
+    ]
+  },
+  {
+    "question": "Müasir mərkəzi bankların əsas missiyası nədir.",
+    "true-answer": "a) Qiymətlərin və maliyyə sabitliyinin qorunması",
+    "wrong-answers": [
+      "b) Milli valyutanın emissiya edilməsi",
+      "c) Valyuta tənzimi və nəzarəti funksiyası",
+      "d) Tədiyyə balansının tənzimlənməsi",
+      "e) Milli valyutanın məzənnəsinin qorunması"
+    ]
+  },
+  {
+    "question": "Gələcəkdə gəlir əldə etmək üçün bu gün pul vəsaitlərinin maddi aktivlər və ya qiymətli kağızlar əldə edilməsinə sərfi nə adlanır.",
+    "true-answer": "a) İnvestisiya qoyuluşları",
+    "wrong-answers": [
+      "b) Kapital qoyuluşları",
+      "c) Maliyyə investisiyaları",
+      "d) İstehsal xərcləri",
+      "e) Diskontlaşdırma"
+    ]
+  },
+  {
+    "question": "İstehsalın saxlanılması layihələri, istehsalın genişlənməsi layihələri, istehsalın modernləşməsi layihələri, yeni istehsallar və yeni bazarlarla bağlı layihələr, digər layihələrlə əlaqəli olan investisiyalar nə adlanır.",
+    "true-answer": "a) Real investisiyalar",
+    "wrong-answers": [
+      "b) Maliyyə investisiyaları",
+      "c) Portfel investisiyalar",
+      "d) İstehsal investisiyaları",
+      "e) Daxili investisiyalar"
+    ]
+  },
+  {
+    "question": "İqtisadi böyümənin ən önəmli göstəricilərindən biri nədir.",
+    "true-answer": "a) Yatırımlar",
+    "wrong-answers": [
+      "b) Birjalar",
+      "c) Müəssisələr",
+      "d) Əmək resursları",
+      "e) Təbii resurslar"
+    ]
+  },
+  {
+    "question": "İnvestorların Azərbaycan Respublikasının ərazisində investisiya qoyuluşu ilə bağlı olan hərəkətlərinin məcmusu nə adlanır.",
+    "true-answer": "a) İnvestisiya fəaliyyəti",
+    "wrong-answers": [
+      "b) İnvestisiya layihəsi",
+      "c) İnvestisiya təşviqi",
+      "d) İnvestisiya mühiti",
+      "e) Xarici investisiya"
+    ]
+  },
+  {
+    "question": "Pul siyasəti üç cür olur:",
+    "true-answer": "a) Yumşaq, sərt və neytral",
+    "wrong-answers": [
+      "b) Daxili, xarici və ümumi",
+      "c) Açıq, qapalı və qarışıq",
+      "d) Təkmil, qeyri təkmil, məhdud",
+      "e) Sadə, mürəkkəb və geniş"
+    ]
+  },
+  {
+    "question": "Hansı sektorun inkişaf etdirilməsi, məhz iqtisadi inkişafın dinamik və tarazlı xarakter daşımasına xidmət edir.",
+    "true-answer": "a) Qeyri-neft sektorunun",
+    "wrong-answers": [
+      "b) Xüsusi sektorun",
+      "c) Neft-qaz sektorunun",
+      "d) Yanacaq energetika sektorunun",
+      "e) Aqrar sektorun"
+    ]
+  },
+  {
+    "question": "Azərbaycanda güclü ixrac potensialına malik qeyri-neft sektoru sahələrinin inkişafının modelləşdirilməsi hesabına mümkündür.\n1. Ölkəyə gətirilən valyuta vəsaitlərinin həcminin artması\n2. Resursların reallaşdırılmaması\n3. Maliyyə sabitliyinin gücləndirilməsi\n4. Xarici ticarətin sabitləşməsi\n5. İqtisadi artım templərinin azalması",
+    "true-answer": "a) 1,3",
+    "wrong-answers": [
+      "b) 2,4",
+      "c) 1,5",
+      "d) 3,4",
+      "e) 2,5"
+    ]
+  },
+  {
+    "question": "Qeyri-neft sektoru sahələrinin balanslı inkişafının milli iqtisadiyyata təsiri necədir.",
+    "true-answer": "a) Manevr qabiliyyətini artırır",
+    "wrong-answers": [
+      "b) Durğunluğuna səbəb olur",
+      "c) Davamlı inkişafına mane olur",
+      "d) Strukturunu təkmilləşdirmir",
+      "e) Regionların inkişafını ləngidir"
+    ]
+  },
+  {
+    "question": "Azərbaycanda qeyri-neft sektorunun prioritet sahələri baxımından inkişaf etdirmək mümkündür.",
+    "true-answer": "a) Emal sənayesi, kənd təsərrüfatı, tikinti, turizm, rabitə, yüngül sənaye",
+    "wrong-answers": [
+      "b) Telekommunikasiya sistemləri, neft və qaz sənayesi",
+      "c) Turizm, nəqliyyat və rabitə, yanacaq sənayesi",
+      "d) Kənd təsərrüfatı, nəqliyyat, tikinti, xidmət",
+      "e) Metallurgiya sənayesi, kimya və neft-kimya"
+    ]
+  },
+  {
+    "question": "Azərbaycanın qeyri-neft sektorunun müasir dövrdə əsas potensialı hansı sahədə cəmlənmişdir.",
+    "true-answer": "a) Sənaye",
+    "wrong-answers": [
+      "b) Kimya və neft-kimya",
+      "c) Yanacaq sənayesi",
+      "d) Elektroenergetika",
+      "e) Yeyinti sənayesi"
+    ]
+  },
+  {
+    "question": "Emal sənayesinin alt sahələrinə aid deyil.",
+    "true-answer": "a) Elektrik enerjisi, qaz və buxar istehsalı",
+    "wrong-answers": [
+      "b) Qida məhsulları istehsalı",
+      "c) Neft məhsulları istehsalı",
+      "d) Kimya sənayesi",
+      "e) Tikinti materiallarının istehsalı"
+    ]
+  },
+  {
+    "question": "Azərbaycanda bu sahənin çox güclü resurs potensialı və təbii ehtiyatları, xammal mənbələri mövcuddur.",
+    "true-answer": "a) Metallurgiya sənayesi",
+    "wrong-answers": [
+      "b) Daş kömür sənayesi",
+      "c) Taxta-şalban sənayesi",
+      "d) Əczaçılıq sənayesi",
+      "e) Kağız-karton sənayesi"
+    ]
+  },
+  {
+    "question": "Dəmir filizinin çıxarılması və saflaşdırılması, çuqun və poladın əridilməsi, prokat və ferroərintilərin istehsalından ibarət olan sahə.",
+    "true-answer": "a) Qara metallurgiya",
+    "wrong-answers": [
+      "b) Metallurgiya",
+      "c) Əlvan metallurgiya",
+      "d) Metalşünaslıq",
+      "e) Metal konstruksiya"
+    ]
+  },
+  {
+    "question": "Əlvan metal filizlərinin hasilatından, saflaşdırılmasından, əridilməsindən və müxtəlif ərintilərin alınmasından ibarət olan sahə.",
+    "true-answer": "a) Əlvan metallurgiya",
+    "wrong-answers": [
+      "b) Ağır metallurgiya",
+      "c) Qara metallurgiya",
+      "d) Nadir metallar",
+      "e) Yüngül metallar"
+    ]
+  },
+  {
+    "question": "Kimyəvi məhsullara aid deyil.",
+    "true-answer": "a) Prokat və ferroərintilər",
+    "wrong-answers": [
+      "b) Propilen",
+      "c) Polietilen",
+      "d) Kaustik soda",
+      "e) Sulfat turşusu"
+    ]
+  },
+  {
+    "question": "Hansı sənaye toxuculuq, tikiş, xəz-dəri, gön-dəri, ayaqqabı və xalçaçılıq sahələrindən ibarətdir.",
+    "true-answer": "a) Yüngül sənaye",
+    "wrong-answers": [
+      "b) Ağır sənaye",
+      "c) Yeyinti sənayesi",
+      "d) Emal sənayesi",
+      "e) Hasilat sənayesi"
+    ]
+  },
+  {
+    "question": "'Restrukturizasiya' termini hərfi mənada nə deməkdir.",
+    "true-answer": "a) Bir şeyin quruluşunun dəyişdirilməsi",
+    "wrong-answers": [
+      "b) İstehsalın yenidən qurulması",
+      "c) Məhsul istehsalının genişləndirilməsi",
+      "d) İqtisadi islahatların aparılması",
+      "e) Sənaye müəssisələrinin modelləşdirilməsi"
+    ]
+  },
+  {
+    "question": "Yüngül sənaye məhsullarına aid deyil.",
+    "true-answer": "a) İçki",
+    "wrong-answers": [
+      "b) Parça",
+      "c) Geyim",
+      "d) Ayaqqabı",
+      "e) Xalça"
+    ]
+  },
+  {
+    "question": "Yeyinti sənayesi müəssisələrinin fərqləndirici əlaməti nədir.",
+    "true-answer": "a) Onların hər yerdə yerləşməsidir",
+    "wrong-answers": [
+      "b) Ancaq şəhərdə yerləşməsidir",
+      "c) İqtisadi rayonlarda yerləşməsidir",
+      "d) Məhsul istehsalının çox çeşidli olması",
+      "e) Bu sahədə çalışanların sayının az olması"
+    ]
+  },
+  {
+    "question": "Təbii, sosial-mədəni, sağlamlıq resurslarının məcmusu nə adlanır.",
+    "true-answer": "a) Turizm ehtiyatları",
+    "wrong-answers": [
+      "b) Təbii resurslar",
+      "c) Rekreasiya obyektləri",
+      "d) Sağlamlıq turizmi",
+      "e) Rekreasiya ehtiyatları"
+    ]
+  }
+]
