@@ -1,0 +1,1502 @@
+[
+  {
+    "question": "Karyera nədir? Sualının cavabı hansı variantda daha dolğun qeyd olunmuşdur?",
+    "true-answer": "A) Karyera, bir insanın işləyə biləcəyi illər boyunca hər hansı bir iş sahəsində addım-addım və daimi olaraq irəliləməsi, təcrübə və bacarıq qazanmasıdır.",
+    "wrong-answers": [
+      "B) Karyera uzun illər boyunca davam edən inkişaf yoludur",
+      "C) Karyera bir insanın illər ərzində müxtəlif kitablar oxuyaraq, təcrübə keçərək özünü təkmilləşdirilməsi prosesidir.",
+      "D) Karyera şirkət daxilində bir şəxsin bir vəzifədən başqa bir vəzifəyə keçirilməsidir",
+      "E) Karyera insan resursları meneceri tərəfindən hazırlanan əməkdaşların inkişafı planıdır"
+    ]
+  },
+  {
+    "question": "Karyera nədir? Sualın cavabı hansı variantda daha dolğun qeyd olunmuşdur?",
+    "true-answer": "B) Bir şəxsin iş həyatında zamanla və çalışmaqla əldə edilən mərhələ, uğur və peşəkarlaşma prosesidir",
+    "wrong-answers": [
+      "A) Karyera şirkət daxilində bir şəxsin bir vəzifədən başqa bir vəzifəyə keçirilməsidir",
+      "C) Karyera insan resursları meneceri tərəfindən hazırlanan əməkdaşların inkişafı planıdır",
+      "D) Karyera uzun illər boyunca davam edən inkişaf yoludur",
+      "E) İnsanın əmək fəaliyyətinə başladığı gündən etibarən onun karyerasıda başlayır."
+    ]
+  },
+  {
+    "question": "Tələbə olarkən karyera yolunda sizə əsas potensial rəqib hansı variantda göstərilmişdir.",
+    "true-answer": "B) Tələbə yoldaşları",
+    "wrong-answers": [
+      "A) Karyera məsləhətçiləri",
+      "C) Valideynlər",
+      "D) Qohum,qonşular",
+      "E) Mentorlar"
+    ]
+  },
+  {
+    "question": "Peşəkar karyeranın inkişafı mərhələsinə aid deyil",
+    "true-answer": "E) İşdən çıxması",
+    "wrong-answers": [
+      "A) Peşəkarlığın yüksəlməsi",
+      "B) Pensiya yaşına çatma",
+      "C) Fərdi peşəkarlıq qabiliyyətinin saxlanılması",
+      "D) İşə daxil olma"
+    ]
+  },
+  {
+    "question": "Karyera ilə bağlı düzgün variantı seçin",
+    "true-answer": "A) Təşkilatdaxili karyera üç istiqamətdə reallaşdırılır",
+    "wrong-answers": [
+      "B) Karyera 10 yaşdan etibarən qurulmağa başlamışdır.",
+      "C) Karyera inkişafının 13 mərhələsi var",
+      "D) Peşəkar karyera 3 istiqamətdə reallaşır.",
+      "E) Cavablardan hamısı yanlışdır"
+    ]
+  },
+  {
+    "question": "Təşkilatdaxili karyeraya hansılar aiddir",
+    "true-answer": "B) Şaquli, üfuqi, mərkəzə sövq edən",
+    "wrong-answers": [
+      "A) Üfuqi, horizantal, vertikal",
+      "C) Mərkəzdən qaçma, üfuqi, vertikal",
+      "D) Şaquli,vertikal ,mərkəzdən qaçma",
+      "E) Mərkəzə sövq edən, peşəkar,üfuqi"
+    ]
+  },
+  {
+    "question": "\" Robot mühəndisliyi \" -- bu nədir?",
+    "true-answer": "D) İxtisas",
+    "wrong-answers": [
+      "A) Maraq",
+      "B) Bacarıq",
+      "C) peşə",
+      "E) Hobbi"
+    ]
+  },
+  {
+    "question": "......... şəxsləri müəyyən fəaliyyətləri istəyərək görməyə yönəldirən daxili bir hissədir",
+    "true-answer": "E) maraq",
+    "wrong-answers": [
+      "A) bacarıq",
+      "B) kompetensiya",
+      "C) vərdiş",
+      "D) karyera"
+    ]
+  },
+  {
+    "question": "Mərkəzə sövq edən təşkilatdaxili karyera dedikdə nə başa düşmək olar",
+    "true-answer": "C) Təşkilatın rəhbərliyinə tərəf hərəkət başa düşülür",
+    "wrong-answers": [
+      "A) Bir şirkətdən başqa şirkətə keçid",
+      "B) Fəaliyyətini başqa funksiona sahəyə yerləşdirmə",
+      "D) Karyeranın yüksək mərhələsinə keçid",
+      "E) Karyera anlayışını məhz bu istiqamətdən başlayırlar"
+    ]
+  },
+  {
+    "question": "Sadalananlardan biri karyeramızda bir pillə bizi irəli apara bilməz.",
+    "true-answer": "B) Dostlarla vaxt keçirmə",
+    "wrong-answers": [
+      "A) Təlimlərdə iştirak",
+      "C) Seminarlarda iştirak",
+      "D) Xarici dil bilikləri",
+      "E) Kitab oxumaq"
+    ]
+  },
+  {
+    "question": "Aşağıdakı xüsusiyyətlərdən hansı karyera quruculuğunun ilkin mərhələsinə aiddir?",
+    "true-answer": "C) Məktəbdə oxumaq,orta və ali təhsil alması",
+    "wrong-answers": [
+      "A) Praktiki təcrübələrin yüksək səviyyəyə çatması",
+      "B) İxtisasın təkmilləşdirilməsinin ən yüksək zirvəsində olması",
+      "D) Öz bilik və təcrübələrini gənclərlə paylaşmaq",
+      "E) Başqa fəaliyyət növlərində özünümüdafiə üçün imkanlar yaranır"
+    ]
+  },
+  {
+    "question": "Aşağıdakı xüsusiyyətlərdən hansı karyera quruculuğunun irəliliəyiş mərhələsinə aiddir?",
+    "true-answer": "C) Xidmət nərdivanı ilə yüksəliş",
+    "wrong-answers": [
+      "A) Özünü təsdiq prosesi başlayır",
+      "B) Öz ixtisası və istiqaməti üzrə seçimlər edir",
+      "D) Öz bilik və təcrübələrini gənclərlə paylaşmaq",
+      "E) Pensiyaya getməyə hazırlaşır"
+    ]
+  },
+  {
+    "question": "Karyera sözünün müasir mənası nədir?",
+    "true-answer": "B) İngiliscə \"career\"- peşə yüksəlişi",
+    "wrong-answers": [
+      "A) Fransızca \"concurrere\"- yarışma",
+      "C) Yunanca \"carrera\"- mərhələ,yol",
+      "D) Latınca \"carrus\"- at arabası,daşıyıcı",
+      "E) Yaponca \"kaizen\"- yaxşılaşdırma"
+    ]
+  },
+  {
+    "question": "Şaquli təşkilatdaxili karyera inkişafı istiqaməti üzrə irəliləmə dedikdə nə başa düşmək olar?",
+    "true-answer": "B) Karyeranın ən yüksək mərhələsinə yüksəlmək",
+    "wrong-answers": [
+      "A) Bir şürkətdən başqa şirkətə keçid",
+      "C) Fəaliyyətini başqa paralel funksional sahədə yerləşdirmə",
+      "D) Karyera yolunda inkişafa yönəlik proqramların həyata keçirilməsi",
+      "E) Karyeranın eninə doğru irəliləməsi deməkdir"
+    ]
+  },
+  {
+    "question": "Üfuqi təşkilatdaxili karyera inkişafı istiqaməti üzrə irəliləmə dedikdə nə başa düşmək olar",
+    "true-answer": "E) Fəaliyyətini başqa funkisional sahəyə yerləşdirmə",
+    "wrong-answers": [
+      "A) Bir şirkətdən başqa şirkətə keçid",
+      "B) Karyera anlayışını məhz bu istiqamətdən başlayırlar",
+      "C) Karyeranın yüksək mərhələsinə keçid",
+      "D) Karyera yolunda təşkilat rəhbərliyinə tərəf hərəkət"
+    ]
+  },
+  {
+    "question": "Peşə anlayışı ilə bağlı ən dolğun cavabı seçin",
+    "true-answer": "B) Bir şəxsin özünə təməl iş sahəsi qazandığı, bu istiqamətdə təhsil aldığı sahə, yaşayışını təmin etmək üçün gördüyü daimi işdir",
+    "wrong-answers": [
+      "A) İnsanın fiziki və mənəvi qüvvəsinin tətbiq sahəsi olub,nəzəri vərdişlərə və yalnız nəzəri iş biliklərinə yiyələnmiş insanın əmək fəaliyyətidir.",
+      "C) Bir şəxsin iş həyatında yüksəlməsi və uğur qazanmasıdır.",
+      "D) Şəxsləri müəyyən fəaliyyətləri istəyərək görməyə yönəldilən daxili bir hissdir",
+      "E) Peşə seçimi insanın gələcək həyatına təsir etmir"
+    ]
+  },
+  {
+    "question": "Karyera planlanması nəyə deyilir? Dolğun variantı seçin.",
+    "true-answer": "A) Fərdlərin və təşkilatların gələcək hədəflərinə çatmaq üçün necə davranmalı olduqlarını göstərir",
+    "wrong-answers": [
+      "B) Karyerasında baş verən problemləri həll etmək",
+      "C) Karyersında fürsətlərdən yararlana bilməməsi şəxsin və ya təşkilatın",
+      "D) Karyerasındakı çatışmazlıqlarını görə bilməyib, müvəffəqiyyət nəticəsində qazandığı pul",
+      "E) İnsanın fiziki və mənəvi qüvvəsinin tətbiq sahəsi olub və iş təcrübəsi nəticəsində formalaşır"
+    ]
+  },
+  {
+    "question": "Karyeranın saxlanma mərhələsinə aid olan xüsusiyyətləri seçin",
+    "true-answer": "D) İxtisasın təkmilləşdirilməsinin zirvəsi baş verir",
+    "wrong-answers": [
+      "A) Xidmət nərdivanı ilə yüksəliş",
+      "B) Seçilmiş peşəni mənimsəmək, zəruri vərdişlər qazanmaq",
+      "C) Pensiyaya getməyə hazırlaşır",
+      "E) Praktiki təcrübələr yüksək səviyyəyə çatır"
+    ]
+  },
+  {
+    "question": "Orxanın 47 yaşı var və o strateji planlama departamentinin rəhbəri vəzifəsində çalışır. Əlavə olaraq, işdən sonra Strateji planlama ilə bağlı təlimlər təşkil edir. Orxan karyerasının hansı mərhələsindədir?",
+    "true-answer": "C) Saxlama",
+    "wrong-answers": [
+      "A) İlkin",
+      "B) Tamamlama",
+      "D) İrəliləyiş",
+      "E) Pensiya"
+    ]
+  },
+  {
+    "question": "Sevilin 63 yaşı var və xəstəxanada baş həkim vəzifəsində çalışır. O həm də öz vəzifəsi ilə bağlı köməkçisini maarifləndirir və buvəzifənin sirrlərini ona öyrədir. Sevil karyerasının hansı mərhələsindədir?",
+    "true-answer": "D) Tamamlama",
+    "wrong-answers": [
+      "A) İrəliləyiş",
+      "B) İlkin",
+      "C) Saxlama",
+      "E) Təqaüd"
+    ]
+  },
+  {
+    "question": "Bu müddətdə işçi seçilmiş peşəni mənimsəyir, zəruri vərdişlər qazanır, onun peşəkarlığı formalaşır, özünütəsdiq baş verir və müstəqilliyə doğru tələbat baş qaldırır. Qeyd olunanlar hansı mərhələyə aiddir?",
+    "true-answer": "A) Təşəkkül mərhələsi",
+    "wrong-answers": [
+      "B) İrəliləyiş mərhələsi",
+      "C) Saxlama mərhələsi",
+      "D) Təqaüd mərhələsi",
+      "E) İlkin mərhələ"
+    ]
+  },
+  {
+    "question": "Duning -- Kruger effektinin əsas ideyası hansı variantda daha düzgün göstərilmişdir?",
+    "true-answer": "B) Aşağı ixtisaslı insanlar öz bacarıqları haqqında şişirdilmiş təsəvvürdə olurlar, yüksək ixtisaslı insanlar isə əksinə öz bacarıqlarını kiçiltməyə meyllidirlər.",
+    "wrong-answers": [
+      "A) Yüksək ixtisaslı insanlar öz bilik və bacarıqlarını şişirtməyə meyllidirlər, aşağı ixtisaslı insanlar isə daha təvazökardırlar",
+      "C) Aşağı ixtisaslı insanlar öz qabiliyyətlərini öz gücləri barədə zəif inamdan əziyyət çəkirlər.",
+      "D) Səriştəli insanlar öz qabiliyyətləri barədə daha aşağı, yüksək səriştəli insanlar isə daha yüksək qiymətləndirmə aparırlar.",
+      "E) İnsanın bilik və bacarıqları yüksəldikdə daha çox özünə inamı artır və həyat yolunda daha inamla irəliləməyə başlayır və bacarıqlarını daha çox şişirdirlər."
+    ]
+  },
+  {
+    "question": "Aşağıdakı xüsusiyyətlərdən hansı karyera quruculuğunun Saxlama mərhələsinə aiddir?",
+    "true-answer": "D) İxtisasın təkmilləşdirilməsinin zirvəsi baş verir",
+    "wrong-answers": [
+      "A) Seçilmiş peşəni mənimsəyir",
+      "B) Özünü ifadə təlabatı inkişaf edir",
+      "C) Daha yüksək statusa tələbat artır",
+      "E) Yeni vərdişlər, praktiki təcrübələr yüksək səviyyəyə çatır"
+    ]
+  },
+  {
+    "question": "Aşağıdakı xüsusiyyətlərdən hansı Pensiya mərhələsinə aiddir?",
+    "true-answer": "E) Özünə hörmət stabilləşir lakin maliyyə vəziyyəti və sağlamlığının vəziyyəti ilə əlaqədar başqa gəlir mənbələri barəsində düşünməyə səbəb olur",
+    "wrong-answers": [
+      "A) Heç biri aid deyil",
+      "B) Bu müddətdə işçi seçilmiş peşəni mənimsəyir, zəruri vərdişlər qazanır",
+      "C) Bu müddət ərzində insan onun tələblərini ödəyən və imkanlarına cavab verən fəaliyyət növünün seçilməsində bir neçə müxtəlif işlər dəyişdirə bilər",
+      "D) İxtisasın təkmilləşdirilməsini baş verir və aktiv fəaliyyəti ilə onun yüksəlişi gedir"
+    ]
+  },
+  {
+    "question": "Aşağıdakı xüsusiyyətlərdən hansı Tamamlama mərhələsinə aiddir?",
+    "true-answer": "C) Pensiyaya getməyə hazırlaşır",
+    "wrong-answers": [
+      "A) Seçilmiş peşə sahəsi üzrə zəruri vərdişlər qazanır",
+      "B) Özünü ifadə təlabatı inkişaf edir",
+      "D) İşçi xidmət nərdivanı üzrə yüksəlir",
+      "E) Yeni vərdişlər, praktiki təcrübələr ən yüksək həddə çatır"
+    ]
+  },
+  {
+    "question": "Biri karyerada uğurlu olmaq üçün Stiven R.Kovi tərəfindən qeyd olunan Yüksək effektiv insanların 7 vərdişi siyahısına aid deyil:",
+    "true-answer": "E) Prioritetləri nəzərə almadan hərəkət etmək",
+    "wrong-answers": [
+      "A) Birinci başa düşməyə çalış, sonra anlaşılmağı düşün",
+      "B) Özünü davamlı inkişaf etdirmək",
+      "C) Sonu əvvəlcədən düşünərək başlamaq",
+      "D) İlkin görülməli işləri prioritetinə görə icra etmək"
+    ]
+  },
+  {
+    "question": "Biri karyerada uğurlu olmaq üçün Stiven R.Kovi tərəfindən qeyd olunan Yüksək effektiv insanların 7 vərdişinə aid deyil:",
+    "true-answer": "A) İşləri təsadüfi və məqsədsiz yerinə yetirmək",
+    "wrong-answers": [
+      "B) Özünü davamlı inkişaf etdirmək",
+      "C) Sinerji yaratmaq (əməkdaşlıq və birgə nəticə)",
+      "D) İlkin görülməli işləri prioritetinə görə icra etmək",
+      "E) Sonu əvvəlcədən düşünərək başlamaq"
+    ]
+  },
+  {
+    "question": "Biri karyerada uğurlu olmaq üçün Stiven R.Kovi tərəfindən qeyd olunan Yüksək effektiv insanların 7 vərdişinə aid deyil:",
+    "true-answer": "C) İşləri prioritetləşdirmədən etmək",
+    "wrong-answers": [
+      "A) İlkin görülməli işləri ilk növbədə icra etmək",
+      "B) Proaktiv olmaq",
+      "D) Birinci başa düşməyə çalış, sonra anlaşılmağı düşün",
+      "E) Sinerji (əməkdaşlıq) qurun"
+    ]
+  },
+  {
+    "question": "Peşə nədir? Daha dolğun tərifi qeyd edin.",
+    "true-answer": "C) Konkret fəaliyyəti yerinə yetirmək məqsədilə tələb olunan zehni biliklərin və təcrübənin məcmusunu əks etdirən anlayışdır insanın işi yerinə yetirmək və məhsuldarlığı artırmaq qabiliyyətidir.",
+    "wrong-answers": [
+      "A) Peşə təhsil almaqla müəyyən təcrübə toplamaq və ona müvafiq vəzifə tutmaqla bağlı anlayışdırdır.",
+      "B) Yeniliklərin əldə olunması ilə bağlı fəaliyyətdir.",
+      "D) Yeni bilik və məlumat toplamaq məqsədi ilə həyata keçirilən fəaliyyətdir",
+      "E) Şəxsləri müəyyən fəaliyyətləri istəyərək görməyə yönləndirən daxili bir hissdir."
+    ]
+  },
+  {
+    "question": "Əliabbas karyera boşluq analizi edərkən müraciət etmək istədiyi iqtisadçı vakansiyasının tələblərini analiz etdi. Onun atacağı növbəti addımlar necə olmalı?",
+    "true-answer": "D) Bacarıq və kvalifikasiyalarını işin tələbləri ilə müqayisədə qiymətləndirməli, boşluqları tapmalı və fəaliyyətini planlaşdırmalı",
+    "wrong-answers": [
+      "A) Boşluqları tapmalı və fəaliyyətini planlaşdırmalı",
+      "B) Heçnə etməməli",
+      "C) Bacarıq və kvalifikasiyalarını işin tələbləri ilə müqayisədə qiymətləndirməli, fəaliyyətini planlaşdırmalı",
+      "E) Bacarıq və kvalifikasiyalarını işin tələbləri ilə müqayisədə qiymətləndirməli və fəaliyyətini planlaşdırmalı"
+    ]
+  },
+  {
+    "question": "Karyera üçün boşluq analizi edərkən atılacaq addımların ardıcıllığı doğru qeyd edilmiş variantı seçin",
+    "true-answer": "C) İş tələb analizi, qiymətləndirmə, boşluqların müəyyən edilməsi, fəaliyyət planlaşdırma",
+    "wrong-answers": [
+      "A) Boşluqların müəyyən edilməsi, İş tələb analizi, qiymətləndirmə, fəaliyyət planlaşdırma",
+      "B) Qiymətləndirmə, boşluqların müəyyən edilməsi, İş tələb analizi, fəaliyyət planlaşdırma",
+      "D) Qiymətləndirmə, iş tələb analizi, boşluqların müəyyən edilməsi, fəaliyyət planlaşdırma",
+      "E) İş tələb analizi, qiymətləndirmə, fəaliyyət planlaşdırma, boşluqların müəyyən edilməsi"
+    ]
+  },
+  {
+    "question": "Karyera yol xəritəniz hansıdır? Uyğun olmayan variantı seçin",
+    "true-answer": "E) Problemləri müəyyən etmək",
+    "wrong-answers": [
+      "A) Prioritetləri müəyyən etmək",
+      "B) Öncəlikləri müəyyən etmək",
+      "C) Planlama",
+      "D) Fürsət və fayda anlayışları"
+    ]
+  },
+  {
+    "question": "Karyera yol xəritəniz hazırdır? Uyğun olmayan variantı seçin",
+    "true-answer": "D) Özəlliklərimiz",
+    "wrong-answers": [
+      "A) Prioritetləri müəyyən etmək",
+      "B) Planlama",
+      "C) Fürsət və fayda",
+      "E) Öncəlikləriniz"
+    ]
+  },
+  {
+    "question": "Bilik nədir? Dolğun variantı seçin",
+    "true-answer": "C) İnsanın özü və onu əhatə edən aləm və bu aləmin amilləri haqqında məlumat toplasın",
+    "wrong-answers": [
+      "A) Hədəflərini bilən və özlərini bilən insanlara çatışmazlıqlarını görməsi və onları gücləndirmək imkanı təqdim edir",
+      "B) Bir şəxsin iş həyatında zamanla və çalışmaqla əldə edilən, mərhələ, uğur və peşəkarlaşma prosesi",
+      "D) Anadangəlmə özəlliklərin təhsil və ətraf mühitin təsiri ilə inkişaf etmiş haldır",
+      "E) Onunla xrkterizə olunur ki,işçi öz peşəkar fəaliyyəti prosesində müxtəlif inkişaf mərhələlərindən keçir"
+    ]
+  },
+  {
+    "question": "Uğurlu karyera üçün özünə sərmayə amilinə aiddir.",
+    "true-answer": "A) Təlimlər",
+    "wrong-answers": [
+      "B) İşkolik olmaq",
+      "C) Facebook hesabı",
+      "D) Youtube da baxış sayı",
+      "E) Heç biri"
+    ]
+  },
+  {
+    "question": "Anadangəlmə özəlliklərin təhsil və ətraf mühitin təsiri ilə inkişaf etmiş haldır, məhz belə nə adlanır.",
+    "true-answer": "B) Bacarıq",
+    "wrong-answers": [
+      "A) Uğur",
+      "C) Bilik",
+      "D) Xarakter",
+      "E) Karyera"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı yumşaq bacarıqlara aiddir",
+    "true-answer": "A) Doğru təqdimat bacarıqları",
+    "wrong-answers": [
+      "B) Layihələrin idarə olunmasına texniki bacarıqlar",
+      "C) Yazı bacarıqları (esse,məqalə,hesabat yazmaq)",
+      "D) Rəqəmsal savadlılıq",
+      "E) Statistik proqramdan istifadə"
+    ]
+  },
+  {
+    "question": "Holland nəzəriyyəsində ( RİASEC) hansı şəxsiyyət tipi yoxdur",
+    "true-answer": "E) Kreativ",
+    "wrong-answers": [
+      "A) Realist",
+      "B) Bədii",
+      "C) Konvensial",
+      "D) Sosial"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı praktiki həyat bacarıqlarına aiddir.",
+    "true-answer": "A) Vaxtın düzgün idarə edilməsi",
+    "wrong-answers": [
+      "B) Yazı bacarıqları (esse,məqalə,hesabat yazmaq)",
+      "C) Texnologiya ilə səriştəli davranış",
+      "D) Təqdimat hazırlama texnikaları",
+      "E) Kitabxana resursları ilə işləyə bilmək"
+    ]
+  },
+  {
+    "question": "İnkişaf etmiş təşkilatlar yeni işə qəbul olunan işçilərə çalışdıqları sahə ilə bağlı mütəmadi dəstək verən, qarşılaşdıqları problemlərin adekvat həllinə kömək edən, karyera inkişafı və emosional dəstək üçün xüsusi proqramlar tətbiq edirlər. Bu proqram çərçivəsində fəaliyyət göstərən və ingilis dilindən tərcümədə \"məsləhətçi\", \"danışman\" və ya \"konsultant\" kimi başa düşülən termin hansıdır?",
+    "true-answer": "A) Mentor",
+    "wrong-answers": [
+      "B) İnsan resursu",
+      "C) Koç / məşqçi",
+      "D) Mühasib",
+      "E) Rəhbər"
+    ]
+  },
+  {
+    "question": "Yumşaq bacarıqlara aid verilənlərdən biri yanlışdır.",
+    "true-answer": "B) Excel analitik funksiyaları",
+    "wrong-answers": [
+      "A) Vaxtın düzgün idarə edilməsi",
+      "C) Ünsiyyət",
+      "D) Bədən dili",
+      "E) Liderlik"
+    ]
+  },
+  {
+    "question": "BacarIQ anlayışı? Dolğun variantı seçin",
+    "true-answer": "E) Müvafiq müddət, enerji və ya onların hər ikisi çərçivəsində müəyyən olunan nəticələr əsasında ustalıqla yerinə yetirilən vərdişdir",
+    "wrong-answers": [
+      "A) İşçi öz peşəkar fəaliyyəti prosesində müxtəlif inkişaf mərhələlərindən keçir",
+      "B) Şəxsləri müəyyən fəaliyyətləri istəyərək görməyə yönləndirən daxili bir hissdir",
+      "C) Bir şəxsin özünə təməl iş sahəsi qazandığı bu istiqamətdə təhsil aldığı sahə, yaşayışını təmin etmək üçün gördüyü daimi işdir",
+      "D) Onunla xrkterizə olunur ki,işçi öz peşəkar fəaliyyəti prosesində müxtəlif inkişaf mərhələlərindən keçir"
+    ]
+  },
+  {
+    "question": "Şəxsiyyətin araşdırıcı növünə əsasən bu kateqoriyaya daxil olan peşələr hansılardır",
+    "true-answer": "A) İqtisadçı",
+    "wrong-answers": [
+      "B) Moda dizayneri",
+      "C) Tibb bacısının köməkçisi",
+      "D) Kredit mütəxəssisi",
+      "E) Dizayner"
+    ]
+  },
+  {
+    "question": "Şəxsiyyətin sosial növünə əsasən bu kateqoriyaya daxil olan peşələr hansıdır?",
+    "true-answer": "A) Tibb bacısının köməkçisi",
+    "wrong-answers": [
+      "B) Bank işçisi",
+      "C) Mühasib",
+      "D) Pilot",
+      "E) İqtisadçı"
+    ]
+  },
+  {
+    "question": "......... insanların çata biləcəyi ən yüksək idraki düşünmə səviyyəsidir.",
+    "true-answer": "C) Yaradıcı düşünmə",
+    "wrong-answers": [
+      "A) Prioritetləşdirmə",
+      "B) Stress idarəetmə",
+      "D) Problem həll etmə bacarığı",
+      "E) Pozitiv düşüncə"
+    ]
+  },
+  {
+    "question": "Xarakter nədir? Dolğun variantı seçin",
+    "true-answer": "D) Şəxsiyyətin fəaliyyət və ünsiyyət prosesində formalaşan və təzahür edən fərdi psixoloji xüsusiyyətlər məcmusudur",
+    "wrong-answers": [
+      "A) Müvafiq müddət, enerji və ya onların hər ikisi çərçivəsində müəyyən olunan nəticələr əsasında ustalıqla yerinə yetirilən vərdiş",
+      "B) Şəxslər üçün faydalı olan təşkilatları, təşkilatdakı işçiləri tanımaq onlara motivasiya vermək",
+      "C) İnsanın özü və onu əhatə edən aləm və bu aləmin amilləri haqqında məlumat toplusu",
+      "E) Bir sözlə desək, məharət deməkdir"
+    ]
+  },
+  {
+    "question": "Şəxsiyyətin realist növünə əsasən bu kateqoriyaya daxil olan peşələr hansılardır",
+    "true-answer": "D) Mühəndis",
+    "wrong-answers": [
+      "A) İqtisadçı",
+      "B) Restoran sahibi",
+      "C) Psixoloq",
+      "E) Alim"
+    ]
+  },
+  {
+    "question": "Şəxsiyyətin bədii növünə əsasən bu kateqoriyaya daxil olan peşələr hansılardır",
+    "true-answer": "C) Moda dizayneri",
+    "wrong-answers": [
+      "A) İnsan resursları",
+      "B) Sosioloq",
+      "D) Kimyaçı",
+      "E) Mentor"
+    ]
+  },
+  {
+    "question": "Holland metoduna əsasən 6 əsas tipdən biri deyil",
+    "true-answer": "E) Təşəkkül",
+    "wrong-answers": [
+      "A) Realist",
+      "B) Təşəbbüskar",
+      "C) Araşdırıcı",
+      "D) Sosial"
+    ]
+  },
+  {
+    "question": "Şəxsiyyətin təşəbbüskar növünə əsasən bu kateqoriyaya daxil olan peşələr hansılardır?",
+    "true-answer": "C) Restoran sahibi",
+    "wrong-answers": [
+      "A) Psixoloq",
+      "B) İqtisadçı",
+      "D) Sosial işçi",
+      "E) Kredit mütəxəsisi"
+    ]
+  },
+  {
+    "question": "Şəxsiyyətin konvensional növünə əsasən bu kateqoriyaya daxil olan peşələr hansılardır.",
+    "true-answer": "E) İnsan resursları",
+    "wrong-answers": [
+      "A) Pərakəndə satıcı",
+      "B) Restoran sahibi",
+      "C) Moda dizayneri",
+      "D) Kimyaçı"
+    ]
+  },
+  {
+    "question": "Şəxsi inkişafın qaydalarına aid deyil:",
+    "true-answer": "C) Uğura çatmaq üçün hədəflərinizdən uzaqlaşın",
+    "wrong-answers": [
+      "A) Hər gün mütləq kitab oxuyun",
+      "B) Yeni bir dil öyrənin",
+      "D) Zaman-zaman dərslər çıxartmaq üçün keçmişə səyahət edin",
+      "E) Özünüzə yeni hobbilər yaradın"
+    ]
+  },
+  {
+    "question": "Şəxsi brendinq nədir? Dolğun tərifi qeyd edin.",
+    "true-answer": "B) İnsanın bilik, qabiliyyət və bacarıqlarının, təcrübə və səriştəsinin müxtəlif insan qrupları tərəfindən qavranılmasıdır.",
+    "wrong-answers": [
+      "A) Hər hansı bir işi, sənəti və ya bacarığı öyrənə bilmək üçün anadangəlmə sahib olduğumuz potensialdır.",
+      "C) İnsanın fiziki və mənəvi qüvvəsinin tətbiq sahəsi olub, xüsusi hazırlıq və iş təcrübəsi nəticəsində, nəzəri biliklərə və təcrübi vərdişlərə yiyələnmiş insan fəaliyyətidir.",
+      "D) Konkreet fəaliyyəti yerinə yetirmək məqsədilə tələb olunan zehni biliklərin və təcrübənin məcmusunu əks etdirən anlayışdır.",
+      "E) Müəyyən öhdəliyi yerinə yetirmək üçün lazım olan qabiliyyətdir."
+    ]
+  },
+  {
+    "question": "\"......\" anlayışı insanın öz işini görə bilməsi üçün zəruri olan texniki biliklərdir. \"......\" dərslər, təlimlər, kurslar və ya təcrübə proqramları vasitəsilə əldə edilə bilən bacarıqlardır və bu bacarıqları asanlıqla ölçmək, qiymətləndirmək mümkündür. Məsələn, dil bilikləri üzrə diplomlar, sertifikatlar və s. Nöqtələrin yerinə uyğun və məntiqi variantı müəyyən edin.",
+    "true-answer": "C) Sərt bacarıqlar, sərt bacarıqlar",
+    "wrong-answers": [
+      "A) Yumşaq bacarıqlar, analitik düşünmə bacarıqları",
+      "B) Yumşaq bacarıqlar, yumşaq bacarıqlar",
+      "D) Tənqidi düşünmə bacarıqları, yaradıcı düşünmə bacarıqları",
+      "E) Sərt bacarıqlar, yumşaq bacarıqlar"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı yumşaq vərdişlərə aiddir",
+    "true-answer": "D) İctimaiyyət qarşısında çıxış",
+    "wrong-answers": [
+      "A) 1C proqramı ilə işləmək",
+      "B) Məktub və e-mail yazmaq",
+      "C) Əsas alətlər paneli",
+      "E) Texnologiya ilə səriştəli davranış"
+    ]
+  },
+  {
+    "question": "Günel 5 ildir böyük şirkətdə mühasib işləsə də, daim işlərin rutinliyindən şikayətlənir. O, həftə sonları sahəsi ilə bağlı universiteti yeni bitirmiş tələbələrə təlimlər verir və bu işi maddi qarşılığı olmadan və böyük zövqlə edir. Onu Psixoloq Dr John Holland tərəfindən hazırlanmış hansı şəxsiyyət növünə aid edə bilərik?",
+    "true-answer": "C) Sosial",
+    "wrong-answers": [
+      "A) Realist",
+      "B) Bədii",
+      "D) Konvensional",
+      "E) Araşdırıcı"
+    ]
+  },
+  {
+    "question": "Bacarıqlarla bağlı fikirlərdən biri səhvdir:",
+    "true-answer": "E) Hard skills bacarıqları yalnız təhsil müəssisələrində inkişaf etdirilə bilər.",
+    "wrong-answers": [
+      "A) Bacarıq doğuşdan gələn özəlliklərin təhsil və ətraf mühitin təsiri ilə inkişaf etmiş halıdır.",
+      "B) Bacarıqlar iki əsas hissəyə bölünür: sərt bacarıqlar və yumşaq bacarıqlar.",
+      "C) Bir çox işəgötürən soft skills bacarıqlarını yoxlayan testlərdən keçmiş namizədlərə üstünlük verir.",
+      "D) Sərt bacarıqlar anlayışı insanın işini edə bilməsi üçün lazım olan texniki biliklərdir."
+    ]
+  },
+  {
+    "question": "\"......\"-ə sahib olduğunuzu sübut etmək \"......\"-ə nisbətən daha rahatdır. Nöqtələrin yerinə buraxılmış sözlərin ardıcıl və düzgün qeyd olunduğu variantı müəyyən edin.",
+    "true-answer": "E) Sərt bacarıqlar, yumşaq bacarıqlar",
+    "wrong-answers": [
+      "A) Yumşaq bacarıqlar, analitik düşünmə bacarıqları",
+      "B) Yumşaq bacarıqlar, sərt bacarıqlar",
+      "C) Sərt bacarıqlar, sərt bacarıqlar",
+      "D) Tənqidi düşünmə bacarıqları, yaradıcı düşünmə bacarıqları"
+    ]
+  },
+  {
+    "question": "\" O problemlərlə maraqlanır və başqalarına kömək etmək istəyir. Aid olan bəzi peşələr: tibb bacısı, müəllim, din xadimi vəzifəsi və s. Hollandın insanın şəxsiyyət növləri təsnifinə əsasən mətndə təsviri verilmiş şəxs məhz bu şəxsiyyət növünə aiddir",
+    "true-answer": "E) Sosial",
+    "wrong-answers": [
+      "A) Araşdırıcı",
+      "B) Təşəbbüskar",
+      "C) Konvensional",
+      "D) Bədii"
+    ]
+  },
+  {
+    "question": "Robert Diltsinin məntiqi səviyyələri piramidasına aid olmayan variantları seçin",
+    "true-answer": "E) Xarakter",
+    "wrong-answers": [
+      "A) Davranış",
+      "B) Ətraf mühit",
+      "C) Qabiliyyətlər",
+      "D) Missiya"
+    ]
+  },
+  {
+    "question": "Biri SWOT analizinin 4 əsas ünsürlərindən deyil",
+    "true-answer": "C) Ətraf mühit",
+    "wrong-answers": [
+      "A) Güclü tərəflər",
+      "B) Fürsətlər",
+      "D) Təhdidlər",
+      "E) Zəif tərəflər"
+    ]
+  },
+  {
+    "question": "Emosional zəkanın (EQ) 4 əsas maddəsindən birinə aiddir?",
+    "true-answer": "A) Özünü tanıma",
+    "wrong-answers": [
+      "B) Karyera planlaması",
+      "C) Texniki bacarıqlar",
+      "D) Sərt bacarıqlar",
+      "E) Yumşaq bacarıqlar"
+    ]
+  },
+  {
+    "question": "Hobbi nədir?",
+    "true-answer": "B) İnsanın könüllü surətdə məcbur edilmədən məşğul olduğu və böyük zövq aldığı fəaliyyəti",
+    "wrong-answers": [
+      "A) Elektron öyrənmə üsulu",
+      "C) Hədəf təyinetmə metodu",
+      "D) SWOT analizin bir növü",
+      "E) Öz və digərlərinin emosiyalarını hiss etmək və idarə etməkdir"
+    ]
+  },
+  {
+    "question": "Amerikalı psixoloq H.Gardnerin fikrincə zəka növünə aid olmayan variantı seçin",
+    "true-answer": "B) Bədən dili zəkası",
+    "wrong-answers": [
+      "A) Riyazi-məntiqi zəka",
+      "C) Musiqi zəkası",
+      "D) Vizual zəka",
+      "E) Bədən-kinestetik intellekt"
+    ]
+  },
+  {
+    "question": "Amerikalı psixoloq H.Gardnerin fikrincə zəka növünə aid olmayan variantı seçin",
+    "true-answer": "E) İqtisadi zəka",
+    "wrong-answers": [
+      "A) Sosial zəka",
+      "B) Təbii zəka",
+      "C) Dil zəkası",
+      "D) Bədən-kinestetik intellekt"
+    ]
+  },
+  {
+    "question": "Roberts Dilts piramidasında hansı mərhələ necə? Sualına cavab verir.",
+    "true-answer": "D) Qabiliyyətlər",
+    "wrong-answers": [
+      "A) Davranış",
+      "B) Ətraf mühit",
+      "C) Missiya",
+      "E) Kimlik"
+    ]
+  },
+  {
+    "question": "Robert Dilts piramidasında hansı mərhələ nə edir? Sualına cavab verir",
+    "true-answer": "E) Davranış",
+    "wrong-answers": [
+      "A) İnanclar və dəyərlər",
+      "B) Ətraf mühit",
+      "C) Qabiliyyətlər",
+      "D) Missiya"
+    ]
+  },
+  {
+    "question": "Robert Dilts piramidasında \"Nə məna var?\" sualı hansı səviyyəyə aiddir?",
+    "true-answer": "C) Missiya",
+    "wrong-answers": [
+      "A) Kimlik",
+      "B) Davranış",
+      "D) Ətraf mühit",
+      "E) Qabiliyyətlər"
+    ]
+  },
+  {
+    "question": "Robert Dilts piramidasında hansı mərhələ \"Niyə vacibdir?\", \"Nə əhəmiyyəti var?\" sualına cavab verir",
+    "true-answer": "A) İnanclar və dəyərlər",
+    "wrong-answers": [
+      "B) Ətraf mühit",
+      "C) Qabiliyyətlər",
+      "D) Missiya",
+      "E) Davranış"
+    ]
+  },
+  {
+    "question": "Robert Dilts modelinə əsasən hərəkət mənbələri və istiqamətləri səviyyəsi, davranışı arxasında müxtəlif mənbələri alqoritmləri və strategiyaları hansı bölmədə araşdırılır",
+    "true-answer": "B) Qabiliyyətlər",
+    "wrong-answers": [
+      "A) Missiya",
+      "C) Ətraf mühit",
+      "D) Kimlik",
+      "E) Davranışlar"
+    ]
+  },
+  {
+    "question": "Əgər karyeranız üçün lazım olan sərt bacarıqlara sahibsinizsə bu tərəfinizi SWOT analizin hansı rübünə yazmalısınız.",
+    "true-answer": "C) Güclü tərəflər",
+    "wrong-answers": [
+      "A) Zəif tərəflərə",
+      "B) Təhdidlərə",
+      "D) Fürsətlərə",
+      "E) Tənqidlərə"
+    ]
+  },
+  {
+    "question": "Swot analizdə xarici mühit amilləri hansı bölümlərdə araşdırılır",
+    "true-answer": "C) Fürsətlər və təhdidlər",
+    "wrong-answers": [
+      "A) Yalnız fürsətlər bölümündə",
+      "B) Güclü və zəif tərəflər",
+      "D) Yalnız təhdidlər bölümündə",
+      "E) Zəif tərəflər"
+    ]
+  },
+  {
+    "question": "SWOT analizdə daxili mühit amilləri hansı bölümlərdə araşdırılır",
+    "true-answer": "E) Güclü və zəif tərəflər",
+    "wrong-answers": [
+      "A) Zəif tərəflər",
+      "B) Fürsətlər və təhdidlər",
+      "C) Yalnız təhdidlər bölümündə",
+      "D) Yalnız güclü tərəflər"
+    ]
+  },
+  {
+    "question": "Hədəfimə çatmaq üçün hansı vərdişlər zərərlidir? sualı SWOT təhlilin hansı bölümünə aiddir?",
+    "true-answer": "C) Zəif tərəflər",
+    "wrong-answers": [
+      "A) Təhlükələr",
+      "B) Güclü və zəif tərəflər",
+      "D) Fürsətlər",
+      "E) Güclü tərəflər"
+    ]
+  },
+  {
+    "question": "Mühitin xüsusiyyətlərinin hədəfimizə çatmağımıza kömək və ya mane olması SWOT təhlilin hansı komponentində əksini tapır?",
+    "true-answer": "A) İmkan və təhdidlər",
+    "wrong-answers": [
+      "B) İmkanlar",
+      "C) Təhdidlər və zəif tərəflər",
+      "D) Zəif tərəflər və imkanlar",
+      "E) Güclü və zəif tərəflər"
+    ]
+  },
+  {
+    "question": "Cari bacarıqların təhlili üçün aşağıdakı vasitələrdən hansını tətbiq etmək daha məqsədə uyğundur?",
+    "true-answer": "B) SWOT təhlil",
+    "wrong-answers": [
+      "A) Dunning Kruger modeli",
+      "C) Dekart kvadratı",
+      "D) Eyzenhauer matrisi",
+      "E) Kanban texnikası"
+    ]
+  },
+  {
+    "question": "Qarşımızda olan potensial təhdidləri minimuma endirmək üçün onları araşdırmağa imkan verən SWOT analiz bölümü hansıdır?",
+    "true-answer": "A) Təhlükələr",
+    "wrong-answers": [
+      "B) İş axını",
+      "C) İmkanlar",
+      "D) Güclü tərəflər",
+      "E) Zəif tərəflər"
+    ]
+  },
+  {
+    "question": "Cəmiyyətdə mənə fayda verə biləcək hansı dəyişikliklər olur? Özümü inkişaf etdirməmə xidmət edən hansı təlim təklifləri mövcuddur? sualları SWOT analizin hansı bölümünə cavab tapmaqda köməklik edir?",
+    "true-answer": "C) İmkanlar",
+    "wrong-answers": [
+      "A) Güclü tərəflər",
+      "B) Zəif tərəflər",
+      "D) Təhlükələr",
+      "E) İş axını"
+    ]
+  },
+  {
+    "question": "Şəxsiyyətimdə nəyi inkişaf etdirməliyəm? Hansı adları itirirəm? Sualları SWOT analizin hansı bölümünə cavab tapmaqda köməklik edir?",
+    "true-answer": "D) Zəif tərəflər",
+    "wrong-answers": [
+      "A) İş axını",
+      "B) Güclü tərəflər",
+      "C) İmkanlar",
+      "E) Təhlükələr"
+    ]
+  },
+  {
+    "question": "Daniel Golemanın \"Emosional Zəka\" modelində empatiya dedikdə nə başa düşülür?",
+    "true-answer": "A) Digər insanların emosional vəziyyətlərini anlamaq, insanlara emosional reaksiyalarına uyğun davranmaq bacarığıdır.",
+    "wrong-answers": [
+      "B) Öz əhval-ruhiyyəsini, duyğularını və obrazlarını, habelə onların başqalarına təsirini başa düşmək və qəbul etmək bacarığıdır.",
+      "C) Əlaqələr və şəbəkə qurmaqda mahir, ümumi dil tapmaq və yaxın münasibət yaratmaq bacarığıdır.",
+      "D) Daima uğur qazanma istəyi və uğursuzluq qarşısında belə pozitiv qalma bacarığıdır.",
+      "E) Öz emosiyalarını idarə etmək və ya yönləndirmək, mühakimə yürütməkdə tələskən olmamaq, yəni hərəkət etməzdən əvvəl düşünmək bacarığıdır."
+    ]
+  },
+  {
+    "question": "Daniel Golemanın \"Emosional Zəka\" modelində münasibətlərin idarə edilməsi dedikdə nə başa düşülür?",
+    "true-answer": "E) Əlaqələr və şəbəkə qurmaqda mahir, ümumi dil tapmaq və yaxın münasibət yaratmaq bacarığıdır.",
+    "wrong-answers": [
+      "A) Öz emosiyalarını idarə etmək və ya yönləndirmək, mühakimə yürütməkdə tələsik olmamaq, yəni hərəkət etməzdən əvvəl düşünmək bacarığıdır",
+      "B) Digər insanların emosional vəziyyətlərini anlamaq, insanlara emosional reaksiyalarına uyğun davranmaq bacarığıdır.",
+      "C) Daima uğur qazanma istəyi və uğursuzluq qarşısında belə pozitiv qalma bacarığıdır.",
+      "D) Öz əhval-ruhiyyəsini, duyğularını və obrazlarını, habelə onların başqalarına təsirini başa düşmək və qəbul etmək bacarığıdır."
+    ]
+  },
+  {
+    "question": "Daniel Golemanın \"Emosional Zəka\" modelində özünü dərk etmə dedikdə nə başa düşülür?",
+    "true-answer": "B) Öz əhval-ruhiyyəsini, duyğularını və obrazlarını, habelə onların başqalarına təsirini başa düşmək və qəbul etmək bacarığıdır.",
+    "wrong-answers": [
+      "A) Özünü motivasiya edə bilmə, daima uğur qazanma istəyi və uğursuzluq qarşısında belə pozitiv qalma bacarığıdır.",
+      "C) Öz emosiyalarını idarə etmək və ya yönləndirmək, mühakimə yürütməkdə tələsik olmamaq, yəni hərəkət etməzdən əvvəl düşünmək bacarığıdır.",
+      "D) Əlaqələr və şəbəkə qurmaqda mahir, ümumi dil tapmaq və yaxın münasibət yaratmaq bacarığıdır.",
+      "E) Digər insanların emosional vəziyyətlərini anlamaq, insanlara emosional reaksiyalarına uyğun davranmaq bacarığıdır."
+    ]
+  },
+  {
+    "question": "Qarışıq modelin komponentlərindən olan Empatiyanın düzgün şərh olunduğu variantı müəyyən edin.",
+    "true-answer": "A) Özünü motivasiya edə bilən insan, çətinliklər qarşısında təslim olmadan davam etməyə güc tapır və daha da möhkəmlənir qərar verərkən digər insanların hisslərini nəzərə almaq qabiliyyətidir.",
+    "wrong-answers": [
+      "B) Məqsədə çatmaq naminə səy göstərmək bacarığıdır. Bu qabiliyyət xüsusilə çətinliklər yarandıqda və ya işlər yanlış getdikdə faydalıdır.",
+      "C) Özünü başa düşmək və qiymətləndirmək, qabiliyyət və məhdudiyyətlərinizi, güclü və zəif tərəflərinizi görmək və güclü və zəif tərəflərinizlə birlikdə özünüzü qəbul etmək qabiliyyətidir.",
+      "D) Duyğularınızı idarə etmək, impulsları dayandırmaq qabiliyyəti.",
+      "E) İnsanlarla münasibət qurmaq, insanları manipulyasiya etmək, onları istədiyi istiqamətə çəkmək bacarığı"
+    ]
+  },
+  {
+    "question": "İQ nədir? Dolğun variantı seçin",
+    "true-answer": "E) Fərdin zəka yaşının təqvim yaşına olan nisbətinin 100-ə hasili ilə ifadə olunan dəyəridir",
+    "wrong-answers": [
+      "A) Öz əhval-ruhiyyəsini, duyğularını və obrazlarını, habelə onların başqalarına təsirini başa düşmək və qəbul etmək bacarığıdır.",
+      "B) Emosional tarazlığı qorumaq bacarığı",
+      "C) İnsanlarla münasibət qurmaq, insanları manipulyasiya etmək, onları istədiyi istiqamətə çəkmək bacarığı",
+      "D) İnsanın duyğularını tanımaq və təhlil etmək, zəif və güclü tərəflərini bilmək bacarığı"
+    ]
+  },
+  {
+    "question": "Emosional zəka nəyə deyilir? Dolğun variantı qeyd edin",
+    "true-answer": "B) Öz və digərlərinin emosiyalarını hiss və idarə etməkdir",
+    "wrong-answers": [
+      "A) Şəxsin biliklərə yiyələnməsidir",
+      "C) İnsanın intellektual zəkasını bilmək və idarə etməkdir",
+      "D) Zəif, güclü tərəflərini bilmək bacarığıdır",
+      "E) Fərdlərin öz güclü tərəflərini bilmək və anlamaqdır"
+    ]
+  },
+  {
+    "question": "Aşağı emosional zəkaya (EQ) uyğun olmayan variantı seçin",
+    "true-answer": "C) Stressin öhdəsindən gələ bilirsən",
+    "wrong-answers": [
+      "A) Daim inciyirsən və başqalarını necə bağışlamağı bilmirsən",
+      "B) Tez-tez səhv başa düşünüldüyünüzü düşünürsən",
+      "D) Hisslərinizi və niyə hiss etdiyinizi anlamırsan",
+      "E) Dəyişikliklərdən qorxursunuz və yeni şeylərə uzun müddətə uyğunlaşırsız"
+    ]
+  },
+  {
+    "question": "Aşağı emosional zəkaya (EQ) uyğun olmayan variantı seçin",
+    "true-answer": "D) Dostlarla vaxt keçirməyə üstünlük verirsiniz",
+    "wrong-answers": [
+      "A) Başqalarını tənqid etmək və nəticəsiz mübahisə etmək",
+      "B) Dəyişikliklərdən qorxursunuz və yeni şeylərə uzun müddətə uyğunlaşırsınız",
+      "C) Tez-tez səhv başa düşüldüyünüzü düşünürsən",
+      "E) Hisslərinizi və niyə hiss etdiyinizi anlamırsan"
+    ]
+  },
+  {
+    "question": "SWOT matrisi nəyə deyilir? Doğru tərifi hansı variantda göstərilib",
+    "true-answer": "C) Bir şirkətin bir təşkilatın və ya bir insanın mövcud və real vəziyyətini təhlil etməyə imkan verən bir vasitədir",
+    "wrong-answers": [
+      "A) Bir işin nə və niyə deyil, görülən işin nəticələri təhlil edilir",
+      "B) Bir şəxsin uğurlu karyera qurulmasına kömək edən qaydalar məcmusudur",
+      "D) Öz və digərlərinin emosiyalarını hiss etmək və idarə etmək üçün bir təhlil vasitəsidir",
+      "E) Bir insanın zəka yaşının təqvim yaşına olan nisbətinin 100-ə hasili ilə ifadə olunan dəyəridir"
+    ]
+  },
+  {
+    "question": "Robert Dilts məntiqsəl alqı səviyyələrində piramidanın inanclar və dəyərlər səviyyəsi hansı məlumatı saxlayır.",
+    "true-answer": "D) Şəxsin motivasiyasını, prinsiplərini və niyə hərəkət etdiyini göstərir",
+    "wrong-answers": [
+      "A) Harada yaşadığını, hansı fiziki mühitdə olduğunu və gündəlik həyatında kimlərlə ünsiyyətdə olduğunu göstərir",
+      "B) Nə etdiyini və hərəkət istiqamətlərini göstərir",
+      "C) Bacarıqlar, qabiliyyətlər və strategiyalar səviyyəsini göstərir",
+      "E) Cəmiyyət və daha böyük məqsədlərlə bağlı məlumat verir"
+    ]
+  },
+  {
+    "question": "Emosional zəkanın əsas maddəsi olan özünü tanıma nəyə deyilir",
+    "true-answer": "E) İnsanın duyğularını tanımaq və təhlil etmək, zəif və güclü tərəflərini bilmək bacarığı",
+    "wrong-answers": [
+      "A) Fərdin zəka yaşının təqvim yaşına olan nisbətinin 100-ə hasili ilə ifadə olunan dəyərdir",
+      "B) Kritik vəziyyətdə duyğularınızı idarə etmək və emosional tarazlığı qorumaq bacarığı",
+      "C) İnsanlarla ünsiyyət qurmaq, duyğularını idarə etmək",
+      "D) Başqalarının duyğularını və daxili vəziyyətlərini nəzərə alaraq başqaları ilə ünsiyyət qurmaq qabiliyyətini anlamaq"
+    ]
+  },
+  {
+    "question": "(EQ) əsas maddəsi olan özünü idarə etmə nəyə deyilir?",
+    "true-answer": "B) Kritik vəziyyətlərdə də duyğularınızı idarə etmək və emosional tarazlığı qorumaq bacarığı",
+    "wrong-answers": [
+      "A) İnsanın duyğularını tanıma və təhlil etmək, zəif və güclü tərəflərini bilmək bacarığı",
+      "C) İnsanlarla ünsiyyət qurmaq, duyğularını idarə etmək komandada işləmək",
+      "D) Başqalarının duyğularını və daxili vəziyyətlərini nəzərə alaraq başqaları ilə ünsiyyət qurma qabiliyyətini anlamaq",
+      "E) Fərdin zəka yaşının təqvim yaşına olan nisbətinin 100-ə hasili ilə ifadə olunan dəyərdir"
+    ]
+  },
+  {
+    "question": "Hansı bacarıqlara sahibəm? Mən nə etməyi sevirəm? sualları SWOT təhlilin hansı bölümünə aiddir?",
+    "true-answer": "C) Güclü tərəflər",
+    "wrong-answers": [
+      "A) İmkanlar",
+      "B) Təhdidlər",
+      "D) Zəif tərəflər",
+      "E) Fürsətlər"
+    ]
+  },
+  {
+    "question": "Şəxsiyyətimdə nəyi inkişaf etdirməliyəm? sualı SWOT təhlilin hansı bölümünə aiddir?",
+    "true-answer": "D) Zəif tərəflər",
+    "wrong-answers": [
+      "A) Təhlükələr",
+      "B) Güclü və zəif tərəflər",
+      "C) Fürsətlər",
+      "E) Güclü tərəflər"
+    ]
+  },
+  {
+    "question": "İngilis dilini mükəmməl öyrənməyi hədəfləyən Aylin üçün yaşadığı ərazidə ingilis dilini öyrədəcək kurslar və danışıq klublarının olması fərdi SWOT analizinin hansı bölməsinə aiddir?",
+    "true-answer": "E) İmkanlar",
+    "wrong-answers": [
+      "A) Təhlükələr",
+      "B) Daxili analiz komponenti",
+      "C) Güclü və zəif tərəflər",
+      "D) Güclü tərəflər"
+    ]
+  },
+  {
+    "question": "Mühitin xüsusiyyətlərinin hədəfimizə çatmağımıza kömək və ya mane olması SWOT təhlilin hansı komponentində əksini tapır?",
+    "true-answer": "A) İmkan və təhdidlər",
+    "wrong-answers": [
+      "B) Təhdidlər və zəif tərəflər",
+      "C) Zəif tərəflər və imkanlar",
+      "D) Güclü və zəif tərəflər",
+      "E) İmkanlar"
+    ]
+  },
+  {
+    "question": "Güclü tərəfləri necə müəyyən etmək olar?",
+    "true-answer": "D) Səriştə və bacarıqlarınızı tanımalısınız.",
+    "wrong-answers": [
+      "A) İşəgötürənləri yaxşı namizəd olmaq barədə inandırmaq üçün səy göstərməkdən çəkinmək lazımdır.",
+      "B) Güclü tərəflərinizin əmək bazarında tələb olunan səriştələrlə uyuşması şərtlərdən biri deyil.",
+      "C) Güclü tərəfləriniz zəif tərəfləri gizlətməlidir.",
+      "E) Hansı tələblərə uyğun gəlmədiyinizi müəyyən etməlisiniz."
+    ]
+  },
+  {
+    "question": "Mən kiməm? Özümü necə görürəm? Sualı Robert Dilts piramidasının hansı səviyyəsinə aiddir?",
+    "true-answer": "E) Kimlik",
+    "wrong-answers": [
+      "A) Missiya",
+      "B) Davranış",
+      "C) Ətraf mühit",
+      "D) Qabiliyyətlər"
+    ]
+  },
+  {
+    "question": "Ayselin işləri tez yerinə yetirmək və onları \"görüləcəklər\" siyahısından qısa zamanda çıxarmaq xüsusiyyəti var və bunun nəticəsində bəzən işinin keyfiyyəti pisləşir. Bu situasiyada Ayselin fərdi SWOT təhlilinin hansı elementi əks olunmuşdur?",
+    "true-answer": "C) Zəif tərəflər",
+    "wrong-answers": [
+      "A) Fürsətlər",
+      "B) Təhdidlər",
+      "D) Zəif tərəflər və imkanlar",
+      "E) Güclü tərəflər"
+    ]
+  },
+  {
+    "question": "Mövcud iqtisadi böhran Cavidin işlədiyi şirkətə mənfi təsirini göstərdi. Şirkət işçilərini ixtisar edib və şirkət lazım gələrsə daha böyük ixtisarlara getməyi düşünür. Bu situasiyada Cavidin mövcud iş yerində fərdi SWOT təhlilinin hansı elementi əks olunmuşdur?",
+    "true-answer": "D) Təhdidlər",
+    "wrong-answers": [
+      "A) Fürsətlər",
+      "B) Təhdidlər və zəif tərəflər",
+      "C) Zəif tərəflər və imkanlar",
+      "E) Zəif tərəflər"
+    ]
+  },
+  {
+    "question": "Peşəkar və ya iş mühitinin hansı cəhətləri istədiyimə çatmağıma mane olur? Nə qədər rəqabətim var? sualları SWOT analizin hansı bölümünə cavab tapmaqda köməklik edir?",
+    "true-answer": "A) Təhdidlər",
+    "wrong-answers": [
+      "B) Şanslar",
+      "C) Güclü tərəflər",
+      "D) Güclü və zəif tərəflər",
+      "E) İmkanlar"
+    ]
+  },
+  {
+    "question": "Emosiya nədir?",
+    "true-answer": "C) Fərdin daxilindən və ya xarici mühitdən (ətrafdan) gələn qıcıqlar qarşısında əvvəlcə ifadəsinə (bədən dilinə), duruşuna və davranışına təsir edən strukturlaşdırılmış hisslər toplusu kimi müəyyən edilə bilər",
+    "wrong-answers": [
+      "A) Emosiyalar hər zaman xoş olan hislərdir",
+      "B) Emosiyalar kortəbii olaraq, qeyri-iradi şəkildə ortaya çıxa bilməz",
+      "D) Emosiya əvvəlcədən müəyyən edilə bilər",
+      "E) Emosiyalar bədən dili və üz hərəkətləri ilə (jest, mimika) vasitəsilə özünü əks etdirə bilmir"
+    ]
+  },
+  {
+    "question": "Duyğuların (emosiyaların) ümumi xüsusiyyətlərindən biri yalnışdır:",
+    "true-answer": "A) Emosiyalar kortəbii olaraq, qeyri-iradi şəkildə ortaya çıxa bilməz",
+    "wrong-answers": [
+      "B) Emosiyalar bəzən xoş ola bilər, bəzən də yox",
+      "C) Hər hansı emosiyaya qapıldığın zaman eyni zamanda həyəcan da hiss edirsən",
+      "D) Emosiyalar bədən dili və üz hərəkətləri ilə (jest, mimika) vasitəsilə özünü əks etdirir",
+      "E) Emosiya əvvəlcədən müəyyən edilə bilməz"
+    ]
+  },
+  {
+    "question": "Fərdi SWOT matrisi nədir?",
+    "true-answer": "C) Fərdlərin öz güclü tərəflərinin nə olduğunu və diqqəti necə cəmləyəcəyini müəyyən edir.",
+    "wrong-answers": [
+      "A) Bir müəssisənin yeni bir sahəyə çevrilməsi və ya yenidən markalanmadır.",
+      "B) Müəssisələrin ümumi və rəqiblərinin performansını obyektiv şəkildə ölçmək və qiymətləndirmək üçün istifadə etdiyi bir strategiyadır.",
+      "D) İki növə ayrılmış altı elementi olan analizdir.",
+      "E) Üfüqi analiz komponentləri və şaquli analiz komponentlərindən ibarət matrisdir."
+    ]
+  },
+  {
+    "question": "Aşağıda verilmiş cavabların hər birinə öz tələbə aspektinizdən yanaşmaqla fərdi SWOT matrisinin güclü tərəfinə aid olan nümunəni seçin.",
+    "true-answer": "B) Təhsil müəssisəsinin tələbəsi (Siz) minimum normalara məsuliyyətli yanaşır.",
+    "wrong-answers": [
+      "A) Təhsil müəssisənin (təhsil aldığınız) tələbə kontingentinin tələbatını təmin edən laboratoriyaları, komputer otaqları və kitabxanası mövcuddur.",
+      "C) Təhsil müəssisəsinin tələbələri (sizin tələbə yoldaşlarınız) minimum normalara əməl etmir.",
+      "D) Təhsil aldığınız müəssisənin müəllimləri pedoqoji fəaliyyətlərini uğurla icra edirlər.",
+      "E) Təhsil müəssisənin (təhsil aldığınız) tələbələri təmin edən yataqxanaları yaxşı vəziyyətdə deyil."
+    ]
+  },
+  {
+    "question": "Bu nümunə hansı SWOT matrisi komponentinə aid edilir? Xaricdə təhsil alacağınız təqdirdə müxtəlif şəhərlərdən yeni insanlarla dostluq və əlaqələr qurmaqla özünüzə həm də yeni imkanlar və yeni qapılar açmış olursunuz. İşləmək və təcrübə proqramlarında iştirak etməklə networking əlaqələriniz genişlənəcəkdir. Hətta bəlkə də orada qalıb işləyə və yaşamaq istəyəcəksiniz.",
+    "true-answer": "A) Xarici analiz komponenti",
+    "wrong-answers": [
+      "B) Missiya komponenti",
+      "C) Daxili analiz komponenti",
+      "D) Güclü tərəflər",
+      "E) Təhdidedici tərəflər"
+    ]
+  },
+  {
+    "question": "SWOT matrisi ilə bağlı ifadələrdən biri səhvdir:",
+    "true-answer": "A) Hədəfə çatma müddətinə mane ola biləcək mühitin xüsusiyyətlərini təmsil edən - daxili analiz komponentləri bu matris vasitəsilə təhlil edilir.",
+    "wrong-answers": [
+      "B) Həm peşəkar, həm də psixoloji cəhətdən yolumuzu əngəlləyən problemləri tapmaq üçün vasitəsir.",
+      "C) Təklif olunan hədəfə çatmaq üçün vasitəçi rolunu oynayan ətraf mühit şərtləri - fürsətlər analizin bir hissəsini təşkil edir.",
+      "D) Güclü və zəif tərəfləri aşkar edərək, müdaxilə və yaxşılaşdırma məqsədilə istifadə edilir.",
+      "E) Bu analizdə şəxsi cəhətlərin müsbət tərəfləri güclü, mənfi tərəfləri zəif adlanır."
+    ]
+  },
+  {
+    "question": "SWOT təhlili özündə ehtiva edir:",
+    "true-answer": "B) Müqayisə - müəssisələrin ümumi və rəqiblərinin performansını obyektiv şəkildə ölçmək və qiymətləndirmək üçün istifadə etdiyi bir strategiya (müdaxilə və yaxşılaşdırma məqsədi ilə hədəflərinə çatmaq və ya təşkilata diaqnoz qoymaq)",
+    "wrong-answers": [
+      "A) Araşdırma - bir hadisənin (əşyanın) mövcudluğunu aşkarlamaq və problemlərin həll edilməsi əsnasında bütün elmi yanaşmalardan istifadə etmək",
+      "C) Zərbə - vəzifəsi ləğv edilməli olan yüksək rütbəli işçilərin uyğun olduqları və hazırda daha az iş stajı olan işçilər tərəfindən idarə olunan şirkət daxilində başqa vəzifələr (çox vaxt aşağı, daha az maaşla tamamlanması) seçimi imkanı verən bir təcrübə",
+      "D) Analiz - gələcək üçün bir təşkilatın və ya komandanın fəaliyyətinin müxtəlif ölçülər (məsələn, müştəri məmnuniyyəti dərəcəsi, satış və saxlamA) vasitəsilə ölçülməsi prosesi",
+      "E) Hədəfləmə - uzunmüddətli ehtiyacları müəyyənləşdirmək və gələcək ehtiyacları qarşılamaq üçün daxili istedad tədarükü prosesi"
+    ]
+  },
+  {
+    "question": "Zəif tərəflərin təhlili zamanı Hansı sual bizə Strateji planı hazırlamaqda kömək edir?",
+    "true-answer": "C) Mənim vaxtımı sərf edən nədir?",
+    "wrong-answers": [
+      "A) Cəmiyyətdə həll etməyə kömək edə biləcəyim bir problem varmı?",
+      "B) Peşəkar və ya iş mühitimin hansı cəhətləri istədiyimə çatmağıma mane olur?",
+      "D) Təkrar emal etməyə imkan verən hansı təlim təklif olunur?",
+      "E) Cəmiyyətdə mənə fayda verə biləcək hansı dəyişikliklər olur?"
+    ]
+  },
+  {
+    "question": "Emosional Zəka haqqında qeyd olunanlardan biri doğrudur.",
+    "true-answer": "E) Yüksək EQ-lu insanlar davranışlarını, empatiyanı və kübarlığı öz nüfuzunu yaratma və özünə dəyər çərçivələrini müəyyən etməklə bu qabiliyyətlərini tarazlaşdırırlar.",
+    "wrong-answers": [
+      "A) İki şəxs öz aralarında mübahisə yaşanan zaman passiv və ya müsbət münasibət göstərir.",
+      "B) İki şəxs öz aralarında mübahisə yaşanan zaman yalnız müsbət münasibət göstərir.",
+      "C) Emosional zəkası güclü olmayan insanlar ölçüb-biçilməmiş ani davranışlardansa stress zamanı daha ağıllı, özlərindən əmin və soyuqqanlı davranırlar.",
+      "D) Emosional zəkası güclü olan insanlar ölçüb-biçilməmiş ani davranışlardansa stress zamanı daha ağıllı, özlərinə əmin olmadan və istiqanlı davranırlar."
+    ]
+  },
+  {
+    "question": "Praqmatizm neçənci ildə və harada yaranmağa başlanmışdır?",
+    "true-answer": "C) 1870 ci ildə ABŞ da",
+    "wrong-answers": [
+      "A) 1780 ci ildə ABŞ da",
+      "B) 1780 ci ildə Almaniyada",
+      "D) 1870 ci ildə Almaniyada",
+      "E) 1990 ci ildə İngiltərədə"
+    ]
+  },
+  {
+    "question": "Hədəf təyin etmə metodu aşağıdakılardan hansıdır",
+    "true-answer": "B) SMART",
+    "wrong-answers": [
+      "A) HOLLAND",
+      "C) EISENHOWER",
+      "D) PEST",
+      "E) SWOT"
+    ]
+  },
+  {
+    "question": "Praqmatizmin banisi olmayan filosof kimdir?",
+    "true-answer": "C) John Holland",
+    "wrong-answers": [
+      "A) Çarlz Pirs",
+      "B) Vilyam Ceyms",
+      "D) John Deuey",
+      "E) Heç biri"
+    ]
+  },
+  {
+    "question": "SMART hədəflərin 5 xüsusiyyətindən biri deyil.",
+    "true-answer": "C) Ümumi",
+    "wrong-answers": [
+      "A) Ölçülə bilən",
+      "B) Spesifik",
+      "D) Müəyyən vaxt ərzində",
+      "E) Nail olunması mümkün olan"
+    ]
+  },
+  {
+    "question": "Vizyon nədir?",
+    "true-answer": "A) Ən vacib karyera hədəflərini göstərən qısa bəyanatdır",
+    "wrong-answers": [
+      "B) Bir işin nə və niyə deyil, görülən işin nəticələri təhlil edilir.",
+      "C) Bir şəxsin yerinə yetirilməli olduğu tapşırıq və ya məqsəd",
+      "D) Heç biri deyil",
+      "E) Vizyon missiyadan daha dəyərli anlayışdır."
+    ]
+  },
+  {
+    "question": "Missiya nədir?",
+    "true-answer": "E) Bir şəxsin yerinə yetirməli olduğu tapşırıq və ya məqsəd",
+    "wrong-answers": [
+      "A) Ən vacib karyera hədəflərini göstərən qısa bəyanatdır",
+      "B) Karyeranın idarə edilməısi üçün insanın ali məqsədi",
+      "C) Bir insanın özü ilə yarışması deməkdir",
+      "D) Son karyera hədəfinin və gedilən yola dair xüsusiyyətlərin qısa bir xülasəsidir."
+    ]
+  },
+  {
+    "question": "Vizyonun cavab verməli olduğu əsas meyarlara aid olmayan variantı seçin",
+    "true-answer": "C) Rutin",
+    "wrong-answers": [
+      "A) Lakonik",
+      "B) Mücərrəd",
+      "D) Stabil",
+      "E) Ruhlandırıcı"
+    ]
+  },
+  {
+    "question": "George T. Doran-nın \"SMART\" hədəflə bağlı yazdığı məqalə hansıdır?",
+    "true-answer": "B) İdarəçiliyin hədəf və məqsədlərini hazırlamağın SMART yolu var",
+    "wrong-answers": [
+      "A) Startap ideyanız üçün SMART hədəflərin seçilməsi",
+      "C) Düzgün hədəflər seçmək üçün 5 əsas addım",
+      "D) heç biri",
+      "E) Düzgün hədəflər seçmək - SMART hədəf"
+    ]
+  },
+  {
+    "question": "Karyerada KPİ nədir?",
+    "true-answer": "D) Əsas fəaliyyət göstəriciləri şəxsin və ya təşkilatın indiki, gələcək uğuru üçün xeyli dərəcədə vacib olan performans göstəricilərini əks etdirir.",
+    "wrong-answers": [
+      "A) Ən vacib karyera hədəflərini göstərən qısa bəyatdır.",
+      "B) Bir şəxsin yerinə yetirməli olduğu tapşırıq və ya məqsəddir.",
+      "C) Hədəf təyin etmə və hədəfləri rahat qavramağa, məqsədi daha da konkretləşdirməyə kömək edən metoddur.",
+      "E) Hər bir insan karyerasında məharətlə və aydın şəkildə qarşıya qoyulmuş məqsədə çatmaq üçün səy göstərir. Əsasən məqsədlərinə çatır, karyeralarında uğur qazanır."
+    ]
+  },
+  {
+    "question": "\"SMART\" - qısaltmasının doğru açılışı hansı sətirdə qeyd olunub?",
+    "true-answer": "B) Spesific, Measurable, Achievable, Relevant, Time-buond",
+    "wrong-answers": [
+      "A) Spesific, Measurable, Available, Relevant, Time-buond",
+      "C) Spesific, Measurable, Achievable, Result-oriented, Time",
+      "D) Spesific, Measurable, Available, Deserving-attention, Time-buond",
+      "E) Spesific, Measurable, Available, Result-oriented, Time-buond"
+    ]
+  },
+  {
+    "question": "Karyera hədəfləriniz barəsində sizdən soruşulduğu zaman nə etməlisiniz?",
+    "true-answer": "E) Potensialınıza uyğun olan və şirkətin maraqları ilə üst-üstə düşən real hədəflər haqqında danışın",
+    "wrong-answers": [
+      "A) Özünüzü maksimum güclü şəkildə göstərmək üçün yüksək vəzifədə olmaq istədiyinizi bildirin",
+      "B) Tezliklə öz biznesinizi qurmaq istədiyinizi və bunun üçün gün saydığınızı qeyd edin",
+      "C) Belə sualla qarşılaşmaq ehtimalınız yoxdur",
+      "D) Xüsusi bir hədəfinizin olmadığını bildirin"
+    ]
+  },
+  {
+    "question": "Praqmatik insanlar deyilir? Dolğun variantı seçin.",
+    "true-answer": "C) Hər bir insan karyerasında, həyat yolunda məharətlə və aydın şəkildə qarşıya qoyulmuş məqsədə çatmaq üçün səy göstərir. Əsasən məqsədlərinə çatır, karyeralarında uğur qazanırlar.",
+    "wrong-answers": [
+      "A) İnsanın ətrafa, işə, məsələlərə münasibəti və peşəkar yanaşması ilə bağlıdır.",
+      "B) Bir insanın işləyə biləcəyi illər boyuncaa hər hansı iş sahəsində daimi olaraq irəliləməsidir.",
+      "D) İnsanın gələcəkdə olmaq istədiyi mövqe və statusdur. Başqa sözlə gələcəyə aid görüntüdür.",
+      "E) Hər bir insanın ehtiyacları, hədəfləri, isdedadı unikaldır. Karyeranın idarəedilməsi üçün insan ali məqsədini müəyyənləşdirməlidir."
+    ]
+  },
+  {
+    "question": "Dəvət olunduğunuz iş müsahibəsində işə qəbul üzrə mütəxəssisin yönəldilmiş suallarından biri belədir: Sizə nə üçün məhz marketinq sahəsində çalışmaq maraqlıdır? Suala əsasən vizyonun qurulmasının hansı mərhələsi haqqında soruşulduğunu təyin edin.",
+    "true-answer": "A) Sahə daxilində arzu olunan mövqenin seçilməsi",
+    "wrong-answers": [
+      "B) Missiya bəyanatı",
+      "C) Güclü tərəflər və onların necə tətbiq edilməsini bilmək",
+      "D) Dəyərlərin müəyyən edilməsi",
+      "E) Səriştələrin real problemləri necə həll edə bilməsinin dəyərləndirilməsi"
+    ]
+  },
+  {
+    "question": "Praqmatik insanlar deyilir? Dolğun variantı seçin.",
+    "true-answer": "C) Hər bir insan karyerasında, həyat yolunda məharətlə və aydın şəkildə qarşıya qoyulmuş məqsədə çatmaq üçün səy göstərir. Əsasən məqsədlərinə çatır, karyeralarında uğur qazanırlar.",
+    "wrong-answers": [
+      "A) İnsanın ətrafa, işə, məsələlərə münasibəti və peşəkar yanaşması ilə bağlıdır.",
+      "B) Bir insanın işləyə biləcəyi illər boyuncaa hər hansı iş sahəsində daimi olaraq irəliləməsidir.",
+      "D) İnsanın gələcəkdə olmaq istədiyi mövqe və statusdur. Başqa sözlə gələcəyə aid görüntüdür.",
+      "E) Hər bir insanın ehtiyacları, hədəfləri, isdedadı unikaldır. Karyeranın idarəedilməsi üçün insan ali məqsədini müəyyənləşdirməlidir."
+    ]
+  },
+  {
+    "question": "Hansılar SMART hədəf təyin etmə prinsipinə uyğun təyin edilib? 1. İxtisasımla bağlı iş yerlərinin siyahısını hazırlamaq. 2. Təhsili başa vurmaq. 3. Növbəti bir il müddətində Harvard Biznes məktəbinə \"Liderlik və Menecment\" ixtisası üzrə magistratura pilləsinə qəbul olmaq. 4. 3 ay müddətində MS Excel proqramını aktiv istifadəçi səviyyəsində öyrənmək. 5. 6 ay müddətində İngilis dil səviyyəmi bir pillə artırmaq",
+    "true-answer": "c) 3,4,5",
+    "wrong-answers": [
+      "a) 1,2,4",
+      "b) 1,4,5",
+      "d) 2,4,5",
+      "e) 1,3,5"
+    ]
+  },
+  {
+    "question": "Nümunədə boşluqları ardıcıl doldurun: \"1 il ərzində (...), səyahət etdiyim müddətdə yemək sifariş edə bilmək üçün, 2-3 otel tapa bilmək üçün (...), İtalyanca öyrənmək istəyirəm (...). Buna italyanca öyrənə biləcəyim kurs axtarmaqla başlayıram (...).\"",
+    "true-answer": "E) Vaxt məhdudiyyətli, ölçülə bilən, spesifik, müvafiq",
+    "wrong-answers": [
+      "A) Ölçülə bilən, müvafiq, vaxt məhdudiyyətli, spesifik",
+      "B) Ölçülə bilən, vaxt məhdudiyyətli, müvafiq, spesifik",
+      "C) Vaxt məhdudiyyətli, ölçülə bilən, müvafiq, spesifik",
+      "D) Ölçülə bilən, müvafiq, spesifik, vaxt məhdudiyyətli"
+    ]
+  },
+  {
+    "question": "SMART metodu haqqında deyilənlərdən biri yalnışdır.",
+    "true-answer": "B) Hədəflərə çatmaq üçün son vaxtlar müəyyən etməyi unudun",
+    "wrong-answers": [
+      "A) Hədəf ölçülə bilən olmalıdır",
+      "C) Hədəfin müddəti və dəqiq yerinə yetirmə dövrü olmalıdır",
+      "D) Hədəf sahib olduğunuz daxili və xarici resurslar baxımından əlçatan olmalıdır",
+      "E) Hədəflər karyera məqsədiniz ilə əlaqəli olmalıdır"
+    ]
+  },
+  {
+    "question": "Praqmatizm dedikdə nə başa düşülür",
+    "true-answer": "A) Faydalılıq olaraq dilimizə uyğunlaşdırılmış fəlsəfi düşüncədir və nəticə yönümlü olmaq mənasını daşıyır",
+    "wrong-answers": [
+      "B) Əlamət və fərqləndirici xüsusiyyət mənasını daşıyır",
+      "C) İnsanın nəzəri biliklərini praktikada tətbiq etmək mənasını daşıyır",
+      "D) Elmi və fəlsəfəni ancaq praktik fayda verə bilmədikdə qəbul etmək mənasını daşıyır",
+      "E) Bir insanın işləyə biləcəyi illər boyunca hər hansı bir iş sahəsində irəliləməsi mənasını daşıyır"
+    ]
+  },
+  {
+    "question": "SMART nədir?",
+    "true-answer": "C) Xüsusi, ölçülə bilən, əldə edilə bilən, uyğun olan, müddətli",
+    "wrong-answers": [
+      "A) Ümumi, ölçülə bilən, çatdırıla bilən, əlaqədar, müddətsiz",
+      "B) Heç biri",
+      "D) Spesifik, ölçülə bilən, çatdırıla bilən, real olan, müddətli",
+      "E) Ümumi olan, ölçüləbilən, çatdırıla bilən, nail olan, son vaxtlı"
+    ]
+  },
+  {
+    "question": "Praqmatik səriştələrin karyera gətirəcəyi faydalara aiddir",
+    "true-answer": "E) Ünsiyyət qura bilmə səriştələrinizə kömək edir",
+    "wrong-answers": [
+      "A) Münasibətlər qurmaq bacarığını azaldır",
+      "B) Təşkilat daxili mədəniyyətə uyğunlaşmamağa kömək edir",
+      "C) Müxtəlif peşə ilə bağlı və sosial vəziyyətlərə uyğunlaşmaq istiqamətində həvəssizlik yaradır",
+      "D) Hər bir insan həyat yolunda məharətlə və aydın şəkildə qarşıya qoyulmuş məqsədə çatmağa kömək edir"
+    ]
+  },
+  {
+    "question": "\"Z\" şirkətinin hədəfi kiçilməyə getməkdir və şirkətin pula qənaət etmək üçün müəyyən departamentlərdə işçi sayını azaldılması qərarı İR şöbəsi ilə müzakirə olunaraq məqbul hesab olundu. Nəticə etibarilə \"SMART\" hədəfin hansı mərhələsi icra olundu?",
+    "true-answer": "B) Hədəfin müvafiq olması",
+    "wrong-answers": [
+      "A) Hədəfin vaxt məhdudiyyətli olması",
+      "C) Hədəfin spesifik olması",
+      "D) Hədəfin əldə edilə bilən olması",
+      "E) Hədəfin ölçülə bilən olması"
+    ]
+  },
+  {
+    "question": "Dünya markası hesab olunan \"Samsung\" şirkəti özünü belə tanıtmışdır: 1. ______ : Yeni gələcək yaradan, insanların həyatını zənginləşdirən və sosial rifaha töhfə verən innovativ texnologiyalarımız, məhsullarımız və dizaynımızla dünyanı ruhlandırmaq. 2. ______ : Dünyaya ilham verin. Gələcəyi yaradın. Boşluqları doldurun.",
+    "true-answer": "B) 1.missiya 2.vizyon",
+    "wrong-answers": [
+      "A) 1.vizyon 2.missiya",
+      "C) 1.missiya 2.hədəf",
+      "D) 1.vizyon 2.hədəf",
+      "E) 1.hədəf 2.missiya"
+    ]
+  },
+  {
+    "question": "Dünya markası hesab olunan \"Tesla\" şirkəti özünü belə tanıtmışdır. 1. ______ : Dünyanın davamlı enerjiyə keçidini sürətləndirmək. 2. ______ : Bütün dünyada elektrikli avtomobillərə keçidi təmin etməklə 21-ci əsrin ən cəlbedici avtomobil şirkətini yaratmaq. Boşluqları doldurun.",
+    "true-answer": "E) 1.missiya 2.vizyon",
+    "wrong-answers": [
+      "A) 1.vizyon 2.missiya",
+      "B) 1.missiya 2.hədəf",
+      "C) 1.vizyon 2.vizyon",
+      "D) 1.hədəf 2.missiya"
+    ]
+  },
+  {
+    "question": "Praqmatik vərdişlərə aid olan elementləri seçin: 1.Sosial mühitdə dil və ünsiyyət səriştələrinin tətbiq edilməsi 2.Ünsiyyət səriştələrinin müxtəlif şəraitlərə uyğunlaşdırılması 3.İnsanlarla ünsiyyət zamanı həssas və qeyri-verbal cəhətlər haqqında məlumatlılıq və onların nəzərə alınması 4.Praqmatik düşüncədə müvəffəqiyyətin ölçülə bilən dəyərlərinin olması 5.Təşkilatın maraqlarına və strateji istiqamətinə uyğunlaşdırılması",
+    "true-answer": "D) 1,2,3",
+    "wrong-answers": [
+      "A) 1,2,5",
+      "B) 2,3,4",
+      "C) 2,3,5",
+      "E) 1,3,5"
+    ]
+  },
+  {
+    "question": "Vizyon anlayışının missiya anlayışından fərqi nədən ibarətdir?",
+    "true-answer": "A) Vizyon qurumun, şirkətin, ictimayyətin gələcək hədəfləri haqqında məlumat verir. \"Məqsədimiz nədir, hara gəlmək istəyirik?\" kimi suallara cavab verir.",
+    "wrong-answers": [
+      "B) Vizyon qurumun, şirkətin, cəmiyyətin yaranma məqsədi haqqında məlumat verir. \"Biz bu şirkəti niyə yaratdıq? Biz kimə xidmət edirik? Fəaliyyətimiz nədir?\" kimi suallara cavab verir",
+      "C) Vizyon korporativ mühitdə nəyə və niyə nail olmaq istəyimizi bildirir.",
+      "D) Vizyon missiyanın planlaşdırılmasına və həyata keçirilməsinə rəhbərlik edir.",
+      "E) Vizyon şəxsi məqsədlərimizi, uzunmüddətli hədəflərimizi, rəhbər fəlsəfəmizi əhatə edən təsvirdir."
+    ]
+  },
+  {
+    "question": "Karyera planlamasında vizyonun qurulması mərhələlərinin ardıcıl yazıldığı sıranı seçin:",
+    "true-answer": "E) 1.Güclü tərəflər və onların necə tətbiq edilməsini bilmək, 2.dəyərlərin müəyyən edilməsi, 3.Səriştələrin real problemləri necə həll edə bilməsini dəyərləndirmək, 4.sahə daxilində arzu olunan mövqe seçmək, 5.missiya bəyanatı yazmaq",
+    "wrong-answers": [
+      "A) 1.Güclü tərəflər və onların necə tətbiq edilməsini bilmək, 2.dəyərlərin müəyyən edilməsi, 3.Səriştələrin real problemləri necə həll edə bilməsini dəyərləndirmək, 4.missiya bəyanatı yazmaq",
+      "B) 1.Güclü tərəflər və onların necə tətbiq edilməsini bilmək, 2.dəyərlərin müəyyən edilməsi, 3.missiyanın təyin edilməsi, 4.sahə daxilində arzu olunan mövqe seçmək, 5.missiya bəyanatı yazmaq",
+      "C) 1.Güclü tərəflər və onların necə tətbiq edilməsini bilmək, 2.dəyərlərin müəyyən edilməsi, 3.Səriştələrin real problemləri necə həll edə bilməsini dəyərləndirmək, 4.missiyanın təyin edilməsi, 5.missiya bəyanatı yazmaq",
+      "D) 1.Güclü tərəflər və onların necə tətbiq edilməsini bilmək, 2.missiyanın təyin edilməsi, 3.Səriştələrin real problemləri necə həll edə bilməsini dəyərləndirmək, 4.sahə daxilində arzu olunan mövqe seçmək, 5.missiya bəyanatı yazmaq"
+    ]
+  },
+  {
+    "question": "\"Motivləşdirmə\" latın sözü olub mənası nədir?",
+    "true-answer": "C) Sövqetmə",
+    "wrong-answers": [
+      "A) Nitqdə formalanma",
+      "B) Neqatizm",
+      "D) Donuqluq",
+      "E) Mutizm"
+    ]
+  },
+  {
+    "question": "Hiperbuliya nədir?",
+    "true-answer": "E) İradənin güclənməsi",
+    "wrong-answers": [
+      "A) Nitqdə tormozlanma",
+      "B) İradənin zəifləməsi",
+      "C) İnstinktiv təlabat",
+      "D) İradəni şüurlu surətdə təhlil edir."
+    ]
+  },
+  {
+    "question": "Qarşıya qoyulmuş məqsədə nail olunmaq əzminə.... deyilir?",
+    "true-answer": "C) İradə",
+    "wrong-answers": [
+      "A) Motivasiya",
+      "B) Pozitiv düşüncə",
+      "D) Praqmatik",
+      "E) Motivləşdirmə"
+    ]
+  },
+  {
+    "question": "Hipobuliya nədir?",
+    "true-answer": "D) İradənin zəifləməsi",
+    "wrong-answers": [
+      "A) Nitqdə tormozlanma",
+      "B) İradənin şüurlu surətdə təhlili",
+      "C) İradənin güclənməsi",
+      "E) İradənin belə bir pozuntu forması yoxdur"
+    ]
+  },
+  {
+    "question": "Motivasiya nədir?",
+    "true-answer": "B) Özünü və başqalarını özünün şəxsi və ya ictimai məqsədlərə nail olunması üçün fəaliyyətə vadar etmə prosesidir",
+    "wrong-answers": [
+      "A) Bir çoxları müsbət düşüncə haqqında eşitmişlər, lakin hər kəs bu cür düşünmə fəaliyyətinin nə olduğunu müsbət və mənfi cəhətlərini və necə inkişaf etdirəcəyini bilmir",
+      "C) Sakitləşməyə və müəyyən bir tapşırığın icrasına cəmlənməyə imkan verən prosesdir",
+      "D) Bu məşq hər gün bunu etsəniz istənilən nəticəni ala bilərsən",
+      "E) Qarşıya qoyulmuş məqsədə nail olmaq üçün subyektin öz fəaliyyəti və davranışı zamanı rast gəldiyi maneələri aradan qaldırma prosesidir."
+    ]
+  },
+  {
+    "question": "Pozitiv düşüncə nədir?",
+    "true-answer": "A) İnsanın başına gələn hərşeyə müsbət münasibət bəsləyən şəxsiyyət inkişaf konsepsiyasıdır",
+    "wrong-answers": [
+      "B) Özünü və başqalarını özünün şəxsi və ya ictimai məqsədlərə nail olunması üçün fəaliyyətə vadar etmə prosesidir",
+      "C) Qarşıya qoyulmuş məqsədə nail olmaq əzminə deyilir",
+      "D) İradə pozuntularının əksər formaları özünün hərəkətlərin pozuntusunda göstərir ki, buna hərəkət və fəaliyyətin ləngiməsi, marağın sönməsi kimi hallar özünü göstərir",
+      "E) Bizi nələrisə etməyə təşviq edən gücdür və bu insan fəaliyyətinin təşkilidir."
+    ]
+  },
+  {
+    "question": "Abuliya nəyə deyilir?",
+    "true-answer": "D) İradə pozuntularının əksər formaları özünü hərəkətlərin pozuntusunda göstərir ki, buna hərəkət və fəaliyyətin ləngiməsin, marağın sönməsi kimi hallar özünü göstərir",
+    "wrong-answers": [
+      "A) Qarşıya qoyulmuş məqsədə nail olmaq üçün subyektin öz fəaliyyəti və davranışı zamanı rast gəldiyi çətinlikləri, maneələri aradan qaldırma prosesinə deyilir",
+      "B) Özünü və başqalarını şəxsi və ya ictimai məqsədlərə nail olması üçün fəaliyyətə vadar etmə prosesidir.Bu insan fəaliyyətinin təşkilidir.",
+      "C) Fəlsəfi yanaşmadır ki, o sözləri və fikirləri hadisələri proqnozlaşdırmaq, həll etmək və fəaliyyət üçün bir vasitə sayır.",
+      "E) Ən vacib karyera hədəflərini göstərən qısa bəyanatdır"
+    ]
+  },
+  {
+    "question": "İradə nəyə deyilir?",
+    "true-answer": "B) Qarşıya qoyulmuş məqsədə nail olmaq üçün obyektin öz fəaliyyəti və hərəkəti zamanı rast gəldiyi çətinlikləri, maneələri aradan qaldırma prosesidir",
+    "wrong-answers": [
+      "A) İradə pozuntularının əksər formaları özünü hərəkətlərin pozuntusunda göstərir ki, buna hərəkət və fəaliyyətin ləngiməsi marağın sönməsi kimi halları özünü göstərir",
+      "C) Özünü və başqalarını özünün şəxsi və ya ictimai məqsədlərə nail olunması üçün fəaliyyətə vadar etmə prosesidir",
+      "D) Qarşıya qoyulmuş məqsədə nail olmaq üçün subyektin öz fəaliyyəti və davranışı zamanı rast gəldiyi çətinlikləri, maneələri aradan qaldırma prosesinə deyilir.",
+      "E) İnsanın başına gələn hər şeyə müsbət münasibət bəsləyən şəxsiyyətin inkişaf konsepsiyasıdır və uğursuzluqlara əhəmiyyət verilməyən inkişaf prosesinə deyilir"
+    ]
+  },
+  {
+    "question": "İradənin pozuntu formaları hansı variantda düzgün göstərilmişdir",
+    "true-answer": "C) Hipobuliya, hiperbuliya",
+    "wrong-answers": [
+      "A) Hipobuliya, hipertoniya",
+      "B) Hiperinfilyasiya, hipertoniya",
+      "D) Hiperbuliya, hiperinfilyasiya",
+      "E) Abuliya, hipertoniya, katapelsiya"
+    ]
+  },
+  {
+    "question": "Pozitiv düşüncədə əsas qaydalardan biri deyil",
+    "true-answer": "D) Keçmişlə barışmamaq",
+    "wrong-answers": [
+      "A) Mənfi ifadələrdən qurtulmaq",
+      "B) Hər şeyə görə minnətdarlıq",
+      "C) Mükəmməl bir gün",
+      "E) Vizualizasiya"
+    ]
+  },
+  {
+    "question": "Bu məşq tamamilə sakitləşməyə və müəyyən bir tapşırığın icrasına cəmlənməyə imkan verir. Müntəzəm düşüncə praktikası müsbət bir dünyagörüşü və özünüzü idarə etməyə kömək edə bilər. Bu fikirlərə hansı termin uyğundur",
+    "true-answer": "E) Meditasiya",
+    "wrong-answers": [
+      "A) Motivləşdirmə",
+      "B) Vizualisiya",
+      "C) Hipobuliya",
+      "D) Motivasiya"
+    ]
+  },
+  {
+    "question": "Bu məşq hər gün bunu etsəniz istənilən nəticəni verir. Fikrinizdə davamlı şəkillər yaratmalı, istədiyiniz şeyin gerçəkləşəcəyinə inanmalı, davranmalı, xəyallarınızda onsuzda var kimi hiss etməlisiniz. Bu fikirlərə hansı termin uyğundur",
+    "true-answer": "B) Vizualizasiya",
+    "wrong-answers": [
+      "A) Motivləşdirmə",
+      "C) Hipobulya",
+      "D) Motivasiya",
+      "E) Meditasiya"
+    ]
+  },
+  {
+    "question": "Daxili mükafatlandırılma nəyə deyilir",
+    "true-answer": "C) İnsanın özünün fəaliyyət prosesində yerinə yetirdiyi işlə əlaqədar olaraq aldığı zövqdür, rahatlıqdır",
+    "wrong-answers": [
+      "A) İnsanın başına gələn hər şeyə müsbət münasibət bəsləyən şəxsiyyət inkişaf konsepsiyasıdır",
+      "B) İnsanın yerinə yetirdiyi işin keyfiyyət və miqdarından asılı olaraq təşkilat tərəfindən verilən əmək haqqı, əlavə haqlar",
+      "D) Qarşıya qoyulmuş məqsədə nail olmaq əzminə deyilir",
+      "E) İnsanın yerinə yetirdiyi işin keyfiyyət və miqdarından asılı olaraq kollektiv tərəfindən verilən mükafat və alqışlanma prosesidir."
+    ]
+  },
+  {
+    "question": "Xarici mükafatlandırma nəyə deyilir?",
+    "true-answer": "B) İnsanın yerinə yetirdiyi işin keyfiyyət və miqdarından asılı olraq təşkilat tərəfindən verilən əmək haqqı, vəzifəcə irəli çəkilmə, kollektiv tərəfindən alqışlanmadır",
+    "wrong-answers": [
+      "A) İnsanın başına gələn hər şeyə müsbət münasibət bəsləyən şəxsiyyət inkişaf konsepsiyasıdır",
+      "C) İnsanın özünün fəaliyyət prosesində yerinə yetirdiyi işlə əlaqədar olaraq aldığı zövqlər rahatlıqdır",
+      "D) Qarşıya qoyulmuş məqsədə nail olmaq əzminə deyilir",
+      "E) İnsanın bütün bu keyfiyyətlərindən asılı olaraq özünəxas formaya düşmüş ehtiyacları, istəkləridir"
+    ]
+  },
+  {
+    "question": "Pozitiv düşüncənin əsas qaydalarına aiddir. 1.Müsbət ifadələrdən qurtulmaq 2.Mükəmməl bir gün 3.Motivasiya 4.Vizualizasiya 5.Normativ etik dəyərlər",
+    "true-answer": "E) 2,4",
+    "wrong-answers": [
+      "A) 2,3",
+      "B) 2,3,4",
+      "C) 1,3,4",
+      "D) 1,2,5"
+    ]
+  }
+]
