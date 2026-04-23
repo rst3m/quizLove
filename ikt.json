@@ -1,0 +1,1803 @@
+[
+  {
+    "question": "İnformasiya nədir?",
+    "true-answer": "Baş vermiş hadisə və faktlar haqqında verilən məlumatlardır",
+    "wrong-answers": [
+      "Sadəcə müşahidə olunan proseslərdir",
+      "İnsanın təxəyyülündən yaranan biliklərdir",
+      "Yalnız kompüter texnologiyasına aid anlayışdır",
+      "Kompüter proqramlarının işləmə prinsipidir"
+    ]
+  },
+  {
+    "question": "İnformasiyaya ...... aspektdə baxıldıqda, idarəetmə prosesində qərarların qəbulu üçün informasiyanın praktiki cəhətdən nə qədər faydalı və qiymətli olması müəyyən edilir.",
+    "true-answer": "Praqmatik",
+    "wrong-answers": [
+      "Semantik",
+      "Alqoritmik",
+      "Sintaksis",
+      "Hec biri"
+    ]
+  },
+  {
+    "question": "İnformasiyaya ...... aspektdən tədqiq edildikdə idarəetmə obyektinin vəziyyətini əks etdirən informasiyanın məzmununu açmağa və işarələr arasında olan münasibətlərin və ölçü vahidlərinin mənaca öyrənilməsinə imkan yaranır.",
+    "true-answer": "Semantik",
+    "wrong-answers": [
+      "Praqmqtik,",
+      "Alqoritmik",
+      "Sintaksis",
+      "Heç biri"
+    ]
+  },
+  {
+    "question": "İnformasiyaya ...... aspektdə baxıldıqda, onun məzmunu, mənası və istifadəedilmə xüsusiyyətindən asılı olmayaraq sistemdə işarələr arasında olan münasibətlər kəmiyyətcə müəyyənləşdirilir.",
+    "true-answer": "Sintaksis",
+    "wrong-answers": [
+      "Alqoritmik",
+      "Semantik",
+      "Praqmqtik",
+      "Heç biri"
+    ]
+  },
+  {
+    "question": "İnformasiyanın hansı forması insan tərəfindən başa düşülür, amma kompüter tərəfindən başa düşülmür?",
+    "true-answer": "Analoq",
+    "wrong-answers": [
+      "Ədədi",
+      "Mətn",
+      "Hesabi",
+      "Heç biri"
+    ]
+  },
+  {
+    "question": "İnformasiya prosesləri hansılardı?",
+    "true-answer": "İnformasiyanın toplanması, ötrülməsi, saxlanması, emalı",
+    "wrong-answers": [
+      "İnformasiyanın tamlığı, ötrülməsi, emalı, dəqiqliyi",
+      "İnformasiyanın dəqiqliyi, toplanması, ötrülməsi,",
+      "İnformasiyanın saxlanması,emalı, tamlığı, ötrülməsi,",
+      "İnformasiyanın alınması və saxlanılması , dəqiqliyi"
+    ]
+  },
+  {
+    "question": "İnformasiya proseslərinə aid olmayan variant hansıdır?",
+    "true-answer": "İnformasiyanın tamlığı",
+    "wrong-answers": [
+      "İnformasiyanın ötürülməsi",
+      "İnformasiyanın saxlanılması",
+      "İnformasiyanın toplanması",
+      "İnformasiyanın emalı"
+    ]
+  },
+  {
+    "question": "Informasiya onu qəbul edən tərəfindən tam anlanılmalı, başa düşülməlidir. Bu hansı xassənin tələbidir?",
+    "true-answer": "Anlaşıqlılıq",
+    "wrong-answers": [
+      "Obyektivlik",
+      "Mövcudluq",
+      "Dəqiqlik",
+      "Faydalılıq"
+    ]
+  },
+  {
+    "question": "İnformasiyanın cari zamana uyğunluq dərəcəsi necə adlanır?",
+    "true-answer": "Aktuallıq",
+    "wrong-answers": [
+      "Tamlıq",
+      "Etibarlılıq",
+      "Faydalılıq",
+      "Anlaşıqlılıq"
+    ]
+  },
+  {
+    "question": "Informasiyanın təqdimedilmə üsulları:",
+    "true-answer": "Video, qrafik, ədədi, mətn, səs",
+    "wrong-answers": [
+      "Mətn-simvol, hərf, işarə, audio, məntiqi",
+      "Mətn, qrafika, çertyoj",
+      "Hərf, söz, elan",
+      "Mətn, ədədi, qrafik, kombinasiyalı"
+    ]
+  },
+  {
+    "question": "Hansı sıra informasiyanın xassələrini əks etdirir?",
+    "true-answer": "Obyektivlik, etibarlılıq, anlaşıqlılıq, aktuallıq,tamlıq",
+    "wrong-answers": [
+      "Etibarlılıq, aktuallıq, dəqiqlik, aydınlıq, tamlıq, adekvatlıq",
+      "Doğruluq, tamlıq, konkretlik, yararlılıq",
+      "Aktuallıq, doğruluq, ilkinlik, sonluluq, dövrülük",
+      "Ikilik, səkkizlik, onluq, onaltılıq"
+    ]
+  },
+  {
+    "question": "İnformasiya ilə işləmək üçün üsul və vasitələr toplusu necə adlanır?",
+    "true-answer": "İnformasya texnologiyaları",
+    "wrong-answers": [
+      "İnformasiya sistemləri",
+      "İnformasiya inqilabları",
+      "İnformasiya prosesləri",
+      "İnformasiya mühiti"
+    ]
+  },
+  {
+    "question": "Verilənlərin emalı prosesinə hansı əməliyyatlar aiddir?",
+    "true-answer": "Hamısı doğrudur",
+    "wrong-answers": [
+      "Seçmə",
+      "Ümumiləşdirmə və ya qruplaşdırma",
+      "Nizamlama",
+      "Testləmə"
+    ]
+  },
+  {
+    "question": "Verilən hansı xarakteristikalarla təyin olunur?",
+    "true-answer": "Hamısı doğrudur",
+    "wrong-answers": [
+      "Qiymədi",
+      "Tipi",
+      "Strukturu",
+      "Adı"
+    ]
+  },
+  {
+    "question": "İnformasiya texnologiyası aşağıdakı hansı xüsusiyyətlərlə təyin olunur",
+    "true-answer": "Bütün variantlar doğrudur",
+    "wrong-answers": [
+      "Məqsəd -- informasiyanın alınmasıdır;",
+      "Emal prosesinin vasitələri -- aparat, proqram və aparat -- proqram vasitələridir;",
+      "Proseslərin idarə olunması- qərar qəbul edən şəxslər tərəfindən yerinə yetirilir;",
+      "Emal obyekti -- verilənlərdir;"
+    ]
+  },
+  {
+    "question": "Verilənlərin emalı texnologiyası-",
+    "true-answer": "lazımı ilkin verilənlərə malik olan emal üçün alqoritmlər,digər standart prosedurlar olan yaxşı strukturlaşmış məsələlərin həlli üçün nəzərdə tutulur.",
+    "wrong-answers": [
+      "təşkilatın qərar qəbul etməklə bağlı olan bütün həmkarlarının informasiya tələbatını ödəməkdir.",
+      "təşkilatın fəaliyyəti ərəfəsində onun hər bir əməliyyatına uyğun verilənlərin qeydiyyatı müşahidə olunur.",
+      "idarəetmənin informasiya sistemi mühitində işləməyi nəzərdə tutur və həll olunan məsələlərin zəif strukturlaşması hallarında istifadə olunur.",
+      "idarəetmənin informasiya sistemi mühitində işləməyi nəzərdə tutur"
+    ]
+  },
+  {
+    "question": "Idarəetmənin informasiya təminatı texnologiyası-",
+    "true-answer": "təşkilatın qərar qəbul etməklə bağlı olan bütün həmkarlarının informasiya tələbatını ödəməkdir.",
+    "wrong-answers": [
+      "lazımı ilkin verilənlərə malik olan emal üçün alqoritmlər,digər standart prosedurlar olan yaxşı strukturlaşmış məsələlərin həlli üçün nəzərdə tutulur.",
+      "təşkilatın fəaliyyəti ərəfəsində onun hər bir əməliyyatına uyğun verilənlərin qeydiyyatı müşahidə olunur.",
+      "daxil olunan verilənlərdən təşkilatın fəaliyyətini əks etdirən informasiya almaq üçün",
+      "idarəetmənin informasiya sistemi mühitində işləməyi nəzərdə tutur"
+    ]
+  },
+  {
+    "question": "Verilənlərin emalı texnologiyasının əsas komponentləri:",
+    "true-answer": "Hamısı doğrudur",
+    "wrong-answers": [
+      "Verilənlərin toplanması",
+      "Verilənlərin emalı",
+      "Verilənlərin saxlanması",
+      "Hesabatların hazırlanması"
+    ]
+  },
+  {
+    "question": "İnformasiya texnologiyasının Emal obyekti --",
+    "true-answer": "verilənlərdi",
+    "wrong-answers": [
+      "informasiyanın alınmasıdır",
+      "informasiyanın ötrülməsidir",
+      "proqram aparat vastələridir",
+      "heç biri"
+    ]
+  },
+  {
+    "question": "İnformasiya texnologiyasında Məqsəd --",
+    "true-answer": "informasiyanın alınmasıdır",
+    "wrong-answers": [
+      "verilənlərdi",
+      "informasiyanın ötrülməsidir",
+      "proqrqn aparat vastələridir",
+      "heç biri"
+    ]
+  },
+  {
+    "question": "Miqyasına görə informasiya sistemləri hansı qruplara bölünür",
+    "true-answer": "Lokal informasiya sistemləri, Qrup informasiya sistemləri, Korporotiv informasiya sistemləri.",
+    "wrong-answers": [
+      "Qlobal informasiya sistemləri, Qrup informasiya sistemləri, Lokal informasiya sistemləri.",
+      "Şəbəkə informasiya sistemləri, Qrup informasiya sistemləri, Qlobal informasiya sistemləri.",
+      "Qrup informasiya sistemləri, Lokal informasiya sistemləri, Şəbəkə informasiya sistemləri",
+      "Bütün variantlar doğrudur"
+    ]
+  },
+  {
+    "question": "Lokal informasiya sistemi --",
+    "true-answer": "adətən şəbəkəyə qoşulmayan bir fərdi kompüterdə reallaşdırılır.",
+    "wrong-answers": [
+      "müəyyən işçi qrupun üzvləri tərəfindən kollektiv istifadə olunması üçün nəzərdə tutulur və əksər halda lokal kompüter şəbəkəsində yaradılır.",
+      "işçi qruplar üçün İS-in inkişafı nəticəsində yaradılmış və məsafəyə görə səpəlnmiş qovşaqlarla və şəbəkələrlə xarakterizə olunan iri kompaniyalar üçün nəzərdə tutulur.",
+      "qarşıya qoyulmuş mәqsәdi reallaşdırmaq üçün informasiyanın saxlanması üçün yaradılır.",
+      "məsafəyə görə səpəlnmiş qovşaqlarla və şəbəkələrlə xarakterizə olunan iri kompaniyalar üçün nəzərdə tutulur."
+    ]
+  },
+  {
+    "question": "Qrup informasiya sistemi --",
+    "true-answer": "müəyyən işçi qrupun üzvləri tərəfindən kollektiv istifadə olunması üçün nəzərdə tutulur və əksər halda lokal kompüter şəbəkəsində yaradılır.",
+    "wrong-answers": [
+      "adətən şəbəkəyə qoşulmayan bir fərdi kompüterdə reallaşdırılır.",
+      "işçi qruplar üçün İS-in inkişafı nəticəsində yaradılmış və məsafəyə görə səpəlnmiş qovşaqlarla və şəbəkələrlə xarakterizə olu-nan iri kompaniyalar üçün nəzərdə tutulur.",
+      "qarşıya qoyulmuş mәqsәdi reallaşdırmaq üçün informasiyanın saxlanması üçün yaradılır.",
+      "məsafəyə görə səpəlnmiş qovşaqlarla və şəbəkələrlə xarakterizə olunan iri kompaniyalar üçün nəzərdə tutulur."
+    ]
+  },
+  {
+    "question": "Korparativ informasiya sistemi -",
+    "true-answer": "işçi qruplar üçün İS-in inkişafı nəticəsində yaradılmış və məsafəyə görə səpəlnmiş qovşaqlarla və şəbəkələrlə xarakterizə olunan iri kompaniyalar üçün nəzərdə tutulur.",
+    "wrong-answers": [
+      "adətən şəbəkəyə qoşulmayan bir fərdi kompüterdə reallaşdırılır.",
+      "müəyyən işçi qrupun üzvləri tərəfindən kollektiv istifadə olunması üçün nəzərdə tutulur və əksər halda lokal kompüter şəbəkəsində yaradılır",
+      "qarşıya qoyulmuş mәqsәdi reallaşdırmaq üçün informasiyanın saxlanması üçün yaradılır.",
+      "məsafəyə görə səpəlnmiş qovşaqlarla və şəbəkələrlə xarakterizə olunan iri kompaniyalar üçün nəzərdə tutulur."
+    ]
+  },
+  {
+    "question": "İnformasiya resurslarının xarakterinə görə təsnifat hansı qruplara bölünür",
+    "true-answer": "Sənədli sistemlər , Faktoqrafik sistemlər , Sənədli - faktoqrafik sistemlər",
+    "wrong-answers": [
+      "Faktoqrafik sistemlər, Sənədli - axtarış sistemlər.",
+      "Sənədli - faktoqrafik sistemlər, Sənədli sistemlər, Sənədli - axtarış sistemlər",
+      "Sənədli sistemlər , Sənədli - axtarış sistemlər.",
+      "Bütün variantlar doğrudur"
+    ]
+  },
+  {
+    "question": "Sənədli sistemlər --",
+    "true-answer": "təbii dildə ifadə olunmuş müxtəlif sənədlərlə (monoqrafiyalar, məqalələr, dövri nəşrlər, normativ və hüquqi sənədlər və s.) işləmək üçün istifadə olunurlar.",
+    "wrong-answers": [
+      "kompüterdə verilənlərdən ibarət olan yazılar formasında saxlanan faktiki məlumatlarla əməyiyyat aparırlar.",
+      "konkret tətbiq sahəsi üzrə istifadəçiləri maraqlandıran suallara cavab-arayış vermək üçün istifadə olunurlar.",
+      "idarəetmə üçün qərarların qəbul edilməsinin informasiya təminatı funksiyasını yerinə yetirirlər.",
+      "kompüterdə verilənlərdən ibarət olan yazılar formasında saxlanan faktiki məlumatlarla əməyiyyat aparmirlar."
+    ]
+  },
+  {
+    "question": "Faktoqrafik sistemlər --",
+    "true-answer": "kompüterdə verilənlərdən ibarət olan yazılar formasında saxlanan faktiki məlumatlarla əməyiyyat aparırlar.",
+    "wrong-answers": [
+      "təbii dildə ifadə olunmuş müxtəlif sənədlərlə (monoqrafiyalar, məqalələr, dövri nəşrlər, normativ və hüquqi sənədlər və s.) işləmək üçün istifadə olunurlar.",
+      "konkret tətbiq sahəsi üzrə istifadəçiləri maraqlandıran suallara cavab-arayış vermək üçün istifadə olunurlar.",
+      "idarəetmə üçün qərarların qəbul edilməsinin informasiya təminatı funksiyasını yerinə yetirirlər.",
+      "kompüterdə verilənlərdən ibarət olan yazılar formasında saxlanan faktiki məlumatlarla əməyiyyat aparmirlar."
+    ]
+  },
+  {
+    "question": "Sənədli - faktoqrafik sistemlər-",
+    "true-answer": "həm sənədlərin həmdə faktoqrafik informasiyanın toplanıb saxlanmasını, axtarışını və lazım gəldikdə emalını yerinə yetirə bilirlər.",
+    "wrong-answers": [
+      "kompüterdə verilənlərdən ibarət olan yazılar formasında saxlanan faktiki məlumatlarla əməyiyyat aparırlar.",
+      "təbii dildə ifadə olunmuş müxtəlif sənədlərlə (monoqrafiyalar, məqalələr, dövri nəşrlər, normativ və hüquqi sənədlər və s.) işləmək üçün istifadə olunurlar.",
+      "konkret tətbiq sahəsi üzrə istifadəçiləri maraqlandıran suallara cavab-arayış vermək üçün istifadə olunurlar.",
+      "Bütün variantlar doğrudur."
+    ]
+  },
+  {
+    "question": "Sənədli sistemlər hansı qruplara bölünür",
+    "true-answer": "informasiya-axtarış sistemləri, sənəd dövriyyəsi sistemləri, kargüzarlığın avtomatlaşdırılması sistemləri",
+    "wrong-answers": [
+      "informasiya-arayış sistemləri, informasiya-idarəetmə sistemləri və informasiya-məsləhət sistemləri.",
+      "informasiya-arayış sistemləri, sənəd dövriyyəsi sistemləri, kargüzarlığın avtomatlaşdırılması sistemləri",
+      "informasiya-axtarış sistemləri, informasiya-arayış sistemləri, kargüzarlığın avtomatlaşdırılması sistemləri",
+      "informasiya-axtarış sistemləri, informasiya-arayış sistemləri, informasiya-məsləhət sistemləri."
+    ]
+  },
+  {
+    "question": "Faktoqrafik sistemlər hansı qruplara bölünür",
+    "true-answer": "informasiya-arayış sistemləri, informasiya-idarəetmə sistemləri və informasiya-məsləhət sistemləri.",
+    "wrong-answers": [
+      "informasiya-axtarış sistemləri, sənəd dövriyyəsi sistemləri, kargüzarlığın avtomatlaşdırılması sistemləri",
+      "informasiya-arayış sistemləri, sənəd dövriyyəsi sistemləri, kargüzarlığın avtomatlaşdırılması sistemləri",
+      "informasiya-axtarış sistemləri, informasiya-arayış sistemləri, kargüzarlığın avtomatlaşdırılması sistemləri",
+      "informasiya-arayış sistemləri,"
+    ]
+  },
+  {
+    "question": "İnformasiya sistemi nәdir?",
+    "true-answer": "qarşıya qoyulmuş mәqsәdi reallaşdırmaq üçün informasiyanın saxlanma, emalı vә verilmәsini hәyata keçirәn aparat vasitәlәrinin mәcmusudur .",
+    "wrong-answers": [
+      "qarşıya qoyulmuş mәqsәdi reallaşdırmaq üçün informasiyanın saxlanması, emalı vә verilmәsini hәyata keçirәn proqram vasitәlәrinin mәcmusudur",
+      "qarşıya qoyulmuş mәqsәdi reallaşdırmaq üçün informasiyanın saxlanması, emalı vә verilmәsini hәyata keçirәn vasitәlәrin, metodların vә proseslərin qarşılıqlı әlaqәli mәcmusudur",
+      "qarşıya qoyulmuş mәqsәdi reallaşdırmaq üçün informasiyanın saxlanması, emalı vә verilmәsini hәyata keçirәn fәrdi kompüterlәrdi.",
+      "qarşıya qoyulmuş mәqsәdi reallaşdırmaq üçün informasiyanın saxlanması vasitәlәrinin mәcmusudur"
+    ]
+  },
+  {
+    "question": "Kompüterdә informasiyanı göstәrmәk üçün hansı kodlaşmadan istifadә olunur.",
+    "true-answer": "2­lik kodlaşmadan",
+    "wrong-answers": [
+      "8­lik kodlaşmadan",
+      "10­luq kodlaşmadan",
+      "32­lik kodlaşmadan",
+      "16-lıq kodlaşmadan"
+    ]
+  },
+  {
+    "question": "Kodlaşdırılmış informasiya kompüterin hansı qurğusunda saxlanılır",
+    "true-answer": "yaddaş qurğusunun oyuq (yuva) adlanan hissəsində",
+    "wrong-answers": [
+      "disk sürücüsündə",
+      "manitorun ekranında",
+      "giriş-çıxış portlarında",
+      "Qida bloku"
+    ]
+  },
+  {
+    "question": "ASCII nәdir?",
+    "true-answer": "Kod cədvəli",
+    "wrong-answers": [
+      "proqramlaşdırma dili",
+      "sәsә qarşı müdafiyә sistemi",
+      "kefiyyәt standartı",
+      "alqoritmik dil"
+    ]
+  },
+  {
+    "question": "\"INFORMASIYA\" sözündә neçә bit informasiya vardır",
+    "true-answer": "88 bit",
+    "wrong-answers": [
+      "16 bit",
+      "12 bit",
+      "8 bit",
+      "48 bit"
+    ]
+  },
+  {
+    "question": "Hansı ardıcıllıqda informasiyanın ölçü vahidlәri artan sıra ilә göstәrilib:",
+    "true-answer": "bayt, kilobayt, meqabayt, giqabayt",
+    "wrong-answers": [
+      "bayt, kilobayt, meqabayt, bit",
+      "kilobayt, bayt, bit, meqabayt",
+      "meqabayt, kilobayt, giqabayt, bayt",
+      "bütün variantlar doğrudur"
+    ]
+  },
+  {
+    "question": "1 bayt necə bitdir",
+    "true-answer": "8",
+    "wrong-answers": [
+      "12",
+      "16",
+      "2",
+      "10"
+    ]
+  },
+  {
+    "question": "İnformasiyanın ən kicik ölçü vahidi",
+    "true-answer": "bit",
+    "wrong-answers": [
+      "bayt",
+      "kbayt",
+      "mbayt",
+      "qbayt"
+    ]
+  },
+  {
+    "question": "İnformasiyanın əsas ölçü vahidi nədir?",
+    "true-answer": "Bayt",
+    "wrong-answers": [
+      "Bit",
+      "Meqabit",
+      "Kilobayt",
+      "Qiqabayt"
+    ]
+  },
+  {
+    "question": "1Kbayt neçə baytdır?",
+    "true-answer": "2^10 bayt",
+    "wrong-answers": [
+      "2^20 bayt",
+      "2^30 bayt",
+      "2^2 bayt",
+      "2^40 bayt"
+    ]
+  },
+  {
+    "question": "Kompüterlər hansı say sistemində işləyir.",
+    "true-answer": "ikilik",
+    "wrong-answers": [
+      "səkkizlik",
+      "onaltılıq",
+      "onluq",
+      "altılıq"
+    ]
+  },
+  {
+    "question": "Kodlaşırmada istifadə olunan işarələrin sayına ...... deyilir.",
+    "true-answer": "kodun uzunluğu",
+    "wrong-answers": [
+      "kodun ölçüsü",
+      "kodaçma",
+      "kodlaşdırma",
+      "informasiyanın həcmi"
+    ]
+  },
+  {
+    "question": "Yaddaş qurğusuna yazıla bilən informasiyadakı bitlər sayına ...... deyilir.",
+    "true-answer": "informasiyanın həcmi",
+    "wrong-answers": [
+      "kodun uzunluğu",
+      "kodaçma",
+      "kodlaşdırma",
+      "kodun ölçüsü"
+    ]
+  },
+  {
+    "question": "-- əvvəlcədən təyin edilmiş bəzi anlayışların saxlanması (və ya ötürülməsi) üçün şərti işarələr (və ya siqnallar) toplusudur.",
+    "true-answer": "Kod",
+    "wrong-answers": [
+      "kodun uzunluğu",
+      "kodaçma",
+      "kodlaşdırma",
+      "kodun ölçüsü"
+    ]
+  },
+  {
+    "question": "İnformasiyanın ilkin təqdimolunma formasına qaytarılması ...... adlanır.",
+    "true-answer": "dekodlaşdırma (kodaçma)",
+    "wrong-answers": [
+      "kodun uzunluğu",
+      "informasiyanın həcmi",
+      "kodlaşdırma",
+      "kodun ölçüsü"
+    ]
+  },
+  {
+    "question": "İnformasiyanı saxlamaq, ötürmək, yaxud emal etmək üçün bir təqdimolunma formasından daha əlverişli başqa formaya keçirilməsinə ...... deyilir.",
+    "true-answer": "kodlaşdırma",
+    "wrong-answers": [
+      "dekodlaşdırma (kodaçma)",
+      "kodun uzunluğu",
+      "informasiyanın həcmi",
+      "kodun ölçüsü"
+    ]
+  },
+  {
+    "question": "1 simvol neçə baytdır?",
+    "true-answer": "1",
+    "wrong-answers": [
+      "2",
+      "8",
+      "255",
+      "1024"
+    ]
+  },
+  {
+    "question": "\"Toğrul imtahandan yüz bal yığdı\" cümləsi neçə baytdır?",
+    "true-answer": "33",
+    "wrong-answers": [
+      "34",
+      "35",
+      "30",
+      "32"
+    ]
+  },
+  {
+    "question": "Hesablayın: 6 Mbayt -- 320 Kbayt=?",
+    "true-answer": "4800 Kb",
+    "wrong-answers": [
+      "4800 Mb",
+      "5120 Kb",
+      "3086 Kb",
+      "4087 Mb"
+    ]
+  },
+  {
+    "question": "Alqoritm nədir?",
+    "true-answer": "Müəyyən məqsədə çatmaq üçün mərhələlərdən ibarət əməliyyatlar ardıcıllığıdır",
+    "wrong-answers": [
+      "Qeyri-müəyyən addımlardan ibarət hərəkətdir",
+      "Diskretləşmiş informasiya yığımıdır",
+      "Rəqəmsal informasiyaların diskretləşmiş formasıdır",
+      "Bütün variantlar yanlışdır"
+    ]
+  },
+  {
+    "question": "-- latınca qayda-qanun deməkdir.",
+    "true-answer": "Alqoritm",
+    "wrong-answers": [
+      "Proqram",
+      "Xətti",
+      "Budaqlanan",
+      "Dövrü"
+    ]
+  },
+  {
+    "question": "Alqoritmin təsvir vasitəsi hansıdır",
+    "true-answer": "Təbii dildə",
+    "wrong-answers": [
+      "Xətti",
+      "Budaqlanan",
+      "Dövrü",
+      "Proqram"
+    ]
+  },
+  {
+    "question": "Alqoritmin hansı xassəsinə görə alqoritmin hər bir addımı konkret, dəqiq və birqiymətli təyin olunmalıdır?",
+    "true-answer": "müəyyənlik",
+    "wrong-answers": [
+      "diskretlik.",
+      "nəticəvilik.",
+      "kütləvilik.",
+      "Aydınlıq"
+    ]
+  },
+  {
+    "question": "Hər bir addımın ondan əvvəlki addımların başa çatmasından sonra yerinə yetirilməsi alqoritmin hansı xassəsini ifadə edir?",
+    "true-answer": "diskretlik.",
+    "wrong-answers": [
+      "müəyyənlik",
+      "nəticəvilik.",
+      "kütləvilik.",
+      "aydınlıq"
+    ]
+  },
+  {
+    "question": "Alqoritmdəki addımlar və onları təşkil edən əməliyyatlar sonlu sayda olmalıdır. Yəni alqoritmin yerinə yetirilməsi sonlu sayda addımlardan sonra başa çatmalıdır.Bu hansı xassədi",
+    "true-answer": "nəticəvilik.",
+    "wrong-answers": [
+      "diskretlik.",
+      "müəyyənlik",
+      "kütləvilik.",
+      "Aydınlıq"
+    ]
+  },
+  {
+    "question": "Nə zaman əməliyyatlar, icra olunacaq hərəkətlərin nəqli şəkildə ardıcıl sadalanması kimi verilir.",
+    "true-answer": "Alqoritmin təbii dildə təsviri zamanı",
+    "wrong-answers": [
+      "Alqoritmin blok-sxemlə təsviri zamanı",
+      "Alqoritmik dildə təsvii zamanı",
+      "Alqoritmin psevdokodla təsviri zamanı",
+      "Bütün variantlar yanlışdır"
+    ]
+  },
+  {
+    "question": "Alqoritmin əsas tipləri hansı variantda verilmişdir ?",
+    "true-answer": "Xətti, budaqlanan, dövri",
+    "wrong-answers": [
+      "Xətti, budaqlanan, sadə",
+      "Xətti, qeyri -- xətti",
+      "Xətti, budaqlanan, sadalanan",
+      "Heç biri"
+    ]
+  },
+  {
+    "question": "Bir-birinin ardınca yerinə yetirilən addımlar ardıcıllığından ibarət alqoritm hansıdır?",
+    "true-answer": "Xətti",
+    "wrong-answers": [
+      "Dövrü",
+      "Kütləvi",
+      "Budaqlanan",
+      "Sadə"
+    ]
+  },
+  {
+    "question": "Alqoritmə aid olmayan xassə hansıdır?",
+    "true-answer": "Dövrilik",
+    "wrong-answers": [
+      "Diskretlik",
+      "Nəticəvilik",
+      "Müəyyənlik",
+      "Heç biri"
+    ]
+  },
+  {
+    "question": "Bu fiqur alqoritmin blok-sxem vasitəsi ilə təsviri zamanı aşağıdakı hansı əməliyyatı təsvir edir?",
+    "true-answer": "Çap",
+    "wrong-answers": [
+      "Hesablama",
+      "Dövr",
+      "Şərt",
+      "Son"
+    ]
+  },
+  {
+    "question": "Bu fiqur hansı əməliyyatı təsvir edir?",
+    "true-answer": "Verilənlərin daxil edilməsi və xaric edilməsi",
+    "wrong-answers": [
+      "Verilənlərin təyini",
+      "Əməliyyatların yerinə yetirilməsi",
+      "Əməliyyatın sona çatması",
+      "Müəyyən şərtin ödənilməsi"
+    ]
+  },
+  {
+    "question": "Bu fiqur Alqoritmin blok-sxem vasitəsilə təsviri zamanı istifadə olunan hansı bloku təsvir edir?",
+    "true-answer": "Məntiqi (budaqlanma) bloku",
+    "wrong-answers": [
+      "Giriş bloku",
+      "Hesablama bloku",
+      "Cap bloku",
+      "Dövr bloku"
+    ]
+  },
+  {
+    "question": "Bu fiqur Alqoritmin blok-sxem vasitəsilə təsviri zamanı istifadə olunan hansı bloku təsvir edir?",
+    "true-answer": "Başlanğıc və ya son bloku",
+    "wrong-answers": [
+      "Məntiqi (budaqlanma) bloku",
+      "Hesablama bloku",
+      "Cap bloku",
+      "Dövr bloku"
+    ]
+  },
+  {
+    "question": "Bu fiqur Alqoritmin blok-sxem vasitəsilə təsviri zamanı istifadə olunan hansı bloku təsvir edir?",
+    "true-answer": "Hesablama bloku",
+    "wrong-answers": [
+      "Giriş bloku",
+      "Məntiqi (budaqlanma) bloku",
+      "Cap bloku",
+      "Dövr bloku"
+    ]
+  },
+  {
+    "question": "Həftəlik dərs cədvəli hansı növ alqoritmə aiddir?",
+    "true-answer": "dövrü",
+    "wrong-answers": [
+      "xətti",
+      "budaqlanan",
+      "xətti,budaqlanan",
+      "heç biri"
+    ]
+  },
+  {
+    "question": "Aşağıda verilmiş alqoritm fraqmenti budaqlanan strukturlu alqoritmin hansı tipinə aiddir?",
+    "true-answer": "Natamam",
+    "wrong-answers": [
+      "Önşərtli",
+      "Tam",
+      "Sonşərtli",
+      "Modifikasiyalı"
+    ]
+  },
+  {
+    "question": "Aşağıdakı alqoritm fraqmentində dövrün gövdəsi neçə dəfə yerinə yetirilər?",
+    "true-answer": "Icra olunmayacaq",
+    "wrong-answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question": "Fәrdi kompüterin qurğularının tam toplusu?",
+    "true-answer": "sistem bloku, monitor, klaviatura, mouse, periferiya qurğuları;",
+    "wrong-answers": [
+      "periferiya qurğuları, mikroprosessor, monitor, klaviatura, mouse;",
+      "sistem bloku, әmәli yaddaş, mikroprosessor, keş yaddaş, periferiya qurğuları",
+      "monitor, klaviatura, mouse, printer, periferiya qurğuları",
+      "klaviatura, mikroprosessor, keş yaddaş, periferiya qurğuları"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı informasiya daşıyıcısı deyil?",
+    "true-answer": "printer.",
+    "wrong-answers": [
+      "kompakt disk.",
+      "flaş kart.",
+      "floppy disk.",
+      "Sərt disk"
+    ]
+  },
+  {
+    "question": "Informasiyanın kağız vərəqlərindən kompüterə surətinin daxil edilməsi qurğusu necə adlanır?",
+    "true-answer": "Skaner",
+    "wrong-answers": [
+      "Drayver",
+      "Plotter",
+      "Kontroller",
+      "Printer"
+    ]
+  },
+  {
+    "question": "Printer nə üçündür?",
+    "true-answer": "İnformasiyanı çap etmək üçün",
+    "wrong-answers": [
+      "İnformasiyanı emal etmək üçün",
+      "İnformasiyanı təsvir etmək üçün",
+      "İnformasiyanı yadda saxlamaq üçün",
+      "İnformasiyanı silmək üçün"
+    ]
+  },
+  {
+    "question": "Aşağıdakı qurğulardan hansı analoq siqnalları rəqəmsala və əksinə çevirir?",
+    "true-answer": "Modem",
+    "wrong-answers": [
+      "Daimi yaddaş",
+      "Monitor",
+      "Klaviatura",
+      "Skaner"
+    ]
+  },
+  {
+    "question": "Aşağıdakı mühakimələrdən hansı doğrudur?",
+    "true-answer": "Klaviatura giriş qurğusudur.",
+    "wrong-answers": [
+      "Monitor giriş qurğusudur.",
+      "Proyektor giriş qurğusudur.",
+      "Mikroprosessor giriş qurğusudur.",
+      "Skaner çıxış qurğusudur."
+    ]
+  },
+  {
+    "question": "F1, F2, ..., F12 klavişləri necə adlanır?",
+    "true-answer": "Funksional klavişlər.",
+    "wrong-answers": [
+      "Xidməti klavişlər.",
+      "İdarəetmə klavişləri.",
+      "Hərf-rəqəm klavişləri.",
+      "Hesablama klavişləri"
+    ]
+  },
+  {
+    "question": "Əsas aparat hissəsini özündə birləşdirən qurğu",
+    "true-answer": "sistem bloku",
+    "wrong-answers": [
+      "monitor",
+      "klaviatura",
+      "printer",
+      "ana plata"
+    ]
+  },
+  {
+    "question": "Kompüterin əsas xarakteristikalarına -- ..... daxildir",
+    "true-answer": "Bütün variantlar doğrudur",
+    "wrong-answers": [
+      "işləmə sürəti,",
+      "yaddaş tutumu,",
+      "hesablama dəqiqliyi, əmrlər sistemi,",
+      "qiyməti və iş etibarlılığı"
+    ]
+  },
+  {
+    "question": "Sistem blokuna daxildir:",
+    "true-answer": "Ana plata, Mərkəzi prosesor, Əməli yaddaş, Daimi yaddaş, Videokart və ya videoadapter, Səs kartı ,Sərt dısk, Giriş/Çıxış portları, Qida bloku",
+    "wrong-answers": [
+      "Ana plata, Mərkəzi prosesor, Ptinter, Skaner, Videokart və ya videoadapter, Səs kartı, Sərt dısk, Şəbəkə adaptrı, Qida bloku",
+      "Ana plata, Ptinter, Skaner, Videokart və ya videoadapter, Səs kartı ,Sərt dısk, Şəbəkə adaptrı, Qida bloku",
+      "Ana plata, Şəbəkə adaptrı, Mərkəzi prosesor, Əməli yaddaş, Ptinter, Skaner, Videokart və ya videoadapter, Səs kartı ,Sərt dısk, Qida bloku",
+      "Ana plata, Ptinter, Mərkəzi prosesor, Əməli yaddaş, Daimi yaddaş, Skaner, Videokart və ya videoadapter, Səs kartı ,Sərt dısk, Şəbəkə adaptrı, Qida bloku"
+    ]
+  },
+  {
+    "question": "-- kursordan soldakı simvolun silinməsini həyata keçirir.",
+    "true-answer": "Backspace",
+    "wrong-answers": [
+      "Page Up",
+      "Page Down",
+      "Home",
+      "Print Screen"
+    ]
+  },
+  {
+    "question": "- kursordan sağdakı simvolun silinməsini həyata keçirir.",
+    "true-answer": "Del (Delete)",
+    "wrong-answers": [
+      "Page Down",
+      "Page Up",
+      "Backspace",
+      "Home"
+    ]
+  },
+  {
+    "question": "Ctrl , Alt, Shift --",
+    "true-answer": "bu düymələr digər düymələrlə birgə basıldıqda müəyyən funksiyaları yerinə yetirirlər.",
+    "wrong-answers": [
+      "bu düymələr informasiyanı redaktə etmək üçün istifadə edilir",
+      "bu düymələr digər düymələrlə birlikdə istifadə edilmir",
+      "bu düymələr funksional düymələrlə birlikdə istifadə edilmir",
+      "bu düymələr heç vaxt istifadə edilmir"
+    ]
+  },
+  {
+    "question": "Faylı çapa vermək üçün klaviaturadan hansı kombinasiyalardan istifadə olunur?",
+    "true-answer": "Ctrl+P",
+    "wrong-answers": [
+      "Ctrl+S",
+      "Ctrl+X",
+      "Ctrl+V",
+      "Ctrl +C"
+    ]
+  },
+  {
+    "question": "Giriş qurğuları hansı variantda doğru verilmişdir?",
+    "true-answer": "Klaviatura, kamera, skaner",
+    "wrong-answers": [
+      "Monitor, plotter, printer",
+      "Digitayzer, maus, monitor",
+      "TV-tüner, mikrofon, printer",
+      "Plotter, maus, trekbol"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı informasiya emalı qurğusudur?",
+    "true-answer": "Prosessor",
+    "wrong-answers": [
+      "Kompakt disk",
+      "Maqnit lenti",
+      "Maus",
+      "Printer"
+    ]
+  },
+  {
+    "question": "Çıxış qurğuları olan sıranı seçin",
+    "true-answer": "Printer, plotter, monitor",
+    "wrong-answers": [
+      "Klaviatura, digitayzer, maus",
+      "Modem, klaviatura, printer",
+      "Monitor, skaner, plotter",
+      "Kamera, klaviatura, maus"
+    ]
+  },
+  {
+    "question": "Kompüterin xarici yaddaş qurğuları hansılardır?",
+    "true-answer": "Vinçester(HDD), elastik disk yaddaş qurğusu(FDD), CD və fləş kart",
+    "wrong-answers": [
+      "BİOS, ROM, HDD, FDD, ƏYQ",
+      "Vinçester, operativ yaddaş, floppi diskləri",
+      "HDD, FDD, fləş kart, operativ yaddaş qurğusu",
+      "CD-ROM, CD-R, CD-RW, BİOS, ROM"
+    ]
+  },
+  {
+    "question": "Mərkəzi hissə ilə periferiya hissəni əlaqələndirən nədir?",
+    "true-answer": "Sistem interfeysi",
+    "wrong-answers": [
+      "Prosessor",
+      "Drayver",
+      "Çipset",
+      "İdarəetmə pultu"
+    ]
+  },
+  {
+    "question": "BİOS harada yerləşir?",
+    "true-answer": "Daimi yaddaş qurğusunda",
+    "wrong-answers": [
+      "Xarici yaddaş qurğusunda",
+      "CD-ROM da",
+      "Əməli yaddaş qurğusunda",
+      "DVD-də"
+    ]
+  },
+  {
+    "question": "Tətbiqi proqram təminatı ......nədir?",
+    "true-answer": "Istifadəçinin hər hansı məsələsini həll etmək məqsədilə yaradılır və ƏS -- in idarəsi altında işləyir.",
+    "wrong-answers": [
+      "Istifadəçinin hər hansı məsələsini həll etmək məqsədilə yaradılır və arxiv proqramların idarəsi altında işləyir.",
+      "Istifadəçinin hər hansı məsələsini həll etmək məqsədilə yaradılır və Office proqramların idarəsi altında işləyir.",
+      "Istifadəçinin hər hansı məsələsini həll etmək məqsədilə yaradılır və antivirus proqramların idarəsi altında işləyir.",
+      "Istifadəçinin hər hansı məsələsini həll etmək məqsədilə yaradılır və qrafiki proqramların idarəsi altında işləyir."
+    ]
+  },
+  {
+    "question": "Kompüterin proqram təminatı dedikdə .... ?",
+    "true-answer": "informasiyanın emalının təşkili və idarə edilməsi üçün istifadə olunan proqramlar kompleksi başa düşülür.",
+    "wrong-answers": [
+      "sistemin yerinə yetirdiyi funksiyalar başa düşülür",
+      "istifadəçinin hər hansı məsələ üzrə istifadə etdiyi proqramlar başa düşülür",
+      "informasiyanın idarə edilməsi üçün istifadə olunan proqramlar başa düşülür.",
+      "Heç bir variant doğru deyil"
+    ]
+  },
+  {
+    "question": "Baza proqramlara daxildir?",
+    "true-answer": "əməliyyat sistemləri, əməliyyat örtükləri, şəbəkə əməliyyat sistemləri.",
+    "wrong-answers": [
+      "xidmәt proqramlar, proqram paketlәri, işçi proqramlar",
+      "əməliyyat sistemləri, əməliyyat örtükləri, xidmәt proqramlar",
+      "əməliyyat sistemləri, proqram paketlәri, xidmәt proqramlar",
+      "xidmәt proqramlar , əməliyyat örtükləri, şəbəkə əməliyyat sistemləri."
+    ]
+  },
+  {
+    "question": "Xidmәti proqramlara daxildir?",
+    "true-answer": "antiviruslar, arxivlәr, utilitlәr, drayverlər",
+    "wrong-answers": [
+      "brauzer , rezident, qeyri­rezident",
+      "örtüklәr, tәtbiqi paketlәr",
+      "әmәliyyat sistemlәri, texniki xidmәt proqramlar",
+      "Bütün variantlar doğrudur."
+    ]
+  },
+  {
+    "question": "Tәtbiqi proqramların tәsnifatına daxildir?",
+    "true-answer": "ümumi tәyinatlı, üsulyönlü, problemyönlü, qlobal kompüter şəbəkələri üçün",
+    "wrong-answers": [
+      "elektron cәdvәl, mәtn redaktoru",
+      "şәbәkә paketlәri ,әmәliyyat sistemlәri,",
+      "proqram paketlәri, işçi proqramlar",
+      "örtüklәr, әmәliyyat sistemlәri,"
+    ]
+  },
+  {
+    "question": "Kompüterə qoşulmuş qurğuları əməliyyat sisteminə tanıtdıran proqramlar hansılardır:",
+    "true-answer": "Drayverlər",
+    "wrong-answers": [
+      "Kontroller",
+      "Drive spice",
+      "Scan disk",
+      "VirusScan"
+    ]
+  },
+  {
+    "question": "Proqramlaşdırma dillərinə aid olmayanı seçin:",
+    "true-answer": "Ms Access",
+    "wrong-answers": [
+      "Python",
+      "Basic",
+      "Pascal",
+      "C++"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı qrafik redaktorlara aiddir.",
+    "true-answer": "CorelDraw",
+    "wrong-answers": [
+      "Microsoft Word",
+      "Microsoft Excel",
+      "SuperCalc",
+      "Microsoft Power Point"
+    ]
+  },
+  {
+    "question": "Windows sistemi yükləndikdən sonra ekranda birinci nə görünür?",
+    "true-answer": "Desktop (Işçi stol)",
+    "wrong-answers": [
+      "Explorer",
+      "My komputer",
+      "İnternet Explorer",
+      "My document"
+    ]
+  },
+  {
+    "question": "Əməliyyat sistemi nədir?",
+    "true-answer": "İstifadəçi ilə kompüter arasında əlaqə quran proqram təminatı",
+    "wrong-answers": [
+      "Kompüterin fiziksel hissələri",
+      "Yalnız oyun proqramları",
+      "Yaddaş qurğusunu",
+      "heç birini"
+    ]
+  },
+  {
+    "question": "Hansı əməliyyat sistemi mobil cihazlarda daha geniş istifadə olunur?",
+    "true-answer": "Android",
+    "wrong-answers": [
+      "Windows",
+      "Linux",
+      "Unix",
+      "OS/2"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı Əməliyyat sisteminin əsas vəzifələrindən biridir?",
+    "true-answer": "İstifadəçi ilə kompyuter arasında dialoqu təşkil etmək;",
+    "wrong-answers": [
+      "Sistem proqramını idarə etmək;",
+      "Əmrlər vermək;",
+      "İnterfeysi yaratmaq;",
+      "Yaddaşı idarə edir"
+    ]
+  },
+  {
+    "question": "Wındows əməliyyat sistemi yerinə yetirdiyi funksiyaya görə hansı qrupa aiddir?",
+    "true-answer": "Çoxməsələli;",
+    "wrong-answers": [
+      "Birməsələli;",
+      "Şəbəkə;",
+      "İnterfeys;",
+      "Biristifadəçili"
+    ]
+  },
+  {
+    "question": "Əməliyyat sistemləri olan variantı seç.",
+    "true-answer": "MS DOS, Windows, UNIX, MacOS, Linux, OS/2, Solaris, Android, iOS və s.",
+    "wrong-answers": [
+      "MS DOS, MS Office, UNIX, Linux, MS Access, OS/2, MS Excel, Android, və s.",
+      "Windows, UNIX, MS Power Point, MS Word, OS/2, Solaris, Android, iOS və s.",
+      "MS Office, Windows, MacOS, Linux, MS Access, OS/2, Solaris, Android, və s.",
+      "MS DOS, MS Access, UNIX, MacOS, MS Office, OS/2, Solaris, Android, və s."
+    ]
+  },
+  {
+    "question": "Ixtiyari informasiya xarici yaddaşda nə şəklində saxlanılır?",
+    "true-answer": "Fayl",
+    "wrong-answers": [
+      "Cədvəl",
+      "Proqram",
+      "Sənəd",
+      "Təqdimat"
+    ]
+  },
+  {
+    "question": "Mətn redaktoru nədir?",
+    "true-answer": "mətn sənədlərinin hazırlanması üçün istifadə olunan tətbiqi proqram təminatı",
+    "wrong-answers": [
+      "cədvəllərin yaradılması üçün istifadə olunan tətbiqi proqram təminatı",
+      "mühasibat məsələlərinin avtomatlaşdırılması üçün istifadə edilən tətbiqi proqram təminatı",
+      "rəsmlərin hazırlanması üçün istifadə olunan tətbiqi proqram təminatı",
+      "verilənlər bazasının yaradılması üçün istifadə olunan tətbiqi proqram təminatı"
+    ]
+  },
+  {
+    "question": "Kursor nədir?",
+    "true-answer": "daxil olunan simvolların hansı mövqedən əks olunduğunu göstərən və ekranda yanıb sönən nişandır",
+    "wrong-answers": [
+      "simvoldur",
+      "mətni informasiyanın daxil edilməsi üçün qurğudur",
+      "ekranda əks olunan ən kiçik elementdir",
+      "bütün variantlar doğrudur"
+    ]
+  },
+  {
+    "question": "Mətn redaktorunda mətni yığarkən bir söz digərindən nə ilə ayrılır?",
+    "true-answer": "boşluq",
+    "wrong-answers": [
+      "nöqtə",
+      "vergül",
+      "nöqtəli vergül",
+      "qoşa nöqtə"
+    ]
+  },
+  {
+    "question": "Ms Word-də yeni sənədi yadda saxlamaq üçün əmrlər ardıcıllığını aşağıdakılardan hansıdır?",
+    "true-answer": "Файл (File) -- сохранить (Save, Saxla)",
+    "wrong-answers": [
+      "Главная(Home, Ev) -- сохранить как (Save as, Fərqli saxla),",
+      "Разметка страницы (Page Layout, Səhifə düzəni) -- сохранить как (Save as, Fərqli saxla),",
+      "Вставка(Insert ,Əlavə et) - сохранить как (Save as, Fərqli saxla),",
+      "Вставка(Insert ,Əlavə et) - сохранить (Save, Fərqli saxla),"
+    ]
+  },
+  {
+    "question": "Ms Word-də Ctrl + Home əmrləri hansı əməliyyatı icra edir?",
+    "true-answer": "Kursoru sənədin əvvəlinə keçirir",
+    "wrong-answers": [
+      "Kursoru sənədin sonuna keçirir",
+      "Kursoru sətrin əvvəlinə keçirir",
+      "Kursoru sətrin sonuna keçirir",
+      "Kursoru sütunun əvvəlinə kçirir"
+    ]
+  },
+  {
+    "question": "Standart Ms Word proqram pəncərəsində nəyi görmək olmaz?",
+    "true-answer": "Düstur sətri",
+    "wrong-answers": [
+      "Xətkeş",
+      "Səhifə sayı",
+      "Söz sayı",
+      "Tabları"
+    ]
+  },
+  {
+    "question": "düymələri hansı funksiyanı yerinə yetirir?",
+    "true-answer": "şriftin ölçüsünü böyüdür və kiçildir",
+    "wrong-answers": [
+      "şriftin rəngini dəyişir",
+      "siyahını əlifba sırası ilə nizamlayır",
+      "mətnin hamısını böyük hərifə keçirir",
+      "mətnin hamısını kiçik həriflə yazır"
+    ]
+  },
+  {
+    "question": "düyməsi hansı funksiyanı yerinə yetirir?",
+    "true-answer": "nömrələnmiş siyahını yaradır",
+    "wrong-answers": [
+      "şriftin ölçüsünü böyüdür və kiçildir",
+      "siyahını əlifba sırası ilə nizamlayır",
+      "mətnin hamısını böyük hərifə keçirir",
+      "mətnin hamısını kiçik həriflə yazır"
+    ]
+  },
+  {
+    "question": "Sənədi başqa adla yadda saxlamaq üçün hansı əmri vermək lazımdır?",
+    "true-answer": "Файл (File) -- сохранить как (Save as, Fərqli saxla),",
+    "wrong-answers": [
+      "Главная(Home, Ev) -- сохранить как(Save as, Fərqli saxla),",
+      "Файл(File) -- сохранить (Save, Saxla),",
+      "Главная(Home, Ev) -- сохранить (Save, Saxla),",
+      "Главная(Home, Ev) -- сохранить kak (Save as, fərqli saxla),"
+    ]
+  },
+  {
+    "question": "Hansı bölmədən istifadə edərək istənilən vaxt informasiyanı köçürmək və ya onun yerini dəyişmək olar.",
+    "true-answer": "Mübadilə buferindən",
+    "wrong-answers": [
+      "Yuxarı və aşağı sərlövhələr",
+      "Səhifə parametrləri",
+      "Mündəricat",
+      "Redaktə"
+    ]
+  },
+  {
+    "question": "Sənədi başqa adla yadda saxlamaq üçün hansı qısa yoldan istifadə edilir?",
+    "true-answer": "F12",
+    "wrong-answers": [
+      "Alt +S",
+      "Shift + S",
+      "Ctrl + S",
+      "Tab + S"
+    ]
+  },
+  {
+    "question": "düyməsi nə üçündür?",
+    "true-answer": "pəncərəni tapşırıq panelinə yığır",
+    "wrong-answers": [
+      "pəncərəni ekran boyunca böyüdür",
+      "başqa pəncərəyə keçid təmin edir",
+      "pəncərəni bağlayır",
+      "pəncərəni kiçildir"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı File ( Файл) menyusuna aid deyil?",
+    "true-answer": "Copu (Копировать, Köçür)",
+    "wrong-answers": [
+      "New ( Создать, Yeni sənəd)",
+      "Open( Открыть, Aç)",
+      "Save( Сохранить, Saxla)",
+      "Save as( Сохранить kak, Fərqli saxla)"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı File ( Файл) menyusuna aiddir?",
+    "true-answer": "Open( Открыть, Aç)",
+    "wrong-answers": [
+      "Copu (Копировать, köçür)",
+      "View ( Вид, Görünüş)",
+      "Формула (Equation, Düstur)",
+      "Страницы (Pages, Səhifələr)"
+    ]
+  },
+  {
+    "question": "Word sənədinə proqram tərəfindın verilən ad hansdır?",
+    "true-answer": "Document1",
+    "wrong-answers": [
+      "doc",
+      "Text",
+      "Docx",
+      "Docsx"
+    ]
+  },
+  {
+    "question": "Mətn redaktorunda hansı obyektlərlə işləyərkən Конструктор (Design, Tərtibat) və Макет (Layout, Düzən) tabları aktivləşir?",
+    "true-answer": "cədvəllərlə",
+    "wrong-answers": [
+      "şəkillərlə",
+      "riyazi düsturlarla",
+      "mətnlərlə",
+      "simvollarla"
+    ]
+  },
+  {
+    "question": "Вставка(Insert ,Əlavə et) -- Иллюстрации (Illustrations, Şəkillər), - фигуры(Shapes, Fiqurlar) nə üçün istifadə olunur?",
+    "true-answer": "Mətnə həndəsi fiqurların əlavə edilməsi",
+    "wrong-answers": [
+      "Mətnə dioqramın əlavə edilməsi",
+      "Mətnə vaxt və tarixin əlavə edilməsi",
+      "Mətnə şəklin əlavə edilməsi",
+      "Mətnə cədvəlin əlavə edilməsi",
+      "Mətnə simvolların əlavə edilməsi"
+    ]
+  },
+  {
+    "question": "Ms Word-də klaviaturadan Page Up -- əmri hansı əməliyyatı icra edir?",
+    "true-answer": "Kursoru bir ekran səhifəsi yuxarıya gətirir.",
+    "wrong-answers": [
+      "Kursoru sənədin sonuna keçirir",
+      "Kursoru sənədin əvvəlinə keçirir",
+      "kursoru bir ekran səhifəsi aşağıya gətirir.",
+      "Bütün variantlar doğrudur"
+    ]
+  },
+  {
+    "question": "Ms Word-də klaviaturadan Page Down -- əmri hansı əməliyyatı icra edir?",
+    "true-answer": "kursoru bir ekran səhifəsi aşağıya gətirir.",
+    "wrong-answers": [
+      "Kursoru bir ekran səhifəsi yuxarıya gətirir.",
+      "Kursoru sənədin sonuna keçirir",
+      "Kursoru sənədin əvvəlinə keçirir",
+      "Bütün variantlar doğrudur"
+    ]
+  },
+  {
+    "question": "Ms. Word mətn prosessorunda Copu (Копировать,Köçür) əmri ..... sonra verilə bilər?",
+    "true-answer": "mətn fraqmenti qeyd edildikdən",
+    "wrong-answers": [
+      "fayl yaddaşa göndərildikdən",
+      "kursorun göstəricisi tələb olunan yerə gətirildikdən",
+      "səhifənin parametrləri təyin olunduqdan",
+      "simvollar formatlaşdırıldiqdan"
+    ]
+  },
+  {
+    "question": "Sözün yalnız bir hərfini böyük hərflə yazmaq üçün hansı düymədən istifadə edilir?",
+    "true-answer": "Shift",
+    "wrong-answers": [
+      "Ctrl",
+      "Alt",
+      "Caps Losk",
+      "Shift + Alt"
+    ]
+  },
+  {
+    "question": "Sənəddə olan bütün mətni seçmək üçün klaviaturadan hansı düymələr sıxılmalıdır?",
+    "true-answer": "(Ctrl+A)",
+    "wrong-answers": [
+      "(Ctrl+V)",
+      "(Ctrl+C)",
+      "(Ctrl+Z)",
+      "(Ctrl +S)"
+    ]
+  },
+  {
+    "question": "Obyektin surətini mübadilə buferinə köçürmək üçün kontekst menyunun hansı əmrindən istifadə olunur?",
+    "true-answer": "Copy.",
+    "wrong-answers": [
+      "Cut.",
+      "Send to.",
+      "Undo.",
+      "Font"
+    ]
+  },
+  {
+    "question": "Bir-neçə ardıcıl olmayan faylı seçmək üçün hansı klavişdən istifadə olunur?",
+    "true-answer": "Ctrl",
+    "wrong-answers": [
+      "Tab",
+      "Shift",
+      "Alt",
+      "Tab"
+    ]
+  },
+  {
+    "question": "MS Word proqramında yeni sənəd yaratmaq üçün klaviaturanın hansı klavişlərindən istifadə edilir?",
+    "true-answer": "Ctrl + N",
+    "wrong-answers": [
+      "Ctrl + Y",
+      "Ctrl + A",
+      "Ctrl + X",
+      "Ctrl + Y"
+    ]
+  },
+  {
+    "question": "Ekranda eyni zamanda iki və daha çox Word sənədləri görmək olarmı?",
+    "true-answer": "Olar.",
+    "wrong-answers": [
+      "Yalnız oxu rejimində görmək olar.",
+      "Olmaz.",
+      "Yalnız redaktə rejimində görmək olar.",
+      "Bütün variantlar doğrudur"
+    ]
+  },
+  {
+    "question": "MS Word proqramında Paste əmri passivdirsə, bu o deməkdir ki, ...",
+    "true-answer": "Mübadilə buferi boşdur.",
+    "wrong-answers": [
+      "Sonuncu dəfə Cut əmri icra olunub.",
+      "Sonuncu dəfə Copy əmri icra olunub.",
+      "Mübadilə buferi doludur.",
+      "Mübadilə buferi işləmir"
+    ]
+  },
+  {
+    "question": "Kursorun sağında olan simvolu necə silmək olar?",
+    "true-answer": "Delete klavişini sıxmaqla",
+    "wrong-answers": [
+      "Backspace klavişini sıxmaqla",
+      "Shift+Capslock kombinasiyasından istifadə etməklə",
+      "Alt+Shift kombinasiyasından istifadə etməklə",
+      "Ctrl+ Shift kombinasiyasından istifadə etməklə"
+    ]
+  },
+  {
+    "question": "Редактирование (Editing, Redaktə)- bölməsində hansı əməliyyatlar yerinə yetirir?",
+    "true-answer": "Ms Word mətn prosessorunda sənədin redaktəsi üçün vacib hesab edilən axtarış, əvəzetmə və seçmə",
+    "wrong-answers": [
+      "Ms Word mətn prosessorunda sənədin müxtəlif hissələrinə şəkil yerləşdirmək",
+      "Ms Word mətn prosessorunda sənədi formatlaşdırmaq",
+      "Ms Word mətn prosessorunda sənədin parametrlərini dəyişmək",
+      "Ms Word mətn prosessorunda sənədin rəngini və şriftini dəyişmək"
+    ]
+  },
+  {
+    "question": "- aləti nə üçün istifadə olunur?",
+    "true-answer": "qeyd olunmuş mətnin hamısını böyük həriflə, kiçik həriflə və s. dəyişdirir.",
+    "wrong-answers": [
+      "qeyd olunmuş mətnin hamısıni bir ölçü vahidi böyüdür",
+      "qeyd olunmuş mətnin hamısını bir ölçü vahidi kiçildir",
+      "qeyd olunmuş mətnin hamısını mübadilə buferinə yazır",
+      "qeyd olunmuş mətnin hamısını silir"
+    ]
+  },
+  {
+    "question": "Вставка (İnsert-) - Текст (Text) - Дата и время (Data and Time) nə üçün istifadə olunur",
+    "true-answer": "Mətnə cari tarix və vaxtı əlavə etmək üçün",
+    "wrong-answers": [
+      "Mətnə səhifə başlığı əlavə etmək üçün",
+      "Mətnə riyazi düsturları əlavə etmək üçün",
+      "Mətnə səhifə nömrələri əlavə etmək üçün",
+      "Mətnə obyekt əlavə etmək üçün"
+    ]
+  },
+  {
+    "question": "Ms Word mətn prosessorunda da qeyd olunmuş fraqmentin, sənədin bir yerdən digər yerə və ya başqa sənədə köçrülməsi və yerdəyişməsini həyata keçirmək üçün hansı bölmədən istifadə edilir.",
+    "true-answer": "Буфер обмена (Clipboard ,Mübadilə buferi)",
+    "wrong-answers": [
+      "Шрифт (Font, Şrift)",
+      "Абзац (Paragraph, Abzas)",
+      "Стили (Styles,Üslublar)",
+      "Heç biri"
+    ]
+  },
+  {
+    "question": "Mətndə sözü seçmək üçün nə etmək lazımdır?",
+    "true-answer": "sözün üzərində mausun sol düyməsini 2 dəfə sıxmaq",
+    "wrong-answers": [
+      "sözün üzərində mausun sol düyməsini 1 dəfə sıxmaq",
+      "sözdən solda mausun sol düyməsini 1 dəfə sıxmaq",
+      "sözdən sonra mausun sol düyməsini 1 dəfə sıxmaq",
+      "sözün üzərində mausun sol düyməsini 3 dəfə sıxmaq"
+    ]
+  },
+  {
+    "question": "Səhifələri nömrələmək üçün əmrlər ardıcıllığını göstər?",
+    "true-answer": "Вставка (Insert ,Əlavə et) -- колонтитулы (Header Footer, Yuxarı və aşağı sərlövhələr ) -- номера страниц (Page Number,Səhifə nömrəsi)",
+    "wrong-answers": [
+      "Вставка (Insert ,Əlavə et) -- иллюстрации (Illustrations, Şəkillər), -- номера страниц (Page Number,Səhifə nömrəsi)",
+      "Главная (Home, Ev) - колонтитулы (Header Footer, Yuxarı və aşağı sərlövhələr ) -- номера страниц (Page Number,Səhifə nömrəsi)",
+      "Главная (Home, Ev) - номера страниц (Page Number,Səhifə nömrəsi)",
+      "Главная (Home, Ev) - иллюстрации (Illustrations, Şəkillər), -- номера страниц (Page Number,Səhifə nömrəsi)"
+    ]
+  },
+  {
+    "question": "Mətnə həndəsi fiqurların əlavə edilməsi əmrlər ardıcıllığı hansıdır?",
+    "true-answer": "Вставка(Insert ,Əlavə et) -- Иллюстрации (Illustrations, Şəkillər), - фигуры(Shapes, Fiqurlar)",
+    "wrong-answers": [
+      "Вставка(Insert ,Əlavə et) -- Иллюстрации(Illustrations, Şəkillər), - рисунок(Picture, Şəkil)",
+      "Разметка страницы(Page Layout, Səhifə düzəni) - Иллюстрации(Illustrations, Şəkillər), - фигуры(Shapes, Fiqurlar)",
+      "Файл(File) - Иллюстрации(Illustrations, Şəkillər), -- фигуры(Shapes, Fiqurlar)",
+      "Разметка страницы(Page Layout, Səhifə düzəni) - Иллюстрации(Illustrations, Şəkillər), - рисунок(Picture, Şəkil)"
+    ]
+  },
+  {
+    "question": "Ms Word proqramında cədvəl qurmaq üçün əmrlər ardıcıllığı hansıdır?",
+    "true-answer": "Вставка (Insert ,Əlavə et) -- таблица (Tables, Cədvəllər), -- вставить таблицу (İnsert Table, Cədvəl əlavə et)",
+    "wrong-answers": [
+      "Главная(Home, Ev) - таблица(Tables, Cədvəllər), -- вставить таблицу(İnsert Table, Cədvəl əlavə et)",
+      "Разметка страницы (Page Layout, Səhifə düzəni) - вставить таблицу (İnsert Table, Cədvəl əlavə et)",
+      "Файл(File) - таблица(Tables, Cədvəllər), -- вставить таблицу (İnsert Table, Cədvəl əlavə et)",
+      "Разметка страницы (Page Layout, Səhifə düzəni) -- таблица (Tables, Cədvəllər)- вставить таблицу (İnsert Table, Cədvəl əlavə et)"
+    ]
+  },
+  {
+    "question": "Şəkillərin, ClipArt obyektlərinin, fiqurların , SmartArt sxemlərin, dioqramların mətn sənədinə əlavə edilməsi üçün hansı bölmənin əmrlərindən istifadə edilir",
+    "true-answer": "Вставка(İnsert, Daxil et) tabının Иллюстрации (İllustrations, Şəkillər)",
+    "wrong-answers": [
+      "Вставка(İnsert, Daxil et) tabının Колонтитулы (Header &Footer, Sərlövhə)",
+      "Вставка(İnsert, Daxil et) tabının Символ(Sumbols, Simvol)",
+      "Вставка(İnsert, Daxil et) tabının Текст (Text, Mətn)",
+      "Вставка(İnsert, Daxil et) tabının Таблица (Table, Cədvəl)"
+    ]
+  },
+  {
+    "question": "Yalnız Alt düyməsi sıxılarsa o zaman nə baş verər",
+    "true-answer": "menyu çubuğundakı bütün menyuların üzərində klaviaturadan istifadə ediləcək düymələrin işarələri görsənəcəkdir.",
+    "wrong-answers": [
+      "sənədin miqyaslama səviyyəsini göstərmək üçün Miqyası dəyişdir dialoq pəncərəsini açır.",
+      "menyuya daxil olan bölmələrin tərkibindəki əmrlər ekranda əks olunacaqdır.",
+      "cəld müraciət panelini və klaviaturanın qısayollarını fərdiləşdir pəncərəsi açılır.",
+      "kursoru abzas məsafəsinə gətirmək üçün istifadə edilir."
+    ]
+  },
+  {
+    "question": "Ms Word proqramında cədvəl qurmaq üçün hansı lent tabın əmrindən istifadə olunur?",
+    "true-answer": "Insert ( Вставка, Əlavə et)",
+    "wrong-answers": [
+      "Format (Формат,Formatlaşdırma)",
+      "Page Layout( Разметка страницы, səhifə düzəni)",
+      "View ( Вид, Görünüş)",
+      "File ( Файл, Fayl)"
+    ]
+  },
+  {
+    "question": "Ms .Word-də sənədin səhifələrini nömrələmək üçün hansı lent tabından istifadə olunur?",
+    "true-answer": "Insert ( Вставка, Əlavə et)",
+    "wrong-answers": [
+      "View ( Вид, Görünüş)",
+      "Page Layout( Разметка страницы, səhifə düzəni)",
+      "File ( Файл, Fayl)",
+      "Format (Формат,Formatlaşdırma)"
+    ]
+  },
+  {
+    "question": "Excel proqram pəncərəsinin düstur sətrində nə görsənir ?",
+    "true-answer": "düsturun tərkibi",
+    "wrong-answers": [
+      "sətrin adı",
+      "sütunun adı",
+      "xananın adı",
+      "vərəqin adı"
+    ]
+  },
+  {
+    "question": "Ms Excel proqramında düzbucaqlı forma təşkil edən xanalar qrupu nə adlanır?",
+    "true-answer": "xanalar diapazonu",
+    "wrong-answers": [
+      "xanalar intervalı",
+      "xanalar düzbucaqlısı",
+      "massiv",
+      "bütün varianrlar doğrudur"
+    ]
+  },
+  {
+    "question": "Ms Excel 2010 proqramında yaradılmış fayl genişlənməsi hansıdır?",
+    "true-answer": ".xlsx",
+    "wrong-answers": [
+      ".xlc",
+      ".xlss",
+      ".doc",
+      ".docx"
+    ]
+  },
+  {
+    "question": "Ms Excel proqramı əsasən hansı məqsədlər üçün istifadə olunur?",
+    "true-answer": "mühasibat və maliyyə işlərinin aparılması",
+    "wrong-answers": [
+      "fayl və kataloqlarla əlaqə yaratmaq",
+      "kompüterin qurğularının işini idarə etmək",
+      "yüksək səviyyədə mətn işlərinin yerinə yetrilməsi",
+      "təqdimatların hazırlanması"
+    ]
+  },
+  {
+    "question": "Excel proqramında sütunların başlığı nə ilə işarə olunur?",
+    "true-answer": "latın hərifləri ilə",
+    "wrong-answers": [
+      "roma rəqəmləri ilə",
+      "Sheet1, Sheet 2 və s.",
+      "rus hərifləri ilə",
+      "rum rəqəmlərlə"
+    ]
+  },
+  {
+    "question": "Ms Excel -də yaradılmış sənəd nə adlanır?",
+    "true-answer": "işçi kitab",
+    "wrong-answers": [
+      "işçi vərəq",
+      "işçi səhifə",
+      "işçi cədvəl",
+      "İşçi ünvan"
+    ]
+  },
+  {
+    "question": "Xana necə təyin olunur?",
+    "true-answer": "sətirlə sütunun kəsişdiyi sahə ilə",
+    "wrong-answers": [
+      "bir neçə sətrin birləşdiyi sahə ilə",
+      "bir neçə sütunun birləşdiyi sahə ilə",
+      "iki yanaşı sətrin birləşdiyi sahə ilə",
+      "iki yanaşı sütünun birləşdiyi sahə ilə"
+    ]
+  },
+  {
+    "question": "Excel-də hər hansı bir xanaya daxil edilən verilən və yazılan hesabi ifadə həm də harada əks olunur?",
+    "true-answer": "düstur sətrində",
+    "wrong-answers": [
+      "vəziyyətlər sətri zolağında",
+      "həmin sütunun başlığında",
+      "vərəqlər yarığında",
+      "sətrin başlığında"
+    ]
+  },
+  {
+    "question": "Ms Excel -də aşağıdakı ünvanlardan hansı nisbi ünvandır?",
+    "true-answer": "B3C2",
+    "wrong-answers": [
+      "$BA",
+      "A$$",
+      "$$5",
+      "$B$A"
+    ]
+  },
+  {
+    "question": "Ms Excel­dә nisbi ünvan nәdir?",
+    "true-answer": "Hesablama prosesindә dәyişә bilәn ünvan;",
+    "wrong-answers": [
+      "Unikal yazıya malik ünvan;",
+      "Özündә sabit mәlumat saxlayan ünvan;",
+      "Aktiv ünvan;",
+      "Hesablama prosesindә dəyişməyən ünvan;"
+    ]
+  },
+  {
+    "question": "Ms Excel­dә mütləq ünvan nәdir?",
+    "true-answer": "Hesablama prosesindә dəyişməyən ünvan;",
+    "wrong-answers": [
+      "Unikal yazıya malik ünvan;",
+      "Hesablama prosesindә dәyişә bilәn ünvan;",
+      "Aktiv ünvan;",
+      "İlkin ünvan"
+    ]
+  },
+  {
+    "question": "Ms Excel -də aşağıdakı ünvanlardan hansı mütləq ünvandır?",
+    "true-answer": "$B$5",
+    "wrong-answers": [
+      "$B5$",
+      "B$$",
+      "B5",
+      "B$5"
+    ]
+  },
+  {
+    "question": "MS Excel-də A1:F5 xanalar qrupu üzrə ədədlərin toplanması necə yerinə yetirilir?",
+    "true-answer": "=SUM(A1:F5)",
+    "wrong-answers": [
+      "A1+F5",
+      "=SUM(A1)+ SUM(F5)",
+      "=SUM(A1+F5)",
+      "SUM(A1*F5)"
+    ]
+  },
+  {
+    "question": "A1=3; A2=5; A3=6 olduqda Excel cədvəlində =(A1+A2)*A3 düsturunun qiyməti neçə olar?",
+    "true-answer": "48.",
+    "wrong-answers": [
+      "49.",
+      "8.",
+      "0.",
+      "34"
+    ]
+  },
+  {
+    "question": "A1=3; A2=6; A3=2 olduqda Excel cədvəlində =A1^2-A2/A3 düsturunun qiyməti neçə olar?",
+    "true-answer": "6.",
+    "wrong-answers": [
+      "3.",
+      "8.",
+      "0.",
+      "5"
+    ]
+  },
+  {
+    "question": "A1=3; A2=5; A3=6 olduqda Excel cədvəlində =A2^A1/125 düsturunun qiyməti neçə olar?",
+    "true-answer": "1.",
+    "wrong-answers": [
+      "3.",
+      "8.",
+      "0.",
+      "2"
+    ]
+  },
+  {
+    "question": "Ms Excel proqramında göstәrilәn $A6 ünvanının tipini göstәrin:",
+    "true-answer": "Sütun -- mütlәq, sәtir­nisbi;",
+    "wrong-answers": [
+      "Sütun ­ nisbi, sәtir -- nisbi;",
+      "Sütun ­ mütlәq, sәtir ­ mütlәq;",
+      "Sütun -- nisbi, sәtir -- mütlәq;",
+      "Heç biri"
+    ]
+  },
+  {
+    "question": "#DIV/0! (ДЕЛ/0!) --Excel- də bu yazılış nəyi bildirir",
+    "true-answer": "düsturda sıfıra bölmə vardır;",
+    "wrong-answers": [
+      "proqram daxil edilmiş xana və ya diapazon adını tanıya bilmir,yaxud funksiyanın adı səhv daxil edilmişdir;",
+      "düstura düzgün olmayan ədədin (məsələn, həddən artıq böyük və ya kiçik ədədin) daxil edilməsi,yaxud ancaq ədədi tip argument qəbul edən funksiyaya başqa tip arqumentin verilməsi;",
+      "Düsturda səhv istinad verilmişdir(məsələn,iş vərəqindən silinmiş xanaya istinad olunduqda);",
+      "Düsturda düzgün tipə malk olmayan operator və ya arqumentdən istifadə olunur,yaxud mətn tipli verilənlər üzərində hesabi əməliyyatlar aparılır."
+    ]
+  },
+  {
+    "question": "#NAME ?( #ИМЯ?)- Excel- də bu yazılış nəyi bildirir",
+    "true-answer": "proqram daxil edilmiş xana və ya diapazon adını tanıya bilmir,yaxud funksiyanın adı səhv daxil edilmişdir;",
+    "wrong-answers": [
+      "düsturda sıfıra bölmə vardır;",
+      "düstura düzgün olmayan ədədin (məsələn, həddən artıq böyük və ya kiçik ədədin) daxil edilməsi,yaxud ancaq ədədi tip argument qəbul edən funksiyaya başqa tip arqumentin verilməsi;",
+      "Düsturda səhv istinad verilmişdir(məsələn,iş vərəqindən silinmiş xanaya istinad olunduqda);",
+      "Düsturda düzgün tipə malk olmayan operator və ya arqumentdən istifadə olunur,yaxud mətn tipli verilənlər üzərində hesabi əməliyyatlar aparılır."
+    ]
+  },
+  {
+    "question": "#NUMBER!(#ЧИСЛО! ) Excel- də bu yazılış nəyi bildirir",
+    "true-answer": "düstura düzgün olmayan ədədin (məsələn, həddən artıq böyük və ya kiçik ədədin) daxil edilməsi,yaxud ancaq ədədi tip argument qəbul edən funksiyaya başqa tip arqumentin verilməsi;",
+    "wrong-answers": [
+      "proqram daxil edilmiş xana və ya diapazon adını tanıya bilmir,yaxud funksiyanın adı səhv daxil edilmişdir;",
+      "düsturda sıfıra bölmə vardır;",
+      "Düsturda səhv istinad verilmişdir(məsələn,iş vərəqindən silinmiş xanaya istinad olunduqda);",
+      "Düsturda düzgün tipə malk olmayan operator və ya arqumentdən istifadə olunur,yaxud mətn tipli verilənlər üzərində hesabi əməliyyatlar aparılır."
+    ]
+  },
+  {
+    "question": "#VALUE (# ЗНАЧ! )- Excel- də bu yazılış nəyi bildirir",
+    "true-answer": "Düsturda düzgün tipə malk olmayan operator və ya arqumentdən istifadə olunur,yaxud mətn tipli verilənlər üzərində hesabi əməliyyatlar aparılır.",
+    "wrong-answers": [
+      "düstura düzgün olmayan ədədin (məsələn, həddən artıq böyük və ya kiçik ədədin) daxil edilməsi,yaxud ancaq ədədi tip argument qəbul edən funksiyaya başqa tip arqumentin verilməsi;",
+      "proqram daxil edilmiş xana və ya diapazon adını tanıya bilmir,yaxud funksiyanın adı səhv daxil edilmişdir;",
+      "düsturda sıfıra bölmə vardır;",
+      "Düsturda səhv istinad verilmişdir(məsələn,iş vərəqindən silinmiş xanaya istinad olunduqda);"
+    ]
+  },
+  {
+    "question": "Ms Excel elektron cədvəlinin əsas komponentləri ....",
+    "true-answer": "kitab, vərəq, sütun, sətir və xanadır.",
+    "wrong-answers": [
+      "ünvan, diapazon,sərir, sütun, vərəq",
+      "vərəq, kitab, ünvan, diapazon,sərir",
+      "ünvan, diapazon,sərir, sütun",
+      "heç biri"
+    ]
+  },
+  {
+    "question": "Diapazona daxil olan xanaların sayı .....",
+    "true-answer": "həmin diapazona daxil olan sətirlərin sayının, sütunlarin sayının hasilinə bərabərdir.",
+    "wrong-answers": [
+      "həmin diapazona daxil olan sətirlərin sayının, sütunlarin sayının fərqinə bərabərdir.",
+      "həmin diapazona daxil olan sətirlərin sayının, sütunlarin sayının qismətinə bərabərdir.",
+      "həmin diapazona daxil olan sətirlərin sayının, sütunlarin sayının cəminə bərabərdir.",
+      "Heç biri doğru deyil"
+    ]
+  },
+  {
+    "question": "A2:D5 diapazonuna daxil olan xanaların sayı",
+    "true-answer": "16",
+    "wrong-answers": [
+      "20",
+      "12",
+      "18",
+      "8"
+    ]
+  },
+  {
+    "question": "MS Excel proqramında A1 xanasında 25 yazılıbsa, A2 xanasına = A1*2-1 yazsaq, A2 xanasına nəticədə hansı ədəd yazılmış olar?",
+    "true-answer": "49",
+    "wrong-answers": [
+      "152",
+      "30",
+      "13",
+      "59"
+    ]
+  },
+  {
+    "question": "MS Excel proqramında A4 xanasında 10 yazılıbsa, A7 xanasına = A4^2-1 yazsaq, A7 xanasına nəticədə hansı ədəd yazılmış olar?",
+    "true-answer": "99",
+    "wrong-answers": [
+      "152",
+      "30",
+      "49",
+      "82"
+    ]
+  },
+  {
+    "question": "Excel-də 3^5-i hasablamaq üçün xanaya nə yazmaq lazımdır?",
+    "true-answer": "=3^5",
+    "wrong-answers": [
+      "=3*5",
+      "=5*3",
+      "=5^3",
+      "=3+5"
+    ]
+  },
+  {
+    "question": "Ms Excel -də hansı funksiya ədədi verilmiş dərəcədən qüvvətə yüksəldir?",
+    "true-answer": "СТЕПЕНЬ(POWER)",
+    "wrong-answers": [
+      "ФАКТР (FACT)",
+      "ПРОИЗВЕД (PRODUCT)",
+      "СРЗНАЧ (AVARAGE)",
+      "КОРЕНЬ (SQRT)"
+    ]
+  },
+  {
+    "question": "Ms Excel -də hansı funksiya verilmiş xanalar diapazonundakı ədədlər arasında maksimum qiyməti tapır?",
+    "true-answer": "МАКС (MAX)",
+    "wrong-answers": [
+      "СТЕПЕНЬ (POWER)",
+      "КОРЕНЬ (SQRT)",
+      "СРЗНАЧ (AVARAGE)",
+      "ФАКТР (FACT)"
+    ]
+  },
+  {
+    "question": "Ms Excel -də hansı funksiya verilmiş xanalar diapazonundan ədədlərin orta qiymətini tapır?",
+    "true-answer": "СРЗНАЧ (AVERAGE)",
+    "wrong-answers": [
+      "СТЕПЕНЬ (POWER)",
+      "ФАКТР( FACT)",
+      "ПРОИЗВЕД (PRODUCT)",
+      "МАКС (MAX)"
+    ]
+  },
+  {
+    "question": "Ms Excel -də hansı funksiya verilmiş ədədin kvadrat kökünü hesablayır?",
+    "true-answer": "КОРЕНЬ(SQRT)",
+    "wrong-answers": [
+      "СТЕПЕНЬ (POWER)",
+      "ПРОИЗВЕД (PRODUCT)",
+      "СРЗНАЧ(AVERAGE)",
+      "МАКС (MAX)"
+    ]
+  },
+  {
+    "question": "Ms Excel -də hansı funksiya verilmiş xanalar diapazonundakı ədədlər arasında minumum qiyməti tapır?",
+    "true-answer": "МИН (MİN)",
+    "wrong-answers": [
+      "МАКС (MAX)",
+      "СТЕПЕНЬ(POWER)",
+      "СРЗНАЧ(AVERAGE)",
+      "ПРОИЗВЕД (PRODUCT)"
+    ]
+  },
+  {
+    "question": "MS Exceldə SUM funksiyası hansı tip funksiyalar qrupuna daxildir?",
+    "true-answer": "Riyazi",
+    "wrong-answers": [
+      "Statistik",
+      "Məntiqi",
+      "Maliyyə",
+      "Mətn"
+    ]
+  },
+  {
+    "question": "MS Exceldə hansı funksiya arqumentində göstərilmiş xana ünvanları üzrə həmin dolu xanaların sayını müəyyən edir?",
+    "true-answer": "COUNT",
+    "wrong-answers": [
+      "COS",
+      "AVERAGE",
+      "SUM",
+      "MAX"
+    ]
+  },
+  {
+    "question": "MS Excel -də B1,B2,B3, D5 xanalarındakı ədədlərin cəminin A1 xanasına yazılması üçün oraya hansı düstur daxil edilməlidir?",
+    "true-answer": "=SUM(B1:B3;D5)",
+    "wrong-answers": [
+      "= SUM(B1:B3+D5)",
+      "SUM(B1:B2:B3:D5)",
+      "SUM(B1-B3;D5)",
+      "Heç biri"
+    ]
+  },
+  {
+    "question": "Riyazi funksiayalar hansı variantda verilib",
+    "true-answer": "ABS (ABS), FACT (Фактр), POWER (СТЕПЕНЬ), RRODUCT (ПРОИЗВЕД), SUM (СУММ), SUMİF (СУММЕСЛИ)",
+    "wrong-answers": [
+      "AVERAGE (СРЗНАЧ), COUNT (СЧЕТЗ), COUNTA (СЧЕТЗ), MAX (МАКС ), MİN (МИН)",
+      "LEN (ДПСТР), LEFT (ЛЕВСИМВ), RİGHT (ПРАВСИМВ)",
+      "İF (ЕСЛИ), TRUE (ИСТИНА), FALSE (ЛОЖ), AND (И), OR (ИЛИ), NOT (НЕ)",
+      "RİGHT (ПРАВСИМВ) , AVERAGE (СРЗНАЧ), COUNT (СЧЕТЗ)"
+    ]
+  },
+  {
+    "question": "Statistiki funksiyalar hansı variantda verilib",
+    "true-answer": "AVERAGE (СРЗНАЧ), COUNT (СЧЕТЗ), COUNTA (СЧЕТЗ), MAX (МАКС ), MİN (МИН)",
+    "wrong-answers": [
+      "ABS (ABS), FACT (Фактр), POWER (СТЕПЕНЬ), RRODUCT (ПРОИЗВЕД), SUM (СУММ), SUMİF (СУММЕСЛИ)",
+      "LEN (ДПСТР), LEFT (ЛЕВСИМВ), RİGHT (ПРАВСИМВ)",
+      "İF (ЕСЛИ), TRUE (ИСТИНА), FALSE (ЛОЖ), AND (И), OR (ИЛИ), NOT (НЕ)",
+      "RİGHT (ПРАВСИМВ) , AVERAGE (СРЗНАЧ), COUNT (СЧЕТЗ)"
+    ]
+  },
+  {
+    "question": "Məntiqi funksiyalar hansı variantda verilib",
+    "true-answer": "İF (ЕСЛИ), TRUE (ИСТИНА), FALSE (ЛОЖ), AND (И), OR (ИЛИ), NOT (НЕ)",
+    "wrong-answers": [
+      "AVERAGE (СРЗНАЧ), COUNT (СЧЕТЗ), COUNTA (СЧЕТЗ), MAX (МАКС ), MİN (МИН)",
+      "ABS (ABS), FACT (Фактр), POWER (СТЕПЕНЬ), RRODUCT (ПРОИЗВЕД), SUM (СУММ), SUMİF (СУММЕСЛИ)",
+      "LEN (ДПСТР), LEFT (ЛЕВСИМВ), RİGHT (ПРАВСИМВ)",
+      "RİGHT (ПРАВСИМВ) , AVERAGE (СРЗНАЧ), COUNT (СЧЕТЗ)"
+    ]
+  }
+]
