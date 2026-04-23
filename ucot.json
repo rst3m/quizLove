@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "Mühasibat uçotu ---",
+    "true-answer": "a) idarətmənin maliyyə hərəkətlərini qeyd edən, sinifləndirən, xüsusiləşdirən və hesabata çevirən bir elmdir.",
+    "wrong-answers": [
+      "b) xalq təsərrüfatı sahəsində kütləvi xarakterə malik halların öyrənilməsini göstərən məlumatların əks etdirilməsidir.",
+      "c) ayrı-ayrı hesabatları tərtib etmək üçün tələb olunan məlumatlardır.",
+      "d) kommersiya strukturlu fəaliyyətlə bağlı olan halların öyrənilməsini göstərən məlumatlardır.",
+      "e) mühasibat hesabatı tərtib etmək üçün zəruri məlumatlardır."
+    ]
+  },
+  {
+    "question": "Mühasibat uçotunda bütün uçot obyektləri:",
+    "true-answer": "d) natural,əmək və pul ölçülərində ifadə edilir",
+    "wrong-answers": [
+      "a) yalnız pul ölçüsündə ifadə edilir",
+      "b) yalnız natural ölçüdə ifadə edilir",
+      "c) yalnız əmək ölçüsündə ifadə edilir",
+      "e) natural və əmək ölçülərində ifadə edilir"
+    ]
+  },
+  {
+    "question": "Maliyyə uçotunun əsas məqsədi müəssisənin maliyyə fəaliyyətinə aid 3 istiqamətdə informasiya hazırlamaqdır:",
+    "true-answer": "e) Maliyyə vəziyyəti, maliyyə nəticələri, pul vəsaitlərinin hərəkəti haqqında",
+    "wrong-answers": [
+      "a) Maliyyə vəziyyəti, maliyyə nəticələri,izahlı qeydlər haqqında",
+      "b) maliyyə nəticələri, pul vəsaitlərinin hərəkəti, izahlı qeydlər haqqında",
+      "c) maliyyə nəticələri, kapitalda dəyişikliklər, izahlı qeydlər haqqında",
+      "d) maliyyə vəziyyəti, kapitalda dəyişikliklər, izahlı qeydlər haqqında"
+    ]
+  },
+  {
+    "question": "Mühasibat (maliyyə) informasiyalarından istifadə edənləri neçə qrupa bölünür?",
+    "true-answer": "d) 3",
+    "wrong-answers": [
+      "a) 5",
+      "b) 2",
+      "c) 7",
+      "e) 8"
+    ]
+  },
+  {
+    "question": "İndiki iqtisadi şəraitdə mühasibat uçotu əsasən hansı istiqamətdə ixtisaslaşır?",
+    "true-answer": "b) Maliyyə, idarəetmə, vergi uçotu",
+    "wrong-answers": [
+      "a) Maliyyə, idarəetmə uçotu",
+      "c) Büdcə, vergi, statistik uçot",
+      "d) Vergi, operativ, statistik uçot",
+      "e) Büdcə, statistik uçot"
+    ]
+  },
+  {
+    "question": "Mühasib ixtisasının inkişafına hansı amillər təsir göstərir?",
+    "true-answer": "a) Maliyyə böhranı",
+    "wrong-answers": [
+      "b) İctimai böhran",
+      "c) Daxili böhran",
+      "d) Siyasi böhran",
+      "e) Xarici böhran"
+    ]
+  },
+  {
+    "question": "Maliyyə uçotu tərəfindən təqdim olunmuş məlumatın istifadəçiləri ..... ola bilər.",
+    "true-answer": "b) həm daxili, həm də xarici",
+    "wrong-answers": [
+      "a) yalnız daxili",
+      "c) yalnız xarici",
+      "d) Maliyyə Nazirliyi",
+      "e) Kreditorlar"
+    ]
+  },
+  {
+    "question": "Maliyyə uçotu hansı məlumatı əks etdirir?",
+    "true-answer": "d) artıq bitmiş",
+    "wrong-answers": [
+      "a) gələcək üçün planlaşdırılan",
+      "b) strateji",
+      "c) həm keçmiş, həm də gələcək",
+      "e) yalnız operativ"
+    ]
+  },
+  {
+    "question": "Maliyyə uçotunda məlumat necə olmalıdır?",
+    "true-answer": "c) dəqiq və obyektiv",
+    "wrong-answers": [
+      "a) təxmini",
+      "b) təqribi",
+      "d) subyektiv",
+      "e) təxmini və təqribi"
+    ]
+  },
+  {
+    "question": "Mühasibat (maliyyə) informasiyalarından təşkilatın öz müdriyyəti tərəfindən istifadə edənlərə aiddir:",
+    "true-answer": "a) idarə heyəti, menecerlər, bölmə rəhbərləri və mütəxəssislər, təsisçilər, iştirakçılar, sahibkarlar, direktorlar şurası",
+    "wrong-answers": [
+      "b) investorlar, banklar, malgöndərənlər və digər kreditorlar",
+      "c) vergi orqnları, maliyyə orqanları, dövlət statistika orqanları, audit firmaları, malalanlar",
+      "d) menecerlər, banklar, malgöndərənlər, maliyyə orqanları",
+      "e) vergi orqnları, maliyyə orqanları,malgöndərənlər"
+    ]
+  },
+  {
+    "question": "Dolayı maliyyə marağı olmaqla informasiyadan kənarda istifadə edənlərə aiddir:",
+    "true-answer": "d) vergi orqnları, maliyyə orqanları, dövlət statistika orqanları, audit firmaları, malalanlar",
+    "wrong-answers": [
+      "a) menecerlər, banklar, malgöndərənlər, maliyyə orqanları",
+      "b) idarə heyəti, menecerlər, bölmə rəhbərləri və mütəxəssislər, təsisçilər, iştirakçılar, sahibkarlar, direktorlar şurası",
+      "c) investorlar, banklar, malgöndərənlər və digər kreditorlar",
+      "e) iştirakçılar, sahibkarlar, direktorlar şurası"
+    ]
+  },
+  {
+    "question": "Birbaşa maliyyə marağı olmaqla informasiyadan kənarda istifadə edənlərə aiddir:",
+    "true-answer": "d) investorlar, banklar, malgöndərənlər və digər kreditorlar",
+    "wrong-answers": [
+      "a) vergi orqnları, maliyyə orqanları, dövlət statistika orqanları, audit firmaları, malalanlar",
+      "b) menecerlər, banklar, malgöndərənlər, maliyyə orqanları",
+      "c) idarə heyəti, menecerlər, bölmə rəhbərləri və mütəxəssislər, təsisçilər, iştirakçılar, sahibkarlar, direktorlar şurası",
+      "e) iştirakçılar, sahibkarlar, direktorlar şurası"
+    ]
+  },
+  {
+    "question": "Mühasibat uçotunun predmetinə nələr daxildir:",
+    "true-answer": "e) Nəzərdə tutulan planların (tapşırıqların) yerinə yetirilməsi məqsədilə təşkilatın pulla ifadə olunan əmlakının, onların mənbələrinin, təsərrüfat əməliyyatlarının və fəaliyyət nəticələrinin tərkib və yerləşməsinə görə lazım olan vəsaitin məcmusu",
+    "wrong-answers": [
+      "a) Məhsul istehsalına çəkilən və onlarla bağlı olan məsrəflər",
+      "b) Təsərrüfat əməliyyatları",
+      "c) Təşkilatın əmlakı və onların yaranma mənbələri",
+      "d) Təşkilatın təsərrüfat prosesləri"
+    ]
+  },
+  {
+    "question": "Mühasibat uçotunun metodu dedikdə nə başa düşülür?",
+    "true-answer": "c) Mühasibat uçotu obyektlərinin əks etdirilməsinin üsul və qaydalarının məcmusu",
+    "wrong-answers": [
+      "a) Mühasibat uçotunun predmetinin tərkib hissəsi",
+      "b) Mühasibat uçotu predmetinin öyrənilmə qaydası",
+      "d) Təsərrüfat proseslərinin öyrənilmə qaydası",
+      "e) Əməliyyatların sənəddə əks etdirilməsi qaydası"
+    ]
+  },
+  {
+    "question": "\"Mühasibat uçotu haqda\" Qanun anlayışını xarakterizə et:",
+    "true-answer": "c) mühasibat uçotunun inkişafı və təkmilləşdirilməsi və onun Beynəlxalq uçot standartlarına uyğunlaşdırılması üçün əsas baza hesab edilir",
+    "wrong-answers": [
+      "a) bu müasir təsərrüfatçılıq şəraitində mühasibat uçotunun gələcəkdə təkmilləşdirilməsi üçün əsas bazadır",
+      "b) mühasibat uçotunun beynəlxalq standartlara uyğunlaşdırılmasına şərait yaradır",
+      "d) bu mühasibat uçotunun gələcək inkişafını əhatə edir",
+      "e) müəssisənin mənfəətliliyinin təmin edilməsi üçün əsas baza hesab edilir"
+    ]
+  },
+  {
+    "question": "Maliyyə uçotunun Konseptual Əsasları:",
+    "true-answer": "a) MUBS Şurasının hazırladığı və nəşr etdiyi Maliyyə Hesabatlarının Hazırlanması və Təqdimatı üzrə çərçivə Sənədlərinə əsaslanır",
+    "wrong-answers": [
+      "b) AR Maliyyə Nazirliyinin təlimatlarına əsaslanır",
+      "c) Mühasibat uçotu haqqında Qanuna əsaslanır",
+      "d) Milli Mühasibat Uçotu Standartlarına əsaslanır",
+      "e) Mühasibat uçotu haqqında Qanuna və Milli Mühasibat Uçotu Standartlarına əsaslanır"
+    ]
+  },
+  {
+    "question": "Hansı informasiya mühasibat uçotunun əsası hesab edilir:",
+    "true-answer": "a) Həqiqi baş vermiş təsərrüfat əməliyyatları haqda olan məlumat",
+    "wrong-answers": [
+      "b) Plan və proqnoz",
+      "c) Operativ",
+      "d) Normativ",
+      "e) Standart"
+    ]
+  },
+  {
+    "question": "\"Mühasibat uçotu haqqında\" Qanuna müvafiq olaraq mühasibat uçotunun təşkilinə kim məsuliyyət daşıyır?",
+    "true-answer": "b) Təşkilatın rəhbəri",
+    "wrong-answers": [
+      "a) Menecer",
+      "c) Baş mühasib",
+      "d) Yuxarı təşkilat",
+      "e) Auditor"
+    ]
+  },
+  {
+    "question": "Azərbaycan Respublikasında mühasibat uçotuna ümumi metodoloji rəhbərlik kim tərəfindən yerinə yetirilir?",
+    "true-answer": "d) Maliyyə Nazirliyi",
+    "wrong-answers": [
+      "a) Respublika prezidentinin işlər idarəsi",
+      "b) Sosial Müdafiə Fondu",
+      "c) Vergilər Nazirliyi",
+      "e) Statistika orqanı"
+    ]
+  },
+  {
+    "question": "Maliyyə uçotunun funksiyaları:",
+    "true-answer": "b) qeyd etmə, təsnifat, yekunlaşdırma və hesabat",
+    "wrong-answers": [
+      "a) planlaşdırma, tədqiqat, təhlil, analiz və sənədləşmə",
+      "c) sənədləşmə, nəzarət və planlaşdırma",
+      "d) istehsal, satış, kalkulyasiya və istehlak",
+      "e) kalkulyasiya və istehlak"
+    ]
+  },
+  {
+    "question": "Qanunvericilik səviyyəsində muhasibat uçotu hansı normativ sənədlə tənzimlənir?",
+    "true-answer": "c) \"Mühasibat uçotu haqqında\" qanunla",
+    "wrong-answers": [
+      "a) Maliyyə nazirliyinin hazırladığı göstəriş, əmr və təlimatlarla",
+      "b) Mühasibat uçotunun hesablar planı ilə",
+      "d) Mühasibat uçotu haqda əsasnamə ilə",
+      "e) MMUS"
+    ]
+  },
+  {
+    "question": "İnformasiya-",
+    "true-answer": "a) təşkilatın maliyyə-təsərrüfat fəaliyyəti haqda vaxtlı-vaxtında yararlı məlumat olmasını özündə əks etdirir.",
+    "wrong-answers": [
+      "b) hərəkətetmə prosesinin qaydasını ifadə edir.",
+      "c) planın (tapşırığın) həqiqi yerinə yetirilməsinin müəyyən edilmə prosesini özündə birləşdirir.",
+      "d) təşkilatın maddi dəyərlilərinin, pul vəsaitlərinin, həmçinin mövcud əmlakının hərəkəti və mühafizəsinin uçotda qeydə almağı nəzərdə tutur.",
+      "e) qəbul edilmiş qərarların müntəzəm öyrənilməsi prosesini əhatə edir."
+    ]
+  },
+  {
+    "question": "Planlaşma (tapşırıq)-",
+    "true-answer": "b) hərəkətetmə prosesinin qaydasını ifadə edir.",
+    "wrong-answers": [
+      "a) təşkilatın maliyyə-təsərrüfat fəaliyyəti haqda vaxtlı-vaxtında yararlı məlumat olmasını özündə əks etdirir.",
+      "c) planın (tapşırığın) həqiqi yerinə yetirilməsinin müəyyən edilmə prosesini özündə birləşdirir.",
+      "d) təşkilatın maddi dəyərlilərinin, pul vəsaitlərinin, həmçinin mövcud əmlakının hərəkəti və mühafizəsinin uçotda qeydə almağı nəzərdə tutur.",
+      "e) qəbul edilmiş qərarların müntəzəm öyrənilməsi prosesini əhatə edir."
+    ]
+  },
+  {
+    "question": "Nəzarət-",
+    "true-answer": "c) planın (tapşırığın) həqiqi yerinə yetirilməsinin müəyyən edilmə prosesini özündə birləşdirir.",
+    "wrong-answers": [
+      "a) təşkilatın maliyyə-təsərrüfat fəaliyyəti haqda vaxtlı-vaxtında yararlı məlumat olmasını özündə əks etdirir.",
+      "b) hərəkətetmə prosesinin qaydasını ifadə edir.",
+      "d) təşkilatın maddi dəyərlilərinin, pul vəsaitlərinin, həmçinin mövcud əmlakının hərəkəti və mühafizəsinin uçotda qeydə almağı nəzərdə tutur.",
+      "e) qəbul edilmiş qərarların müntəzəm öyrənilməsi prosesini əhatə edir."
+    ]
+  },
+  {
+    "question": "Əmlakın qorunub saxlanması (Mühafizə) -",
+    "true-answer": "d) təşkilatın maddi dəyərlilərinin, pul vəsaitlərinin, həmçinin mövcud əmlakının hərəkəti və mühafizəsinin uçotda qeydə almağı nəzərdə tutur.",
+    "wrong-answers": [
+      "a) təşkilatın maliyyə-təsərrüfat fəaliyyəti haqda vaxtlı-vaxtında yararlı məlumat olmasını özündə əks etdirir.",
+      "b) hərəkətetmə prosesinin qaydasını ifadə edir.",
+      "c) planın (tapşırığın) həqiqi yerinə yetirilməsinin müəyyən edilmə prosesini özündə birləşdirir.",
+      "e) qəbul edilmiş qərarların müntəzəm öyrənilməsi prosesini əhatə edir."
+    ]
+  },
+  {
+    "question": "Analitik(Təhlil) -",
+    "true-answer": "e) qəbul edilmiş qərarların müntəzəm öyrənilməsi prosesini əhatə edir.",
+    "wrong-answers": [
+      "a) təşkilatın maliyyə-təsərrüfat fəaliyyəti haqda vaxtlı-vaxtında yararlı məlumat olmasını özündə əks etdirir.",
+      "b) hərəkətetmə prosesinin qaydasını ifadə edir.",
+      "c) planın (tapşırığın) həqiqi yerinə yetirilməsinin müəyyən edilmə prosesini özündə birləşdirir.",
+      "d) təşkilatın maddi dəyərlilərinin, pul vəsaitlərinin, həmçinin mövcud əmlakının hərəkəti və mühafizəsinin uçotda qeydə almağı nəzərdə tutur."
+    ]
+  },
+  {
+    "question": "Mühasibat uçotu metodunun hansı ünsürləri digər iqtisad elmləri üçün ümumi hesab olunur?",
+    "true-answer": "c) Qiymətləndirmə, balans, kalkulyasiya, inventarlaşma",
+    "wrong-answers": [
+      "a) Sənədləşmə, inventarlaşma",
+      "b) Balans, ikili yazılış üsulu",
+      "d) Qiymətləndirmə, balans, hesablar sistemi",
+      "e) İkili yazılış, hesablar və hesabat"
+    ]
+  },
+  {
+    "question": "Qeyd etmə funksiyası :",
+    "true-answer": "d) maliyyə əməliyyatları sənədlərə söykənərək mühasibat sisteminə görə mühasibat kitabçalarının qeyd edilməsi mərhələsidir.",
+    "wrong-answers": [
+      "a) yazılan məlumatlar müəyyən zaman aralıqlarında yığılıb xüsusiyyətlərinə görə qruplara ayrılması mərhələsidir.",
+      "b) əməliyyatlar dövr sonlarında toplanaraq daha asan nəticələr çıxarmaqı təmin etmək üçün ümumiləşdirilir .",
+      "c) yazılan, təsnif və yekunlaşdırılan əməliyyatların maliyyə hesabatları vasitəçiliyi ilə nəticə mərhələsinə gəlməsidir.",
+      "e) təsərrüfat fəaliyyəti və proseslərinə nəzarət edilməsidir."
+    ]
+  },
+  {
+    "question": "Təsnifat funksiyası :",
+    "true-answer": "a) yazılan məlumatlar müəyyən zaman aralıqlarında yığılıb xüsusiyyətlərinə görə qruplara ayrılması mərhələsidir.",
+    "wrong-answers": [
+      "b) yazılan , təsnif və yekunlaşdırılan əməliyyatların maliyyə hesabatları vasitəçiliyi ilə nəticə mərhələsinə gəlməsidir.",
+      "c) təsərrüfat fəaliyyəti və proseslərinə nəzarət edilməsidir.",
+      "d) maliyyə əməliyyatları sənədlərə söykənərək mühasibat sisteminə görə mühasibat kitabçalarının qeyd edilməsi mərhələsidir.",
+      "e) əməliyyatlar dövr sonlarında toplanaraq daha asan nəticələr çıxarmaqı təmin etmək üçün ümumiləşdirilir ."
+    ]
+  },
+  {
+    "question": "Yekunlaşdırma funksiyası :",
+    "true-answer": "a) əməliyyatlar dövr sonlarında toplanaraq daha asan nəticələr çıxarmaqı təmin etmək üçün ümumiləşdirilir.",
+    "wrong-answers": [
+      "b) yazılan məlumatlar müəyyən zaman aralıqlarında yığılıb xüsusiyyətlərinə görə qruplara ayrılması mərhələsidir .",
+      "c) yazılan , təsnif və yekunlaşdırılan əməliyyatların maliyyə hesabatları vasitəçiliyi ilə nəticə mərhələsinə gəlməsidir.",
+      "d) təsərrüfat fəaliyyəti və proseslərinə nəzarət edilməsidir.",
+      "e) maliyyə əməliyyatları sənədlərə söykənərək mühasibat sisteminə görə mühasibat kitabçalarının qeyd edilməsi mərhələsidir."
+    ]
+  },
+  {
+    "question": "Hesabat funksiyası :",
+    "true-answer": "e) yazılan , təsnif və yekunlaşdırılan əməliyyatların maliyyə hesabatları vasitəçiliyi ilə nəticə mərhələsinə gəlməsidir.",
+    "wrong-answers": [
+      "a) maliyyə əməliyyatları sənədlərə söykənərək mühasibat sisteminə görə mühasibat kitabçalarının qeyd edilməsi mərhələsidir.",
+      "b) əməliyyatlar dövr sonlarında toplanaraq daha asan nəticələr çıxarmaqı təmin etmək üçün ümumiləşdirilir.",
+      "c) yazılan məlumatlar müəyyən zaman aralıqlarında yığılıb xüsusiyyətlərinə görə qruplara ayrılması mərhələsidir .",
+      "d) təsərrüfat fəaliyyəti və proseslərinə nəzarət edilməsidir."
+    ]
+  },
+  {
+    "question": "İnformasiya aşağıdakılardan birinin təmin olunması üçün əhəmiyyətli dərəcədə səhv olmamalı və yanıltmamalıdır:",
+    "true-answer": "e) Etibarlılıq",
+    "wrong-answers": [
+      "a) Ardıcıllıq",
+      "b) Proqnoz verə bilmək",
+      "c) Konservativlik.",
+      "d) Müqayisəlilik"
+    ]
+  },
+  {
+    "question": "Maliyyə hesabatı",
+    "true-answer": "b) təşkilatın təsərrüfat proseslərinin dərk olunmasının başlıca informasiya mənbəyidir.",
+    "wrong-answers": [
+      "a) planın (tapşırığın) həqiqi yerinə yetirilməsinin müəyyən edilmə prosesini özündə birləşdirir.",
+      "c) bu müasir təsərrüfatçılıq şəraitində mühasibat uçotunun gələcəkdə təkmilləşdirilməsi üçün əsas bazadır",
+      "d) mühasibat uçotunun beynəlxalq standartlara uyğunlaşdırılmasına şərait yaradır",
+      "e) maliyyə əməliyyatları sənədlərə söykənərək mühasibat sisteminə görə mühasibat kitabçalarının qeyd edilməsi mərhələsidir."
+    ]
+  },
+  {
+    "question": "Müəssisənin fəaliyyətinin fasiləsizliyi prinsipi nə zaman tətbiq olunmur?",
+    "true-answer": "c) Müəssisəinin ləğv olunması gözləniləndə",
+    "wrong-answers": [
+      "a) Ədalətli dəyər maya dəyərini üstələyəndə",
+      "b) Satışın xalis dəyərini hesablamaq mümkün olmayanda",
+      "d) Aktivlə passiv bir-birinə bərabər olmadıqda",
+      "e) Müəssisə öz fəaliyyətini yeni başlayanda"
+    ]
+  },
+  {
+    "question": "Təşkilatın maliyyə vəziyyəti haqqında informasiyalar:",
+    "true-answer": "c) mühasibat balansı adlı hesabat şəklində formalaşdırılır",
+    "wrong-answers": [
+      "a) mənfəət və zərərlər haqqında hesabat şəklində formalaşdırılır",
+      "b) pul vəsaitlərinin hərəkəti haqqında hesabat şəklində formalaşdırılır",
+      "d) kapitalda dəyişikliklər adlı hesabat şəklində formalaşdırılır",
+      "e) izahlı qeydlər adlı hesabat şəklində formalaşdırılır"
+    ]
+  },
+  {
+    "question": "Təşkilatın maliyyə nəticələri haqqında informasiyalar:",
+    "true-answer": "b) mənfəət və zərərlər haqqında hesabat şəklində formalaşdırılır",
+    "wrong-answers": [
+      "a) pul vəsaitlərinin hərəkəti haqqında hesabat şəklində formalaşdırılır",
+      "c) mühasibat balansı adlı hesabat şəklində formalaşdırılır",
+      "d) kapitalda dəyişikliklər adlı hesabat şəklində formalaşdırılır",
+      "e) izahlı qeydlər adlı hesabat şəklində formalaşdırılır"
+    ]
+  },
+  {
+    "question": "Təşkilatın maliyyə vəziyyətindəki dəyişiklişlər haqqında informasiyalar:",
+    "true-answer": "a) pul vəsaitlərinin hərəkəti haqqında hesabat şəklində formalaşdırılır",
+    "wrong-answers": [
+      "b) mühasibat balansı adlı hesabat şəklində formalaşdırılır",
+      "c) kapitalda dəyişikliklər adlı hesabat şəklində formalaşdırılır",
+      "d) izahlı qeydlər adlı hesabat şəklində formalaşdırılır",
+      "e) mənfəət və zərərlər haqqında hesabat şəklində formalaşdırılır"
+    ]
+  },
+  {
+    "question": "Maliyyə hesabatının keyfiyyət göstəriciləri hansılardır?",
+    "true-answer": "c) Anlaşıqlılıq, müqayisəlilik, münasiblik, etibarlılıq.",
+    "wrong-answers": [
+      "a) Sənədləşmə, kalkulyasiya, hesab, hesabat",
+      "b) Planlaşma, nəzarət, təhlil",
+      "d) Maliyyə, vergi, idarəetmə",
+      "e) İdarəetmə, münasiblik, etibarlılıq."
+    ]
+  },
+  {
+    "question": "Müəssisənin müstəqilliyi prinsipi nəzərdə tutur ki,",
+    "true-answer": "e) biznes identifikasiya olunur, yəni o, mülkiyyətçidən ayrıca mövcuddur.",
+    "wrong-answers": [
+      "a) müəssisə gələcəkdə də, qeyri-müəyyən vaxt ərzində fəaliyyət göstərəcək.",
+      "b) mühasib təsərrüfat əməliyyatlarını başverdiyi anda deyil, yalnız nağd pul vəsaitinin alınması və ya ödənilməsi zamanı qeydiyyatdan keçirir.",
+      "c) mühasib təsərrüfat əməliyyatlarını baş verdiyi anda, yəni dəyər axınının baş verməsi zamanı qeydiyyatdan keçirməlidir",
+      "d) iqtisadi hadisənin mühasibat uçotu hesablarında bir hesabın debetində digər hesabın kreditində, eyni anda eyni məbləğdə əks etdirilməsidir."
+    ]
+  },
+  {
+    "question": "İkitərəfli qeydiyyat prinsipi --",
+    "true-answer": "a) iqtisadi hadisənin mühasibat uçotu hesablarında bir hesabın debetində digər hesabın kreditində, eyni anda eyni məbləğdə əks etdirilməsidir.",
+    "wrong-answers": [
+      "b) mühasib təsərrüfat əməliyyatlarını baş verdiyi anda, yəni dəyər axınının baş verməsi zamanı qeydiyyatdan keçirməsidir.",
+      "c) mühasib tərəfindən təsərrüfat əməliyyatlarının pul ifadəsində qeydə alınmasıdır.",
+      "d) firma və ya müəssisə tərəfindən əldə edilən resursların əldə olunmasının ilkin (faktiki, tarixi) dəyəri ilə əks etdirilməsidir.",
+      "e) biznes identifikasiya olunur, yəni o, mülkiyyətçidən ayrıca mövcuddur."
+    ]
+  },
+  {
+    "question": "Kassa prinsipi (metodu) --",
+    "true-answer": "d) mühasib təsərrüfat əməliyyatlarını başverdiyi anda deyil, yalnız nağd pul vəsaitinin alınması və ya ödənilməsi zamanı qeydiyyatdan keçirir.",
+    "wrong-answers": [
+      "a) iqtisadi hadisənin mühasibat uçotu hesablarında bir hesabın debetində digər hesabın kreditində, eyni anda eyni məbləğdə əks etdirilməsidir.",
+      "b) mühasib təsərrüfat əməliyyatlarını baş verdiyi anda, yəni dəyər axınının baş verməsi zamanı qeydiyyatdan keçirməsidir.",
+      "c) mühasib tərəfindən təsərrüfat əməliyyatlarının pul ifadəsində qeydə alınmasıdır.",
+      "e) müəssisənin gələcəkdə də, qeyri-müəyyən vaxt ərzində fəaliyyət göstərəcəyidir."
+    ]
+  },
+  {
+    "question": "Hesabalama prinsipi (metodu) --",
+    "true-answer": "b) mühasib təsərrüfat əməliyyatlarını baş verdiyi anda, yəni dəyər axınının baş verməsi zamanı qeydiyyatdan keçirməsidir.",
+    "wrong-answers": [
+      "a) mühasib tərəfindən təsərrüfat əməliyyatlarının pul ifadəsində qeydə alınmasıdır.",
+      "c) müəssisənin gələcəkdə də, qeyri-müəyyən vaxt ərzində fəaliyyət göstərəcəyidir.",
+      "d) mühasib təsərrüfat əməliyyatlarını başverdiyi anda deyil, yalnız nağd pul vəsaitinin alınması və ya ödənilməsi zamanı qeydiyyatdan keçirir.",
+      "e) iqtisadi hadisənin mühasibat uçotu hesablarında bir hesabın debetində digər hesabın kreditində, eyni anda eyni məbləğdə əks etdirilməsidir."
+    ]
+  },
+  {
+    "question": "Etibarlılıq --",
+    "true-answer": "b) istifadəçilər onlara təqdim olunan informsiyalara yüksək səviyyədə etibar etmək imkanlarına malik olmalıdırlar.",
+    "wrong-answers": [
+      "a) maliyyə hesabatları istifadəçilərə müəyyən məlumatlar təqdim etmək məqsədi daşıyır.",
+      "c) hesabatlardakı informasiyalar istifadəçilər üçün maliyyə hesabatları arasında illər üzrə fərqliliyi müəyyən etmək və qiymətləndirmək imkanı yarada bilməlidir.",
+      "d) mühasib təsərrüfat əməliyyatlarını başverdiyi anda deyil, yalnız nağd pul vəsaitinin alınması və ya ödənilməsi zamanı qeydiyyatdan keçirir.",
+      "e) istifadəçilərin qərar qəbul etməsinə təsir göstərə bilən bütün münasib informasiyalar maliyyə hesabatlarında əks olunmalıdır."
+    ]
+  },
+  {
+    "question": "Anlaşıqlılıq (başa düşülmək) --",
+    "true-answer": "d) maliyyə hesabatları istifadəçilərə müəyyən məlumatlar təqdim etmək məqsədi daşıyır.",
+    "wrong-answers": [
+      "a) hesabatlardakı informasiyalar istifadəçilər üçün maliyyə hesabatları arasında illər üzrə fərqliliyi müəyyən etmək və qiymətləndirmək imkanı yarada bilməlidir.",
+      "b) istifadəçilərin qərar qəbul etməsinə təsir göstərə bilən bütün münasib informasiyalar maliyyə hesabatlarında əks olunmalıdır.",
+      "c) mühasib təsərrüfat əməliyyatlarını başverdiyi anda deyil, yalnız nağd pul vəsaitinin alınması və ya ödənilməsi zamanı qeydiyyatdam keçirir.",
+      "e) istifadəçilər onlara təqdim olunan informsiyalara yüksək səviyyədə etibar etmək imkanlarına malik olmalıdırlar."
+    ]
+  },
+  {
+    "question": "Müqayisəlilik --",
+    "true-answer": "e) hesabatlardakı informasiyalar istifadəçilər üçün maliyyə hesabatları arasında illər üzrə fərqliliyi müəyyən etmək və qiymətləndirmək imkanı yarada bilməlidir.",
+    "wrong-answers": [
+      "a) mühasib təsərrüfat əməliyyatlarını başverdiyi anda deyil, yalnız nağd pul vəsaitinin alınması və ya ödənilməsi zamanı qeydiyyatdan keçirir.",
+      "b) istifadəçilərin qərar qəbul etməsinə təsir göstərə bilən bütün münasib informasiyalar maliyyə hesabatlarında əks olunmalıdır.",
+      "c) istifadəçilər onlara təqdim olunan informsiyalara yüksək səviyyədə etibar etmək imkanlarına malik olmalıdırlar.",
+      "d) maliyyə hesabatları istifadəçilərə müəyyən məlumatlar təqdim etmək məqsədi daşıyır."
+    ]
+  },
+  {
+    "question": "Münasiblik --",
+    "true-answer": "d) istifadəçilərin qərar qəbul etməsinə təsir göstərə bilən bütün münasib informasiyalar maliyyə hesabatlarında əks olunmalıdır.",
+    "wrong-answers": [
+      "a) istifadəçilər onlara təqdim olunan informsiyalara yüksək səviyyədə etibar etmək imkanlarına malik olmalıdırlar.",
+      "b) maliyyə hesabatları istifadəçilərə müəyyən məlumatlar təqdim etmək məqsədi daşıyır.",
+      "c) mühasib təsərrüfat əməliyyatlarını başverdiyi anda deyil, yalnız nağd pul vəsaitinin alınması və ya ödənilməsi zamanı qeydiyyatda keçirir.",
+      "e) hesabatlardakı informasiyalar istifadəçilər üçün maliyyə hesabatları arasında illər üzrə fərqliliyi müəyyən etmək və qiymətləndirmək imkanı yarada bilməlidir."
+    ]
+  },
+  {
+    "question": "Mahiyyətin formadan üstünlüyü prinsipi --",
+    "true-answer": "a) iqtisadi reallıq hüquqi formadan daha əhəmiyyətlidir, yəni real vəziyyət sənədləşməyə deyil, sənədləşmə real vəziyyətə uyğunlaşdırılmalıdır.",
+    "wrong-answers": [
+      "b) mühasib təsərrüfat əməliyyatlarını baş verdiyi anda, yəni dəyər axınının baş verməsi zamanı qeydiyyatdan keçirməsidir.",
+      "c) mühasib tərəfindən təsərrüfat əməliyyatlarının pul ifadəsində qeydə alınmasıdır.",
+      "d) müəssisənin gələcəkdə də, qeyri-müəyyən vaxt ərzində fəaliyyət göstərəcəyidir.",
+      "e) mühasib təsərrüfat əməliyyatlarını başverdiyi anda deyil, yalnız nağd pul vəsaitinin alınması və ya ödənilməsi zamanı qeydiyyatdan keçirir."
+    ]
+  },
+  {
+    "question": "Xərclər hansı hallarda maliyyə nəticələri haqqında hesabatda tanınır?",
+    "true-answer": "d) aktivlər hesabına gələcək iqtisadi qazancın azalmasına yaxud öhdəliyin artmasına səbəb olan",
+    "wrong-answers": [
+      "a) müəssisə və ya təskilatda iqtisadi qazanc əldə edilən və onun dəyəri kifayət qədər ölçülə bilən",
+      "b) müəssisə və ya təskilata iqtisadi qazanc gətirən təsərrüfat vəsaitlərinin və onların ölçülməsinin müvafiq tələblərinin ödənilməsi",
+      "c) gələcəkdə müvafiq aktivlərlə bağlı iqtisadi qazancın əldə olunması yaxud öhdəliklərin azalması ilə ölçülə bilən",
+      "e) müəssisə və ya təskilatda zərər əldə edilərkən"
+    ]
+  },
+  {
+    "question": "Aktivlər hansı hallarda mühasibat balansına qəbul edilir və tanınır?",
+    "true-answer": "c) müəssisə və ya təskilatda iqtisadi qazanc əldə edilən və onun dəyəri kifayət qədər ölçülə bilən",
+    "wrong-answers": [
+      "a) müəssisə və ya təskilata iqtisadi qazanc gətirən təsərrüfat vəsaitlərinin və onların ölçülməsinin müvafiq tələblərinin ödənilməsi",
+      "b) gələcəkdə müvafiq aktivlərlə bağlı iqtisadi qazancın əldə olunması yaxud öhdəliklərin azalması ilə ölçülə bilən",
+      "d) müəssisə və ya təskilatda zərər əldə edilərkən",
+      "e) aktivlər hesabına gələcək iqtisadi qazancın azalmasına, yaxud öhdəliyin artmasına səbəb olan"
+    ]
+  },
+  {
+    "question": "Öhdəliklər hansı hallarda mühasibat balansına qəbul edilir və tanınır?",
+    "true-answer": "b) müəssisə və ya təskilata iqtisadi qazanc gətirən təsərrüfat vəsaitlərinin və onların ölçülməsinin müvafiq tələblərinin ödənilməsi",
+    "wrong-answers": [
+      "a) gələcəkdə müvafiq aktivlərlə bağlı iqtisadi qazancın əldə olunması yaxud öhdəliklərin azalması ilə ölçülə bilən",
+      "c) aktivlər hesabına gələcək iqtisadi qazancın azalmasına, yaxud öhdəliyin artmasına səbəb olan",
+      "d) müəssisə və ya təskilatda zərər əldə edilərkən",
+      "e) müəssisə və ya təskilatda iqtisadi qazanc əldə edilən və onun dəyəri kifayət qədər ölçülə bilən"
+    ]
+  },
+  {
+    "question": "Gəlirlər hansı hallarda maliyyə nəticələri haqqında hesabata qəbul edilir və təsdiq olunur?",
+    "true-answer": "a) gələcəkdə müvafiq aktivlərlə bağlı iqtisadi qazancın əldə olunması, yaxud öhdəliklərin azalması ilə ölçülə bilən",
+    "wrong-answers": [
+      "b) aktivlər hesabına gələcək iqtisadi qazancın azalmasına, yaxud öhdəliyin artmasına səbəb olan",
+      "c) müəssisə və ya təskilatda zərər əldə edilərkən",
+      "d) müəssisə və ya təskilatda iqtisadi qazanc əldə edilən və onun dəyəri kifayət qədər ölçülə bilən",
+      "e) müəssisə və ya təskilata iqtisadi qazanc gətirən təsərrüfat vəsaitlərinin və onların ölçülməsinin müvafiq tələblərinin ödənilməsi"
+    ]
+  },
+  {
+    "question": "Maliyyə hesabatı elementlərinin qiymətləndirilməsi metodları hansılardır?",
+    "true-answer": "a) Tarixi (ilkin) dəyər, cari dəyər (ədalətli dəyər), realizə (hesablaşma) dəyəri, diskontlaşdırılmış (hazırkı) dəyər",
+    "wrong-answers": [
+      "b) İlkin dəyər, köhnəlmə dəyəri, son dəyər",
+      "c) ədalətli dəyər, köhnəlmə dəyəri, son dəyər, hazırki dəyər",
+      "d) kapital, öhdəlik, aktiv, passiv, gəlir, xərc",
+      "e) köhnəlmə dəyəri, qalıq dəyər"
+    ]
+  },
+  {
+    "question": "Mühasibat (maliyyə) uçotu və hesabatlarında əks olunan informasiyaların tərkib elementlərinə aiddir:",
+    "true-answer": "c) aktivlər, öhdəliklər, kapital, gəlirlər və xərclər.",
+    "wrong-answers": [
+      "a) maya dəyəri, materiallar, avadanlıqlar.",
+      "b) kapital, gəlirlər və xərclər.",
+      "d) aktivlər, öhdəliklər, materiallar, avadanlıqlar.",
+      "e) materiallar, avadanlıqlar."
+    ]
+  },
+  {
+    "question": "Aktiv--",
+    "true-answer": "c) keçmiş hadisələrin nəticəsində yaranmış, müəssisə tərəfindən nəzarət edilə bilən və müəssisədə gələcək iqtisadi səmərəyə səbəb olacağı gözlənilən resursdur.",
+    "wrong-answers": [
+      "a) keçmiş hadisələrin nəticəsində yaranan və yerinə yetirilməsi üçün iqtisadi səmərələri əks etdirən resursların müəssisədən xaric olunacağı gözlənilən cari öhdəlikdir.",
+      "b) bütün öhdəliklər çıxıldıqdan sonra səhmdarların müəssisənin aktivlərində qalan payıdır.",
+      "d) səhmdarların kapital qoyuluşu ilə əlaqəli olmayan, lakin kapitalda artım ilə nəticələnən və hesabat dövrü ərzində aktivlərin artması, daxil olması və ya öhdəliklərin azalması şəklində iqtisadi səmərənin artımıdır.",
+      "e) kapital qoyuluşu ilə əlaqəli olmayan, lakin kapitalda azalması ilə nəticələnən və hesabat dövrü ərzində aktivlərin azalması, xaricl olması və ya öhdəliklərin azalması şəklində iqtisadi səmərənin azalmasıdır."
+    ]
+  },
+  {
+    "question": "Öhdəlik --",
+    "true-answer": "b) keçmiş hadisələrin nəticəsində yaranan və yerinə yetirilməsi üçün iqtisadi səmərələri əks etdirən resursların müəssisədən xaric olunacağı gözlənilən cari öhdəlikdir.",
+    "wrong-answers": [
+      "a) keçmiş hadisələrin nəticəsində yaranmış, müəssisə tərəfindən nəzarət edilə bilən və müəssisədə gələcək iqtisadi səmərəyə səbəb olacağı gözlənilən resursdur.",
+      "c) kapital qoyuluşu ilə əlaqəli olmayan, lakin kapitalda azalması ilə nəticələnən və hesabat dövrü ərzində aktivlərin azalması, xaricl olması və ya öhdəliklərin azalması şəklində iqtisadi səmərənin azalmasıdır.",
+      "d) bütün öhdəliklər çıxıldıqdan sonra səhmdarların müəssisənin aktivlərində qalan payıdır.",
+      "e) səhmdarların kapital qoyuluşu ilə əlaqəli olmayan, lakin kapitalda artım ilə nəticələnən və hesabat dövrü ərzində aktivlərin artması, daxil olması və ya öhdəliklərin azalması şəklində iqtisadi səmərənin artımıdır."
+    ]
+  },
+  {
+    "question": "Kapital --",
+    "true-answer": "a) bütün öhdəliklər çıxıldıqdan sonra səhmdarların müəssisənin aktivlərində qalan payıdır.",
+    "wrong-answers": [
+      "b) kapital qoyuluşu ilə əlaqəli olmayan, lakin kapitalda azalması ilə nəticələnən və hesabat dövrü ərzində aktivlərin azalması, xaricl olması və ya öhdəliklərin azalması şəklində iqtisadi səmərənin azalmasıdır.",
+      "c) bütün öhdəliklər çıxıldıqdan sonra səhmdarların müəssisənin passivlərində qalan payıdır.",
+      "d) uçot dövrü ərzində səhmdarlar arasında kapitalın bölüşdürülməsi ilə əlaqəli olmayan, lakin kapitalın azalması ilə nəticələnən, hesabat dövrü ərzində aktivlərin kənara axını və ya azalması və öhdəliklərin artması hesabına baş verən iqtisadi səmərənin azalmasıdır.",
+      "e) səhmdarların kapital qoyuluşu ilə əlaqəli olmayan, lakin kapitalda artım ilə nəticələnən və hesabat dövrü ərzində aktivlərin artması, daxil olması və ya öhdəliklərin azalması şəklində iqtisadi səmərənin artımıdır."
+    ]
+  },
+  {
+    "question": "Gəlir--",
+    "true-answer": "c) səhmdarların kapital qoyuluşu ilə əlaqəli olmayan, lakin kapitalda artım ilə nəticələnən və hesabat dövrü ərzində aktivlərin artması, daxil olması və ya öhdəliklərin azalması şəklində iqtisadi səmərənin artımıdır.",
+    "wrong-answers": [
+      "a) keçmiş hadisələrin nəticəsində yaranan və yerinə yetirilməsi üçün iqtisadi səmərələri əks etdirən resursların müəssisədən xaric olunacağı gözlənilən cari öhdəlikdir.",
+      "b) bütün öhdəliklər çıxıldıqdan sonra səhmdarların müəssisənin aktivlərində qalan payıdır.",
+      "d) kapital qoyuluşu ilə əlaqəli olmayan, lakin kapitalda azalması ilə nəticələnən və hesabat dövrü ərzində aktivlərin azalması, xaricl olması və ya öhdəliklərin azalması şəklində iqtisadi səmərənin azalmasıdır.",
+      "e) keçmiş hadisələrin nəticəsində yaranmış, müəssisə tərəfindən nəzarət edilə bilən və müəssisədə gələcək iqtisadi səmərəyə səbəb olacağı gözlənilən resursdur."
+    ]
+  },
+  {
+    "question": "Xərc --",
+    "true-answer": "a) səhmdarlar arasında kapitalın bölüşdürülməsi ilə əlaqəli olmayan, lakin kapitalın azalması ilə nəticələnən, aktivlərin kənara axını və öhdəliklərin artması hesabına baş verən iqtisadi səmərənin azalmasıdır.",
+    "wrong-answers": [
+      "b) keçmiş hadisələrin nəticəsində yaranan və yerinə yetirilməsi üçün iqtisadi səmərələri əks etdirən resursların müəssisədən xaric olunacağı gözlənilən cari öhdəlikdir.",
+      "c) bütün öhdəliklər çıxıldıqdan sonra səhmdarların müəssisənin aktivlərində qalan payıdır.",
+      "d) kapital qoyuluşu ilə əlaqəli olmayan, lakin kapitalda azalması ilə nəticələnən və hesabat dövrü ərzində aktivlərin azalması, xaricl olması və ya öhdəliklərin azalması şəklində iqtisadi səmərənin azalmasıdır.",
+      "e) səhmdarların kapital qoyuluşu ilə əlaqəli olmayan, lakin kapitalda artım ilə nəticələnən və hesabat dövrü ərzində aktivlərin artması, daxil olması və ya öhdəliklərin azalması şəklində iqtisadi səmərənin artımıdır."
+    ]
+  },
+  {
+    "question": "Diskontlaşdırılmış (hazırkı) dəyər --",
+    "true-answer": "e) pul vəsaitlərinin gələcək hərəkətinin diskontlasdırılmış dəyəri gələcəkdə tərəflər arasında mübadilə ediləcək pul vəsaitinin nominal dəyəridir.",
+    "wrong-answers": [
+      "a) mühasiblərin əməliyyatları ilkin dəyərlə, yəni əməliyyatı başa çatdırmaq üçün alınmış və ya verilmiş maddələrin və ya pul vəsaitinin dəyəri ilə qiymətləndirməsidir.",
+      "b) müqavilə bağlamaq niyyətində olan və bir-birindən asılı olmayan tərəflər arasında normal şərtlər daxilində obyektin dəyişdirilməsi zəruri olan hallarda mühasibat hesabatı tərtib olunan tarixə ödənilən pul vəsaiti məbləği qiymətləndirməsidir.",
+      "c) müəssisə və ya təskilatda iqtisadi qazanc əldə edilən və onun dəyəri kifayət qədər ölçülə bilən dəyəridir.",
+      "d) normal şərtlər daxilində satışqiyməti ilə başa çatdırma məsrəfləri və satışı yerinə yetirmək üçün lazım olan məsrəflərin fərqi ilə ifadəolunan dəyərdir."
+    ]
+  },
+  {
+    "question": "Tarixi (ilkin) dəyər --",
+    "true-answer": "b) mühasiblərin əməliyyatları ilkin dəyərlə, yəni əməliyyatı başa çatdırmaq üçün alınmış və ya verilmiş maddələrin və ya pul vəsaitinin dəyəri ilə qiymətləndirməsidir.",
+    "wrong-answers": [
+      "a) müqavilə bağlamaq niyyətində olan və bir-birindən asılı olmayan tərəflər arasında normal şərtlər daxilində obyektin dəyişdirilməsi zəruri olan hallarda mühasibat hesabatı tərtib olunan tarixə ödənilən pul vəsaiti məbləği üzrə qiymətləndirməsidir.",
+      "c) müəssisə və ya təskilatda iqtisadi qazanc əldə edilən və onun dəyəri kifayət qədər ölçülə bilən dəyəridir.",
+      "d) normal şərtlər daxilində satışqiyməti ilə başa çatdırma məsrəfləri və satışı yerinə yetirmək üçün lazım olan məsrəflərin fərqi ilə ifadəolunan dəyərdir.",
+      "e) pul vəsaitlərinin gələcək hərəkətinin diskontlasdırılmış dəyəri gələcəkdə tərəflər arasında mübadilə ediləcək pul vəsaitinin nominal dəyəridir."
+    ]
+  },
+  {
+    "question": "Cari dəyər (ədalətli dəyər) --",
+    "true-answer": "a) müqavilə bağlamaq niyyətində olan və bir-birindən asılı olmayan tərəflər arasında normal şərtlər daxilində obyektin dəyişdirilməsi zəruri olan hallarda mühasibat hesabatı tərtib olunan tarixə ödənilən pul vəsaiti məbləği qiymətləndirməsidir.",
+    "wrong-answers": [
+      "b) normal şərtlər daxilində satışqiyməti ilə başa çatdırma məsrəfləri və satışı yerinə yetirmək üçün lazım olan məsrəflərin fərqi ilə ifadəolunan dəyərdir.",
+      "c) pul vəsaitlərinin gələcək hərəkətinin diskontlasdırılmış dəyəri gələcəkdə tərəflər arasında mübadilə ediləcək pul vəsaitinin nominal dəyəridir.",
+      "d) mühasiblərin əməliyyatları ilkin dəyərlə, yəni əməliyyatı başa çatdırmaq üçün alınmış və ya verilmiş maddələrin və ya pul vəsaitinin dəyəri ilə qiymətləndirməsidir.",
+      "e) müəssisə və ya təskilatda iqtisadi qazanc əldə edilən və onun dəyəri kifayət qədər ölçülə bilən dəyəridir."
+    ]
+  },
+  {
+    "question": "Realizə (hesablaşma) dəyəri --",
+    "true-answer": "a) satış qiyməti ilə başa çatdırma məsrəfləri və satışı yerinə yetirmək üçün lazım olan məsrəflərin fərqi ilə ifadə olunan dəyərdir.",
+    "wrong-answers": [
+      "b) təskilatda iqtisadi qazanc əldə edilən və onun dəyəri kifayət qədər ölçülə bilən dəyəridir.",
+      "c) pul vəsaitlərinin gələcək hərəkətinin diskontlasdırılmış dəyəri gələcəkdə tərəflər arasında mübadilə ediləcək pul vəsaitinin nominal dəyəridir.",
+      "d) mühasiblərin əməliyyatları ilkin dəyərlə, yəni əməliyyatı başa çatdırmaq üçün alınmış və ya verilmiş maddələrin və ya pul vəsaitinin dəyəri ilə qiymətləndirməsidir.",
+      "e) müqavilə bağlamaq niyyətində olan və bir-birindən asılı olmayan tərəflər arasında normal şərtlər daxilində obyektin dəyişdirilməsi zəruri olan hallarda mühasibat hesabatı tərtib olunan tarixə ödənilən pul vəsaiti məbləği qiymətləndirməsidir."
+    ]
+  },
+  {
+    "question": "Mühasibat balansının tanınmasını tam xarakterizə et:",
+    "true-answer": "a) Mühasibat balansı-əmlakın, xüsusi kapitalın və öhdəliklərin müəyyən tarixə pul ifadəsində qruplaşdırma və əks etdirmə üsuludur",
+    "wrong-answers": [
+      "b) Mühasibat balansı-iqtisadi informasiyaların qruplaşdırma üsuludur",
+      "c) Mühasibat balansı-təsərrüfat əməliyyatları üzərində nəzarət etmək üçün informasiyaların balans ümumiləşdirilməsi üsuludur",
+      "d) Mühasibat balansı-təsərrüfat vəsaitlərinin əks etdirilmə üsuludur",
+      "e) Mühasibat balansı-təsərrüfat əməliyyatları üzərində nəzarət etmə üsuludur"
+    ]
+  },
+  {
+    "question": "Latınca balans nə deməkdir?",
+    "true-answer": "d) tərəzinin bir-birinə bərabər olan iki gözü",
+    "wrong-answers": [
+      "a) məhsulun maya dəyərinin hesablanması.",
+      "b) amortizasiya.",
+      "c) inzibati xərc",
+      "e) kalkulyasiya"
+    ]
+  },
+  {
+    "question": "Giriş balansı-",
+    "true-answer": "e) təskilat yeni, yaxud əvvəllər fəaliyyət əöstərənlər yenidən yaradılan zaman tərtib edilir.",
+    "wrong-answers": [
+      "a) ləğv edilmə dövrünün əvvəlində tərtib olunur.",
+      "b) bir neçə təşkilatın bir hüquqi şəxsdə birləşməsi zamanı tərtib edilir.",
+      "c) bir təşkilatdan bir neçə müstəqil təşkilat yaradılan zaman tərtib olunur.",
+      "d) təşkilatın müflisləşməsi baş verən zaman tərtib edilir."
+    ]
+  },
+  {
+    "question": "Birləşdirici balans-",
+    "true-answer": "c) bir neçə təşkilatın bir hüquqi şəxsdə birləşməsi zamanı tərtib edilir.",
+    "wrong-answers": [
+      "a) bir təşkilatdan bir neçə müstəqil təşkilat yaradılan zaman tərtib olunur.",
+      "b) təşkilatın müflisləşməsi baş verən zaman tərtib edilir.",
+      "d) təskilat yeni, yaxud əvvəllər fəaliyyət əöstərənlər yenidən yaradılan zaman tərtib edilir.",
+      "e) ləğv edilmə dövrünün əvvəlində tərtib olunur."
+    ]
+  },
+  {
+    "question": "Sağlamlaşdırıcı balans-",
+    "true-answer": "b) təşkilatın müflisləşməsi baş verən zaman tərtib edilir.",
+    "wrong-answers": [
+      "a) təskilat yeni, yaxud əvvəllər fəaliyyət göstərənlər yenidən yaradılan zaman tərtib edilir.",
+      "c) ləğv edilmə dövrünün əvvəlində tərtib olunur.",
+      "d) bir neçə təşkilatın bir hüquqi şəxsdə birləşməsi zamanı tərtib edilir.",
+      "e) bir təşkilatdan bir neçə müstəqil təşkilat yaradılan zaman tərtib olunur."
+    ]
+  },
+  {
+    "question": "Balansın tərtibinə qoyulan tələbləri seç:",
+    "true-answer": "b) Həqiqilik, reallıq, vahidlik, varislik, aydınlıq",
+    "wrong-answers": [
+      "a) Həqiqilik, reallıq, aydınlıq",
+      "c) Reallıq, vahidlik, dəyərlilik",
+      "d) Aydınlıq, reallıq, vaciblik, varislik",
+      "e) Reallıq, vahidlik"
+    ]
+  },
+  {
+    "question": "Balansın vahidliyi nədir?",
+    "true-answer": "a) Onun vahid uçot prinsipi və qiymətləndirməyə uyğun qurulmasıdır.",
+    "wrong-answers": [
+      "b) Sonrakı və əvvəlki balansların uyğunluğudur",
+      "c) Balans maddələrinin qüvvədə olan qiymətlə qiymətləndirilməsidir",
+      "d) Balansın başa düşülən formada tərtib edilməsidir.",
+      "e) Balansın düzgün tərtib edilməsi və vaxtında təqdim edilməsidir."
+    ]
+  },
+  {
+    "question": "Balansın həqiqiliyi-",
+    "true-answer": "e) bütün göstəricilər müvafiq sənədlərlə, mühasibat hesablarında aparılan yazılışlarla, mühasibat hesablamaları və inventarlaşma ilə təsdiq edilməsidir.",
+    "wrong-answers": [
+      "a) onun maddələrinin qüvvədə olan qiymətlə qiymətləndirilməsidir.",
+      "b) hər bir sonrakı balans əvvəlki balansa uyğun tərtib edilməsidir.",
+      "c) balans daxili və xarici istifadəçilər üçün başa düşülən formada təqdim edilməsidir.",
+      "d) balans yalnız daxili istifadəçilər üçün başa düşülən formada təqdim edilməsidir."
+    ]
+  },
+  {
+    "question": "Balansın reallığı --",
+    "true-answer": "d) onun maddələrinin qüvvədə olan qiymətlə qiymətləndirilməsidir.",
+    "wrong-answers": [
+      "a) hər bir sonrakı balans əvvəlki balansa uyğun tərtib edilməsidir.",
+      "b) balans daxili və xarici istifadəçilər üçün başa düşülən formada təqdim edilməsidir.",
+      "c) balansın yalnız daxili istifadəçilər üçün başa düşülən formada təqdim edilməsidir.",
+      "e) bütün göstəricilər müvafiq sənədlərlə, mühasibat hesablarında aparılan yazılışlarla, mühasibat hesablamaları və inventarlaşma ilə təsdiq edilməsidir."
+    ]
+  },
+  {
+    "question": "Balansın varisliyi-",
+    "true-answer": "c) hər bir sonrakı balans əvvəlki balansa uyğun tərtib edilməsidir.",
+    "wrong-answers": [
+      "a) balans daxili və xarici istifadəçilər üçün başa düşülən formada təqdim edilməsidir.",
+      "b) bütün göstəricilər müvafiq sənədlərlə, mühasibat hesablarında aparılan yazılışlarla, mühasibat hesablamaları və inventarlaşma ilə təsdiq edilməsidir.",
+      "d) onun maddələrinin qüvvədə olan qiymətlə qiymətləndirilməsidir.",
+      "e) balansın yalnız daxili istifadəçilər üçün başa düşülən formada təqdim edilməsidir."
+    ]
+  },
+  {
+    "question": "İcmal balansı-",
+    "true-answer": "c) təşkilatın ayrı-ayrı nəticə balanslarının birləşdirilməsi yolu ilə tərtib olunur.",
+    "wrong-answers": [
+      "a) bir təşkilatdan bir neçə müstəqil təşkilat yaradılan zaman tərtib olunur.",
+      "b) öz aralarında iqtisadi cəhətdən qarşılıqlı əlaqəli, hüquqi müstəqil təşkilatların balansını birləşdirməklə (icmallasdırmaqla) tərtib edilir.",
+      "d) nizamlayıcı maddələrsiz tərtib edildikdə istifadə olunur.",
+      "e) ləğv edilmə dövrünün əvvəlində tərtib olunur."
+    ]
+  },
+  {
+    "question": "Konsolidəedilmiş balans-",
+    "true-answer": "a) öz aralarında iqtisadi cəhətdən qarşılıqlı əlaqəli, hüquqi müstəqil təşkilatların balansını birləşdirməklə (icmallasdırmaqla) tərtib edilir.",
+    "wrong-answers": [
+      "b) nizamlayıcı maddələrsiz tərtib edildikdə istifadə olunur.",
+      "c) bir təşkilatdan bir neçə müstəqil təşkilat yaradılan zaman tərtib olunur.",
+      "d) ləğv edilmə dövrünün əvvəlində tərtib olunur.",
+      "e) təşkilatın ayrı-ayrı nəticə balanslarının birləşdirilməsi yolu ilə tərtib olunur."
+    ]
+  },
+  {
+    "question": "Balansın aydınlığı-",
+    "true-answer": "a) balans daxili və xarici istifadəçilər üçün başa düşülən formada təqdim edilməsidir.",
+    "wrong-answers": [
+      "b) bütün göstəricilər müvafiq sənədlərlə, mühasibat hesablarında aparılan yazılışlarla, mühasibat hesablamaları və inventarlaşma ilə təsdiq edilməsidir.",
+      "c) onun maddələrinin qüvvədə olan qiymətlə qiymətləndirilməsidir.",
+      "d) balansın yalnız daxili istifadəçilər üçün başa düşülən formada təqdim edilməsidir.",
+      "e) balansın quruluşu vahid uçot prinsipi və qiymətləndirməyə uyğun həyata keçirilməlidir."
+    ]
+  },
+  {
+    "question": "Brutto balans-",
+    "true-answer": "e) nizamlayıcı maddələr (112 «Torpaq, tikili və avadanlıqların köhnəlməsi», 102 «Qeyri-maddi aktivlərin köhnəlməsi») daxil edilən mühasibat balansının tərtibində istifadə edilir",
+    "wrong-answers": [
+      "a) bir təşkilatdan bir neçə müstəqil təşkilat yaradılan zaman tərtib olunur",
+      "b) nizamlayıcı maddələrsiz tərtib edildikdə istifadə olunur.",
+      "c) ləğv edilmə dövrünün əvvəlində tərtib olunur",
+      "d) təşkilatın ayrı-ayrı nəticə balanslarının birləşdirilməsi yolu ilə tərtib olunur"
+    ]
+  },
+  {
+    "question": "Netto - balans-",
+    "true-answer": "a) nizamlayıcı maddələrsiz tərtib edildikdə istifadə olunur.",
+    "wrong-answers": [
+      "b) ləğv edilmə dövrünün əvvəlində tərtib olunur.",
+      "c) təşkilatın ayrı-ayrı nəticə balanslarının birləşdirilməsi yolu ilə tərtib olunur.",
+      "d) bir təşkilatdan bir neçə müstəqil təşkilat yaradılan zaman tərtib olunur.",
+      "e) öz aralarında iqtisadi cəhətdən qarşılıqlı əlaqəli, hüquqi müstəqil təşkilatların balansını birləşdirməklə (icmallasdırmaqla) tərtib edilir."
+    ]
+  },
+  {
+    "question": "Aşağıdakı bərabərliklərdən hansı əsas balans bərabərliyinin açılışıdır?",
+    "true-answer": "e) Aktivlər + Xərclər = Öhdəliklər + Xüsusi kapital + Gəlirlər",
+    "wrong-answers": [
+      "a) Aktivlər = Öhdəliklər + Xüsusi kapital - Gəlirlər - Xərclər",
+      "b) Aktivlər - Öhdəliklər = Xüsusi kapital - Gəlirlər - Xərclər",
+      "c) Aktivlər = Gəlirlər + Xərclər - Öhdəliklər",
+      "d) Aktivlər = Xüsusi kapital + Gəlirlər"
+    ]
+  },
+  {
+    "question": "Aktiv hesablarda yazılışların düzgün aparılması qaydasını müəyyən et:",
+    "true-answer": "e) Aktiv hesablarda ilk qalıq debetdə, artma debetdə, azalma isə kreditdə yazılır",
+    "wrong-answers": [
+      "a) Aktiv hesablarda ilk qalıq kreditdə, artma kreditdə, azalma isə debetdə yazılır",
+      "b) Aktiv hesablarda ilk qalıq kreditdə, artma debetdə, azalma isə kreditdə yazılır",
+      "c) Aktiv hesablarda ilk qalıq debetdə, artma kreditdə, azalma isə debetdə yazılır",
+      "d) Aktiv hesablarda ilk qalıq kreditdə, azalma kreditdə, artma isə debetdə yazılır"
+    ]
+  },
+  {
+    "question": "Passiv hesablarda yazılışların düzgünlüyünü müəyyən et:",
+    "true-answer": "d) Passiv hesablarda ilk qalıq kreditdə, artma kreditdə, azalma isə debetdə yazılır",
+    "wrong-answers": [
+      "a) Passiv hesablarda ilk qalıq debetdə, artma debetdə, azalma isə kreditdə yazılır",
+      "b) Passiv hesablarda ilk qalıq kreditdə, artma debetdə, azalma isə kreditdə yazılır",
+      "c) Passiv hesablarda ilk qalıq debetdə, artma kreditdə , azalma isə debitdə yazılır",
+      "e) Passiv hesablarda ilk qalıq kreditdə, son qalıq debetdə yazılır"
+    ]
+  },
+  {
+    "question": "Təchizat prosesini uçota alan hesablar:",
+    "true-answer": "a) təchizat prosesi və onunla əlaqədar olan xərcləri əks etdirir",
+    "wrong-answers": [
+      "b) təchizat prosesi və onunla əlaqədar olan gəlirləri əks etdirir",
+      "c) istehsal məsrəfləri və məhsulun maya dəyərini əks etdirir",
+      "d) satış prosesi və satışdan əldə edilən nəticələri əks etdirir",
+      "e) istehsal məsrəfləri və satış prosesini əks etdirir"
+    ]
+  },
+  {
+    "question": "İstehsal prosesini uçota alan hesablar:",
+    "true-answer": "b) istehsala məsrəfləri və məhsulun maya dəyərini əks etdirir",
+    "wrong-answers": [
+      "a) təchizat prosesi və onunla əlaqədar olan xərcləri əks etdirir",
+      "c) istehsal məsrəfləri və satış prosesini əks etdirir",
+      "d) satış prosesi və satışdan əldə edilən nəticələri əks etdirir",
+      "e) təchizat prosesi və onunla əlaqədar olan gəlirləri əks etdirir"
+    ]
+  },
+  {
+    "question": "Satış prosesini uçota alan hesablar:",
+    "true-answer": "c) satış prosesini və satışdan əldə edilən nəticələri aşkara çıxarmaq üçün istifadə edilir",
+    "wrong-answers": [
+      "a) istehsala məsrəfləri və məhsulun maya dəyərini əks etdirir",
+      "b) təchizat prosesi və onunla əlaqədar olan xərcləri əks etdirir",
+      "d) istehsal məsrəfləri və satış prosesini əks etdirir",
+      "e) təchizat prosesi və onunla əlaqədar olan gəlirləri əks etdirir"
+    ]
+  },
+  {
+    "question": "Əsas aktiv hesablar:",
+    "true-answer": "d) material və pul vəsaitinin mövcudluğunu və hərəkətini uçota almaq üçün istifadə olunur",
+    "wrong-answers": [
+      "a) fondların vəziyyətinin dəyişməsini və s. hesablaşmaların uçotunu aparmaq üçün istifadə edilir",
+      "b) mənfəət və zərərin uçotunu aparmaq üçün istifadə edilir",
+      "c) fondların vəziyyətinin dəyişməsinin uçotunu aparmaq üçün istifadə edilir",
+      "e) hesablaşmaların uçotunu aparmaq üçün istifadə edilir"
+    ]
+  },
+  {
+    "question": "Əsas passiv hesablar:",
+    "true-answer": "e) fondların vəziyyətinin dəyişməsini və s. hesablaşmaların uçotunu aparmaq üçün istifadə edilir",
+    "wrong-answers": [
+      "a) mənfəət və zərərin uçotunu aparmaq üçün istifadə edilir",
+      "b) fondların vəziyyətinin dəyişməsinin uçotunu aparmaq üçün istifadə edilir",
+      "c) material və pul vəsaitinin mövcudluğunu və hərəkətini uçota almaq üçün istifadə olunur",
+      "d) hesablaşmaların uçotunu aparmaq üçün istifadə edilir"
+    ]
+  },
+  {
+    "question": "Sintetik hesabların məlumatlarına əsasən açılan bütün analitik hesabların ilk qalığı :",
+    "true-answer": "b) sintetik hesabların ilk qalığına bərabər olmalıdır",
+    "wrong-answers": [
+      "a) sintetik hesabların son qalığına bərabər olmalıdır",
+      "c) sintetik hesabların dövriyəsinə bərabər olmalıdır",
+      "d) sintetik hesabların dövriyəsinə və ilk qalığına bərabər olmalıdır",
+      "e) sintetik hesabların debet dövriyəsinə bərabər olmalıdır"
+    ]
+  },
+  {
+    "question": "Sintetik hesabların məlumatlarına əsasən açılmış bütün analitik hesabların dövriyyəsi:",
+    "true-answer": "c) sintetik hesabların dövriyəsinə bərabər olmalıdır",
+    "wrong-answers": [
+      "a) sintetik hesabların son qalığına bərabər olmalıdır",
+      "b) sintetik hesabların ilk qalığına bərabər olmalıdır",
+      "d) sintetik hesabların dövriyəsinə və ilk qalığına bərabər olmalıdır",
+      "e) sintetik hesabların debet dövriyəsinə bərabər olmalıdır"
+    ]
+  },
+  {
+    "question": "Sintetik hesabların məlumatlarına əsasən açılmış analitik hesabların son qalığı :",
+    "true-answer": "d) sintetik hesabların son qalığına bərabər olmalıdır",
+    "wrong-answers": [
+      "a) sintetik hesabların ilk qalığına bərabər olmalıdır",
+      "b) sintetik hesabların dövriyəsinə bərabər olmalıdır",
+      "c) sintetik hesabların dövriyəsinə və ilk qalığına bərabər olmalıdır",
+      "e) sintetik hesabların debet dövriyəsinə bərabər olmalıdır"
+    ]
+  },
+  {
+    "question": "Mühasibat hesabları təyinat və quruluşuna görə bölünür:",
+    "true-answer": "a) Əsas, nizamlayıcı, bölüşdürücü, kalkulyasiya edici, müqayisə edici",
+    "wrong-answers": [
+      "b) Əsas aktiv və əsas passiv hesablara",
+      "c) Aktiv, passiv və aktiv-passiv hesablara",
+      "d) Nizamlayıcı, bölüşdürücü və müqayisəedici",
+      "e) Kalkulyasiya edici, müqayisə edici"
+    ]
+  },
+  {
+    "question": "Əməliyyat hesablarına daxildir:",
+    "true-answer": "a) Bölüşdürücü, kalkulyasiyaedici, müqayisəedici",
+    "wrong-answers": [
+      "b) Toplayıb-bölüşdürücü və büdcə-bölüşdürücü",
+      "c) Kalkulyasiyaedici və müqayisəedici",
+      "d) Müqayisəedici və nizamlayıcı",
+      "e) Kontraktiv və kontrpassiv hesablar"
+    ]
+  },
+  {
+    "question": "Təsərrüfat proseslərini uçota alan hesablar necə qruplaşdırılır?",
+    "true-answer": "e) Təchizat prosesini, istehsal prosesini, satış prosesini uçota alan hesablar",
+    "wrong-answers": [
+      "a) Təchizat prosesini, tədavül prosesini uçota alan hesablar",
+      "b) Təchizat prosesini, tədavül prosesini, istehsal prosesini uçota alan hesablar",
+      "c) Təchizat prosesini, tədavül prosesini, satış prosesini uçota alan hesablar",
+      "d) Vəsaitlərin tərkibi , əmələgəlmə mənbələri və təsərrüfat prosesləri"
+    ]
+  },
+  {
+    "question": "Sintetik uçot-",
+    "true-answer": "e) müəyyən iqtisadi göstəricilər üzrə mühasibat uçotunun sintetik hesablarında əks etdirilən əmlakların, öhdəliklərin və təsərrüfat əməliyyatlarının növləri haqda ümumiləşdirilmiş məlumatları özündə əks etdirir",
+    "wrong-answers": [
+      "a) hər bir sintetik hesabın daxilində əmlak, öhdəlik və təsərrüfat əməliyyatları haqda qruplaşdırılmış informasiyaların, mühasibat uçotunun analitik hesablarında və sərbəst vərəqələrdə uçotunu özündə birləşdirir.",
+      "b) aktiv hesabların göstəricilərinin nizamlaşdırılması üçün istifadə edilir",
+      "c) əsas passiv hesabların göstəricilərini dəqiqləşdirmək, nizamlamaq üçün istifadə edilir və balansın aktivində yerləşir",
+      "d) əsas aktiv hesabların göstəricilərini dəqiqləşdirmək, nizamlamaq üçün istifadə edilir və balansın passivində yerləşir"
+    ]
+  },
+  {
+    "question": "Analitik uçot-",
+    "true-answer": "a) hər bir sintetik hesabın daxilində əmlak, öhdəlik və təsərrüfat əməliyyatları haqda qruplaşdırılmış informasiyaların, mühasibat uçotunun analitik hesablarında və sərbəst vərəqələrdə uçotunu özündə birləşdirir",
+    "wrong-answers": [
+      "b) aktiv hesabların göstəricilərinin nizamlaşdırılması üçün istifadə edilir",
+      "c) əsas passiv hesabların göstəricilərini dəqiqləşdirmək, nizamlamaq üçün istifadə edilir və balansın aktivində yerləşir",
+      "d) əsas aktiv hesabların göstəricilərini dəqiqləşdirmək, nizamlamaq üçün istifadə edilir və balansın passivində yerləşir",
+      "e) müəyyən iqtisadi göstəricilər üzrə mühasibat uçotunun sintetik hesablarında əks etdirilən əmlakların, öhdəliklərin və təsərrüfat əməliyyatlarının növləri haqda ümumiləşdirilmiş məlumatları özündə əks etdirir"
+    ]
+  },
+  {
+    "question": "İki hesabın qarşılıqlı əlaqəsi necə adlanır?",
+    "true-answer": "c) Hesabların müxabirləşməsi",
+    "wrong-answers": [
+      "a) İkili yazılış",
+      "b) Mühasibat yazılışı",
+      "d) Əməliyyatların hesablarda əks etdirilməsi",
+      "e) Hesablar vasitəsi ilə məlumatın əldə edilməsi"
+    ]
+  },
+  {
+    "question": "İkili yazılışın müəllifi kimdir?",
+    "true-answer": "a) Luka Paçoli",
+    "wrong-answers": [
+      "b) Alivize Kazanova",
+      "c) A.D.Rietro",
+      "d) Lyudoviko Flori",
+      "e) Qəzənfər Abbasov"
+    ]
+  },
+  {
+    "question": "Mürəkkəb provodka nədir?",
+    "true-answer": "b) Təsərrüfat əməliyyatının bir hesabın debetinə, digər bir neçə hesabın kreditinə və əksinə yazılması",
+    "wrong-answers": [
+      "a) Təsərrüfat əməliyyatının bir hesabın debetinə, digər hesabın kreditinə yazılması",
+      "c) Təsərrüfat əməliyyatının hər iki hesabın kreditinə yazılması",
+      "d) Təsərrüfat əməliyyatının hər iki hesabın debetində yazılması",
+      "e) Əməliyyatın müxtəlif hesablara yazılması"
+    ]
+  },
+  {
+    "question": "Mürəkkəb ikili yazılışın birinci halında bir hesabın debetində və eyni vaxtda bir neçə hesabın kreditində yazılış həyata keçirilir. Bu zaman:",
+    "true-answer": "a) kreditləşən hesabların məbləği debetləşən hesabın məbləğinə bərabər olmalıdır.",
+    "wrong-answers": [
+      "b) debetləşən hesabların məbləği kreditləşən hesabın məbləğinə bərabər olmalıdır.",
+      "c) debetləşən hesabların məbləği sıfıra bərabər olmalıdır.",
+      "d) kreditləşən hesabın məbləği sıfıra bərabər olmalıdır.",
+      "e) debetləşən və kreditləşən hesabların məbləğləri sıfıra bərabər olmalıdır."
+    ]
+  },
+  {
+    "question": "Mürəkkəb ikili yazılışın ikinci halında bir hesabın kreditində və eyni vaxtda bir neçə hesabın debetində yazılış aparılır. Bu zaman:",
+    "true-answer": "b) debetləşən hesabların məbləği kreditləşən hesabın məbləğinə bərabər olmalıdır.",
+    "wrong-answers": [
+      "a) kreditləşən hesabların məbləği debetləşən hesabın məbləğinə bərabər olmalıdır.",
+      "c) debetləşən hesabların məbləği sıfıra bərabər olmalıdır.",
+      "d) kreditləşən hesabın məbləği sıfıra bərabər olmalıdır.",
+      "e) debetləşən və kreditləşən hesabların məbləğləri sıfıra bərabər olmalıdır."
+    ]
+  },
+  {
+    "question": "Sadə ikili yazılış nəyə deyilir?",
+    "true-answer": "c) Təsərrüfat əməliyyatının bir hesabın debetində, digər hesabın kreditində əks etdirilməsidir",
+    "wrong-answers": [
+      "a) Təsərrüfat əməliyyatının hesabın ancaq bir tərəfində debetdə əks etdirilməsidir",
+      "b) Təsərrüfat əməliyyatının hesabın digər bir tərəfində - kreditdə əks etdirilməsidir",
+      "d) Təsərrüfat əməliyyatının bir hesabın debetində, digər bir neçə hesabın kreditində əks etdirilməsidir.",
+      "e) Təsərrüfat əməliyyatının bir neçə hesabın debetində, digər bir hesabın kreditində əks etdirilməsidir."
+    ]
+  },
+  {
+    "question": "İkili yazılışın müəyyən edilməsini tam açıqla:",
+    "true-answer": "a) Təsərrüfat əməliyyatının eyni məbləğdə, bir hesabın debetində digər hesabın kreditinə yazılması",
+    "wrong-answers": [
+      "b) Hər bir təsərrüfat əməliyyatlarının eyni vaxtda mühasibat uçotunun hesablarında yazılış üsulu",
+      "c) Təsərrüfat əməliyyatlarının mühasibat uçotu hesablarında yazılış üsulu",
+      "d) Təsərrüfat əməliyyatlarının uçotda əks etdirilməsi üçün onların qruplaşdırılması",
+      "e) Baş vermiş əməliyyatların sənəddə əks etdirilməsi"
+    ]
+  },
+  {
+    "question": "Jurnal-order formasında ikili yazılış necə əks etdirilir?",
+    "true-answer": "c) istifadə edilən registrdə bir dəfə yazılan əməliyyat müvafiq hesabın həm debet, həm də kreditində yazılır",
+    "wrong-answers": [
+      "a) hər bir əməliyyat müxtəlif registrlərdə iki dəfə: debet və kredit üzrə yazılır.",
+      "b) hər bir əməliyyat müxtəlif registrlərdə bir kredit üzrə yazılır.",
+      "d) fərdi yazılışdan istifadə edilir.",
+      "e) hər bir əməliyyat müxtəlif registrlərdə bir dəfə debet üzrə yazılır."
+    ]
+  },
+  {
+    "question": "Memorial-order formasında ikili yazılış necə əks etdirilir?",
+    "true-answer": "a) hər bir əməliyyat müxtəlif registrlərdə iki dəfə: debet və kredit üzrə yazılır.",
+    "wrong-answers": [
+      "b) ümumiləşdirilmiş yazılışdan istifadə edilir.",
+      "c) istifadə edilən registrdə bir dəfə yazılan əməliyyat müvafiq hesabın həm debet, həm də kreditində yazılır",
+      "d) fərdi yazılışdan istifadə edilir.",
+      "e) hər bir əməliyyat müxtəlif registrlərdə bir dəfə debet üzrə yazılır."
+    ]
+  },
+  {
+    "question": "\"Təşkilatın işçi heyyətinə əmək haqqı hesablanmışdır.\" təsərrüfat əməliyyatı balansın hansı dəyişmə növünə aiddir?",
+    "true-answer": "c) Aktiv və kapital, öhdəlikdə artım yaranır",
+    "wrong-answers": [
+      "a) Aktiv və kapital, öhdəlik tərikində azalma yaranır",
+      "b) Passivin tərkibində dəyişiklik yaranır",
+      "d) Aktivin tərkibində dəyişiklik yaranır",
+      "e) Aktiv və passiv (kapital, öhdəlik) tərikində artma yaranır"
+    ]
+  },
+  {
+    "question": "Aşağıdakı əməliyyatlardan hansı balansın kapital və öhdəliklərin tərkibində dəyişikliyə səbəb olur?",
+    "true-answer": "b) Mənfəətin bir hissəsi ehtiyat kapitalına yönəldilmişdir",
+    "wrong-answers": [
+      "a) Hesablanmış əmək haqqı ödənilmişdir",
+      "c) Banka olan borc geri qaytarılmışdır",
+      "d) İşçilərə əmək haqqı hesablanmışdır",
+      "e) Məhsulun maya dəyəri müəyyən edilmişdir"
+    ]
+  },
+  {
+    "question": "Aşağıdakı əməliyyatlardan balansın aktivinin tərkibində dəyişikliyə səbəb olanı seçin:",
+    "true-answer": "e) Anbardan istehsalata material buraxılmışdır",
+    "wrong-answers": [
+      "a) Hesablanmış əmək haqqı ödənilmişdir",
+      "b) Banka olan kredit öhdəliyi geri qaytarılmışdır",
+      "c) Mənfəətin bir hissəsi ehtiyat kapitalına yönəldilmişdir",
+      "d) Malsatan və podratçı təşkilatlara olan borc ödənilmişdir"
+    ]
+  },
+  {
+    "question": "\"Malsatanlara olan borc hesablaşma hesabından ödənilmişdir\" əməliyyatı balansın hansı dəyişmə növünə aiddir?",
+    "true-answer": "d) Aktiv və kapital, öhdəliyin tərkibində azalma yaranır.",
+    "wrong-answers": [
+      "a) Aktiv və kapital, öhdəliyin tərkibində artma yaranır",
+      "b) Aktivin tərkibində dəyişiklik yaranır",
+      "c) Passivin tərkibində dəyişiklik yaranır",
+      "e) Aktiv tərkibində azalma yaranır."
+    ]
+  },
+  {
+    "question": "\"Əməkhaqqı üzrə fəhlə və qulluqçulara olan borcun bir hissəsi kassadan verilmişdir.\" əməliyyatı balansın hansı dəyişmə növünə aiddir?",
+    "true-answer": "e) Aktiv və kapital, öhdəliyin tərkibində azalma yaranır.",
+    "wrong-answers": [
+      "a) Aktiv və kapital, öhdəliyin tərkibində artma yaranır",
+      "b) Aktivin tərkibində dəyişiklik yaranır",
+      "c) Passivin tərkibində dəyişiklik yaranır",
+      "d) Aktiv tərkibində azalma yaranır."
+    ]
+  },
+  {
+    "question": "Aşağıdakı əməliyyatlardan balansın aktivinin tərkibində dəyişikliyə səbəb olanı seçin:",
+    "true-answer": "c) Müəssisənin kassasına bankdakı hesabdan pul daxil olmuşdur",
+    "wrong-answers": [
+      "a) Hesablanmış əmək haqqı ödənilmişdir",
+      "b) Banka olan kredit öhdəliyi geri qaytarılmışdır",
+      "d) Mənfəətin bir hissəsi ehtiyat kapitalına yönəldilmişdir",
+      "e) Malsatan və podratçı təşkilatlara olan borc ödənilmişdir"
+    ]
+  },
+  {
+    "question": "\"Müəssisə malgöndərəndən bankın krediti hesabına material almışdır\" əməliyyatı balansın hansı dəyişmə növünə aiddir?",
+    "true-answer": "a) Aktiv və kapital, öhdəliyin tərkibində artma yaranır",
+    "wrong-answers": [
+      "b) Aktivin tərkibində dəyişiklik yaranır",
+      "c) Passivin tərkibində dəyişiklik yaranır",
+      "d) Aktiv və passivin tərkibində azalma yaranır.",
+      "e) Aktiv tərkibində azalma yaranır."
+    ]
+  },
+  {
+    "question": "Mühasibat sənədləri nəyi əks etdirir?",
+    "true-answer": "e) təsərrüfat əməliyyatlarının baş verməsini təsdiq edən və onun aparılmasına hüquq verən yazılı şəhadətnaməni",
+    "wrong-answers": [
+      "a) natural, pul və əmək ölçüsündə ifadə olunan ayrı-ayrı əmlakın, öhdəliyin və əməliyyatların məlumatlarını əks etdirərək sintetik hesabların məzmununu",
+      "b) sintetik və analitik hesabların məzmununu",
+      "c) vəsaitlərin əmələ gəlmə mənbələrini",
+      "d) təşkilatın eyni qrupa malik olan və pul ölçüsündə ifadə olunan əmlakın, öhdəliklərin və təsərrüfat əməliyyatlarının ümumiləşdirilmiş göstəricilərini"
+    ]
+  },
+  {
+    "question": "Sənədlərin rekvizitləri",
+    "true-answer": "e) təsərrüfat əməliyyatlarını xarakterzə edən, sənəddə qeyd olunan və ona hüquqi qüvvə verən göstəricilərdir.",
+    "wrong-answers": [
+      "a) təsərrüfat əməliyyatlarının baş verməsini təsdiq edən və onun aparılmasına hüquq verən yazılı şəhadətnamədir.",
+      "b) natural, pul və əmək ölçüsündə ifadə olunan ayrı-ayrı əmlakın, öhdəliyin və əməliyyatların məlumatlarıdır.",
+      "c) pul ölçüsündə ifadə olunan əmlakın, öhdəliklərin və təsərrüfat əməliyyatlarının ümumiləşdirilmiş göstəriciləridir.",
+      "d) vəsaitlərin əmələ gəlmə mənbələrini əks etdirir."
+    ]
+  },
+  {
+    "question": "Təsərrüfat əməliyyatlarının xarakterinə görə sənədlər bölünür:",
+    "true-answer": "d) material, pul, bank, hesablaşma sənədlərinə",
+    "wrong-answers": [
+      "a) kassa mədaxili və məxaric orderlərinə",
+      "b) çeklər, tədiyyə tapşırıqları, tədiyyə tələbnamələri, bankın bildirişləri və çıxarışlarına",
+      "c) tədiyyə tələbnamələri, bankın bildirişləri",
+      "e) haqq-hesab ödəmə cədvəlləri, yüklənmiş mallar üçün hesabnamələr, yerinə yetirilmiş işlər üçün tapşırıqlara"
+    ]
+  },
+  {
+    "question": "Təyinatına görə sənədlər bölünür",
+    "true-answer": "c) sərəncamverici, icraedici, mühasibatlıqda rəsmiyyətə salınan, kombinələşmiş sənədlərə",
+    "wrong-answers": [
+      "a) material, pul, bank, hesablaşma sənədlərinə",
+      "b) kassa mədaxili və məxaric orderlərinə",
+      "d) çeklər, tədiyyə tapşırıqları, tədiyyə tələbnamələri, bankın bildirişləri və çıxarışlarına",
+      "e) tədiyyə tələbnamələri, bankın bildirişləri"
+    ]
+  },
+  {
+    "question": "Sərəncamverici sənədlər",
+    "true-answer": "c) konkret əməliyyatı yerinə yetirən şəxslərə əmr vermək üçün əsas hesab olunur.",
+    "wrong-answers": [
+      "a) bir qayda olaraq, yalnız bir təsərrüfat əməliyyatını əks etdirir.",
+      "b) təsərrüfat əməliyyatının başvermə faktını təsdiq edir.",
+      "d) hər hansı təsərrüfat əməliyyatını əks etdirmir, sərəncamverici və icraedici sənədlərə əsasən mühasibat işçiləri tərəfindən tərtib olunur.",
+      "e) bir neçə sənədin əlamətlərini özündə əks etdirir"
+    ]
+  },
+  {
+    "question": "İcraedici sənədlər",
+    "true-answer": "d) təsərrüfat əməliyyatının başvermə faktını təsdiq edir.",
+    "wrong-answers": [
+      "a) hər hansı təsərrüfat əməliyyatını əks etdirmir, sərəncamverici və icraedici sənədlərə əsasən mühasibat işçiləri tərəfindən tərtib olunur.",
+      "b) bir neçə sənədin əlamətlərini özündə əks etdirir.",
+      "c) bir qayda olaraq, yalnız bir təsərrüfat əməliyyatını əks etdirir.",
+      "e) konkret əməliyyatı yerinə yetirən şəxslərə əmr vermək üçün əsas hesab olunur."
+    ]
+  },
+  {
+    "question": "Kombinələşmiş sənədlər",
+    "true-answer": "c) bir neçə sənədin əlamətlərini özündə əks etdirir.",
+    "wrong-answers": [
+      "a) konkret əməliyyatı yerinə yetirən şəxslərə əmr vermək üçün əsas hesab olunur.",
+      "b) məzmunca fərqli olan əməliyyatları əks etdirir.",
+      "d) təsərrüfat əməliyyatının başvermə faktını təsdiq edir.",
+      "e) hər hansı təsərrüfat əməliyyatını əks etdirmir, sərəncamverici və icraedici sənədlərə əsasən mühasibat işçiləri tərəfindən tərtib olunur."
+    ]
+  },
+  {
+    "question": "Məzmununun həcminə görə sənədlər bölünür",
+    "true-answer": "b) ilk və icmal",
+    "wrong-answers": [
+      "a) dövri və illik",
+      "c) birləşdirici və bölüşdürücü",
+      "d) birdəfəlik və yığma",
+      "e) aylıq və illik"
+    ]
+  },
+  {
+    "question": "İlk sənədlər",
+    "true-answer": "c) təsərrüfat əməliyyatları baş verən kimi tərtib olunur və onları əks etdirir.",
+    "wrong-answers": [
+      "a) rəsmiyyətə salınmış ilk sənədlərə əsasən tərtib olunur və onlarda başvermiş hər bir təsərrüfat əməliyyatına dair məlumat toplanır.",
+      "b) məzmunca fərqli olan əməliyyatları əks etdirir.",
+      "d) bir qayda olaraq, yalnız bir təsərrüfat əməliyyatını əks etdirir.",
+      "e) müəyyən dövr ərzində müntəzəm olaraq tez-tez təkrar olunan və məzmununa görə oxşar olan əməliyyatları əks etdirir."
+    ]
+  },
+  {
+    "question": "İcmal sənədlər",
+    "true-answer": "a) rəsmiyyətə salınmış ilk sənədlərə əsasən tərtib olunur və onlarda başvermiş hər bir təsərrüfat əməliyyatına dair məlumat toplanır.",
+    "wrong-answers": [
+      "b) bir qayda olaraq, yalnız bir təsərrüfat əməliyyatını əks etdirir.",
+      "c) müəyyən dövr ərzində müntəzəm olaraq tez-tez təkrar olunan və məzmununa görə oxşar olan əməliyyatları əks etdirir.",
+      "d) məzmunca fərqli olan əməliyyatları əks etdirir.",
+      "e) təsərrüfat əməliyyatları baş verən kimi tərtib olunur və onları əks etdirir."
+    ]
+  },
+  {
+    "question": "Təsərrüfat əməliyyatlarının əks etdirilmə üsuluna görə sənədlər bölünür:",
+    "true-answer": "a) birdəfəlik və yığma",
+    "wrong-answers": [
+      "b) ilk və icmal",
+      "c) dövri və illik",
+      "d) birdəfəlik və icmal",
+      "e) birləşdirici və bölüşdürücü"
+    ]
+  },
+  {
+    "question": "Birdəfəlik sənəd",
+    "true-answer": "a) bir qayda olaraq, yalnız bir təsərrüfat əməliyyatını əks etdirir.",
+    "wrong-answers": [
+      "b) müəyyən dövr ərzində müntəzəm olaraq tez-tez təkrar olunan və məzmununa görə oxşar olan əməliyyatları əks etdirir.",
+      "c) təsərrüfat əməliyyatları baş verən kimi tərtib olunur və onları əks etdirir.",
+      "d) məzmunca fərqli olan əməliyyatları əks etdirir.",
+      "e) təsərrüfat əməliyyatları baş verən kimi tərtib olunur və onları əks etdirir."
+    ]
+  },
+  {
+    "question": "Yığma sənədlər",
+    "true-answer": "e) müəyyən dövr ərzində müntəzəm olaraq tez-tez təkrar olunan və məzmununa görə oxşar olan əməliyyatları əks etdirir.",
+    "wrong-answers": [
+      "a) təsərrüfat əməliyyatları baş verən kimi tərtib olunur və onları əks etdirir.",
+      "b) təsərrüfat əməliyyatları baş verən kimi tərtib olunmur",
+      "c) bir qayda olaraq, yalnız bir təsərrüfat əməliyyatını əks etdirir.",
+      "d) məzmunca fərqli olan əməliyyatları əks etdirir."
+    ]
+  },
+  {
+    "question": "Çeklər, tədiyyə tapşırıqları, əmrlər, etibarnamələr(vəkalətnamələr), tapşırıqlar aiddir:",
+    "true-answer": "d) sərəncamverici sənədlərə",
+    "wrong-answers": [
+      "a) icraedici sənədlərə",
+      "b) kombinələşmiş sənədlərə",
+      "c) kassa sənədlərinə",
+      "e) yığma sənədlərə"
+    ]
+  },
+  {
+    "question": "Material qiymətlilərini almaq üçün sərəncamverici sənəd sayılır:",
+    "true-answer": "e) etibarnamə (vəkalətnamə)",
+    "wrong-answers": [
+      "a) qaimə",
+      "b) qəbz",
+      "c) qəbul-təhvil aktı",
+      "d) hesabnamə"
+    ]
+  },
+  {
+    "question": "Qəbzlər, qəbul-təhvil aktları, qaimələr, buraxılmış məhsullar üçün hesabnamələr aiddir:",
+    "true-answer": "a) icraedici sənədlərə",
+    "wrong-answers": [
+      "b) sərəncamverici sənədlərə",
+      "c) yığma sənədlərə",
+      "d) mədaxil sənədlərinə",
+      "e) icmal sənədlərə"
+    ]
+  },
+  {
+    "question": "Xarici görünüşə görə uçot registrləri bölünür:",
+    "true-answer": "c) Kitablar, kartlar, sərbəst vərəqlər",
+    "wrong-answers": [
+      "a) Kitab, jurnal-order, vərəqə",
+      "b) Kartlar və cədvəllər",
+      "d) Jurnallar, kartoçkalar, kitablar",
+      "e) Jurnallar, kartoçkalar"
+    ]
+  },
+  {
+    "question": "Əməliyyatların məzmununun həcminə görə uçot registrləri olur:",
+    "true-answer": "e) Sintetik, analitik",
+    "wrong-answers": [
+      "a) Sintetik, xronoloji, sistematik",
+      "b) Sintetik, analitik, ümumi",
+      "c) Xətti və şahmat",
+      "d) Analitik, ümumi"
+    ]
+  },
+  {
+    "question": "Yazılışların xarakterinə görə aşağıdakı uçot registrləri mövcuddur:",
+    "true-answer": "e) Xronoloji, sistematik, kombinələşmiş",
+    "wrong-answers": [
+      "a) Kitablar, sərbəst vərəqlər",
+      "b) Xronoloji, sistematik, şahmatlı",
+      "c) Sintetik, analitik",
+      "d) Sistematik, şahmatlı"
+    ]
+  },
+  {
+    "question": "Jurnal-order aşağıdakı uçot registri hesab olunur:",
+    "true-answer": "d) Şahmat",
+    "wrong-answers": [
+      "a) Çoxsütunlu",
+      "b) İkitərəfli",
+      "c) Xronoloji",
+      "e) Bir dəfəlik"
+    ]
+  },
+  {
+    "question": "Yazılışların aparılması zamanı səhvlərə yolverilən hallarda onların düzəldilməsi üsulları hansılardır?",
+    "true-answer": "d) Korrektura, storno (mənfi işarə), əlavə yazılış.",
+    "wrong-answers": [
+      "a) Sadə və mürəkkəb",
+      "b) İkitərəfli yazılış və inventarizasiya",
+      "c) Korrektura, sadə və mürəkkəb",
+      "e) Korrektura, sadə"
+    ]
+  },
+  {
+    "question": "Mühasibat kitabları-",
+    "true-answer": "c) xüsusi sütunlu şunurlanmış uçot cədvəllərindən ibarətdir.",
+    "wrong-answers": [
+      "a) uçot aparmaq üçün kağız, yaxud standart ölçülü kartonlardan hazırlanmış və xüsusi bağlana bilən yeşiklərdə (kartotekalarda) mühafizə edilən sütunlaşdırılmış ayrı -ayrı vərəqələrdən ibarətdir.",
+      "b) analitik və sintetik hesablar üzrə dövriyyə cədvəllərindən ibarətdir.",
+      "d) uçot registrlərinin dəyişmiş formasını özündə əks etdirir.",
+      "e) yalnız bir təsərrüfat əməliyyatını əks etdirir."
+    ]
+  },
+  {
+    "question": "Kartlar-",
+    "true-answer": "b) uçot aparmaq üçün kağız, yaxud standart ölçülü kartonlardan hazırlanmış və xüsusi bağlana bilən yeşiklərdə (kartotekalarda) mühafizə edilən sütunlaşdırılmış ayrı -ayrı vərəqələrdən ibarətdir.",
+    "wrong-answers": [
+      "a) uçot registrlərinin dəyişmiş formasını özündə əks etdirir.",
+      "c) analitik və sintetik hesablar üzrə dövriyyə cədvəllərindən ibarətdir.",
+      "d) yalnız bir təsərrüfat əməliyyatını əks etdirir.",
+      "e) xüsusi sütunlu şunurlanmış uçot cədvəllərindən ibarətdir."
+    ]
+  },
+  {
+    "question": "Sərbəst vərəqələr",
+    "true-answer": "a) uçot registrlərinin dəyişmiş formasını özündə əks etdirir.",
+    "wrong-answers": [
+      "b) yalnız bir təsərrüfat əməliyyatını əks etdirir.",
+      "c) xüsusi sütunlu şunurlanmış uçot cədvəllərindən ibarətdir.",
+      "d) uçot aparmaq üçün kağız, yaxud standart ölçülü kartonlardan hazırlanmış və xüsusi bağlana bilən yeşiklərdə (kartotekalarda) mühafizə edilən sütunlaşdırılmış ayrı -ayrı vərəqələrdən ibarətdir.",
+      "e) analitik və sintetik hesablar üzrə dövriyyə cədvəllərindən ibarətdir."
+    ]
+  },
+  {
+    "question": "Uçot registrləri quruluşuna görə təsnifləşir:",
+    "true-answer": "b) Birtərəfli, ikitərəfli, xətti, çoxsütunlu, şahmat",
+    "wrong-answers": [
+      "a) Birsütunlu, çoxsütunlu",
+      "c) Birtərəfli, ikitərəfli, xətti, şahmat",
+      "d) Birtərəfli, ikitərəfli, çoxsütunlu",
+      "e) Birtərəfli, ikitərəfli"
+    ]
+  },
+  {
+    "question": "Uçot registrləri aşağıdakı əlamətlərinə görə təsnifləşir:",
+    "true-answer": "d) Yazılışlarına, əməliyyatların məzmununa, quruluşuna, xarici görüşünə görə",
+    "wrong-answers": [
+      "a) Yazılışların xarakterinə, təhlilin aparılması vaxtına, informasiyadan istifadə edənlərə görə",
+      "b) Əməliyyatların məzmununun həcminə və görüşünə görə",
+      "c) Quruluşuna və xarici görünüşünə görə",
+      "e) Təhlilin aparılması vaxtına, informasiyadan istifadə edənlərə görə"
+    ]
+  },
+  {
+    "question": "Xronoloji registr",
+    "true-answer": "b) bütün sənədlərin hesablar üzrə bölüsdürməsini aparmadan daxil olmasını qeyd etmək üçün tətbiq edilir.",
+    "wrong-answers": [
+      "a) analitik hesabların aparılması üçün açılır.",
+      "c) mühasibat yazılışlarının sintetik və analitik hesablar üzrə qruplaşdırılması üçün mühasibatlıqda aparılır.",
+      "d) xronoloji və sistematik yazılışları özündə birləsdirir.",
+      "e) sintetik hesabların aparılması üçün açılır."
+    ]
+  },
+  {
+    "question": "Kombinələşdirilmiş registrlər",
+    "true-answer": "c) xronoloji və sistematik yazılışları özündə birləsdirir.",
+    "wrong-answers": [
+      "a) sintetik hesabların aparılması üçün açılır.",
+      "b) bütün sənədlərin hesablar üzrə bölüsdürməsini aparmadan daxil olmasını qeyd etmək üçün tətbiq edilir.",
+      "d) analitik hesabların aparılması üçün açılır",
+      "e) mühasibat yazılışlarının sintetik və analitik hesablar üzrə qruplaşdırılması üçün mühasibatlıqda aparılır."
+    ]
+  },
+  {
+    "question": "Sistematik (müntəzəm) registrlər",
+    "true-answer": "c) mühasibat yazılışlarının sintetik və analitik hesablar üzrə qruplaşdırılması üçün mühasibatlıqda aparılır.",
+    "wrong-answers": [
+      "a) xronoloji və sistematik yazılışları özündə birləsdirir.",
+      "b) sintetik hesabların aparılması üçün açılır.",
+      "d) analitik hesabların aparılması üçün açılır.",
+      "e) bütün sənədlərin hesablar üzrə bölüsdürməsini aparmadan daxil olmasını qeyd etmək üçün tətbiq edilir."
+    ]
+  },
+  {
+    "question": "Storno düzəliş üsulundan hansı hallarda istifadə olunur?",
+    "true-answer": "c) Yekunlar səhv hesablandıqda və balans tərtib edildikdən sonra, yaxud bu və ya digər əməliyyat aid olmadığı hesablarda əks etdiriləndə",
+    "wrong-answers": [
+      "a) Hesablarda aparılan yazılışlarda baş verən səhvlər, yekunların hesablanmasından əvvəl müəyyən edildikdə, yekunlar düzgün hesablanmadıqda, yaxud əməliyyat aid olmayan uçot qeydinə yazılmış olduqda",
+      "b) Yekunlar düzgün hesablanmadıqda, yaxud əməliyyat aid olmayan uçot qeydinə yazılmış olduqda",
+      "d) Yekunlar düzgün hesablanmadıqda",
+      "e) təsərrüfat əməliyyatları mühasibat uçotu hesablarında düzgün müxabirləşmə ilə lakin az məbləğdə əks etdiriləndə"
+    ]
+  },
+  {
+    "question": "Əlavə yazılış üsulundan hansı hallarda istifadə olunur?",
+    "true-answer": "b) təsərrüfat əməliyyatları mühasibat uçotu hesablarında düzgün müxabirləşmə ilə lakin az məbləğdə əks etdiriləndə",
+    "wrong-answers": [
+      "a) Yekunlar səhv hesablandıqda və balans tərtib edildikdən sonra, yaxud bu və ya digər əməliyyat aid olmadığı hesablarda əks etdiriləndə",
+      "c) hesablarda aparılan yazılışlarda baş verən səhvlər, yekunların hesablanmasından əvvəl müəyyən edildikdə, yekunlar düzgün hesablanmadıqda, yaxud əməliyyat aid olmayan uçot qeydinə yazılmış olduqda",
+      "d) yekunlar düzgün hesablanmadıqda, yaxud əməliyyat aid olmayan uçot qeydinə yazılmış olduqda",
+      "e) yekunlar düzgün hesablanmadıqda"
+    ]
+  },
+  {
+    "question": "Torpaq, tikili və avadanlıqlar uçotda necə qiymətləndirilir?",
+    "true-answer": "a) İlk, ədalətli və qalıq dəyəri ilə.",
+    "wrong-answers": [
+      "b) Plan və faktiki dəyər ilə.",
+      "c) Balans, plan və faktiki dəyər ilə.",
+      "d) Topdansatış və pərakəndə satış qiyməti ilə.",
+      "e) Balans, plan dəyər ilə."
+    ]
+  },
+  {
+    "question": "Torpaq, tikili və avadanlıqların istismara verilməsində tərtib olunur:",
+    "true-answer": "e) Qəbul-təhvil aktı",
+    "wrong-answers": [
+      "a) Ləğv edilmə aktı",
+      "b) İnventar kartoçkası",
+      "c) Müqavilə",
+      "d) Təsis sənədi"
+    ]
+  },
+  {
+    "question": "Əsaslı təmir-",
+    "true-answer": "a) ixtisaslaşdırılmış təşkilat tərəfindən aparılır.",
+    "wrong-answers": [
+      "b) təşkilatın təmir emalatxanasında və ya inşaat-təmir briqadasının vasitəsi ilə həyata keçirilir.",
+      "c) malsatanlar tərəfindən aparılır.",
+      "d) mal alanlar tərəfindən aparılır.",
+      "e) əsas istehsalat tərəfindən aparılır."
+    ]
+  },
+  {
+    "question": "Cari təmir-",
+    "true-answer": "b) təşkilatın təmir emalatxanasında və ya inşaat-təmir briqadasının vasitəsi ilə həyata keçirilir.",
+    "wrong-answers": [
+      "a) ixtisaslaşdırılmış təşkilat tərəfindən aparılır.",
+      "c) əsas istehsalat tərəfindən aparılır.",
+      "d) malsatanlar tərəfindən aparılır.",
+      "e) mal alanlar tərəfindən aparılır."
+    ]
+  },
+  {
+    "question": "Torpaq, tikili və avadanlıqlar hansı hallarda daxil olur?",
+    "true-answer": "d) Əvəzsiz olaraq alındıqda, ödəmə hesabına, uzunmüddətli icarə şərtləri ilə əldə edildikdə",
+    "wrong-answers": [
+      "a) Satıldıqda, ləğv edildikdə, əvəzsiz verildikdə.",
+      "b) Pay şəklində verilməklə",
+      "c) Satıldıqda və quraşdırıldıqda",
+      "e) Yalnız ödəmə hesabına alındıqda"
+    ]
+  },
+  {
+    "question": "Torpaq, tikili və avadanlıqlar hansı hallarda xaric olunur?",
+    "true-answer": "c) Satıldıqda, ləğv edildikdə, əvəzsiz verildikdə.",
+    "wrong-answers": [
+      "a) Təmir edildikdə, icarəyə verildikdə, quraşdırıldıqda.",
+      "b) Əvəzsiz olaraq alındıqda, ödəmə hesabına, uzunmüddətli icarə şərtləri ilə əldə edildikdə",
+      "d) Ehtiyyatda saxlanıldıqda, təmirə verildikdə.",
+      "e) Quraşdırıldıqda və təmirə verildikdə"
+    ]
+  },
+  {
+    "question": "Maddi aktivlər bu alt qruplara bölünür:",
+    "true-answer": "b) cari aktivlər, uzunmüddətli ticarət investisiyaları, əsas vəsaitlər (TTA)",
+    "wrong-answers": [
+      "a) cari aktivlər, qeyri-maddi aktivlər",
+      "c) əsas vəsaitlər (TTA), qeyri-maddi aktivlər",
+      "d) uzunmüddətli ticarət investisiyaları, qeyri-maddi aktivlər",
+      "e) patentlər, qeyri-maddi aktivlər"
+    ]
+  },
+  {
+    "question": "Torpaq, tikili və avadanlıqların qalıq dəyərini tapmaq üçün-",
+    "true-answer": "a) onun ilk dəyərindən köhnəlmə məbləğini çıxmaq lazımdır.",
+    "wrong-answers": [
+      "b) onun ilk dəyərini köhnəlmə məbləğinə vurmaq lazımdır.",
+      "c) onun alış qiymətinə nəqliyyat-tədarük xərcini gəlmək lazımdır.",
+      "d) onun ilk dəyərinə quraşdırılmasına çəkilən xərcləri gəlmək lazımdır.",
+      "e) onun ilk dəyərinin üzərinə bərpa dəyərini gəlmək lazımdır."
+    ]
+  },
+  {
+    "question": "Torpaq, tikili və avadanlıqların ilk dəyəri necə müəyyən edilir?",
+    "true-answer": "a) avadanlığın alış qiyməti, nəqliyyat-tədarük və tikinti-quraşdırma xərclərinin cəmi kimi",
+    "wrong-answers": [
+      "b) avadanlığın alış qiyməti və nəqliyyat-tədarük xərclərinin cəmi kimi",
+      "c) avadanlığın ilk dəyərindən köhnəlmə məbləğini çıxmaqla",
+      "d) köhnəlmə məbləği ilə.",
+      "e) avadanlığın alış qiyməti və köhnəlmə məbləğinin cəmi kimi"
+    ]
+  },
+  {
+    "question": "Torpaq, tikili və avadanlıqların ədalətli dəyəri necə müəyyən edilir?",
+    "true-answer": "c) yalnız torpaq, tikili və avadanlıqların yenidən qiymətləndirilməsi yolu ilə",
+    "wrong-answers": [
+      "a) avadanlığın alış qiyməti, nəqliyyat-tədarük və tikinti-quraşdırma xərclərinin cəmi kimi",
+      "b) avadanlığın alış qiyməti və nəqliyyat-tədarük xərclərinin cəmi kimi",
+      "d) avadanlığın ilk dəyərindən köhnəlmə məbləğini çıxmaqla",
+      "e) köhnəlmə məbləği ilə."
+    ]
+  },
+  {
+    "question": "Torpaq, tikili və avadanlıqlar-",
+    "true-answer": "d) istehsal prosesində uzun müddət istifadə edilir, öz formasını dəyişmir, dəyərini istehsal edilmiş məhsulun üzərinə hissə-hissə amortizasiya şəklində keçirir.",
+    "wrong-answers": [
+      "a) istehsal prosesində bir dəfə istifadə edilir, öz formasını tamamilə dəyişir, dəyərini istehsal edilmiş məhsulun üzərinə bibaşa keçirir.",
+      "b) maddi-əmlak (fiziki) quruluşuna malik deyil, uzun müddət ərzində istifadə edilir, təşkilata xeyir gətirmə qabiliyyətinə malikdir.",
+      "c) dəyəri 100 manatdan aşağı olub istehsal prosesində uzun müddət iştirak edir və öz formasını dəyişir.",
+      "e) istehsalın bütün mərhələsindən keçib satış üçün yararlı olan məhsuldur."
+    ]
+  },
+  {
+    "question": "Hüquqi və fiziki şəxslərdən əvəzsiz olaraq istehsal təyinatlı torpaq, tikili və avadanlıqlar təşkilata daxil olub:",
+    "true-answer": "d) Dt 111 Kt 335, 611",
+    "wrong-answers": [
+      "a) Dt111 Kt 221",
+      "b) Dt111 Kt 531",
+      "c) Dt 223 Kt 221.",
+      "e) Dt 601 Kt801"
+    ]
+  },
+  {
+    "question": "Təşkilat tərəfindən ödəmə hesabına quraşdırma tələb etməyən torpaq, tikili və avadanlıqlar əldə edilib:",
+    "true-answer": "c) Dt 111 Kt 531",
+    "wrong-answers": [
+      "a) Dt 111 Kt 112",
+      "b) Dt 201 Kt 431",
+      "d) Dt 223 Kt 221",
+      "e) Dt111 Kt 221"
+    ]
+  },
+  {
+    "question": "Uzunmüddətli icarə şərti ilə təşkilata torpaq, tikili və avadanlıq daxil olmasının hesablarda əks etdirilməsi:",
+    "true-answer": "a) D111.1 K402",
+    "wrong-answers": [
+      "b) D406 K223",
+      "c) D343 K406",
+      "d) D442 K801",
+      "e) D223 K174;214"
+    ]
+  },
+  {
+    "question": "Uzun müddətə icarə edilmiş torpaq, tikili və avadanlıqların istifadə edilməsinə görə icarəyə verənə ödəmə məbləği hesablandıqda uçotda belə əks etdirilir:",
+    "true-answer": "e) D406 K223",
+    "wrong-answers": [
+      "a) D111.1 K402",
+      "b) D343 K406",
+      "c) D442 K801",
+      "d) D223 K174;214"
+    ]
+  },
+  {
+    "question": "Hansı aktivə köhnəlmə hesablanmır?",
+    "true-answer": "a) Torpaq",
+    "wrong-answers": [
+      "b) Avadanlıq",
+      "c) Dəzgah",
+      "d) Nəqliyyat vasitəsi",
+      "e) Tikili"
+    ]
+  },
+  {
+    "question": "Ümumtəsərrüfat təyinatlı bina və qurğuların, təsərrüfat inventarlarının amortizasiya məbləğləri hesablandıqda hansı xərclərə daxil edilir?",
+    "true-answer": "c) inzibati",
+    "wrong-answers": [
+      "a) əmək haqqı",
+      "b) istehsal",
+      "d) satış",
+      "e) kommersiya"
+    ]
+  },
+  {
+    "question": "Torpaq, tikili və avadanlıqların dəyəri amortizasiya ayırmalarını müəyyən edilmiş normalarla hansı xərclərə daxil edilməklə ödənilir?",
+    "true-answer": "b) istehsal",
+    "wrong-answers": [
+      "a) əmək haqqı",
+      "c) material",
+      "d) satış",
+      "e) kommersiya"
+    ]
+  },
+  {
+    "question": "Torpaq, tikili və avadanlıqların köhnəlməsi məbləğini uçota almaq üçün hansı hesabdan istifadə edilir:",
+    "true-answer": "d) 112",
+    "wrong-answers": [
+      "a) 101",
+      "b) 201",
+      "c) 601",
+      "e) 731"
+    ]
+  },
+  {
+    "question": "Ehtiyatda olan torpaq, tikili və avadanlıqlara hesablanmış amortizasiyanın məbləği hansı hesaba aid edilir?",
+    "true-answer": "a) 721",
+    "wrong-answers": [
+      "b) 531",
+      "c) 223",
+      "d) 801",
+      "e) 343"
+    ]
+  },
+  {
+    "question": "Təşkilatda torpaq, tikili və avadanlıqlar təmir olunduqda və boş dayandıqda amortizasiya hesablanırmı?",
+    "true-answer": "d) Hesablanmır",
+    "wrong-answers": [
+      "a) Hesablanır",
+      "b) Bəzən hesablanır",
+      "c) Növbəti il hesablanır",
+      "e) Təmir bitdikdən üç ay sonra hesablanır"
+    ]
+  },
+  {
+    "question": "Torpaq, tikili və avadanlıqların amortizasiya məbləğləri hansı metodlarla hesabalnır?",
+    "true-answer": "b) Düz xətt, azalan qalıq, istehsal vahidi metodları.",
+    "wrong-answers": [
+      "a) Mərhələ, sadə, qalıq metodları.",
+      "c) Funksional dəyər, nisbi, müqayisə metodları.",
+      "d) Zəncirvari yerdəyişmə, fərq, düz xətt metodları.",
+      "e) Düz xətt, artan qalıq, istehsal vahidi metodları."
+    ]
+  },
+  {
+    "question": "Əsas istehsal vasitəsinin illik amortizasiya məbləğinin faiz ifadəsində onun ilkin balans dəyərinə olan nisbəti necə adlanır?",
+    "true-answer": "d) Amortizasiya normaları",
+    "wrong-answers": [
+      "a) Amortizasiya ayırmaları",
+      "b) Köhnəlmə məbləği",
+      "c) Balans dəyəri",
+      "e) Ilk qalıq"
+    ]
+  },
+  {
+    "question": "Aylıq amortizasiya normanı necə müəyyən edilir?",
+    "true-answer": "e) illik amortizasiya normasını 12-yə bölməklə",
+    "wrong-answers": [
+      "a) illik amortizasiya normasını 12-yə vurmaqla",
+      "b) ilk qalıqdan amortizasiya məbləğini çıxmaqla",
+      "c) ilk qalığın üstünə nəqliyyat xərclərini gəlməklə",
+      "d) ilk qalıqdan nəqliyyat xərclərini çıxmaqla"
+    ]
+  },
+  {
+    "question": "Düz xətt metodu-",
+    "true-answer": "e) aktivin son qalıq dəyərinin dəyişmədiyi təqdirdə onun faydalı istismar dövrü ərzində daimi ayırmaların həyata keçirilməsi ilə nəticələnir.",
+    "wrong-answers": [
+      "a) aktivin faydalı istismar dövrü ərzində ayırmaların azalması ilə nəticələnir.",
+      "b) aktivin faydalı istismar dövrü ərzində ayırmaların artması ilə nəticələnir.",
+      "c) aktivin faydalı istismar dövrü ərzində hər il üçün fərqli ayırmalarına uyğun hesabalnması ilə nəticələnir",
+      "d) aktivin son qalıq dəyərinin dəyişdiyi halda hesablanır."
+    ]
+  },
+  {
+    "question": "Aktivin son qalıq dəyərinin dəyişmədiyi təqdirdə onun faydalı istismar dövrü ərzində daimi ayırmaların həyata keçirilməsi ilə nəticələnən metod necə adlanır?",
+    "true-answer": "a) Düz xətt metodu",
+    "wrong-answers": [
+      "b) Azalan qalıq metodu",
+      "c) İstehsal vahidi metodu",
+      "d) Riyazi metod",
+      "e) Funksial-dəyər metodu"
+    ]
+  },
+  {
+    "question": "Azalan qalıq metodu-",
+    "true-answer": "e) aktivin faydalı istismar dövrü ərzində ayırmaların azalması ilə nəticələnir.",
+    "wrong-answers": [
+      "a) aktivin son qalıq dəyərinin dəyişmədiyi təqdirdə onun faydalı istismar dövrü ərzində daimi ayırmaların həyata keçirilməsi ilə nəticələnir.",
+      "b) aktivin faydalı istismar dövrü ərzində ayırmaların artması ilə nəticələnir.",
+      "c) aktivin faydalı istismar dövrü ərzində hər il üçün fərqli ayırmalarına uyğun hesabalnması ilə nəticələnir.",
+      "d) aktivin son qalıq dəyərinin dəyişdiyi halda hesablanır."
+    ]
+  },
+  {
+    "question": "İstehsalat avadanlıqlarının və alətlərinin amortizasiya məbləği hesablandıqda hansı müxabirəşmə verilir?",
+    "true-answer": "d) Dt 202 Kt 112",
+    "wrong-answers": [
+      "a) Dt 221, 223 Kt 111",
+      "b) Dt 801 Kt 601",
+      "c) Dt 531 Kt 112",
+      "e) Dt 202 Kt 201"
+    ]
+  },
+  {
+    "question": "Ümumtəsərrüfat təyinatlı bina və qurğuların və təsərrüfat inventarlarının amortizasiya məbləğləri hesablandıqda hansı müxabirəşmə verilir?",
+    "true-answer": "e) Dt 721 Kt 112",
+    "wrong-answers": [
+      "a) Dt 221, 223 Kt 111",
+      "b) Dt 801 Kt 601",
+      "c) Dt 531 Kt 112",
+      "d) Dt 202 Kt 201"
+    ]
+  },
+  {
+    "question": "Torpaq, tikili və avadanlıqların amortizasiya ayırmaları hesablandıqda hansı müxabirəşmə verilir?",
+    "true-answer": "a) Dt 202, 721, 711 Kt 112.",
+    "wrong-answers": [
+      "b) Dt 221, 223 Kt 111",
+      "c) Dt 801 Kt 601",
+      "d) Dt 531 Kt 112",
+      "e) Dt 202 Kt 201"
+    ]
+  },
+  {
+    "question": "Qeyri-maddi aktivlər və onların köhnəlməsi hansı hesablarda uçota alınır?",
+    "true-answer": "e) 101, 102",
+    "wrong-answers": [
+      "a) 204, 205",
+      "b) 531, 431",
+      "c) 404, 504",
+      "d) 721, 731"
+    ]
+  },
+  {
+    "question": "Mühasibat uçotunda bütün qeyri-maddi aktivlər hansı dəyərlər ilə qiymətləndirilir?",
+    "true-answer": "a) İlkin dəyər ilə",
+    "wrong-answers": [
+      "b) Qalıq dəyəri ilə",
+      "c) Bərpa dəyəri ilə",
+      "d) Köhnəlmə dəyəri ilə",
+      "e) Ədalətli dəyər ilə"
+    ]
+  },
+  {
+    "question": "Aşağıdakılardan hansı qeyri-maddi aktivdir?",
+    "true-answer": "e) Əmtəə nişanı",
+    "wrong-answers": [
+      "a) Məhsul",
+      "b) Material",
+      "c) Avadanlıq",
+      "d) Bina"
+    ]
+  },
+  {
+    "question": "Qeyri-maddi aktivlərin əsas xarakterik xüsusiyyəti nədir?",
+    "true-answer": "c) maddi-əmlak (fiziki) quruluşlarının olmaması",
+    "wrong-answers": [
+      "a) maddi-əmlak (fiziki) quruluşlarının olması",
+      "b) istehsal edilə bilməsi",
+      "d) natural ifadədə ölçülə bilməsi",
+      "e) heç bir dəyərə malik olmaması"
+    ]
+  },
+  {
+    "question": "Qanunvericiliklə nəzərdə tutulan dövrdə məhsulların və ya proseslərin istifadə edilməsi, istehsalı və satışının hüquqi cəhətdən möhkəmləndirilmiş müstəsna hüquqları necə adlanır?",
+    "true-answer": "a) Patentlər",
+    "wrong-answers": [
+      "b) Müəlliflik hüququ",
+      "c) \"Nou-hau\"",
+      "d) İxüraçılıq hüququ",
+      "e) Əmtəə nişanları"
+    ]
+  },
+  {
+    "question": "İstehsalat-təsərrüfat fəaliyyəti prosesində xeyir gətirən yeni texnologiyalar, texniki və başqa qərarlar hansı qeyri maddi aktivlərə daxildir?",
+    "true-answer": "c) \"Nou-hau\"",
+    "wrong-answers": [
+      "a) Patentlər",
+      "b) Müəlliflik hüququ",
+      "d) İxtiraçılıq hüququ",
+      "e) Əmtəə nişanları"
+    ]
+  },
+  {
+    "question": "Bir təşkilatın mallarının ( və ya xidmətlərinin) başqa təşkilatın oxşar mallarından və ya xidmətlərindən fərqləndirmək üçün xidmət edən işarələr necə adlanır?",
+    "true-answer": "e) Əmtəə nişanları",
+    "wrong-answers": [
+      "a) Patentlər",
+      "b) Müəlliflik hüququ",
+      "c) \"Nou-hau\"",
+      "d) İxtiraçılıq hüququ"
+    ]
+  },
+  {
+    "question": "Elmi, ədəbi, musiqi və ya incəsənətin digər istehsalının dərc edilməsi, ixracı və ya başqa cür istifadə edilməsinin tam hüququ nədir?",
+    "true-answer": "b) Müəlliflik hüququ",
+    "wrong-answers": [
+      "a) Patentlər",
+      "c) \"Nou-hau\"",
+      "d) İxtiraçılıq hüququ",
+      "e) Əmtəə nişanları"
+    ]
+  },
+  {
+    "question": "Mülkiyyətçiyə təhkim olunan texniki həll olunmasına verilən müstəsna hüquq necə adlanır?",
+    "true-answer": "d) İxtiraçılıq hüququ",
+    "wrong-answers": [
+      "a) Patentlər",
+      "b) Müəlliflik hüququ",
+      "c) \"Nou-hau\"",
+      "e) Əmtəə nişanları"
+    ]
+  },
+  {
+    "question": "Səhmdar cəmiyyətlərinin, məhdud məsuliyyətli cəmiyyətlərin, birgə təşkilatların nizamnamə kapitalına qoyuluşları kimi daxil olan qeyri-maddi aktivlərin dəyəri necə müəyyən edilir?",
+    "true-answer": "a) tərəflərin razılığı ilə",
+    "wrong-answers": [
+      "b) faktiki məsrəflərdən asılı olaraq",
+      "c) ekspert yolu ilə",
+      "d) rəhbərin istəyi ilə",
+      "e) mühasibin hesablamasına görə"
+    ]
+  },
+  {
+    "question": "Başqa təşkilat və şəxslərdən ödəmə hesabına daxil olan qeyri-maddi aktivlərin dəyəri necə müəyyən edilir?",
+    "true-answer": "d) faktiki məsrəflərdən asılı olaraq",
+    "wrong-answers": [
+      "a) tərəflərin razılığı ilə",
+      "b) ekspert yolu ilə",
+      "c) rəhbərin istəyi ilə",
+      "e) mühasibin hesablamasına görə"
+    ]
+  },
+  {
+    "question": "Başqa təşkilat və şəxslərdən əvəzsiz olaraq daxil olan qeyri-maddi aktivlərin dəyəri necə müəyyən edilir?",
+    "true-answer": "b) ekspert yolu ilə",
+    "wrong-answers": [
+      "a) tərəflərin razılığı ilə",
+      "c) rəhbərin istəyi ilə",
+      "d) faktiki məsrəflərdən asılı olaraq",
+      "e) mühasibin hesablamasına görə"
+    ]
+  },
+  {
+    "question": "Qeyri-maddi aktivlər-",
+    "true-answer": "a) maddi-əmlak (fiziki) quruluşuna malik deyil, uzun müddət ərzində istifadə edilir, təşkilata xeyir gətirmə qabiliyyətinə malikdir.",
+    "wrong-answers": [
+      "b) istehsal prosesində uzun müddət istifadə edilir, öz formasını dəyişmir, dəyərini istehsal edilmiş məhsulun üzərinə hissə-hissə amortizasiya şəklində keçirir.",
+      "c) istehsal prosesində bir dəfə istifadə edilir, öz formasını tamamilə dəyişir, dəyərini istehsal edilmiş məhsulun üzərinə bibaşa keçirir.",
+      "d) dəyəri 100 manatdan aşağı olub istehsal prosesində uzun müddət iştirak edir və öz formasını dəyişir.",
+      "e) aktivin faydalı istismar dövrü ərzində hər il üçün fərqli ayırmalarıdır."
+    ]
+  },
+  {
+    "question": "Qeyri-maddi aktiv satın alınıb:",
+    "true-answer": "b) Dt 101 Kt 223",
+    "wrong-answers": [
+      "a) Dt 201 Kt 531",
+      "c) Dt 601 Kt 801",
+      "d) Dt 202 Kt 801",
+      "e) Dt 202 Kt 201"
+    ]
+  },
+  {
+    "question": "Qeyri-maddi aktivlər təşkilatdan çıxmışdır (ilkin dəyərinə):",
+    "true-answer": "b) Dt 731 Kt 101",
+    "wrong-answers": [
+      "a) Dt 101 Kt 223",
+      "c) Dt 201 Kt 531",
+      "d) Dt 601 Kt 801",
+      "e) Dt 202 Kt 201"
+    ]
+  },
+  {
+    "question": "Gəlir əldə etmək məqsədilə qoyulan pul vəsaiti necə adlanır?",
+    "true-answer": "a) İnvestisiyalaşma",
+    "wrong-answers": [
+      "b) Kalkulyasiyakaşma",
+      "c) Sənədləşmə",
+      "d) Hesablaşma",
+      "e) Müxabirləşmə"
+    ]
+  },
+  {
+    "question": "Maliyyə alətləri və öhdəliklərinə aid olan əsas qruplar hansılardır?",
+    "true-answer": "d) Depozitlər, digər təşkilatın nizamnamə kapitalına qoyuluşlar, birgə layihələr, digər təşkilatlara verilən borclar.",
+    "wrong-answers": [
+      "a) Patentlik hüququ, əmtəə nişanı, xidmət nişanı, müəlliflik hüququ",
+      "b) Dəzgah, bina, tikili, avadanlıq",
+      "c) Xammal, tara, yanacaq, yarımfabrikat.",
+      "e) Dəzgah, bina, istiqraz vərəqələri"
+    ]
+  },
+  {
+    "question": "Qısamüddətli investisiyalar hansı hesabda uçota alınır?",
+    "true-answer": "e) 234",
+    "wrong-answers": [
+      "a) 202",
+      "b) 533",
+      "c) 111",
+      "d) 522"
+    ]
+  },
+  {
+    "question": "Uzunmüddətli investisiyalar hansı hesabda uçota alınır?",
+    "true-answer": "d) 183",
+    "wrong-answers": [
+      "a) 111",
+      "b) 223",
+      "c) 801",
+      "e) 331"
+    ]
+  },
+  {
+    "question": "Mühasibat uçotunda səhmlər necə qiymətləndirilir?",
+    "true-answer": "c) Əldə olunmasına çəkilən faktiki xərc məbləği ilə",
+    "wrong-answers": [
+      "a) Qalıq dəyəri ilə",
+      "b) Bərpa dəyəri ilə",
+      "d) Nominal dəyəri ilə",
+      "e) Alış dəyəri ilə"
+    ]
+  },
+  {
+    "question": "Qiymətli kağızların emissiya dəyəri nədiir?",
+    "true-answer": "b) İlkin yerləşdirmə zamanı onların satış qiyməti",
+    "wrong-answers": [
+      "a) Qiymətli kağızların blankında göstərilən məbləğ",
+      "c) Qiymətli kağızların kotirovkası zamanı müəyyən olunan qiymət",
+      "d) Qiymətli kağızlara göstərilən xidmət ilə əlaqədar çəkilən xərclər",
+      "e) Hazır məhsulun istehsal maya dəyəri"
+    ]
+  },
+  {
+    "question": "Qiymətli kağızlara aiddir:",
+    "true-answer": "d) Veksel, əmanət sertifikatı, səhm, istiqraz vərəqələri",
+    "wrong-answers": [
+      "a) Patentlik hüququ, əmtəə nişanı, xidmət nişanı, müəlliflik hüququ",
+      "b) Dəzgah, bina, tikili, avadanlıq",
+      "c) Xammal, tara, yanacaq, yarımfabrikat.",
+      "e) Dəzgah, bina, istiqraz vərəqələri"
+    ]
+  },
+  {
+    "question": "Maliyyə investisiyalarına daxildir:",
+    "true-answer": "c) qiymətli kağızların əldə edilməsinə təşkilatın çəkdiyi məsrəflər, törəmə təşkilatlara aktivlərin qoyulması, debitor borclar.",
+    "wrong-answers": [
+      "a) kreditor borclar, debitor borclar, bank kreditləri, aktivlərin əldə edilməsinə təşkilatın çəkdiyi məsrəflər.",
+      "b) bank kreditləri, ssudaları, təşkilatın məhsul istehsalına çəkdiyi məsrəflər.",
+      "d) maya dəyəri, xalis mənfəət, rentabellik, zərərsizlik səviyyəsi, maliyyə vəsaiti.",
+      "e) kreditor borclar, debitor borclar, bank kreditləri"
+    ]
+  },
+  {
+    "question": "Qiymətli kağız --",
+    "true-answer": "e) əmlak hüququnu təsdiq edən pul sənədidir və ya bu sənədi buraxan şəxsə sənəd sahibinin borc münasibətidir.",
+    "wrong-answers": [
+      "a) fiziki formaya malik olmayan, lakin uzun müddət gəlir gətirən aktivdir.",
+      "b) əks olunan faizi ödəməklə onun sahibinə nominal dəyərini ödəmək öhdəliyini təsdiq edən qiymətli kağızdır.",
+      "c) pul vəsaitlərinin deponentləşdirilməsi haqqında kredit təşkilatlarının yazılı şəhadətnaməsidir.",
+      "d) kreditor borclar, debitor borclar, bank kreditləri, aktivlərin əldə edilməsinə təşkilatın çəkdiyi məsrəflər."
+    ]
+  },
+  {
+    "question": "Səhm --",
+    "true-answer": "e) onun sahibinin səhmdar cəmiyyətinin nizamnamə kapitalına vəsaitlərin qoyulmasını təsdiq edən, onun fəaliyyətindən gəlir almaq hüququ verən qiymətli kağızdır.",
+    "wrong-answers": [
+      "a) əks olunan faizi ödəməklə onun sahibinə nominal dəyərini ödəmək öhdəliyini təsdiq edən qiymətli kağızdır.",
+      "b) pul vəsaitlərinin deponentləşdirilməsi haqqında kredit təşkilatlarının yazılı şəhadətnaməsidir.",
+      "c) fiziki formaya malik olmayan, lakin uzun müddət gəlir gətirən aktivdir.",
+      "d) istehsal peosesində formasını dəyişən, dəyərini istehsal olunan məhsula bir dəfəlik keçirən ehtiyatdır."
+    ]
+  },
+  {
+    "question": "Qiymətli kağızın satışı və ödənişi, eləcə də maliyyə qoyuluşundan əldə edilən hər cür gəlir öz əksini tapır:",
+    "true-answer": "a) 611/2 \"Yenidən qiymətləndirmədən olan gəlirlər\" subhesabında",
+    "wrong-answers": [
+      "b) 311 \"Emissiya gəliri\" hesabında",
+      "c) 731/2 \"Yenidən qiymətləndirmədən olan xərclər\" hesabında",
+      "d) 331 \"Yenidən qiymətləndirmə üzrə ehtiyat\" hesabında",
+      "e) 225 \"Pul vəsaitlərinin ekvivalentləri\" hesabında"
+    ]
+  },
+  {
+    "question": "Qiymətli kağızların satışı, yaxud digər təşkilatda iştrakının dayandırılması ilə bağlı maliyyə qoyuluşlarının müəssisədən çıxması əks etdirilir:",
+    "true-answer": "b) 731/2 \"Yenidən qiymətləndirmədən olan zərərlər\" subhesabında",
+    "wrong-answers": [
+      "a) 311 \"Emissiya gəliri\" hesabında",
+      "c) 542 \"Gələcək hesabat dövrünün gəlirləri\"",
+      "d) 331 \"Yenidən qiymətləndirmə üzrə ehtiyat\" hesabında",
+      "e) 225 \"Pul vəsaitlərinin ekvivalentləri\" hesabında"
+    ]
+  },
+  {
+    "question": "Alınmış veksel üzrə faizlər əks olunan zaman hansı mühasibat yazılışı tərtib olunur?",
+    "true-answer": "a) Dt 234 \"Digər qisamüddətli investisiyalar\", Kt 542 \"Gələcək hesabat dövrünün gəlirləri\"",
+    "wrong-answers": [
+      "b) Dt 233 \"Qısamüddətli verilmiş borclar\", Kt 542 \"Gələcək hesabat dövrünün gəlirləri\"",
+      "c) Dt 311 \"Emissiya gəliri\", Kt 542 \"Gələcək hesabat dövrünün gəlirləri\"",
+      "d) Dt 343 \"Keçmiş illər üzrə bölüşdürülməmiş mənfəət (ödənilməmiş zərər)\", Kt 542 \"Gələcək hesabat dövrünün gəlirləri\"",
+      "e) Dt 225 \"Pul vəsaitlərinin ekvivalentləri\", Kt 542 \"Gələcək hesabat dövrünün gəlirləri\""
+    ]
+  },
+  {
+    "question": "Yüklənmiş hazır məhsula görə alıcıdan veksel alınan zaman hansı mühasibat yazılışı tərtib olunur?",
+    "true-answer": "c) Dt 234 \"Digər qisamüddətli investisiyalar\", Kt 211 \"Alıcılar və sifarişçilərin qısamüddətli debitor borcları\"",
+    "wrong-answers": [
+      "a) Dt 233 \"Qısamüddətli verilmiş borclar\", Kt 211 \"Alıcılar və sifarişçilərin qısamüddətli debitor borcları\"",
+      "b) Dt 343 \"Keçmiş illər üzrə bölüşdürülməmiş mənfəət (ödənilməmiş zərər)\", Kt 211 \"Alıcılar və sifarişçilərin qısamüddətli debitor borcları\"",
+      "d) Dt 311 \"Emissiya gəliri\", Kt 211 \"Alıcılar və sifarişçilərin qısamüddətli debitor borcları\"",
+      "e) Dt 225 \"Pul vəsaitlərinin ekvivalentləri\", Kt 211 \"Alıcılar və sifarişçilərin qısamüddətli debitor borcları\""
+    ]
+  },
+  {
+    "question": "Digər şəxslərdən sertifikatların alınması zamanı hansı mühasibat yazılışı tərtib olunur?",
+    "true-answer": "c) Dt 234 \"Digər qisamüddətli investisiyalar\", Kt 223 \"Bankdakı hesablaşma hesabı\"",
+    "wrong-answers": [
+      "a) Dt 233 \"Qısamüddətli verilmiş borclar\", Kt 223 \"Bankdakı hesablaşma hesabı\"",
+      "b) Dt 343 \"Keçmiş illər üzrə bölüşdürülməmiş mənfəət (ödənilməmiş zərər)\", Kt 223 \"Bankdakı hesablaşma hesabı\"",
+      "d) Dt 311 \"Emissiya gəliri\", Kt 223 \"Bankdakı hesablaşma hesabı\"",
+      "e) Dt 225 \"Pul vəsaitlərinin ekvivalentləri\", Kt 223 \"Bankdakı hesablaşma hesabı\""
+    ]
+  }
+]
